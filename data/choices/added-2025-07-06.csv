@@ -1,0 +1,12 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+one,cardinal number 1 | digit or figure,,un,mo,un
+"this, these (determiner)",the (thing) here | –,,hin,u-ci,"sey, se"
+"this, this one, this person (pronoun)",this person | – | –,Compound:se-ta (we follow Globasa’s model),hinte,u-ci,se
+"this, this one, this thing (pronoun)","the thing, item, etc. being indicated | a specified object | –",Compound:se-it,hinto,u-ci,se
+"that, those (determiner)",what is being indicated | –,,den,u-la,"toy, to"
+"that, that one, that person (pronoun)",that person | – | –,Compound:to-ta,dente,u-la,to
+"that, that one, that thing (pronoun)",that thing | – | –,Compound:to-it,dento,u-la,to
+these (determiner expressing plurality),plural of this//det,Compound:se ma,hin,plu-ci,sey
+"these, these ones (pronoun)",plural of this//pron |–,Compound:se-li,"hinete, hinoto",plu-ci,se
+those (determiner expressing plurality),plural of that,Compound:to ma,den,plu-la,toy
+"those, those ones (pronoun)",pronoun plural of that | –,Compound:to-li,"denete, denoto",plu-la,to

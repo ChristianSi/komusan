@@ -1,0 +1,36 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+water,liquid H₂O,,sui,"aqa, hidro",akwa
+dog,animal,,bwaw,"kani, kini",doga
+fish,vertebrate animal,,mahi,"piski, ikti",fish
+eye,organ,,oko,"oku, oceli, oma, opti",oko
+rain,condensed water from a cloud,,barix,"pluvi, hieto",pluva
+fire,oxidation reaction,Syllables:2,atex,piro,agni
+butterfly,insect,,pepero,"papilio, Lepidoptera",parpar
+iron,chemical element Fe,,hadidu,"feru, sideri",fer
+horse,members of the species Equus ferus,,uma,Equs,kaval
+ear,organ of hearing,,ore,"oti, auri",aur
+mouth,the opening of a creature through which food is ingested,"Choose:mun (this word is in the middle between Lidepla’s muh -> mu, which is too short, and Globasa’s munte, which is otherwise the best auxlang candidate, it’s better ranked than the latter and related to both) ",munte,"stoma, ora, os, rostra",muh
+sun,the star around which the Earth revolves — see also Sun,,Sola,"heli, sola",surya
+father,male parent,Skip:papa (informal in most of the source languages),patre,patri,patra
+moon,the natural satellite of planet Earth,,candru,"luna, selene, mene",luna
+tree,large woody plant,Syllables:2,drevo,"dendro, arbori",baum
+bird,animal,Skip:piu (the related Telugu word is not the most typical word for this meaning),piu,"avi, orni",faula
+head,part of the body,,kapi,"kefa, korifa",kapa
+house,human abode,"Skip:kasa (not the typical Glosa word for this meaning, and neither is the related Persian candidate)",baytu,"domi, -do, kasa",dom
+"color, colour",spectral composition of visible light | color::particular set of the visible spectrum | –,"Skip:kolora (not the typical Glosa word, and the related candidate ‘kolor’ is shorter and shared by two auxlangs)",kolor,"kroma, kolora, tinktu",kolor
+"arch, arc",architectural element | arch::inverted U shape | geometry: part of a curve | arc::curve,,arko,arca,arka
+rainbow,multicoloured arch in the sky,Compound:kolor-arko (as in Globasa and Chinese),kolorarko (kolor+arko),iridi,raduga
+cloud,visible mass of water droplets suspended in the air,,megu,"nefo, nubi",badal
+white,bright and colourless,,sefide,"leuko, blanka, aspro",blan
+black,absorbing all light,Skip:atro (not the typical Glosa word for this meaning and not really related to any natlang candidate),syahe,"melano, atro, nigra",swate
+red,having red as its colour,,roso,"rubi, eritro, rubri, rufi, rutilo",rude
+big,of a great size — see also large,,day,"mega, magni",gran
+new,recently made or created,,neo,"neo, kaino",nove
+day,"period of 24 hours | period from midnight to the following midnight | period between sunrise and sunset | rotational period of a planet | part of a day period which one spends at one's job, school, etc.",,din,"di, hemera",dey
+today,on the current day | today (noun),Compound:se-din (as in Lidepla),nundin (nun+din),nu-di,sedey (se+dey)
+green,having green as its colour,,kijawi,"kloro, verdi",grin
+yellow,having yellow as its color,,jalo,"xanto, flavo, galbino, lutea, safro ",hwan
+tomorrow,on the day after the present day | the day after the present day,,jaxadin (ja+xa+din),"fu-di, krase",manya
+small,not large,,lil,"pusi, mikro, exiguo, tito",syao
+yesterday,on the day before today | day before today,,jaledin (ja+le+din),pa-di,yeri
+"very, very much, so",to a high degree | extremely | very,Syllables:1; Skip:tan (not the typical Spanish word for this meaning),daymo (day+mo),"forti, fo, excesi",muy

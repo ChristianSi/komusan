@@ -1,0 +1,379 @@
+class: suffix
+sense: made from or possessing the quality of
+tags: add
+de: -ung
+en: -age [ɪd͡ʒ]
+es: -aje
+fr: -age
+it: -aggio
+pt: -agem; -ágio
+
+sense: past tense
+en: -ed [d]
+sw: -li-
+
+class: suffix
+sense: plurals of nouns
+tags: add
+en: -es [əz]
+
+sense: used to form adverbs from adjectives
+ar: [-an]
+bn: -ভাবে [-bhabe]
+en: -ly
+hi: से [se]
+id: dengan
+ko: -게 [-ge]
+sw: vi-
+ta: -ஆக [-āka]
+te: -గా [-gā]
+tl: nang
+vi: một cách
+
+class: suffix
+sense: regular plurals of nouns
+en: -s [s]
+id: sejumlah
+pcm: dèm (placed after the noun)
+th: หลาย [lǎai]
+tl: mga [mana]
+
+sense: possessive marker
+transcount: 40
+de: -s; des; der; von
+en: -'s [s]
+
+class: suffix
+sense: suffix forming possessive determiners
+tags: add
+cmn: 的 [de]
+en: -r [ɹ]
+ja: の [no]
+ko: -의 [-ui]
+th: ของ [kɔ̌ɔng]
+vi: của
+yue: 嘅 [ge3]
+
+class: suffix
+sense: suffix forming possessive determiners
+tags: add
+en: -s [s]
+
+class: suffix
+sense: third-person singular present tense
+tags: add
+am: [-ä]; [-t]
+bn: -e; -en
+de: -t
+en: -s
+es: -a; -e
+fa: [-ad]; [-e]
+fr: -e; -it
+hi: [-tā]; [-tī]
+ru: -ет [-et]; ит [-it]
+sw: ana-
+ta: [-kiṟāṉ]; [-kiṟāḷ]
+te: [-ṭunnāḍu]; [-ṭunnadi]
+tr: -r
+
+class: suffix
+sense: denoting items made from a particular substance, of a particular kind, or for a particular use
+tags: add
+en: -ware [wɛɹ]
+ru: -ник [-nik]; -ица [-ica]; и́ца [-íca]; -ка [-ka]
+
+class: suffix
+sense: structure or work of art crafted chiefly from a given material
+tags: add
+en: -work [wɝk]
+
+class: prefix
+sense: a young, not yet fully grown individual
+tags: add
+cmn: 幼 [yòu]
+en: (a young, not yet fully grown member of a species or group)
+ja: 幼 [yō]
+
+class: particle
+sense: present tense
+tags: add
+en: (indicates the present tense)
+sw: -na-
+
+class: prep
+sense: object marker
+tags: add
+en: (optional object marker)
+hi: को [ko]
+ja: を [o]
+ko: -을 [-eul]; -를 [reul]
+tr: -i; -ı; -u; -ü
+
+class: prep
+sense: subject marker
+tags: add
+en: (optional subject marker)
+hi: ने [ne]
+ja: が [ga]
+ko: -이 [i]; -가 [ga]
+
+sense: used to connect two similar words, phrases, et cetera
+en: and [ænd]
+es: y; e
+
+sense: intransitive, non-copulative (usually literary in English): to exist; to have real existence
+en: be [biː]
+es: ser; existir
+
+class: particle
+sense: progressive aspect
+tags: add
+cmn: 在 [zài]; 正在 [zhèngzài]
+en: be ...-ing [biː ...ɪŋ]
+es: estar -ando; estar -iendo
+fr: être en train de
+hi: रहा [rahā]; रहे [rahe]; रही [rahī]; हुआ [huā]; हुए [hue]; हुई [huī]; हुईं [huī̃]
+id: sedang
+ja: -ている [-te iru]
+ko: -고 있다 [-go itda]
+pcm: de
+ta: இரு [iru]
+te:  ఉంటూ [unṭū]
+th: กำลัง [gam-lang]
+tr: -iyor
+vi: đang
+yue: 緊 [gan2]
+
+sense: alcoholic drink made of malt
+en: beer
+es: cerveza; birra; chela
+
+sense: blue-coloured — see also dark blue, light blue
+en: blue [bluː]
+es: azul; celeste
+vi: xanh; xanh lam; màu xanh nước biển
+
+sense: domestic species
+en: cat [kæt]
+ja: 猫 [neko]; 家猫 [ieneko]
+
+sense: particular set of the visible spectrum
+en: color [ˈkʌləɹ]
+vi: màu; sắc
+
+sense: perform, execute
+en: do [duː]
+es: hacer
+
+sense: consume alcoholic beverages
+en: drink [dɹɪŋk]
+vi: uống rượu; uống say
+
+sense: to one another; one to the other
+en: each other [iˈt͡ʃʌð.ɚ]
+cmn: 互相 [hùxiāng]; 彼此 [bǐcǐ]; 交互 [jiāohù]; 相互 [xiānghù]
+ja: お互いに [o-tagai ni]; 互い [tagai]; お互い [otagai]; 相互 [sōgo]
+yue: 互相 [wu⁶ soeng¹]; 相互 [soeng1 wu6]
+
+sense: approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development
+en: egg [ɛɡ]
+ta: முட்டை [muṭṭai]
+
+sense: directed at, intended to belong to
+en: for [fɔː(ɹ)]
+ko: 를 위해서 [-reul wihaeseo]; 을 위해서 [-eul wihaeseo]
+
+sense: acting in the interest of good; ethical good intentions
+en: good [ɡʊd]
+es: bueno; buena; buen
+
+sense: pleasant; enjoyable
+de: gut; angenehm
+en: good [ɡʊd]
+
+sense: to possess
+en: have [hæv]
+ar: مَلَكَ [malaka]; اِمْتَلَكَ [imtalaka]; تَمَلَّكَ [tamallaka]; عِنْدَ [ʕinda]
+tr: sahip olmak
+
+sense: an organ
+en: heart [hɑɹt]
+es: corazón
+hi: दिल [dil]; हृदय [hŕday]; हिया [hiyā]; क़ल्ब [qalb]
+
+sense: human abode
+en: house [haʊs]
+ha: gida; soro
+
+sense: personal pronoun
+en: I [aɪ]
+tl: ako; ko
+
+sense: chemical element Fe
+en: iron [ˈaɪ(ə)ɹn]
+ru: желе́зо [želézo]
+
+sense: object
+cmn: 這 /这 [zhè]; 那 [nà]; 它 [tā]; 之 [zhī]
+en: it [ɪt]
+
+sense: subject — inanimate thing
+cmn: 它 [tā]; 之 [zhī]; 這 /这 [zhè]; 那 [nà]; 牠 /它 [tā]
+en: it [ɪt]
+
+sense: body of water
+en: lake [leɪk]
+ta: ஏரி [ēri]
+
+sense: having much distance from one point to another
+en: long [lɒŋ]
+es: largo
+
+sense: to try to see
+en: look [lʊk]
+es: mirar; ojear
+
+sense: the opening of a creature through which food is ingested
+de: Mund
+en: mouth [maʊθ]
+
+sense: protuberance on the face
+en: nose [nəʊ̯z]
+es: nariz; napia; napias; naso
+fa: بِینِی [bīnī]; بینی [bini]; دَماغ [damâġ]
+
+sense: possessive genitive: belonging to
+en: of [ɒv]
+id: (possessor is simply placed after the possession)
+
+sense: having red as its colour
+en: red [ɹɛd]
+es: rojo; colorado; rubro
+
+sense: sodium chloride
+en: salt [sɒlt]
+es: sal
+
+sense: not large
+fr: petit; minuscule; vieille; conseil; couilles
+en: small [smɔːl]
+ja: 小さい [chiisai]; 狭い [semai]
+yue: 小 [siu2]; 細 /细 [sai³]
+
+sense: to communicate with one's voice using words
+en: speak [spiːk]
+es: hablar
+
+sense: connecting a noun clause
+en: that [ˈðæt]
+ja: と [to] (quotation particle)
+
+class: pron
+sense: that person
+tags: add
+en: that [ˈðæt]
+
+sense: what is being indicated
+en: that [ˈðæt]
+hi: वह [vah]; वो [vo]
+
+sense: article
+am: -u; -w (masculine); -wa; -itwa; -ätwa (feminine)
+bn: -রা [-ra]; -এরা [-era]; -গুলা [-gula]; -গুলো [-gulō]; -টা [-ṭa]; -টি [-ṭi]
+en: the [ˈðiː]
+
+class: pron
+sense: this person
+tags: add
+en: this [ðɪs]
+
+sense: extended period of time, defined or undefined: age, era, etc.
+bn: জমানা [jomana]; কাল [kal]; বেলা [bela]; সময় [śomoẏ]
+en: time [taɪm]
+
+sense: on the current day
+en: today [təˈdeɪ]
+hi: आज [āj]; अद्य [adya]
+
+sense: anatomy: tooth
+en: tooth [tuːθ]
+id: gigi
+
+sense: large woody plant
+ar: شَجَر [šajar]; شَجَرَة [šajara]
+en: tree [tɹiː]
+
+class: pron
+sense: pronoun plural of that
+tags: add
+en: those [ðəʊz]
+fr: ceux-là; celles-là
+
+sense: to look at for a period of time
+en: watch [ˈwɒt͡ʃ]
+es: mirar; guachar; aguaitar
+
+sense: introducing indirect questions
+en: whether [ˈwɛðə(ɹ)]
+fr: si; si oui ou non
+
+sense: for what reason
+en: why [waɪ]
+
+class: verb
+sense: indicating future action
+ar: سَوْفَ [sawfa]; سَـ [sa-]
+en: will [wɪl]
+tr: -ecek; -acak
+
+sense: movement of air
+en: wind [wɪnd]
+tr: rüzgâr; yel
+
+class: particle
+sense: indicating an action or state that is conditional on another
+ar: (Use the conditional tense)
+ca: (Use the conditional tense)
+cs: (Use conditional tense of být + infinitive)
+de: würde
+en: would [wʊd]
+eo: -us
+es: -ría; -rías; -ríamos; -ríais; -rían
+fi: (Use the conditional mood)
+fr: -rais; -rait; -rions; -riez; -raient
+hi: -ū̃; -e; -o; ẽ
+hu: -na; -ne; -ná; -né
+id: akan
+it: (Use the conditional tense)
+nl: zou; zouden
+pl: by
+pt: (use the conditional tense)
+ro: avea
+ru: бы [by]
+sv: skulle
+sw: -nge-
+th: จะ [jà]
+tr: (Use the aorist past tense)
+vi: sẽ
+yue: 會 [wui5]
+
+sense: particle used to form yes-no questions
+tags: add
+ar: هَل‎ [hal]; أَ‎ [ʾa]
+cmn: 嗎 [ma]; 吗
+en: yes-no
+fa: آیا‎ [âyâ]
+fr: est-ce que; -tu
+hi: क्या [kyā]
+id: -kah
+ja: か [ka]
+ko: ㅂ니까 [-mnikka]; 습니까 [-seumnikka]
+ru: ли [li]; ра́зве [rázve]
+sw: je
+th: ไหม [mǎi]
+ur: کیا‎ [kyā]
+vi: không; phải không; hả; hử; à
+
+sense: in the early part of life or growth
+en: young [jʌŋ]
+hi: युवा [yuvā]; जवान [javān]

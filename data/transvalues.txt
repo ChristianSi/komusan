@@ -1,0 +1,71 @@
+value: LangCombiInfo
+en: Percentages specify how many of the entries directly derived from source languages have been derived from this combination (and possibly other source languages).
+
+value: Intro
+en: This file is automatically updated once a day, provided the dictionary has been modified since the last update. DON'T try to modify it manually, since all your changes will soon be overwritten! Last update: (TODAY).
+
+value: RelVocInfo
+en: For an explanation of how influences and related vocabulary are measured and why the latter can never be lower than the former, see the section "Influence distribution and similarity ratios" in [[https://www.reddit.com/r/auxlangs/comments/mlf8h8/vocabulary_selection_for_a_worldlang/|this article]].
+
+value: MaxRelationsNote
+en: A word can have **more** relations than we have source languages if it's derived from a language that is not normally among our sources, such as **Italya** 'Italy', derived from Italian.
+
+value: WordlistIntro
+en: The whole Lugamun/English dictionary can also be downloaded as a [[https://gitlab.com/ChristianSi/lugamun/-/raw/main/data/dict.csv|CSV file]], allowing convenient import into spreadsheet software such as LibreOffice, Excel, or Google Sheets. Note that the CSV file is unsorted (it's rather ordered by the date when entries were added), but you can use your spreadsheet program to sort it alphabetically based on the English or Lugamun entries.
+
+value: Title
+en: Vocabulary
+
+value: adj
+en: Adjectives
+
+value: adv
+en: Adverbs
+
+value: aux
+en: Auxiliary verbs
+
+value: conj
+en: Conjunctions
+
+value: intj
+en: Interjections
+
+value: name
+en: Proper nouns
+
+value: noun
+en: Nouns
+
+value: num
+en: Numbers
+
+value: particle
+en: Particles
+
+value: phrase
+en: Phrases
+
+value: prefix
+en: Prefixes
+
+value: prep
+en: Prepositions
+
+value: prep_phrase
+en: Prepositional phrases
+
+value: pron
+en: Pronouns
+
+value: quant
+en: Quantifiers
+
+value: sel
+en: Selectors
+
+value: suffix
+en: Suffixes
+
+value: verb
+en: Verbs

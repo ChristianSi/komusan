@@ -1,0 +1,28 @@
+Language,ISO 639,Consonants,Consonant count,Vowels,Vowel count,Inventory ID
+Amharic,am,"b, d̠ʒ, d, f, h, hʷ, j, k, kʷ, kʷʼ, kʼ, l, m, n, s, sʷ, t̠ʃ, t̠ʃʼ, t, tʼ, w, z, ɡ, ɡʷ, ɲ, ɾ, ʃ, ʒ",28,"a, e̞, i, o̞, u, ə, ɨ",7,219
+Standard Arabic,ar,"b, d̙ˤ, d̪, d̪ʒ, f, h, j, kʰ, l, lˤ, m, n̪, q, r, s, s̙ˤ, t̪ʰ, t̪̙ˤ, w, xʀ̥, z, ð̪, ð̪̙ˤ, ħ, ɣ, ʃ, ʔ, ʕ̙, θ̪",29,"a, ai, au, aː, i, ii̯, u, uu̯",8,2157
+Bengali,bn,"b, b̤, d̠ʒ, d̠ʒ̤, d̪, d̪̤, h, k, kʰ, l, m, n, p, pʰ, t̠ʃ, t̠ʃʰ, t̪, t̪ʰ, ŋ, ɕ, ɖ, ɖ̤, ɡ, ɡ̤, ɽ, ɾ, ʈ, ʈʰ",28,"a, ã, e̞, ẽ̞, o, õ, æ, æ̃, ɔ, ɪ, ɪ̃, ʊ, ʊ̃",13,250
+Mandarin Chinese,cmn,"f, j, k, kʰ, l, m, n, p, pʰ, s, t, ts, tsʰ, tɕ, tɕʰ, tʰ, t̠ʃ, t̠ʃ̺ʰ, w, x, ŋ, ɕ, ɹ, ʃ̺",24,"a, ai, au, ei, i, ia, iau, ie, iou, iu, ou, u, ua, uai, uei, uo, uə, y, ye, ə, ɤ",21,1047
+German,de,"b, d, f, h, j, kʰ, l, m, n, pʰ, s, tʰ, v, x, z, ŋ, ɡ, ʁ, ʃ, ʒ, ʔ",21,"a, aɪ, aʊ, aː, e, iː, oː, uː, y, øː, œ, ɔ, ɔɪ, ə, ɛ, ɛː, ɪ, ʊ, ʏː",19,2184
+English,en,"b, d, d̠ʒ, f, h, j, kʰ, l, m, n, pʰ, s, tʰ, t̠ʃ, v, w, z, ð, ŋ, ɡ, ɹ, ʃ, ʒ, θ",24,"aɪ, aʊ, eɪ̯, iɪ, oʊ, uː, æ, ɑ, ɔɪ, ə, ɚː, ɛ, ɪ, ʊ, ʌ",15,2175
+Spanish,es,"b, d̻, f, l, m, n, p, r, s, t̠ʃ, t̻, x, ɟʝ, ɡ, ɲ, ɾ, ʎ, θ",18,"a, ai̯, au̯, e, ei̯, eu̯, i, ia, ie, io, iu, o, oi̯, ou̯, u, ua, ue, uei̯, ui, u̯o",20,2210
+Persian,fa,"b, d̠ʒ, d̪, f, h, j, kʰ, l, m, n̪, pʰ, r, s, t̠ʃ, t̪ʰ, v, w, z, ɡ, ɢ, ʃ, ʒ, ʔ, χ",24,"a̟, e, i, o, u, ɑ",6,516
+French,fr,"b, d̪, f, j, k, l̪, m, n̪, p, s̪, t̪, v, w, z̪, ɡ, ɥ, ɲ, ʀ, ʃ, ʒ",20,"a̟, e, i, õ, u, y, æ̃, ø, œ, œ̃, ɒ, ɒ̃, ɔ, ɛ",14,331
+Hausa,ha,"b, d, d̠ʒ, h, j, j̰, k, kʲ, kʲʼ, kʷ, kʷʼ, kʼ, l, m, n, r, s, sˀ, t, t̠ʃ, w, z, ɓ, ɗ, ɡ, ɡʲ, ɡʷ, ɸ, ɽ, ʃ, ʔ",31,"a, ai, au, e̞, i, o̞, u",7,351
+Hindi,hi,"b, b̤, d̠ʒ, d̠ʒ̤, d̪, d̪̤, j, k, kʰ, l, l̤, m, m̤, n̪, n̪̤, p, pʰ, r, s, t̠ʃ, t̠ʃʰ, t̪, t̪ʰ, ɖ, ɖ̤, ɡ, ɡ̤, ɦ, ʈ, ʈʰ, β̞",31,"aː, ãː, eː, ẽː, iː, ĩː, oː, õː, uː, ũː, ɔ, ɔ̃, ɛ, ɛ̃, ɜ, ɜ̃, ɪ, ɪ̃, ʊ, ʊ̃",20,354
+Indonesian,id,"b, d, d̠ʒ, h, j, k, l, m, n, p, r, s, t̠ʃ, t̪, w, ŋ, ɡ, ɲ",18,"a, ai̯, au̯, e, i, o, oi̯, u, ə",9,1144
+Japanese,ja,"b, d̪, h, j, k, m, n̪, p, s̪, t̪, z̪, ɴ, ɾ",13,"a, i, ɔ, ɛ, ɯ",5,384
+Korean,ko,"h, k, kʰ, k͉, l, lː, m, n, p, pʰ, p͉, s, s͉, t, tɕ, tɕʰ, tʰ, t͉, t͉ɕ͉, ŋ",20,"a, aː, e, eː, i, ia, ie, io, iu, iɛ, iʌ, iː, o, oː, u, ua, ue, ui, uɛ, uʌ, uː, əː, ɛ, ɛː, ɯ, ɯi, ɯː, ʌ",28,2197
+Nigerian Pidgin,pcm,"b, d, d̠ʒ, f, h, j, k, kp, l, m, n, p, s, t, t̠ʃ, v, w, z, ŋ, ɡ, ɡb, ɾ, ʃ",23,"a, e, i, o, u, ɔ, ɛ",7,1134
+Russian,ru,"b, bʲ, d̪, d̪ʲ, f, fʲ, j, k, kʲ, l, lʲ, m, mʲ, n̪, n̪ʲ, p, pʲ, r, s, sʲ, tɕ, t̪, t̪s, t̪ʲ, v, vʲ, x, xʲ, z, zʲ, ɕː, ɡ, ɡʲ, ɾʲ, ʂ, ʐ",36,"a, e, i, o, u, ɨ",6,2261
+Swahili,sw,"b, d, f, h, j, k, l, m, mb, n, nd, nz, n̠d̠ʒ, p, r, s, t, t̠ʃ, v, w, z, ŋ, ŋɡ, ɟ, ɡ, ɱv, ɲ, ʃ",28,"a, i, u, ɔ, ɛ",5,823
+Tamil,ta,"j, k, l, m, n, p, s, t̠ʃ, t̪, ɭ, ɳ, ɻ, ɾ, ʈ, ʋ",15,"a, aɪ, aʊ, aː, e, eː, i, iː, o, oː, u, uː",12,1058
+Telugu,te,"b, dz, d̪, j, k, l, m, n, p, ts, t̪, ɕ, ɖ, ɡ, ɦ, ɭ, ɳ, ɾ, ʂ, ʈ, β̞, β̞ː",22,"aː, e, eː, i, iː, o, oː, u, uː, æː, ɜ",11,568
+Thai,th,"b, d, f, h, j, k, kʰ, l, m, n, p, pʰ, s, t, tɕ, tɕʰ, tʰ, w, ŋ, ɾ, ʔ",21,"a, aː, e, eː, i, ia, iː, o, oː, u, ua, uː, ɔ, ɔː, ɛ, ɛː, ɤ, ɤː, ɯ, ɯa, ɯː",21,2215
+Tagalog,tl,"b, d̪, h, j, k, l, m, n̪, p, s, t̪, w, ŋ, ɡ, ɾ, ʔ",16,"a, ɪ, ʊ",3,573
+Turkish,tr,"b, c, d̠ʒ, d̪, f, h, j, k, lʲ, l̪ˠ, m, n̪, p, s̪, t̠ʃ, t̪, v, z̪, ɟ, ɡ, ɣ, ɾ, ʃ, ʒ",24,"a, e, i, o, u, y, œ, ɯ",8,2217
+Vietnamese,vi,"c, f, h, j, k, l̪, m, n̪, s, t̪, t̪ʰ, v, w, x, z, ŋ, ɓ, ɗ, ɣ, ɲ, ʔ",21,"a, e, iʌ, o, uʌ, ɐ, ɔ, ɛ, ɤ, ɪ, ɯʌ, ɯ̞, ʊ, ʌ",14,605
+Yue Chinese,yue,"f, h, j, k, kʰ, kʷ, kʷʰ, l, l̥, m, n, p, pʰ, t̠ʃ, t̠ʃʰ, t, tʰ, w, ŋ, ʃ",20,"a, i, u, æ, ɔ",5,642
+AVERAGE,,,23.12,,11.83,
+MEDIAN,,,22.5,,10.0,
+MOST FREQUENT,,,24,,"5, 7",

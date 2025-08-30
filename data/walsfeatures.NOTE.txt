@@ -1,0 +1,7 @@
+Area 3: Features 37A and 38A were manually corrected and completed;
+feature 56E combining two features was added by script.
+
+Area 6: Features 86X, 87X, and 90X combining two features were added by
+script.
+
+Area 7: 117A and 121A were manually corrected and completed.

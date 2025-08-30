@@ -1,0 +1,587 @@
+Feature,Value,Name,Languages,Language count,Relative frequency
+1A,3,Average,"cmn, de, en, es, fa, fr, id, ko, th, tr, vi, yue",12,100%
+1A,4,Moderately large,"am, arz, bn, ha, ru, sg, sw, te",8,67%
+1A,2,Moderately small,"ja, tl",2,17%
+1A,5,Large,hi,1,8%
+2A,2,Average (5-6),"arz, cmn, es, fa, ha, hi, id, ja, ru, sw, te, tl",12,100%
+2A,3,Large (7-14),"am, bn, de, en, fr, ko, sg, th, tr, vi, yue",11,92%
+3A,3,Average,"bn, cmn, es, fa, id, ja, sg, tl, tr",9,100%
+3A,4,Moderately high,"am, arz, ha, hi, sw, te",6,67%
+3A,1,Low,"de, en, fr, vi",4,44%
+3A,2,Moderately low,"ko, th, yue",3,33%
+3A,5,High,ru,1,11%
+4A,4,In both plosives and fricatives,"arz, de, en, fa, fr, ha, hi, id, ja, ru, sg, sw, tr",13,100%
+4A,2,In plosives alone,"am, bn, te, th, tl",5,38%
+4A,3,In fricatives alone,"cmn, es, vi",3,23%
+4A,1,No voicing contrast,"ko, yue",2,15%
+5A,2,None missing in /p t k b d g/,"am, bn, de, en, fa, fr, hi, id, ja, ru, sg, sw, te, tl, tr",15,100%
+5A,1,Other,"cmn, es, ko, vi, yue",5,33%
+5A,3,Missing /p/,"arz, ha",2,13%
+5A,4,Missing /g/,th,1,7%
+6A,1,None,"am, bn, cmn, en, es, ha, hi, id, ko, ru, sg, sw, te, th, tl, tr, vi, yue",18,100%
+6A,3,Uvular continuants only,"de, fr, ja",3,17%
+6A,4,Uvular stops and continuants,arz,1,6%
+6A,2,Uvular stops only,fa,1,6%
+7A,1,No glottalized consonants,"arz, bn, cmn, de, en, es, fa, fr, hi, id, ja, ru, sw, te, th, tl, tr, yue",18,100%
+7A,3,Implosives only,"sg, vi",2,11%
+7A,2,Ejectives only,"am, ko",2,11%
+7A,5,Ejectives and implosives,ha,1,6%
+8A,2,"/l/, no obstruent laterals","am, arz, bn, cmn, de, en, es, fa, fr, ha, hi, id, ko, ru, sg, sw, te, th, tl, tr, vi, yue",22,100%
+8A,1,No laterals,ja,1,5%
+9A,3,No velar nasal,"am, arz, es, fa, fr, ha, hi, ja, ru, sg, tr",11,100%
+9A,1,Initial velar nasal,"id, sw, th, tl, vi, yue",6,55%
+9A,2,No initial velar nasal,"cmn, de, en, ko",4,36%
+10A,2,Contrast absent,"arz, cmn, de, en, es, fa, ha, id, ja, ko, ru, sw, th, tl, tr, vi",16,100%
+10A,1,Contrast present,"fr, hi, sg",3,19%
+11A,1,None,"am, arz, bn, en, es, fa, ha, hi, id, ja, ko, ru, sg, sw, te, th, tl, vi",18,100%
+11A,2,High and mid,"de, fr, tr, yue",4,22%
+11A,3,High only,cmn,1,6%
+12A,2,Moderately complex,"am, cmn, es, ha, ja, ko, te, th, tl, tr, vi, yue",12,100%
+12A,3,Complex,"arz, bn, de, en, fa, fr, hi, id, ru",9,75%
+12A,1,Simple,"sg, sw",2,17%
+13A,1,No tones,"am, arz, bn, de, en, es, fa, fr, hi, id, ko, ru, sw, te, tl, tr",16,100%
+13A,3,Complex tone system,"cmn, th, vi, yue",4,25%
+13A,2,Simple tone system,"ha, ja, sg",3,19%
+14A,1,No fixed stress,"arz, cmn, de, en, es, fr, hi, ru, tr",9,100%
+14A,6,Penultimate,"id, sw, tl",3,33%
+14A,2,Initial,bn,1,11%
+14A,7,Ultimate,fa,1,11%
+15A,8,Fixed stress (no weight-sensitivity),"bn, fa, id, sw, tl",5,100%
+15A,4,Right-oriented: One of the last three,"arz, de, en, hi",4,80%
+15A,3,Right-edge: Ultimate or penultimate,"es, fr",2,40%
+15A,5,Unbounded: Stress can be anywhere,"ru, tr",2,40%
+15A,7,Not predictable,cmn,1,20%
+16A,6,Lexical stress,"cmn, ru, tl, tr",4,100%
+16A,1,No weight,"bn, fa, id, sw",4,100%
+16A,4,Long vowel or coda consonant,"en, hi",2,50%
+16A,7,Combined,"arz, es",2,50%
+16A,5,Prominence,fr,1,25%
+16A,3,Coda consonant,de,1,25%
+17A,1,Trochaic,"arz, de, en, es, id, tl",6,100%
+17A,5,No rhythmic stress,"bn, ru, tr",3,50%
+17A,4,Undetermined,fr,1,17%
+18A,1,All present,"am, arz, bn, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, te, th, tl, tr, vi, yue",23,100%
+19A,1,None,"am, bn, cmn, de, fa, fr, ha, hi, id, ja, ko, ru, te, th, tl, tr, vi, yue",18,100%
+19A,5,'Th' sounds,"en, es, sw",3,17%
+19A,4,Pharyngeals,arz,1,6%
+19A,3,Labial-velars,sg,1,6%
+20A,1,Exclusively concatenative,"de, en, es, fa, fr, hi, ja, ko, ru, sg, sw, tl, tr",13,100%
+20A,2,Exclusively isolating,"ha, id, vi",3,23%
+20A,7,Isolating/concatenative,"cmn, th",2,15%
+20A,6,Ablaut/concatenative,arz,1,8%
+21A,5,No case,"arz, en, fr, ha, id, sg, sw, th, vi",9,100%
+21A,1,Monoexponential case,"cmn, es, fa, hi, ja, ko, tr",7,78%
+21A,2,Case + number,"de, ru",2,22%
+21A,3,Case + referentiality,tl,1,11%
+21B,1,monoexponential TAM,"cmn, de, en, fa, ha, id, ja, ko, ru, sw, th, tl, tr, vi",14,100%
+21B,2,TAM+agreement,"es, fr, hi",3,21%
+21B,3,TAM+agreement+diathesis,arz,1,7%
+21B,6,no TAM,sg,1,7%
+22A,3,4-5 categories per word,"es, fa, fr, id, ja, ru, sw",7,100%
+22A,2,2-3 categories per word,"de, en, hi, th, tl",5,71%
+22A,4,6-7 categories per word,"arz, ha, ko, tr",4,57%
+22A,1,0-1 category per word,"cmn, sg, vi",3,43%
+23A,2,Dependent marking,"cmn, de, en, ja, ko, ru, tr",7,100%
+23A,4,No marking,"arz, fr, id, sg, th, vi",6,86%
+23A,3,Double marking,"es, fa, ha, hi, tl",5,71%
+23A,1,Head marking,sw,1,14%
+24A,2,Dependent marking,"cmn, de, en, es, fr, ha, hi, ja, ko, ru, sg, sw, th",13,100%
+24A,4,No marking,"arz, id, vi",3,23%
+24A,3,Double marking,tr,1,8%
+24A,5,Other,tl,1,8%
+24A,1,Head marking,fa,1,8%
+25A,5,Inconsistent or other,"arz, es, fa, fr, ha, hi, sg, sw, th, tl, tr",11,100%
+25A,2,Dependent-marking,"cmn, de, en, ja, ko, ru",6,55%
+25A,4,Zero-marking,"id, vi",2,18%
+25B,2,Non-zero marking,"arz, cmn, de, en, es, fa, fr, ha, hi, ja, ko, ru, sg, sw, tl, tr",16,100%
+25B,1,Zero-marking,"id, th, vi",3,19%
+26A,2,Strongly suffixing,"ar, cmn, de, en, es, fr, hi, id, ja, ko, ru, ta, te, tr",14,100%
+26A,1,Little affixation,"ha, th, tl, vi, yue",5,36%
+26A,3,Weakly suffixing,"am, fa",2,14%
+26A,6,Strong prefixing,sg,1,7%
+26A,5,Weakly prefixing,sw,1,7%
+27A,1,Productive full and partial reduplication,"am, arz, cmn, fa, ha, hi, ko, sw, ta, th, tl, tr, vi",13,100%
+27A,3,No productive reduplication,"de, en, es, fr, ru",5,38%
+27A,2,Full reduplication only,"id, ja",2,15%
+28A,1,No case marking,"arz, cmn, fa, id, ja, ko, sg, sw, th, tl, vi",11,100%
+28A,3,Core and non-core,"de, es, fr, hi, ru",5,45%
+28A,4,No syncretism,"ha, tr",2,18%
+28A,2,Core cases only,en,1,9%
+29A,1,No subject person/number marking,"cmn, ha, id, ja, ko, th, tl, vi",8,100%
+29A,2,Syncretic,"arz, de, en, es, fr, hi, sw",7,88%
+29A,3,Not syncretic,"fa, ru, sg, tr",4,50%
+30A,1,None,"cmn, fa, id, sg, th, tr, vi, yue",8,100%
+30A,2,Two,"am, arz, es, fr, ha, hi, tl",7,88%
+30A,3,Three,"de, en, ru, ta",4,50%
+30A,5,Five or more,sw,1,12%
+31A,2,Sex-based,"am, arz, de, en, es, fr, ha, hi, ru, ta, tl",11,100%
+31A,1,No gender,"cmn, fa, id, sg, th, tr, vi, yue",8,73%
+31A,3,Non-sex-based,sw,1,9%
+32A,3,Semantic and formal,"am, arz, de, es, fr, ha, hi, ru, sw",9,100%
+32A,1,No gender,"cmn, fa, id, sg, th, tr, vi, yue",8,89%
+32A,2,Semantic,"en, ta, tl",3,33%
+33A,2,Plural suffix,"am, cmn, de, en, es, fa, fr, ha, hi, ja, ko, ru, ta, te, tr",15,100%
+33A,1,Plural prefix,"sg, sw",2,13%
+33A,7,Plural word,"tl, vi",2,13%
+33A,6,Mixed morphological plural,arz,1,7%
+33A,5,Plural complete reduplication,id,1,7%
+33A,9,No plural,yue,1,7%
+34A,6,"All nouns, always obligatory","arz, de, en, es, fr, ha, hi, ru, sw, tr",10,100%
+34A,4,"All nouns, always optional","id, tl, vi",3,30%
+34A,2,"Only human nouns, optional","cmn, ja",2,20%
+34A,5,"All nouns, optional in inanimates",ta,1,10%
+35A,4,Person-number stem,"am, arz, de, en, fa, hi, id, sg, sw, te, th, tl",12,100%
+35A,8,Person stem + nominal plural affix,"cmn, ja, tr, yue",4,33%
+35A,6,Person-number stem + nominal plural affix,"fr, ko, ru, ta",4,33%
+35A,5,Person-number stem + pronominal plural affix,"es, ha",2,17%
+35A,7,Person stem + pronominal plural affix,vi,1,8%
+36A,4,No associative plural,"arz, en, es, fr, hi, ru, th, vi",8,100%
+36A,3,Unique periphrastic associative plural,"cmn, de, fa, ha, id, sw, tl",7,88%
+36A,1,Associative same as additive plural,"ja, ko, sg, tr",4,50%
+36A,2,Unique affixal associative plural,"am, bn, yue",3,38%
+37A,5,No definite or indefinite article,"cmn, hi, id, ja, ko, ru, sw, th, vi, yue",10,100%
+37A,1,Definite word distinct from demonstrative,"de, en, es, fr, ha, pcm, tl",7,70%
+37A,4,"No definite, but indefinite article","fa, ta, te, tr",4,40%
+37A,3,Definite affix,"am, ar, bn",3,30%
+38A,5,No definite or indefinite article,"cmn, hi, id, ja, ko, ru, sw, th, vi, yue",10,100%
+38A,2,Indefinite word same as 'one',"de, es, fa, fr, pcm, ta, te, tl, tr",9,90%
+38A,4,"No indefinite, but definite article","am, ar, bn",3,30%
+38A,1,Indefinite word distinct from 'one',"en, ha",2,20%
+39A,3,No inclusive/exclusive,"arz, de, en, es, fa, fr, ha, hi, ja, ko, ru, sg, sw, tr",14,100%
+39A,5,Inclusive/exclusive,"cmn, id, tl",3,21%
+39A,2,'We' the same as 'I',"th, vi",2,14%
+40A,1,No person marking,"cmn, ha, hi, id, ja, ko, sg, th, tl, vi",10,100%
+40A,3,No inclusive/exclusive,"arz, de, es, fa, fr, ru, sw, tr",8,80%
+40A,2,'We' the same as 'I',en,1,10%
+41A,2,Two-way contrast,"arz, cmn, en, fa, id, ru, sw, ta, tr, ur, vi, yue",12,100%
+41A,3,Three-way contrast,"es, ja, ko, tl",4,33%
+41A,1,No distance contrast,"de, fr",2,17%
+41A,4,Four-way contrast,ha,1,8%
+42A,1,Identical,"arz, cmn, de, en, es, ha, id, ru, sw, tl, ur, yue",12,100%
+42A,3,Different inflection,"fa, ja, ta, tr",4,33%
+42A,2,Different stem,"fr, ko",2,17%
+43A,1,Unrelated,"es, ha, id, ja, ko, sg, th, tl, yue",9,100%
+43A,5,Related by gender markers,"arz, de, fr",3,33%
+43A,2,Related for all demonstratives,"en, hi",2,22%
+43A,6,Related for non-human reference,"cmn, fa",2,22%
+43A,3,Related to remote demonstratives,"tr, vi",2,22%
+44A,3,3rd person singular only,"cmn, de, en, fa, fr, ko, ru",7,100%
+44A,6,No gender distinctions,"hi, id, sg, th, tl, tr, vi",7,100%
+44A,1,In 3rd person + 1st and/or 2nd person,"am, arz, es, ha",4,57%
+44A,2,"3rd person only, but also non-singular","ja, sw",2,29%
+45A,2,Binary politeness distinction,"cmn, de, es, fa, fr, ru, sg, tr",8,100%
+45A,4,Pronouns avoided for politeness,"id, ja, ko, th, vi",5,62%
+45A,1,No politeness distinction,"arz, en, ha, sw",4,50%
+45A,3,Multiple politeness distinctions,"hi, ta, tl",3,38%
+46A,2,Generic-noun-based,"arz, en, fa, fr, ha, id, sg, sw, tr",9,100%
+46A,1,Interrogative-based,"ja, ko, ru, ta, th, vi",6,67%
+46A,3,Special,"es, hi, yue",3,33%
+46A,4,Mixed,"cmn, de",2,22%
+46A,5,Existential construction,tl,1,11%
+47A,1,Identical,"am, bn, cmn, en, fa, hi, id, ja, ko, ta, te, th, tr, vi, yue",15,100%
+47A,2,Differentiated,"de, es, fr, ru, sw, tl",6,40%
+48A,2,No person marking,"cmn, de, en, es, fr, hi, id, ja, ko, ru, sg, sw, th, tr, vi",15,100%
+48A,3,Pronouns only,"am, arz, fa, ha",4,27%
+48A,1,No adpositions,tl,1,7%
+49A,1,No morphological case-marking,"arz, cmn, es, fr, ha, id, sg, sw, th, tl, vi",11,100%
+49A,2,2 cases,"am, en, fa, ur",4,36%
+49A,6,6-7 cases,"ko, ru, tr",3,27%
+49A,4,4 cases,de,1,9%
+49A,7,8-9 cases,ja,1,9%
+50A,1,No case-marking,"arz, cmn, fr, ha, id, sg, sw, th, vi",9,100%
+50A,2,Symmetrical,"am, fa, ja, ko, tr",5,56%
+50A,3,Additive-quantitatively asymmetrical,"en, es, tl, ur",4,44%
+50A,6,Syncretism in relevant NP-types,"de, ru",2,22%
+51A,9,No case affixes or adpositional clitics,"cmn, en, es, fa, ha, id, sg, th, vi, yue",10,100%
+51A,1,Case suffixes,"am, ar, bn, de, hi, ko, ru, ta, te, tr",10,100%
+51A,7,Prepositional clitics,fr,1,10%
+51A,6,Postpositional clitics,ja,1,10%
+51A,5,Mixed morphological case,sw,1,10%
+52A,2,Differentiation,"arz, cmn, hi, ja, ko, sw, ta, te, th, tl",10,100%
+52A,1,Identity,"de, en, fa, fr, ha, sg, tr",7,70%
+52A,3,Mixed,"id, ru",2,20%
+53A,6,"First, two-th, three-th","arz, bn, de, ha, hi, ta, tl",7,100%
+53A,7,"First, second, three-th","en, es, fr, ru, sw",5,71%
+53A,4,"One-th, two-th, three-th","cmn, ja, ko, yue",4,57%
+53A,5,"First/one-th, two-th, three-th","fa, id, th, tr",4,57%
+53A,8,Various,vi,1,14%
+54A,1,No distributive numerals,"arz, cmn, en, es, fa, fr, id, th, vi, yue",10,100%
+54A,2,Marked by reduplication,"am, bn, ha, hi, sw, ta",6,60%
+54A,4,Marked by suffix,"ja, ko, tr",3,30%
+54A,5,Marked by preceding word,"de, ru",2,20%
+54A,7,Marked by mixed or other strategies,tl,1,10%
+55A,1,Absent,"am, arz, de, en, fr, ha, hi, ru, sw, tl",10,100%
+55A,3,Obligatory,"bn, cmn, ja, ko, th, vi, yue",7,70%
+55A,2,Optional,"fa, id, tr",3,30%
+56A,3,"Formally similar, with interrogative","cmn, hi, id, ja, ta, te, th, tl, vi, yue",10,100%
+56A,2,"Formally similar, without interrogative","en, fa",2,20%
+56A,1,Formally different,"fr, tr",2,20%
+56E,3,Generic-noun-based/???,"arz, ha, sg, sw",4,100%
+56E,8,"Interrogative-based/Formally similar, with interrogative","ja, ta, th, vi",4,100%
+56E,6,"Generic-noun-based/Formally similar, without interrogative","en, fa",2,50%
+56E,4,Generic-noun-based/Formally different,"fr, tr",2,50%
+56E,12,"Special/Formally similar, with interrogative","hi, yue",2,50%
+56E,7,Interrogative-based/???,"ko, ru",2,50%
+56E,10,"Mixed/Formally similar, with interrogative",cmn,1,25%
+56E,9,Mixed/???,de,1,25%
+56E,11,Special/???,es,1,25%
+56E,5,"Generic-noun-based/Formally similar, with interrogative",id,1,25%
+56E,1,"???/Formally similar, with interrogative",te,1,25%
+56E,2,"Existential construction/Formally similar, with interrogative",tl,1,25%
+57A,4,No possessive affixes,"cmn, de, en, es, fa, fr, id, ja, ru, sg, th, vi, yue",13,100%
+57A,2,Possessive suffixes,"am, ar, ha, sw, tr",5,38%
+58A,2,Absent,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, th, tl, tr, vi",20,100%
+58B,1,None reported,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, th, tl, tr, vi",20,100%
+59A,1,No possessive classification,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, th, tl, tr, vi",20,100%
+60A,6,Highly differentiated,"en, fr, hi, ko, ru, tr",6,100%
+60A,1,Weakly differentiated,"cmn, id, yue",3,50%
+60A,2,Genitives and adjectives collapsed,"fa, ja",2,33%
+60A,4,Adjectives and relative clauses collapsed,"tl, vi",2,33%
+60A,5,Moderately differentiated in other ways,th,1,17%
+61A,2,Without marking,"es, fa, fr, ru, sw, th, tl, tr",8,100%
+61A,6,Marked by following word,"cmn, en, hi, ko, yue",5,62%
+61A,5,Marked by preceding word,"id, vi",2,25%
+61A,7,Marked by mixed or other strategies,ja,1,12%
+62A,2,Possessive-Accusative,"am, hi, sg, sw, tl, tr, vi",7,100%
+62A,3,Ergative-Possessive,"de, es, fa, fr, id, ru",6,86%
+62A,6,Mixed,"arz, en, th",3,43%
+62A,8,No action nominals,"cmn, yue",2,29%
+62A,1,Sentential,"ko, ta",2,29%
+62A,4,Double-Possessive,ja,1,14%
+62A,7,Restricted,ha,1,14%
+63A,1,'And' different from 'with',"am, arz, en, es, fa, fr, hi, ko, ru, ta, th, tl, tr, vi",14,100%
+63A,2,'And' identical to 'with',"cmn, ha, id, ja, sg, sw",6,43%
+64A,1,Identity,"arz, de, en, es, fa, fr, hi, id, ru, sg, th, tl, tr, vi",14,100%
+64A,2,Differentiation,"cmn, ha, ja, ko, ta, yue",6,43%
+65A,2,No grammatical marking,"am, bn, de, en, ha, id, ja, sg, sw, ta, th, vi",12,100%
+65A,1,Grammatical marking,"arz, cmn, es, fa, fr, hi, ko, ru, tl, tr, yue",11,92%
+66A,1,"Present, no remoteness distinctions","am, arz, bn, de, en, es, fa, fr, hi, ja, ko, ru, sw, ta, tr",15,100%
+66A,4,No past tense,"cmn, ha, id, sg, th, tl, vi, yue",8,53%
+67A,2,No inflectional future,"am, cmn, de, en, fa, ha, id, ja, ko, ru, sg, th, vi, yue",14,100%
+67A,1,Inflectional future exists,"arz, bn, es, fr, hi, sw, ta, tl, tr",9,64%
+68A,4,No perfect,"arz, cmn, fa, ha, ja, ko, ru, sg, tl, tr",10,100%
+68A,3,Other perfect,"am, bn, hi, sw, ta, vi, yue",7,70%
+68A,1,From possessive,"de, en, es, fr",4,40%
+68A,2,"From 'finish', 'already'","id, th",2,20%
+69A,2,Tense-aspect suffixes,"cmn, de, en, es, fr, hi, id, ja, ko, ta, te, tr, yue",13,100%
+69A,4,Mixed type,"am, arz, fa, ru",4,31%
+69A,5,No tense-aspect inflection,"ha, sg, th, vi",4,31%
+69A,1,Tense-aspect prefixes,"sw, tl",2,15%
+70A,1,Second singular and second plural,"am, arz, es, hi, ru, sw, ta, te, tl, tr",10,100%
+70A,5,No second-person imperatives,"cmn, en, id, sg, th, vi, yue",7,70%
+70A,2,Second singular,"de, fa, fr, ha",4,40%
+70A,4,Second person number-neutral,"ja, ko",2,20%
+71A,2,Normal imperative + special negative,"cmn, hi, id, ja, ko, te, th, tl, vi, yue",10,100%
+71A,1,Normal imperative + normal negative,"de, en, fa, fr, ru, sg, tr",7,70%
+71A,4,Special imperative + special negative,"am, ha, sw, ta",4,40%
+71A,3,Special imperative + normal negative,"arz, es",2,20%
+72A,4,Neither type of system,"am, arz, cmn, de, en, es, fr, hi, id, ja, ko, ru, th, tl, vi",15,100%
+72A,3,Both types of system,"ha, sg",2,13%
+72A,1,Maximal system,"sw, tr",2,13%
+72A,2,Minimal system,fa,1,7%
+73A,2,Inflectional optative absent,"arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sw, te, th, tr, vi",18,100%
+73A,1,Inflectional optative present,tl,1,6%
+74A,2,Verbal constructions,"am, arz, cmn, de, en, es, fa, fr, ha, hi, ru, sg, te, th, vi, yue",16,100%
+74A,1,Affixes on verbs,"id, ja, sw, ta, tl, tr",6,38%
+74A,3,Other kinds of markers,ko,1,6%
+75A,1,Verbal constructions,"am, arz, cmn, de, en, es, fr, ha, hi, ru, te, th, vi",13,100%
+75A,3,Other,"fa, id, ja, ko, sg, tl, yue",7,54%
+75A,2,Affixes on verbs,"sw, ta, tr",3,23%
+76A,1,Overlap for both possibility and necessity,"arz, cmn, de, en, es, fr, ru, te, th, tl, tr",11,100%
+76A,2,Overlap for either possibility or necessity,"fa, ha, hi, ja, ko, sg, sw, ta, vi, yue",10,91%
+76A,3,No overlap,"am, id",2,18%
+77A,1,No grammatical evidentials,"arz, cmn, en, es, ha, hi, id, ru, sg, sw, th, vi",12,100%
+77A,2,Indirect only,"de, fr, ja, ko, ta, tl, yue",7,58%
+77A,3,Direct and indirect,"fa, tr",2,17%
+78A,1,No grammatical evidentials,"arz, cmn, en, es, ha, hi, id, ru, sg, sw, th, vi",12,100%
+78A,2,Verbal affix or clitic,"ja, ko, ta",3,25%
+78A,5,Modal morpheme,"de, fr",2,17%
+78A,3,Part of the tense system,"fa, tr",2,17%
+78A,4,Separate particle,"tl, yue",2,17%
+79A,4,None,"arz, cmn, ha, id, ja, ko, sg, sw, th, tl, vi, yue",12,100%
+79A,3,Tense and aspect,"bn, es, fa, fr, hi, ru",6,50%
+79A,1,Tense,"de, en, tr",3,25%
+79B,5,None (= no suppletive imperatives reported in the reference material),"bn, cmn, de, en, fa, fr, ha, hi, id, ja, ko, sg, th, tl, tr, vi, yue",17,100%
+79B,2,Imperative,"arz, es, ru, sw",4,24%
+80A,1,None,"arz, bn, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, th, tl, tr, vi, yue",21,100%
+81A,2,SVO,"cmn, en, es, fr, ha, id, ru, sg, sw, th, vi, yue",12,100%
+81A,1,SOV,"am, bn, fa, hi, ja, ko, ta, te, tr",9,75%
+81A,3,VSO,"ar, tl",2,17%
+81A,7,No dominant order,de,1,8%
+81B,1,SOV or SVO,de,1,100%
+82A,1,SV,"am, bn, cmn, de, en, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, ta, te, th, tr, vi, yue",21,100%
+82A,2,VS,"ar, tl",2,10%
+82A,3,No dominant order,es,1,5%
+83A,2,VO,"ar, cmn, en, es, fr, ha, id, ru, sg, sw, th, tl, vi, yue",14,100%
+83A,1,OV,"am, bn, fa, hi, ja, ko, ta, te, tr",9,64%
+83A,3,No dominant order,de,1,7%
+84A,1,VOX,"ar, en, es, fr, ha, id, sg, th, vi",9,100%
+84A,3,XOV,"bn, ja, ta, tr",4,44%
+84A,2,XVO,"cmn, yue",2,22%
+84A,6,No dominant order,de,1,11%
+85A,2,Prepositions,"ar, de, en, es, fa, fr, ha, id, ru, sg, sw, th, vi",13,100%
+85A,1,Postpositions,"hi, ja, ko, ta, te, tr",6,46%
+85A,4,No dominant order,"am, cmn, yue",3,23%
+86A,2,Noun-Genitive,"ar, de, es, fa, fr, ha, id, ru, sg, sw, th, tl, vi",13,100%
+86A,1,Genitive-Noun,"am, cmn, hi, ja, ko, ta, te, tr, yue",9,69%
+86A,3,No dominant order,en,1,8%
+86X,5,Prepositions/Noun-Genitive,"ar, de, es, fa, fr, ha, id, ru, sg, sw, th, vi",12,100%
+86X,3,Postpositions/Genitive-Noun,"hi, ja, ko, ta, te, tr",6,50%
+86X,2,No dominant order/Genitive-Noun,"am, cmn, yue",3,25%
+86X,4,Prepositions/No dominant order,en,1,8%
+86X,1,???/Noun-Genitive,tl,1,8%
+87A,1,Adjective-Noun,"am, cmn, de, en, ha, hi, ja, ko, ru, sg, ta, te, tr, yue",14,100%
+87A,2,Noun-Adjective,"ar, es, fa, fr, id, sw, th, vi",8,57%
+87A,3,No dominant order,tl,1,7%
+87X,1,Genitive-Noun/Adjective-Noun,"am, cmn, hi, ja, ko, ta, te, tr, yue",9,100%
+87X,5,Noun-Genitive/Noun-Adjective,"ar, es, fa, fr, id, sw, th, vi",8,89%
+87X,3,Noun-Genitive/Adjective-Noun,"de, ha, ru, sg",4,44%
+87X,2,No dominant order/Adjective-Noun,en,1,11%
+87X,4,Noun-Genitive/No dominant order,tl,1,11%
+88A,1,Demonstrative-Noun,"am, ar, cmn, de, en, es, fa, fr, hi, ja, ko, ru, ta, te, tr, yue",16,100%
+88A,2,Noun-Demonstrative,"id, sg, sw, th, vi",5,31%
+88A,6,Mixed,"ha, tl",2,12%
+89A,1,Numeral-Noun,"am, ar, cmn, de, en, es, fa, fr, hi, id, ja, ko, ru, ta, te, tl, tr, vi, yue",19,100%
+89A,2,Noun-Numeral,"ha, sg, sw, th",4,21%
+90A,1,Noun-Relative clause,"arz, de, en, es, fa, fr, ha, id, ru, sg, sw, th, tl, vi",14,100%
+90A,2,Relative clause-Noun,"am, cmn, ja, ko, ta, te, tr, yue",8,57%
+90A,4,Correlative,hi,1,7%
+90B,1,Relative clause-Noun (RelN) dominant,"am, cmn, ja, ko, ta, te, tr, yue",8,100%
+90C,1,Noun-Relative clause (NRel) dominant,"arz, de, en, es, fa, fr, ha, id, ru, sg, sw, th, tl, vi",14,100%
+90D,6,Internally-headed occurs as nondominant type,"ja, ko, tl",3,100%
+90E,1,Correlative relative clause dominant,hi,1,100%
+90X,4,Adjective-Noun/Relative clause-Noun,"am, cmn, ja, ko, ta, te, tr, yue",8,100%
+90X,7,Noun-Adjective/Noun-Relative clause,"es, fa, fr, id, sw, th, vi",7,88%
+90X,3,Adjective-Noun/Noun-Relative clause,"de, en, ha, ru, sg",5,62%
+90X,6,Noun-Adjective/???,ar,1,12%
+90X,1,???/Noun-Relative clause,arz,1,12%
+90X,2,Adjective-Noun/Correlative,hi,1,12%
+90X,5,No dominant order/Noun-Relative clause,tl,1,12%
+91A,1,Degree word-Adjective,"cmn, de, en, es, fa, fr, hi, id, ja, ko, ru, ta, te, tr, yue",15,100%
+91A,2,Adjective-Degree word,"ar, ha, sg, th",4,27%
+92A,2,Final,"cmn, ha, ja, sg, th, tr, vi",7,100%
+92A,6,No question particle,"de, en, es, ko, ta, te",6,86%
+92A,1,Initial,"ar, fa, fr, hi, sw",5,71%
+92A,3,Second position,"ru, tl",2,29%
+92A,5,In either of two positions,id,1,14%
+93A,2,Not initial interrogative phrase,"am, arz, cmn, fa, hi, ja, ko, sg, sw, ta, te, th, tr, vi, yue",15,100%
+93A,1,Initial interrogative phrase,"de, en, es, fr, ru, tl",6,40%
+93A,3,Mixed,"ha, id",2,13%
+94A,1,Initial subordinator word,"ar, de, en, es, fa, fr, ha, hi, id, ru, sg, sw, th, tl, vi",15,100%
+94A,2,Final subordinator word,"am, ja, ko",3,20%
+94A,5,Mixed,"te, tr, yue",3,20%
+94A,4,Subordinating suffix,ta,1,7%
+95A,4,VO and Prepositions,"ar, en, es, fr, ha, id, ru, sg, sw, th, vi",11,100%
+95A,1,OV and Postpositions,"hi, ja, ko, ta, te, tr",6,55%
+95A,5,Other,"am, cmn, de, yue",4,36%
+95A,2,OV and Prepositions,fa,1,9%
+96A,4,VO and NRel,"arz, en, es, fr, ha, id, ru, sg, sw, th, tl, vi",12,100%
+96A,1,OV and RelN,"am, ja, ko, ta, te, tr",6,50%
+96A,3,VO and RelN,"cmn, yue",2,17%
+96A,5,Other,"de, hi",2,17%
+96A,2,OV and NRel,fa,1,8%
+97A,1,OV and AdjN,"am, hi, ja, ko, ta, te, tr",7,100%
+97A,4,VO and NAdj,"ar, es, fr, id, sw, th, vi",7,100%
+97A,3,VO and AdjN,"cmn, en, ha, ru, sg, yue",6,86%
+97A,5,Other,"de, tl",2,29%
+97A,2,OV and NAdj,fa,1,14%
+98A,1,Neutral,"arz, cmn, en, fr, ha, id, sg, sw, th, tl, vi",11,100%
+98A,2,Nominative - accusative (standard),"de, es, fa, ja, ko, ru, tr",7,64%
+98A,5,Tripartite,hi,1,9%
+99A,2,Nominative - accusative (standard),"de, en, es, fa, fr, ja, ko, ru, tr",9,100%
+99A,1,Neutral,"arz, cmn, ha, id, sg, sw, th, tl, vi",9,100%
+99A,5,Tripartite,hi,1,11%
+100A,2,Accusative,"am, arz, de, en, es, fa, fr, hi, id, ru, sw, tr",12,100%
+100A,1,Neutral,"cmn, ha, ja, ko, sg, th, tl, vi",8,67%
+101A,2,Subject affixes on verb,"am, arz, es, fa, sg, sw, tr",7,100%
+101A,1,Obligatory pronouns in subject position,"de, en, fr, id, ru",5,71%
+101A,5,Optional pronouns in subject position,"cmn, ja, ko, th, vi",5,71%
+101A,4,Subject pronouns in different position,ha,1,14%
+102A,1,No person marking,"cmn, ha, ja, ko, sg, th, tl, vi",8,100%
+102A,2,Only the A argument,"de, en, fr, hi, ru, tr",6,75%
+102A,5,Both the A and P arguments,"am, arz, es, fa, sw",5,62%
+102A,3,Only the P argument,id,1,12%
+103A,2,No zero realization,"am, de, en, es, fr, hi, id, ru, sw",9,100%
+103A,1,No person marking,"cmn, ha, ja, ko, sg, th, tl, vi",8,89%
+103A,4,Zero in all 3sg forms,"arz, fa, tr",3,33%
+104A,1,A and P do not or do not both occur on the verb,"cmn, de, en, fr, ha, hi, id, ja, ko, ru, sg, th, tl, tr, vi",15,100%
+104A,2,A precedes P,"am, arz, fa, sw",4,27%
+104A,3,P precedes A,es,1,7%
+105A,1,Indirect-object construction,"de, es, fa, fr, hi, ja, ko, ru, sg, ta, th, tr",12,100%
+105A,4,Mixed,"arz, cmn, en, id, tl, yue",6,50%
+105A,2,Double-object construction,"am, sw, vi",3,25%
+105A,3,Secondary-object construction,ha,1,8%
+106A,2,Distinct from reflexive,"arz, cmn, en, fa, ha, hi, id, ja, ko, sw, ta, th, tl, tr, vi, yue",16,100%
+106A,3,Mixed,"de, es, fr, ru",4,25%
+106A,1,No reciprocals,sg,1,6%
+107A,1,Present,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sw, th, tr, vi",18,100%
+107A,2,Absent,"sg, tl",2,11%
+108A,3,No antipassive,"arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, ta, th, tl, tr, vi",20,100%
+108B,4,no antipassive,"arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, ta, th, tl, tr, vi",20,100%
+109A,8,No applicative construction,"arz, cmn, de, en, es, fa, fr, hi, ja, ko, ru, sg, ta, th, tr, vi",16,100%
+109A,3,Benefactive and other; both bases,"ha, sw, tl",3,19%
+109A,2,Benefactive object; only transitive,id,1,6%
+109B,5,No applicative construction,"arz, cmn, de, en, es, fa, fr, hi, ja, ko, ru, sg, ta, th, tr, vi",16,100%
+109B,2,Locative,"ha, sw",2,12%
+109B,4,No other roles (= Only benefactive),id,1,6%
+109B,3,Instrument and locative,tl,1,6%
+110A,2,Purposive but no sequential,"arz, fa, hi, ko, ru, sw, ta, tl, tr",9,100%
+110A,1,Sequential but no purposive,"de, en, ha, id",4,44%
+110A,3,Both,"es, th, vi",3,33%
+111A,2,Morphological but no compound,"am, arz, de, en, fa, ha, hi, id, ja, ko, ru, sw, ta, te, tl, tr",16,100%
+111A,3,Compound but no morphological,"cmn, vi",2,12%
+111A,4,Both,"es, fr",2,12%
+111A,1,Neither,th,1,6%
+112A,2,Negative particle,"arz, bn, cmn, de, en, es, fr, ha, hi, ko, ru, sg, tl, yue",14,100%
+112A,1,Negative affix,"fa, ja, sw, ta, te, tr",6,43%
+112A,4,"Negative word, unclear if verb or particle","id, vi",2,14%
+112A,3,Negative auxiliary verb,th,1,7%
+112A,6,Double negation,am,1,7%
+113A,1,Symmetric,"arz, de, es, fa, fr, id, ru, sg, th, tl, vi",11,100%
+113A,3,Both,"cmn, en, ha, hi, ko, sw, tr, yue",8,73%
+113A,2,Asymmetric,ja,1,9%
+114A,7,Non-assignable,"arz, de, es, fa, fr, id, ru, sg, th, tl, vi",11,100%
+114A,3,A/Cat,"en, ha, hi, sw, tr, yue",6,55%
+114A,1,A/Fin,cmn,1,9%
+114A,5,A/Fin and A/Cat,ja,1,9%
+114A,4,A/Fin and A/NonReal,ko,1,9%
+115A,1,Predicate negation also present,"arz, cmn, fa, ha, hi, id, ja, ko, ru, sw, ta, th, tl, tr, vi, yue",16,100%
+115A,3,Mixed behaviour,"en, es, fr",3,19%
+115A,2,No predicate negation,de,1,6%
+116A,1,Question particle,"ar, cmn, fa, fr, ha, hi, id, ja, ru, sg, sw, th, tl, tr, vi, yue",16,100%
+116A,4,Interrogative word order,"de, en, es",3,19%
+116A,2,Interrogative verb morphology,"ko, ta, te",3,19%
+116A,3,Mixture of previous two types,am,1,6%
+117A,1,Locational,"am, arz, hi, ja, ko, ru, ta, te",8,100%
+117A,5,'Have',"de, en, es, fa, fr, yue",6,75%
+117A,3,Topic,"cmn, id, th, tl, vi",5,62%
+117A,4,Conjunctional,"ha, sg, sw",3,38%
+117A,2,Genitive,"bn, tr",2,25%
+118A,2,Nonverbal encoding,"am, arz, bn, en, es, fa, fr, ha, hi, ru, ta, te, tr",13,100%
+118A,1,Verbal encoding,"cmn, id, th, tl, vi",5,38%
+118A,3,Mixed,"ja, ko, sw",3,23%
+119A,2,Identical,"am, arz, bn, en, fa, fr, hi, ru, sw, ta, te, tr",12,100%
+119A,1,Different,"cmn, es, ha, id, ja, ko, th, tl, vi",9,75%
+120A,1,Impossible,"am, cmn, en, es, fa, fr, ha, hi, ja, ko, sw, tl, tr",13,100%
+120A,2,Possible,"arz, bn, id, ru, ta, te, th, vi",8,62%
+121A,1,Locational,"am, ar, fa, hi, id, ja, ko, ta, te, tr",10,100%
+121A,2,Exceed,"cmn, ha, pcm, sw, th, vi, yue",7,70%
+121A,4,Particle,"bn, de, en, es, fr, ru, tl",7,70%
+122A,4,Gap,"arz, cmn, es, fa, ha, id, ja, ko, sg, sw, th, tl, tr, vi",14,100%
+122A,1,Relative pronoun,"de, en, fr, ru",4,29%
+122A,2,Non-reduction,hi,1,7%
+123A,4,Gap,"cmn, id, ja, ko, th, tr",6,100%
+123A,1,Relative pronoun,"de, en, es, fr, ru",5,83%
+123A,3,Pronoun-retention,"arz, fa, ha",3,50%
+123A,5,Not possible,"sw, tl",2,33%
+123A,2,Non-reduction,hi,1,17%
+124A,1,Subject is left implicit,"bn, cmn, de, en, es, fr, hi, id, ko, ru, sg, th, tl, tr, vi, yue",16,100%
+124A,2,Subject is expressed overtly,"arz, fa, ha",3,19%
+124A,4,Desiderative verbal affix,ja,1,6%
+125A,3,Deranked,"es, fa, fr, ha, pcm, ta, tl, tr",8,100%
+125A,2,Balanced/deranked,"de, en, ja, ru",4,50%
+125A,1,Balanced,"cmn, id, ko, vi",4,50%
+126A,2,Balanced/deranked,"de, en, es, fr, ha, hi, ja, ru, tl",9,100%
+126A,1,Balanced,"cmn, fa, id, ko, pcm, vi",6,67%
+126A,3,Deranked,"ta, tr",2,22%
+127A,1,Balanced,"cmn, de, fa, ha, id, ja, ko, pcm, vi",9,100%
+127A,2,Balanced/deranked,"en, es, fr, hi, ru, tl, tr",7,78%
+127A,3,Deranked,ta,1,11%
+128A,1,Balanced,"cmn, en, fa, hi, id, ja, ko, pcm, ru, sw, tl, vi",12,100%
+128A,2,Balanced/deranked,"es, fr, tr",3,25%
+128A,3,Deranked,ta,1,8%
+129A,2,Different,"cmn, de, en, es, fr, id, ko, th, tl, tr, yue",11,100%
+129A,1,Identical,"am, ha, ja, ru, sw, ta",6,55%
+130A,2,Different,"am, cmn, de, en, es, fr, ha, id, ja, ko, ru, sw, ta, th, tl, tr, yue",17,100%
+131A,1,Decimal,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, te, th, tl, tr, vi",21,100%
+132A,7,6,"cmn, de, en, es, fr, ja, ko, ru",8,100%
+133A,7,11,"de, en, es, fr, ja, ko, ru",7,100%
+133A,5,8-8.5,cmn,1,14%
+134A,1,Green vs. blue,"cmn, de, en, es, fr, ja, ko, ru",8,100%
+135A,1,Red vs. yellow,"cmn, de, en, es, fr, ja, ko, ru",8,100%
+136A,1,No M-T pronouns,"am, arz, cmn, en, ha, id, ja, ko, sg, sw, tl, vi",12,100%
+136A,2,"M-T pronouns, paradigmatic","de, es, fa, fr, hi, ru, tr",7,58%
+136B,2,m in first person singular,"de, en, es, fa, fr, hi, ru, sg, sw, tr",10,100%
+136B,1,No m in first person singular,"am, arz, cmn, ha, id, ja, ko, tl, vi",9,90%
+137A,1,No N-M pronouns,"am, arz, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, tl, tr, vi",19,100%
+137B,1,No m in second person singular,"am, arz, cmn, de, en, es, fa, fr, ha, hi, ko, ru, sw, tr",14,100%
+137B,2,m in second person singular,"id, ja, sg, tl, vi",5,36%
+138A,1,Words derived from Sinitic cha,"am, arz, bn, cmn, fa, ha, hi, ja, ko, ru, sg, sw, th, tl, tr, vi, yue",17,100%
+138A,2,Words derived from Min Nan Chinese te,"de, en, es, fr, id, te",6,35%
+142A,2,Affective meanings,"de, en, es, ha, ja, ko, ru, sw, th, yue",10,100%
+142A,1,Logical meanings,"bn, fa, hi, te, tr",5,50%
+142A,3,Other or none,tl,1,10%
+143A,1,NegV,"ar, cmn, en, es, hi, id, ko, ru, th, tl, vi, yue",12,100%
+143A,4,[V-Neg],"ja, ta, te, tr",4,33%
+143A,15,OptDoubleNeg,"fr, ha",2,17%
+143A,2,VNeg,"bn, sg",2,17%
+143A,3,[Neg-V],"fa, sw",2,17%
+143A,6,Type 1 / Type 2,de,1,8%
+143A,14,ObligDoubleNeg,am,1,8%
+143B,4,[Neg-V-Neg],am,1,100%
+143C,14,NegV/[Neg-V-Neg],arz,1,100%
+143C,2,(Neg)VNeg,fr,1,100%
+143C,1,NegV(Neg),ha,1,100%
+143E,1,NegV,"ar, cmn, de, en, es, fr, ha, hi, id, ko, ru, th, tl, vi, yue",15,100%
+143E,4,None,"bn, ja, sg, ta, te, tr",6,40%
+143E,2,[Neg-V],"am, fa, sw",3,20%
+143F,4,None,"ar, cmn, en, es, fa, hi, id, ko, ru, sw, th, tl, vi, yue",14,100%
+143F,1,VNeg,"bn, de, fr, ha, sg",5,36%
+143F,2,[V-Neg],"am, ja, ta, te, tr",5,36%
+143G,4,None,"am, ar, bn, cmn, de, en, es, fa, fr, ha, hi, id, ja, ko, ru, sg, sw, ta, te, th, tl, tr, vi, yue",24,100%
+144A,2,SNegVO,"cmn, en, es, id, ru, th, vi, yue",8,100%
+144A,20,MorphNeg,"fa, ja, sw, ta, te, tr",6,75%
+144A,7,SONegV,"hi, ko",2,25%
+144A,9,NegVSO,"ar, tl",2,25%
+144A,19,OptDoubleNeg,"fr, ha",2,25%
+144A,8,SOVNeg,bn,1,12%
+144A,16,More than one position,de,1,12%
+144A,4,SVONeg,sg,1,12%
+144A,18,ObligDoubleNeg,am,1,12%
+144B,3,Immed preverbal,"ar, cmn, en, es, ha, hi, id, ko, ru, th, tl, vi, yue",13,100%
+144B,4,Immed postverbal,"bn, fr",2,15%
+144B,6,"End, not immed postverbal","de, sg",2,15%
+144D,2,SNegVO,"cmn, en, es, id, ru, th, vi, yue",8,100%
+144D,15,OptNeg,"arz, fr, ha",3,38%
+144D,13,More than one construction,de,1,12%
+144D,4,SVONeg,sg,1,12%
+144D,5,S[Neg-V]O,sw,1,12%
+144E,15,SVONeg/SONegV,de,1,100%
+144G,15,SNeg[V-Neg]O/S[Neg-V-Neg]O,arz,1,100%
+144G,3,S(Neg)VNegO,fr,1,100%
+144G,1,SNegVO(Neg),ha,1,100%
+144H,4,No NegSVO,"arz, cmn, de, en, es, fr, ha, id, ru, sg, sw, th, vi, yue",14,100%
+144I,1,Word&NoDoubleNeg,"cmn, en, es, id, ru, th, vi, yue",8,100%
+144I,8,No SNegVO,"de, sg",2,25%
+144I,7,Type 1 / Type 2,arz,1,12%
+144I,5,Word&OnlyWithAnotherNeg,fr,1,12%
+144I,3,Word&OptDoubleNeg,ha,1,12%
+144I,2,Prefix&NoDoubleNeg,sw,1,12%
+144J,7,No SVNegO,"cmn, de, en, es, ha, id, ru, sg, sw, th, vi, yue",12,100%
+144J,6,Suffix&OnlyWithAnotherNeg,arz,1,8%
+144J,3,Word&OptDoubleNeg,fr,1,8%
+144K,4,No SVONeg,"arz, cmn, en, es, fr, id, ru, sw, th, vi, yue",11,100%
+144K,1,NoDoubleNeg,"de, sg",2,18%
+144K,3,OnlyWithAnotherNeg,ha,1,9%
+144L,6,SO[V-Neg],"ja, ta, te, tr",4,100%
+144L,3,SONegV,"hi, ko",2,50%
+144L,4,SOVNeg,bn,1,25%
+144L,15,More than one construction,de,1,25%
+144L,5,SO[Neg-V],fa,1,25%
+144L,16,ObligDoubleNeg,am,1,25%
+144M,9,SONegV/SVONeg,de,1,100%
+144N,6,SO[Neg-V-Neg],am,1,100%
+144P,4,No NegSOV,"am, bn, de, fa, hi, ja, ko, ta, te, tr",10,100%
+144Q,4,No SNegOV,"am, bn, de, fa, hi, ja, ko, ta, te, tr",10,100%
+144R,8,No SONegV,"bn, ja, ta, te, tr",5,100%
+144R,1,Word&NoDoubleNeg,"de, hi, ko",3,60%
+144R,2,Prefix&NoDoubleNeg,fa,1,20%
+144R,6,Prefix&OnlyWithAnotherNeg,am,1,20%
+144S,11,NoSOVNeg,"de, fa, hi, ko",4,100%
+144S,2,Suffix&NoDoubleNeg,"ja, ta, te, tr",4,100%
+144S,1,Word&NoDoubleNeg,bn,1,25%
+144S,6,Suffix&OnlyWithAnotherNeg,am,1,25%
+144T,1,NegVSO,"ar, tl",2,100%
+144V,1,"Separate word, no double negation  Word&NoDoubleNeg","ar, tl",2,100%
+144W,6,None,"ar, tl",2,100%
+144X,4,No clause-final neg,"ar, tl",2,100%

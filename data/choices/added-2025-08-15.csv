@@ -1,0 +1,32 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+"but, although",although | but::rather | but,,mas,sed,bat
+"for, toward, towards, for the benefit of ","directed at, intended to belong to | for::supporting | for::towards | for the purpose of | – | –",,tas,pro,fo
+"have, possess","to possess | to have (something) as, or as if as, an owner",,hare,habe,hev
+see,perceive with the eyes,Premerge:kansa,oko,vide,vidi
+some,"a certain number | certain proportion of | unspecified quantity or number of | indefinite quantity or number | certain, unspecified or unknown",Set class:det,ban,uno,"kelke, koy"
+something,unspecified object,Compound:ban-it,banto,uno-ra,koysa
+curtain,piece of cloth covering a window | piece of cloth in a theater,,kurtina,pende-te,kurtena
+like (in comparisons),similar to | such as,,kom,homo,kom
+be ...-ing (progressive aspect),progressive aspect,,du-,du,zai
+beer,alcoholic drink made of malt | glass of beer,,bira,bira,bira
+drink,consume liquid through the mouth | consume alcoholic beverages,Skip:pie (not the typical Bengali word for this meaning),glu,bibe,pi
+two,cardinal number 2 | digit or figure,Syllables:1,dua,bi,dwa
+"would (conditional mood, describing unreal or uncertain conditions and hypothetical situations)",indicating an action or state that is conditional on another,"Add:wu (Lidepla's candidate, which is the best auxlang candidate, shortened so it's still just one syllable in our phonology)",ger,sio,wud
+"simple, plain",uncomplicated | ordinary; lacking adornment or ornamentation | simple::simple-minded,,jandan,simpli,simple
+which (question determiner) ,"(interrogative) what, of those mentioned or implied | (interrogative) what one or ones","Choose:kel (this is a compromise between Globasa's ke – skipped because it exists already – and Lidepla's kwel, which is otherwise the best auxlang candidate)",ke,qo,kwel
+what (question pronoun),what? (interrogative pronoun),Compound:kel-it (as in Globasa and Glosa),keto,qo-ra,kwo
+please (interjection),interjection to make a polite request,,"fe lutuf, fe peti",place,plis
+table (furniture),item of furniture,,mesa,mensa,tabla
+"with, together with",in the company of | with::with | with::in addition to | with::in support of | –,,ton,kon,kun
+go,to move through space (especially from one place to another),,idi,ki,go
+station,place where a vehicle may stop,,"busdom, trendom",statio,stasion
+how,in what manner | in what state,"Compound:kel-ge (essentially as in Globasa, Glosa, and Esperanto) ","kemaner, kemo, kepul, daydenmo","komo, qo-mode",komo
+"so, thus, like this, in this way",in the same aformentioned manner | in this way or manner | – | –,Compound:se-ge (similar to Globasa and Esperanto),"daydenmo, hinmo",so,tak
+"like that, in that way",in that particular manner | –,Set class:adv; Compound:to-ge,denpul,,
+"real, actual","true, genuine, not merely nominal | real::genuine, not artificial, counterfeit or fake | real::that has physical existence | existing in act or reality, not just potentially",,real,reali,reale
+after (preposition),subsequently; following in time; later than,,xafe (xa+fe),"po, post",afte
+after (conjunction),signifies that the action of its clause takes place before the action of the other clause,Compound:po ke,xaki (xa+ki),,
+"afterwards, afterward, then, after",at a later or succeeding time | – | soon afterward | then::next in order | behind; later in time; following,Compound:po-ge,jaxali (ja+xa+li),po-co,poy
+all,every individual of the given class,,moy,panto,"ol, oli"
+everything,all the things,Compound:ol-it,moyto,panto-ra,olo
+"OK, okay, all right","all right, permitted | OK::acknowledgement or acceptance | – | Used to affirm, indicate agreement, or consent (1)",,okey,no-defekti,hao

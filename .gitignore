@@ -1,0 +1,12 @@
+*.log
+*.bak
+*.txt?
+*~
+__pycache__/
+/data/cldf
+/data/kaikki.org-dictionary-English.jsonl.*
+/data/*-words.csv
+/data/phoible.csv
+/data/top*.csv
+/data/wordlist-20*.md
+/data/termdict.txt

@@ -1,0 +1,31 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+-ed (past tense),past tense,Set class:preverb,le,pa,he
+(indicates the present tense),present tense,Set class:preverb,–,–,–
+"a, an, the (singular noun phrase marker)",– | indefinite article | article,Skip:un (only used before vowels); Set class:det,–,"u, un (before vowels and h)",ge
+"I, me",personal pronoun | direct object of a verb,,mi,mi,me
+it,subject — inanimate thing | object,,to,id,it
+and,"used to connect two similar words, phrases, et cetera",,ji,e,e
+you (singular),subject pronoun: the person being addressed | object pronoun: the person being addressed ,,yu,tu,"yu, yu un"
+"be, am, are, is (copula)","to occupy a place | be::intransitive, non-copulative (usually literary in English): to exist; to have real existence | – | – | –",,sen,es,"bi, es"
+"-s, -es (plural marker)",regular plurals of nouns | plurals of nouns,"Allow langs: globasa glosa id tl pcm sw th vi (we prefer a particle rather than an affix, but Swahili ma- is nevertheless acceptable due to its similarity to related stand-alone words); Syllables:1; Set class:det",plu,plu,"-s, -es"
+not,negates meaning of verb,,no,ne,bu
+"he, she, him, her","personal pronoun ""he"" | person | accusative / direct object | she",,"te, mante (man+te), femte (fem+te)","an, fe","ta, lu, ela"
+"speak, say",to communicate with one's voice using words | to pronounce,,"pala, loga",dice,shwo
+"we, us","generic we (the speaker and at least one other person, regardless of whether it's the person being addressed) | objective case of ""we""",,imi,na,nu
+"of, -'s (genitive marker)",possessive genitive: belonging to | possessive marker,Set class:prep,"de, -su",de,"de, -ney"
+"thing, object","that which is considered to exist as a separate entity, object, quality or concept | thing",Syllables:2,xey,ra,"kosa, obyekta"
+"-age, -ware, -work (thing made from, possessing the quality of, or associated with)","made from or possessing the quality of | denoting items made from a particular substance, of a particular kind, or for a particular use | structure or work of art crafted chiefly from a given material ",Syllables:1,xey-,-ra,"-ika, -ka"
+young,in the early part of life or growth,,juni,juve,yunge
+"(a young, not yet fully grown member of a species or group)","a young, not yet fully grown individual",,juni-,ju-,yun-
+"do, make","perform, execute | to construct",,fale,akti,"zwo, fai"
+that (conjunction),connecting a noun clause,,ki,ke,ke
+will (future tense),indicating future action,Set class:preverb,xa,fu,ve
+"want, desire",to desire | wish for earnestly,,vole,volu,yao
+"they, them",third-person plural pronoun | third personal plural pronoun used after a preposition or as the object of a verb,,"ete, oto",mu,li
+"can, be able to",to be able to; to know how to | have ability to,,abil,pote,mog
+in,contained by | surrounded by,,in,in,in
+know,be justifiably certain or sure about (something true) | have knowledge of ,,jixi,ski,jan
+whether (question marker),introducing indirect questions | yes-no::particle used to form yes-no questions,,kam,qe,"ob, ku"
+common,mutual | usual,,komun,koeno,komune
+tongue,organ,,xeto,"glosa, lingua",lisan
+language,body of words used as a form of communication | the ability to communicate using words ,,basa,"lingua, glosa",lingwa

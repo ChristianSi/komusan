@@ -1,0 +1,6334 @@
+word: -ge
+class: suffix
+infl: ko (-게/-ge); ru (-е/-e); te (-గా/-gā)
+sense: used to form adverbs from adjectives
+bn: -ভাবে
+ca: -ment
+cmn: 地
+cs: -ě
+da: (-t (or, with some adjectives, no suffix at all))
+de: -erweise; -lich
+el: -α; -ως
+en: -ly (turns content words into adverbs)
+eo: -e
+es: -mente
+fa: ـانه; ـیها
+fi: -sti
+fr: -ment
+globasa: -li
+glosa: –; -mode
+hi: से
+hu: -an; -en; -lag; -leg; -l; -ul; -ül
+id: dengan
+io: -e
+it: -mente
+ja: ...く; ...に
+ko: -게
+lidepla: -m; -em; -nem; -shem
+nl: no change in form); -erwijs; -lijk; -jes; genoeg
+pl: -o
+pt: -mente
+ru: -о; -е; по-...-ски; -ски
+sv: -t
+sw: vi-
+ta: -ஆக
+te: -గా
+tl: nang
+tr: bir şekilde; -ce; -ca; -çe; -ça
+vi: một cách
+
+word: -ka
+class: suffix
+infl: lidepla (-ka); ru (-ка/-ka)
+sense: made from or possessing the quality of | denoting items made from a particular substance, of a particular kind, or for a particular use | structure or work of art crafted chiefly from a given material
+de: -ung
+en: -age; -ware; -work (thing made from, possessing the quality of, or associated with)
+es: -aje
+fr: -age
+globasa: xey-
+glosa: -ra
+it: -aggio
+lidepla: -ika; -ka
+pt: -agem; -ágio
+ru: -ник; -ица; и́ца; -ка
+
+word: -su
+class: suffix
+infl: globasa (-su); en (-s)
+sense: suffix forming possessive determiners | suffix forming possessive determiners
+cmn: 的
+en: -r; -s (suffix forming possessive determiners)
+globasa: -su
+ja: の
+ko: -의
+lidepla: -ney
+th: ของ
+vi: của
+yue: 嘅
+
+word: agni
+class: noun
+infl: hi (आग/āg, अग्नि/agni, अगन/agan, आगि/āgi); lidepla (agni); te (అగ్ని/agni); bn (আগুন/agun, অগ্নি/ogni)
+sense: oxidation reaction
+am: እሳት; ቃጥሎ
+ar: نَار
+bg: о́гън
+bn: আগুন; অগ্নি; অনল; আতশ; সর্বভুক
+ca: foc
+cmn: 火
+cs: oheň; hoření
+da: ild
+de: Feuer
+el: φωτιά
+en: fire
+eo: fajro
+es: fuego; incendio
+fa: آتَش; آذَر
+fi: tuli
+fr: feu
+globasa: atex
+glosa: piro
+ha: wuta
+hi: आग; अग्नि; आतिश; जलन; अगनी; अगन; आगि; शोला
+hu: tűz
+ia: foco; incendio
+id: api
+io: fairo
+it: fuoco
+ja: 火
+ko: 불
+lidepla: agni
+ms: api
+nl: vuur
+pl: ogień
+pt: fogo
+ro: foc
+ru: ого́нь
+sv: eld; brand
+sw: moto
+ta: நெருப்பு; தீ
+te: అగ్ని
+th: ไฟ
+tl: apoy
+tpi: paia
+tr: ateş; od
+uk: вого́нь; ва́тра
+ur: آگ; آتِش; اَگْنی
+vi: lửa
+yue: 火
+
+word: arko
+class: noun
+infl: es (arco); globasa (arko); de (Arkus); en (arch, arc); fr (arc, arche); glosa (arca); ja (円弧/enko, 弧/ko); lidepla (arka); ru (а́рка/árka)
+sense: architectural element (arch) | inverted U shape (arch) | geometry: part of a curve (arc) | curve (arc)
+ar: قَوْس; مُنْحَنَى
+arz: بكية; قوس
+bg: арка; дъга
+ca: arc
+cmn: 拱; 拱券; 拱門 /拱门; 拱形; 弧; 弧形
+cs: oblouk
+da: bue
+de: Bogen; Arkus; Kreisbogen; Kurve
+el: αψίδα
+en: arch; arc
+eo: arko
+es: arco; curva
+fa: طاق; قوس; کمان; خم
+fi: kaari
+fr: arc; arche; arc de courbe
+globasa: arko
+glosa: arca
+hi: चाप
+hu: ív; körív
+io: arko
+it: arco
+ja: アーチ; 円弧; 弧
+ko: 아치; 원호
+lidepla: arka
+ms: gerbang; lengkung; lengkuk; lengkok
+nl: boog
+pl: łuk
+pt: arco; curva
+ro: arc
+ru: а́рка; свод; дуга́
+sv: valvbåge; valv; båge; kurva
+th: ช่องโค้ง
+tl: bantok
+tr: kemer; yay; kavis; eğri
+uk: а́рка; дуга́
+vi: vòm; vòng cung
+
+word: baba
+class: noun
+infl: ar (أَب/ʔab, بَابَا/bābā); bn (আব্বা/abba, বাবা/baba); cmn (爸爸/bàba); fa (بابا/bâbâ); ha (ùbā, bā̀ba); sw (baba); tr (baba); hi (बाप/bāp); id (bapa); ru (ба́тька/bátʹka); vi (ba)
+sense: male parent
+am: እባት
+ar: أَب; وَالِد; بَابَا
+bg: баща́; та́тко; тати; отец
+bn: আব্বা; পিতা; বাবা
+ca: pare
+cmn: 父親 /父亲; 父; 爸爸
+cs: otec; táta; tatínek; taťka
+da: far; fader
+de: Vater; Vati; Papa
+el: πατέρας
+en: father
+eo: patro
+es: padre
+fa: پَدَر; پِدَر; وَالِد; بابا; والِد
+fi: isä
+fr: père; papa
+globasa: patre
+glosa: patri
+ha: ùbā; bā̀ba
+hi: पिता; वालिद; बाप; पिदर
+hu: apa
+ia: patre
+id: bapa; bapak; ayah; ayahanda
+io: patro
+it: padre; papà
+ja: お父さん; 父; パパ; 父親
+ko: 아버지; 아빠; 아버님; 애비; 부친
+lidepla: patra
+ms: bapa; ayah; bapak; ayahanda; rama; abah
+nl: vader; papa; pap; pa
+pl: ojciec; tata
+pt: pai
+ro: tată
+ru: оте́ц; ба́тюшка; ба́тька; папа́ша; тя́тя
+sv: fader; far; pappa
+sw: baba; mzee
+ta: அப்பா; தந்தை; அத்தன்; அப்பன்
+te: నాన్న; తండ్రి
+th: พ่อ; บิดา
+tl: ama; tatay; papa; tatang; itay; tay
+tpi: papa
+tr: baba; ata
+uk: ба́тько; оте́ць
+ur: والِد; باپ
+vi: cha; ba; bố; tía; thầy; cậu; bọ
+yue: 父親 /父亲; 老竇 /老窦; 老豆
+
+word: ban
+class: det
+infl: globasa (ban); ar (بَعْضٌ/baʕḍun, بَعْض/baʕḍ); sw (baadhi); th (บาง/baang); tr (bazı)
+sense: a certain number | certain proportion of | unspecified quantity or number of | indefinite quantity or number | certain, unspecified or unknown
+ar: بَعْضٌ; بَعْض
+arz: بعض
+bg: няколко; ня́какъв; ня́кой
+bn: একটু
+ca: qualque; qualcun; qualcuna; qualcuns; qualcunes; algun; alguna; alguns; algunes; qualques; tot de
+cmn: 有的; 一些; 幾個 /几个
+cs: nějaký; několik; trochu; některý
+da: nogle; somme; en; et; en vis; et vist
+de: einige; manche; welche; ein paar; irgendein
+el: μερικοί; μερικές; μερικά; λίγο; κάποιος
+en: some
+eo: iu; iuj; ia
+es: alguno; algunos; algunas; unos; unas
+fi: jotkut; muutamat; eräät; osa; jokunen; jotkin; vähän; joitakin; muutamia; eräs; joku; jokin
+fr: quelque; quelques; certains; certain; des; du; de la; quelconque
+globasa: ban
+glosa: uno
+hi: कुछ; थोड़ा; कोई
+hu: egyesek; némelyek; néhányan; egyes; néhány; némely; némelyik; bizonyos; pár; egypár; egynéhány; valahány; valamilyen; valamiféle; valami; egy bizonyos
+ia: alcun; qualque
+id: beberapa
+it: alcuno
+ja: いくつか; ある; 〜か; いくらか
+ko: 어떤; 몇
+lidepla: kelke; koy
+nl: enigen; sommigen; enkele; enkelen; enige; sommige; wat (countable/uncountable); wat
+pl: niektórzy; niektóre; kilka; trochę; jakiś
+pt: algum; alguns; um
+ro: niște; nişte
+ru: не́который; не́сколько; немно́го; како́й-то; како́й-нибудь; не́кий
+sv: vissa; somliga; en del; några; lite; någon; något
+sw: baadhi ya; baadhi
+ta: சில; சிலர்; கொஞ்சம்
+th: บาง; มั่ง
+tl: may; mayroon
+tpi: sampela
+tr: bazısı; kimi; kimisi; bazı; bir
+uk: де́який; кі́лька; тро́хи; яки́йсь; котри́йсь; яки́й-небудь
+ur: کچھ; کوئی
+vi: vài; một vài; một số; mấy; một ít; nào đó; gì đó
+yue: 有啲; 一啲
+
+word: ban-it
+class: pron
+sense: unspecified object
+ar: شَيْء
+arz: حاجة
+bg: не́що
+bn: কিছু একটা
+ca: alguna cosa; quelcom; qualque cosa
+cmn: 某事; 某物; 某東西 /某东西
+cs: něco
+da: noget; et eller andet
+de: etwas
+el: κάτι
+en: something
+eo: io
+es: algo; alguna cosa
+fa: چیزی
+fi: jokin; jotakin
+fr: quelque chose
+globasa: banto
+glosa: uno-ra
+hi: कुछ
+hu: valami
+io: ulo; kelko
+it: qualcosa
+ja: 何か
+ko: 무언가; 뭔가; 무엇인가
+lidepla: koysa
+ms: sesuatu
+nl: iets
+pl: coś
+pt: algo; alguma coisa
+ro: ceva
+ru: что́-то; не́что; кое-что́
+sv: något; någonting; någon
+ta: ஏதோ
+te: ఏదో
+th: บางสิ่ง
+tpi: wanpela samting
+tr: bir şey
+uk: щось; де́що; що-не́будь; чого́-не́будь
+ur: کچھ
+vi: cái gì; gì; một cái gì đó
+yue: 啲嘢; 某啲嘢
+
+word: baru
+class: noun
+infl: globasa (baru); bn (ভালুক/bhaluk); de (Bär); en (bear); hi (भालो/bhālo, भालू/bhālū); id (beruang)
+sense: large mammal of family Ursidae
+am: ድብ
+ar: دُبّ; دُبَّة
+arz: دبَّة; دبّ
+bg: мечо́к; ме́чка
+bn: ভালুক
+ca: ós
+cmn: 熊
+cs: medvěd
+da: bjørn
+de: Bär; Bärin
+el: αρκούδα; άρκτος
+en: bear
+eo: urso
+es: oso; úrsido
+fa: خرس
+fi: karhu; kontio; otso; mesikämmen (hypocorism)
+fr: ours; ourse
+globasa: baru
+glosa: ursu; arkti
+hi: भालो; भालू; रीछ
+hu: medve
+ia: urso
+id: beruang
+io: urso
+it: orso
+ja: 熊; クマ
+ko: 곰
+lidepla: berna
+ms: beruang
+nl: beer; berin
+pl: niedźwiedź; niedźwiedzica; miś
+pt: urso; ursa
+ro: urs; ursoaică; moș Martin
+ru: медве́дь; медве́дица; медвежо́нок; ми́шка
+sv: björn
+sw: dubu
+ta: கரடி
+te: ఎలుగుబంటి; ఎలుగ్గొడ్డు; ఎలుగు
+th: หมี
+tl: oso
+tr: ayı
+uk: ведмі́дь
+ur: رِیچھ; بھالُو; بھالُوک
+vi: gấu
+yue: 熊; 熊人
+
+word: basa
+class: noun
+infl: globasa (basa); hi (भाषा/bhāṣā, भाखा/bhākhā, भासा/bhāsā, भाष/bhāṣ); bn (ভাষা/bhaśa); id (bahasa); te (భాష/bhāṣa); th (ภาษา/paa-sǎa)
+sense: body of words used as a form of communication | the ability to communicate using words
+am: ቋንቋ; ልሳን
+ar: لُغَة; لِسَان
+bg: ези́к
+bn: ভাষা; জবান
+ca: idioma; llengua; llenguatge
+cmn: 語言 /语言; 話 /话
+cs: jazyk; řeč
+da: sprog; mål; tunge; tungemål; sprogbeherskelse; tale
+de: Sprache; Einzelsprache
+el: γλώσσα; λόγος; ομιλία
+en: language
+eo: lingvo
+es: lengua; idioma; lenguaje
+fa: زَبَان; لِسَان; زَبان; زُبان; لِسان
+fi: kieli; puhe
+fr: langue; langage
+globasa: basa
+glosa: lingua; glosa
+ha: harshe
+hi: भाषा; बोली; भाखा; भासा; भाष; वाणी
+hu: nyelv
+ia: lingua; linguage
+id: bahasa
+io: linguo
+it: lingua; linguaggio
+ja: 言語; 言葉
+ko: 언어; 말
+lidepla: lingwa
+ms: bahasa
+nl: taal; spraak; tong
+pl: język; mowa
+pt: idioma; língua; linguagem
+ro: limbă; vorbire; limbaj
+ru: язы́к; речь
+sv: språk; tungomål; tal
+sw: lugha
+ta: மொழி; பாசை
+te: భాష; మాట్లాడు
+th: ภาษา
+tl: wika; salita; lengguwahe
+tr: dil; til
+uk: мо́ва
+ur: زَبان; زُبان; بھاشا; بولی; لِسان
+vi: tiếng; ngôn ngữ; tiếng nói
+yue: 語言 /语言
+
+word: bat
+class: conj
+infl: en (but); lidepla (bat); ar (بَلْ/bal); sw (bali); yue (不過/不过/bat¹ gwo³)
+sense: although (but) | rather (but) | but (although)
+ar: لٰكِن; لٰكِنَّ; وَلٰكِن; وَلٰكِنَّ; بَلْ; وَلٰكِنْ
+arz: لكن; بس
+bg: но; оба́че; а́ма; ала́
+bn: কিন্তু
+ca: mes; però; mas; emperò; tot i que; malgrat que
+cmn: 可是; 但是; 不過 /不过; 而; 然而
+cs: ale; jenže
+da: men
+de: aber; aber trotzdem; sondern; trotzdem
+el: μολονότι; παρόλο; καίτοι; αν και; αλλά; μα; παρά; ωστόσο; παρ’ όλ’ αυτά; μολαταύτα; εντούτοις
+en: but; although
+eo: sed; tamen
+es: aunque; pero; mas; empero; sino
+fi: mutta; vaan; paitsi
+fr: mais; cependant
+globasa: mas
+glosa: sed
+hi: लेकिन; पर; मगर; परंतु
+hu: de; viszont; hanem; azonban; ám; ugyanakkor
+id: kecuali; tetapi; tapi; namun
+io: ma; tamen
+it: ma; però; tuttavia
+ja: が; けれど; けれども; けど; しかし; でも; ではなく; じゃなく
+ko: 그러나; 하지만; -지만
+lidepla: bat
+ms: tetapi
+nl: maar; echter; hoewel
+pl: ale; chociaż; jednakże
+pt: embora; mas; porém; apesar de
+ro: dar; însă; ci
+ru: но; то́лько; хотя́; хоть; а; одна́ко
+sv: men; fast; utan
+sw: lakini; bali; walakini
+ta: ஆனால்
+th: แต่; แต่ว่า
+tl: baga ma't; kundi
+tr: ama; ancak; fakat; lakin; gerçi
+uk: але́; а
+ur: لیکِن; اَگَرْچِہ; مَگَر
+vi: nhưng; nhưng mà; mà; dưng cơ; dưng cơ mà
+yue: 但係 /但系; 不過 /不过; 而
+
+word: baum
+class: noun
+infl: de (Baum); lidepla (baum)
+sense: large woody plant
+am: ዛፍ
+ar: شَجَر; شَجَرَة
+bg: дърво́
+bn: গাছ; বৃক্ষ
+ca: arbre
+cmn: 樹 /树; 喬木 /乔木; 樹木 /树木
+cs: strom
+da: træ
+de: Baum
+el: δέντρο
+en: tree
+eo: arbo
+es: árbol
+fa: دِرَخْت; دَرَخْت; دار
+fi: puu
+fr: arbre
+globasa: drevo
+glosa: dendro; arbori
+ha: bishiyā̀; bishiyoyi
+hi: पेड़; वृक्ष
+hu: fa
+ia: arbore
+id: pohon
+io: arboro; -iero
+it: albero
+ja: 木; 樹木
+ko: 나무
+lidepla: baum
+ms: pokok; pohon
+nl: boom
+pcm: stik; tri
+pl: drzewo
+pt: árvore
+ro: arbore; copac; pom
+ru: де́рево
+sv: träd
+sw: mti
+ta: மரம்; விருக்ஷம்
+te: చెట్టు; వృక్షము
+th: ต้นไม้; เฌอ; พฤกษา
+tl: puno; punongkahoy
+tpi: diwai
+tr: ağaç
+uk: де́рево
+ur: پیڑ; دَرَخْت
+vi: cây
+yue: 樹 /树; 樹木 /树木
+
+word: bira
+class: noun
+infl: am (ቢራ/bira); ar (بِيرَة/bīra); es (birra); globasa (bira); glosa (bira); lidepla (bira); tr (bira); bn (বিয়ার/biẏar); de (Bier); en (beer); hi (बियर/biyar, मदिरा/madirā); id (bir); ja (ビール/bīru); sw (bia); te (బీరు/bīru); th (เบียร์/biia); tpi (bia); vi (bia)
+sense: alcoholic drink made of malt | glass of beer
+am: ቢራ
+ar: بِيرَة; جِعَة; مِزْر
+bg: би́ра; пи́во
+bn: বিয়ার
+ca: cervesa
+cmn: 啤酒
+cs: pivo
+da: øl
+de: Bier
+el: μπίρα; ζύθος; μπύρα
+en: beer
+eo: biero
+es: cerveza; birra; chela; caña
+fa: آبْجَوْ; آبْجُوْ
+fi: olut; kalja; sahti; mallasjuoma; tuoppi; oluttuoppi; tuopillinen
+fr: bière; demi
+globasa: bira
+glosa: bira
+ha: giyā̀
+hi: बियर; यवसुरा; बीयर; शराब; मद्य; मदिरा
+hu: sör
+ia: bira
+id: bir
+io: biro
+it: birra; boccale
+ja: ビール; ビール一杯
+ko: 맥주
+lidepla: bira
+ms: bir
+nl: bier; biertje
+pl: piwo
+pt: cerveja
+ro: bere
+ru: пи́во
+sv: öl
+sw: bia; pombe
+ta: தோப்பி
+te: బీరు
+th: เบียร์
+tl: serbesa
+tpi: bia
+tr: bira
+uk: пи́во
+ur: بِیئَر; شَراب
+vi: bia; li bia; cốc bia
+yue: 啤酒
+
+word: blan
+class: adj
+infl: lidepla (blan); cmn (白/bái); es (blanco); fr (blanc); glosa (blanka); te (తెల్లని/tellani); yue (白/baak⁶)
+sense: bright and colourless
+am: ነጭ
+ar: أَبْيَض
+bg: бял
+bn: সাদা; সফেদ; সুফেদ; ধলা
+ca: blanc
+cmn: 白; 白色
+cs: bílý
+da: hvid
+de: weiß
+el: άσπρος; λευκός
+en: white
+eo: blanka
+es: blanco; albo; albar; albero (disused); dosalbo; albugíneo; cándido
+fa: سَفید; سِفید
+fi: valkoinen; valkea
+fr: blanc
+globasa: sefide
+glosa: leuko; blanka; aspro
+ha: feri
+hi: सफ़ेद
+hu: fehér
+ia: blanc
+id: putih
+io: blanka
+it: bianco
+ja: 白い; 白色の
+ko: 희다; 흰; 하얗다; 하얀
+lidepla: blan
+ms: putih; puteh; abiad; abyad
+nl: wit
+pl: biały
+pt: branco
+ro: alb
+ru: бе́лый
+sv: vit
+sw: -eupe
+ta: வெள்
+te: తెల్లని
+th: ขาว
+tl: puti; putiq
+tpi: waitpela
+tr: ak; beyaz
+uk: бі́лий
+ur: سَفید
+vi: trắng; bạch
+yue: 白
+
+word: blu
+class: adj
+infl: en (blue); glosa (blu); lidepla (blu); sw (buluu, bluu); tpi (blu, blupela); de (blau); fr (bleu); globasa (blue); id (biru)
+sense: blue-coloured — see also dark blue, light blue
+am: ሰማያዊ
+ar: أَزْرَق; زَرْقَاء; زُرْق
+bg: син; лазу́рен
+bn: নীল
+ca: blau
+cmn: 藍色 /蓝色; 藍 /蓝
+cs: modrý
+da: blå
+de: blau
+el: μπλε
+en: blue
+eo: blua
+es: azul; celeste
+fa: آبی; کَبود
+fi: sininen
+fr: bleu
+globasa: blue
+glosa: blu; ciano; azur
+hi: नीला; नीली
+hu: kék
+ia: blau
+id: biru
+io: blua
+it: blu; azzurro
+ja: 青い; 青の
+ko: 푸르다; 파랗다
+lidepla: blu
+ms: biru; belau
+nl: blauw
+pl: niebieski; błękitny
+pt: azul; azulado
+ro: albastru; azuriu
+ru: си́ний; голубо́й; лазу́рный
+sv: blå
+sw: buluu; bluu
+ta: நீலம்
+te: నీలము
+th: น้ำเงิน; ฟ้า
+tl: bughaw; asul
+tpi: blu; blupela
+tr: mavi; gökçe
+uk: си́ній; блаки́тний; голуби́й; лазу́рний
+ur: نِیلا
+vi: xanh; xanh lam; màu xanh nước biển
+yue: 藍色嘅 /蓝色嘅; 藍 /蓝
+
+word: bon
+class: adj
+infl: fr (bon); globasa (bon); es (buen); glosa (boni); ko (좋은/jo'eun)
+sense: acting in the interest of good; ethical good intentions | useful for a particular purpose | pleasant; enjoyable
+am: ጥሩ
+ar: حَسَن; جَيِّد; طَيِّب; صَالِح
+bg: добъ́р; доброка́чествен; ху́бав
+bn: ভাল; নেক
+ca: bo; bon
+cmn: 好; 良
+cs: dobrý
+da: god; fin
+de: gut; angenehm
+el: καλός; αγαθός
+en: good
+eo: bona
+es: bueno; buena; buen; fetén
+fa: خوب; نیک
+fi: hyvä; mukava; hauska; kiva
+fr: bon
+globasa: bon
+glosa: boni
+hi: अच्छा; भला; उत्तम; नेक; खूब; ख़ूब; नीति; अच्छी; अच्छे
+hu: jó
+id: baik; bagus
+io: benigna; bona; agreabla
+it: buono
+ja: 良い; いい; 善意の
+ko: 좋다; 좋은
+lidepla: hao
+ms: baik
+nl: goed
+pl: dobry
+pt: bom; boa
+ro: bun; bună
+ru: хоро́ший; до́брый; неплохо́й; приго́дный; доброка́чественный; прия́тный
+sv: god; bra
+sw: nzuri; njema; mzuri
+ta: நன்மை; நல்ல
+te: మంచి; నీతి; మంచిది; ఉత్సోహకరము
+th: ดี; ดี ๆ; ดูดี; สวยงาม
+tl: mabuti; mabait
+tpi: gutpela
+tr: iyi
+uk: до́брий; хоро́ший; га́рний
+ur: اَچّھا; بَھلا
+vi: tốt; hay; tuyệt
+yue: 好; 良
+
+word: dai
+class: adj
+infl: globasa (day); yue (大/daai⁶); cmn (大/dà); id (raya); th (ใหญ่/yài)
+sense: of a great size — see also large
+am: ታላቁ
+ar: كَبِير
+bg: голя́м
+bn: বড়
+ca: gran; gros
+cmn: 大
+cs: velký
+da: stor
+de: groß
+el: μεγάλος
+en: big
+eo: granda
+es: grande
+fa: بُزُرْگ; کَلَان; مِهْ; کٹه; کټه; بزرگ; گنده; کلان
+fi: iso; suuri
+fr: grand; gros
+globasa: day
+glosa: mega; magni
+ha: bàbba
+hi: बड़ा; विशाल; विराट
+hu: nagy
+ia: grande; grosse
+id: besar; agung; raya
+io: granda
+it: grande; grosso
+ja: 大きい
+ko: 크다; 큰
+lidepla: gran
+ms: besar; raya; gedang
+nl: groot; omvangrijk
+pl: duży; wielki
+pt: grande
+ro: mare
+ru: большо́й; вели́кий; кру́пный
+sv: stor
+sw: kubwa
+ta: பரு; பெரிய
+te: పెద్ద
+th: ใหญ่
+tl: malaki
+tr: büyük; ulu
+uk: вели́кий
+ur: بڑا
+vi: lớn; to; bự
+yue: 大
+
+word: damu
+class: noun
+infl: globasa (damu); sw (damu); am (ደም/däm); ar (دَم/dam); id (darah)
+sense: vital liquid flowing in human and animal bodies
+am: ደም
+ar: دَم
+bg: кръв
+bn: রক্ত; রুধির
+ca: sang
+cmn: 血
+cs: krev
+da: blod
+de: Blut
+el: αίμα
+en: blood
+eo: sango
+es: sangre
+fa: خُون; خون
+fi: veri
+fr: sang
+globasa: damu
+glosa: hema
+ha: jini
+hi: ख़ून; रक्त; लहू
+hu: vér
+ia: sanguine
+id: darah
+io: sango
+it: sangue
+ja: 血; 血液
+ko: 피; 혈액
+lidepla: hema
+ms: darah
+nl: bloed
+pl: krew; jucha; posoka; farba
+pt: sangue
+ro: sânge
+ru: кровь
+sv: blod
+sw: damu
+ta: ரத்தம்; குருதி
+te: రక్తం; నెత్తురు
+th: เลือด; โลหิต; โรหิต
+tl: dugo
+tpi: blut
+tr: kan
+uk: кров
+ur: خُون; لَہُو; رَکْت; دَم
+vi: máu
+yue: 血
+
+word: de
+class: prep
+infl: cmn (...的/...de); es (de); fr (de); globasa (de); glosa (de); lidepla (de); de (des, der); hi (-ए-/-e-)
+sense: possessive genitive: belonging to | possessive marker
+ar: ل; لدى; مْتاع
+arz: بتاع; ديال
+bg: на
+bn: -এর; -র
+ca: de
+cmn: ...的; ...之; 的; 之
+cs: z; ze; -ův; -in
+da: af
+de: von; -s; des; der
+el: του; της; των
+en: of; -'s (genitive marker)
+eo: de
+es: de
+fa: (ezafe (اضافه (ezâfe)) is used)
+fi: -n
+fr: de
+globasa: de; -su
+glosa: de
+hi: ... का; -ए-; का; के; की
+hu: -é
+ia: de
+id: (possessor is simply placed after the possession)
+io: di
+it: di
+ja: ...の; の; が; ん
+ko: ...의; 의
+lidepla: de; -ney
+ms: milik
+nl: van; -s
+pl: ((genitive case))
+pt: de
+ro: de
+ru: -ов; -ев; -ёв; -ин; -ын
+sv: -s; av
+sw: -a
+ta: -இன்; -உடைய
+th: ของ
+tl: ng
+tpi: bilong
+tr: -in; -ın; -ün; -un; -'nin; -'nun; -'nın
+ur: ... کا; izāfa; کا; کے; کی
+vi: của
+yue: ...嘅; 個 /个; 嘅; 的; 之
+
+word: din
+class: noun
+infl: bn (দিন/din, দিনের বেলা/diner bela); globasa (din); hi (दिन/din); es (día); glosa (di); ru (день/denʹ)
+sense: period of 24 hours | period from midnight to the following midnight | period between sunrise and sunset | rotational period of a planet | part of a day period which one spends at one's job, school, etc.
+am: ቀን; መአልት
+ar: يَوْم; نَهَار
+bg: деноно́щие; ден
+bn: দিন; দিনের বেলা
+ca: dia; jorn; jornada
+cmn: 天; 日; 白天; 一天; 白晝 /白昼
+cs: den
+da: døgn; dag
+de: Tag
+el: ημέρα; μέρα; εικοσιτετράωρο; ημερονύχτιο
+en: day
+eo: tago; labortago
+es: día; jornada
+fa: روز; یَوْم; یُوْم; شَبانِهروز
+fi: päivä; vuorokausi
+fr: jour; journée
+globasa: din
+glosa: di; hemera
+ha: rana
+hi: दिन; वार; दिवस; दिहाड़ा
+hu: nap; nappal
+ia: die
+id: hari
+io: dio; jorno
+it: giorno; dì
+ja: 日; 一日; 昼; 昼間
+ko: 일주야; 하루; 일; 날; 낮; 주간
+lidepla: dey
+ms: hari; yaum; siang; siang hari
+nl: dag; etmaal
+pl: dzień; doba
+pt: dia
+ro: zi
+ru: су́тки; день; светово́й день
+sv: dygn; dag
+sw: siku; mchana
+ta: நாள்; பகல்
+te: రోజు
+th: วัน; กลางวัน
+tl: araw
+tpi: de
+tr: gün; gündüz
+uk: день; до́ба
+ur: دِن; روز; یَوم
+vi: ngày; hôm; bữa; ban ngày
+yue: 日; 白天; 日頭 /日头
+
+word: dom
+class: noun
+infl: lidepla (dom); ru (дом/dom); glosa (domi, -do)
+sense: human abode
+am: ቤት
+ar: بَيْت; مَنْزِل; دَار
+bg: къ́ща; дом
+bn: ঘর
+ca: casa
+cmn: 房屋; 家; 房子; 屋子; 住宅
+cs: dům
+da: hus
+de: Haus
+el: σπίτι
+en: house
+eo: domo
+es: casa; casalicio; vivienda
+fa: خَانَه; خانِه; کاشانِه
+fi: talo
+fr: maison
+globasa: baytu
+glosa: domi; -do; kasa
+ha: gida; soro
+hi: घर; मकान; गृह
+hu: ház; lakóhely; lakhely; hajlék; lak
+ia: casa
+id: rumah
+io: domo
+it: casa
+ja: 家; 建物; 家屋; 一戸建て; お宅; お住まい
+ko: 집; 댁
+lidepla: dom
+ms: rumah; balai
+nl: huis; onderkomen
+pcm: haus
+pl: dom
+pt: casa
+ro: casă
+ru: дом
+sv: hus
+sw: nyumba
+ta: வீடு
+te: ఇల్లు
+th: บ้าน; เรือน
+tl: bahay; tahanan; tirahan
+tpi: haus
+tr: ev; hane
+uk: ха́та; дім; буди́нок
+ur: گَھر; مَکان
+vi: nhà; nhà ở
+yue: 屋
+
+word: du
+class: particle
+infl: globasa (du-); glosa (du); pcm (de)
+sense: progressive aspect
+cmn: 在; 正在
+en: be ...-ing (progressive aspect)
+es: estar -ando; estar -iendo
+fr: être en train de
+globasa: du-
+glosa: du
+hi: रहा; रहे; रही; हुआ; हुए; हुई; हुईं
+id: sedang
+ja: -ている
+ko: -고 있다
+lidepla: zai
+pcm: de
+ta: இரு
+te: ఉంటూ
+th: กำลัง
+tr: -iyor
+vi: đang
+yue: 緊
+
+word: dudan
+class: noun
+infl: globasa (dudan); ar (دُخَان/duḵān); fa (دُود/dūd); hi (धूआँ/dhūā̃); tr (duman)
+sense: visible particles and vapour given off by burning material
+am: ትኪ
+ar: دُخَان
+bg: дим; пу́шек
+bn: ধোঁয়া
+ca: fum
+cmn: 煙 /烟
+cs: dým; kouř
+da: røg
+de: Rauch; Qualm
+el: καπνός
+en: smoke
+eo: fumo
+es: humo
+fa: دُود; دود
+fi: savu
+fr: fumée
+globasa: dudan
+glosa: fumi; kapno
+ha: hayaƙi
+hi: धूआँ; धूम्र
+hu: füst
+ia: fumo
+id: asap
+io: fumo
+it: fumo
+ja: 煙
+ko: 연기
+lidepla: fum
+ms: asap
+nl: rook; walm
+pl: dym
+pt: fumo; fumaça
+ro: fum
+ru: дым; чад
+sv: rök
+sw: moshi
+ta: புகை
+te: పొగ
+th: ควัน
+tl: usok
+tr: sis; duman
+uk: дим
+ur: دُھواں; دُود
+vi: khói
+yue: 煙 /烟
+
+word: dwa
+class: num
+infl: lidepla (dwa); globasa (dua); id (dua); ru (два/dva); tl (dalawa)
+sense: cardinal number 2 | digit or figure
+am: ሁለት
+ar: اِثْنَانِ; اِثْنَتَانِ; ثِنْتَانِ; ٢
+bg: два; дво́йка
+bn: দুই
+ca: dos; dues
+cmn: 二; 兩 /两
+cs: dva; dvě; dvoje; dvojka
+da: to; total
+de: zwei (zwo, zween); Zwei
+el: δύο
+en: two
+eo: du
+es: dos
+fa: دُو; ۲; دو
+fi: kaksi; kakkonen
+fr: deux
+globasa: dua
+glosa: bi
+ha: biyu
+hi: दो; दुई; द्वि
+hu: kettő; két; kettes
+ia: duo; duos
+id: dua
+io: du
+it: due
+ja: 二; 二つ; ツー
+ko: 둘; 두; 이; 투
+lidepla: dwa
+ms: dua; dwi
+nl: twee
+pcm: tu
+pl: dwa; dwójka
+pt: dois; duas
+ro: doi; două
+ru: два; две; дво́е; дво́йка; пара
+sv: två; tvåa
+sw: wili
+ta: இரண்டு
+te: రెండు
+th: สอง
+tl: dalawa
+tpi: tupela; tu
+tr: iki
+uk: два; дві; дво́є; дві́йка
+ur: دو; ۲
+vi: hai
+yue: 二; 兩 /两
+
+word: e
+class: conj
+infl: es (e); fr (et); glosa (e); lidepla (e); cmn (和/hé); th (และ/lɛ́); tr (ve)
+sense: used to connect two similar words, phrases, et cetera
+am: ና; እና
+ar: وَـ
+arz: و
+bg: и
+bn: ও; এবং; আর
+ca: i
+cmn: 和; 與 /与; 及; 以及; 暨; 同
+cs: a
+da: og
+de: und; sowie
+el: και; κι; ϗ
+en: and
+eo: kaj
+es: y; e
+fi: ja; sekä
+fr: et
+globasa: ji
+glosa: e
+ha: dà
+hi: और; एवं; व; तथा; ओ
+hu: és
+ia: e
+id: dan
+io: e; ed
+it: e; ed
+ja: と; かつ; とか; や; そして; 及; 及び
+ko: -과; -와; -하고; -이랑; -랑; 그리고; 및
+lidepla: e
+ms: dan
+nl: en
+pl: i; oraz; tudzież; a
+pt: e
+ro: și; iar
+ru: и; да; а
+sv: och
+sw: na
+ta: -உம்; மற்றும்
+te: మరియు
+th: และ; กับ
+tl: at; saka
+tpi: na; wantaim
+tr: ve; ile
+uk: і; й; та
+ur: اَور
+vi: và; với
+yue: 及; 同; 和
+
+word: el
+class: prep
+infl: globasa (el); ko (-을/-eul)
+sense: object marker
+en: (optional object marker)
+globasa: el
+hi: को
+ja: を
+ko: -을; -를
+lidepla: den
+tr: -i; -ı; -u; -ü
+
+word: estara
+class: noun
+infl: lidepla (stara); bn (তারকা/tarka, তারা/tara, সিতারা/śitara, আখতার/akhtar); de (Stern); en (star); es (astro); fa (سِتَارَه/sitāra, اَخْتَر/axtar, سِتارِه/setâre); fr (astre); globasa (estare); glosa (astro); hi (तारा/tārā, सितारा/sitārā); te (తార/tāra); tl (tala)
+sense: a celestial body appearing as a point of light on the clear night sky, whose position is relatively fixed with respect to each other
+am: ኮከብ
+ar: نَجْم; كوكب
+bg: звезда́
+bn: তারকা; তারা; সিতারা; আখতার
+ca: estrella; estel
+cmn: 星; 星星
+cs: hvězda
+da: stjerne
+de: Stern; Gestirn; Himmelskörper
+el: αστέρι
+en: star
+eo: stelo
+es: estrella; astro
+fa: سِتَارَه; اَخْتَر; سِتارِه
+fi: tähti
+fr: étoile; astre
+globasa: estare
+glosa: astro; sidero
+ha: tauraro
+hi: तारा; सितारा
+hu: csillag
+ia: stella
+id: bintang
+io: stelo
+it: stella; astro
+ja: 星; 恒星; お星様
+ko: 별; 항성
+lidepla: stara
+ms: bintang
+nl: ster
+pl: gwiazda
+pt: estrela
+ro: stea
+ru: звезда́
+sv: stjärna
+sw: nyota
+ta: நட்சத்திரம்; விண்மீன்
+te: నక్షత్రం; తార; చుక్క
+th: ดาว
+tl: bituin; tala
+tr: yıldız
+uk: зі́рка
+ur: سِتارَہ; تارا; تارَہ; اَخْتَر
+vi: sao
+yue: 星; 星星
+
+word: estasion
+class: noun
+infl: lidepla (stasion); bn (স্টেশন/sṭeśon); de (Station); es (estación); fr (station); glosa (statio); id (stasiun); ru (ста́нция/stáncija); tl (estasyon); tr (istasyon)
+sense: place where a vehicle may stop
+am: ኬላ; መናኸሪያ
+ar: مَحَطَّة
+arz: محطة; موقف
+bg: ста́нция; га́ра; спи́рка
+bn: স্টেশন
+ca: estació
+cmn: 站
+cs: nádraží; zastávka; stanice
+da: station
+de: Bahnhof; Station
+el: σταθμός; στάθμευση
+en: station
+eo: stacio; stacidomo
+es: estación
+fi: asema
+fr: gare; station
+globasa: busdom; trendom
+glosa: statio
+hi: स्टेशन
+hu: állomás
+ia: station
+id: stasiun
+io: staciono
+it: stazione; fermata
+ja: 駅; 停留所; 停車場; 宿場
+ko: 터미널; 정류장; 역; 정거장
+lidepla: stasion
+ms: stesen; balai
+nl: station; halte
+pl: dworzec; stacja; przystanek
+pt: estação
+ro: stație; gară
+ru: остано́вка; ста́нция; вокза́л
+sv: station
+sw: kituo
+ta: நிலையம்
+te: స్టేషన్
+th: สถานี
+tl: estasyon; himpilan
+tr: durak; istasyon; gar
+uk: ста́нція; вокза́л; зупи́нка
+ur: مُسْتَقَر; اِیسْتْگاہ; اِسْٹیشَن
+vi: nhà ga; bến; trạm; ga
+yue: 站
+
+word: fale
+class: verb
+infl: globasa (fale); ar (فَعَلَ/faʕala); fr (faire); lidepla (fai)
+sense: perform, execute | to construct
+am: ማድረግ; መስራት
+ar: فَعَلَ; عَمِلَ; صَنَعَ
+arz: عمل
+bg: пра́вя; строя
+bn: করা
+ca: fer
+cmn: 做; 作; 制造; 製作 /制作
+cs: dělat; udělat; stavět
+da: gøre; udføre; lave
+de: tun; machen; bauen
+el: κάνω; κατασκευάζω; φτιάχνω
+en: do; make
+eo: fari
+es: hacer; artificiar; obrar; construir; edificar
+fa: ساختن
+fi: tehdä; rakentaa
+fr: faire
+globasa: fale
+glosa: akti
+hi: करना; बनाना
+hu: tesz; csinál; készít
+ia: facer
+id: buat; laku; melakukan
+io: facar
+it: fare
+ja: する; やる; なさる; 致す; 作る; 建設する
+ko: 하다; 만들다; 제작하다
+lidepla: zwo; fai
+ms: buat
+nl: doen; maken
+pl: robić; zrobić; czynić; uczynić; konstruować
+pt: fazer; realizar; construir
+ro: face
+ru: де́лать; сде́лать; изгота́вливать; изготовля́ть; изгото́вить
+sv: göra
+sw: fanya
+ta: செய்; பண்ணு
+te: చేయు
+th: ทำ
+tl: gawin; gumawa; isagawa
+tpi: mekim; wokim
+tr: yapmak; etmek; kılmak
+uk: роби́ти; зроби́ти; виготовля́ти; вигото́вити
+ur: کَرْنا; بنانا
+vi: làm
+yue: 整
+
+word: feng
+class: noun
+infl: cmn (風/风/fēng); lidepla (feng); fr (vent); yue (風/风/fung¹)
+sense: movement of air
+am: ነፋስ
+ar: رِيح
+bg: вя́тър
+bn: বায়ু; হাওয়া; বাতাস
+ca: vent
+cmn: 風 /风
+cs: vítr
+da: vind; blæst; luftstrøm
+de: Wind
+el: άνεμος; αέρας
+en: wind
+eo: vento
+es: viento; aire; ventisca; ventarrón; simún; siroco; jaloque
+fa: بَاد; باد
+fi: tuuli
+fr: vent
+globasa: vento
+glosa: venti; anemo
+ha: iska
+hi: हवा; पवन
+hu: szél
+ia: vento
+id: angin
+io: vento
+it: vento
+ja: 風
+ko: 바람
+lidepla: feng
+ms: angin; bad; bayu; pawana; rih
+nl: wind
+pl: wiatr
+pt: vento
+ro: vânt
+ru: ве́тер
+sv: vind; blåst
+sw: upepo
+ta: காற்று
+te: పవనము; తెమ్మెర
+th: ลม
+tl: hangin
+tpi: win
+tr: rüzgâr; yel
+uk: ві́тер
+ur: ہَوا; پَوَن
+vi: gió
+yue: 風 /风
+
+word: fer
+class: noun
+infl: fr (fer); lidepla (fer); es (hierro, fierro); glosa (feru)
+sense: chemical element Fe
+am: ብረት
+ar: حَدِيد
+arz: حديد
+bg: желя́зо
+bn: লোহা
+ca: ferro
+cmn: 鐵 /铁
+cs: železo
+da: jern
+de: Eisen
+el: σίδηρος; σίδερο
+en: iron
+eo: fero
+es: hierro; fierro
+fa: آهن
+fi: rauta
+fr: fer
+globasa: hadidu
+glosa: feru; sideri
+hi: लोहा
+hu: vas
+ia: ferro
+id: besi
+io: fero
+it: ferro
+ja: 鉄
+ko: 철; 쇠
+lidepla: fer
+ms: besi; ferum
+nl: ijzer
+pl: żelazo
+pt: ferro
+ro: fier
+ru: желе́зо
+sv: järn
+sw: chuma
+ta: இரும்பு
+te: ఇనుము
+th: เหล็ก
+tl: bakal
+tpi: ain
+tr: demir
+uk: залі́зо
+ur: لوہا; آہن
+vi: sắt
+yue: 鐵 /铁
+
+word: fo
+class: prep
+infl: en (for); lidepla (fo)
+sense: directed at, intended to belong to (for) | supporting (for) | towards (for) | for the purpose of (toward) | – (towards) | – (for the benefit of)
+ar: لِـ; لِأَجْل
+arz: لـ; عشان
+bg: за
+bn: জন্য; দিকে
+ca: per; per a
+cmn: 為了 /为了; 給 /给; 為 /为
+cs: pro; k; na
+da: til; mod; for; henimod
+de: für; zu; nach; um; zwecks
+el: για; υπέρ
+en: for; toward; towards; for the benefit of
+eo: por
+es: para; pora (disused); por; a; hacia
+fa: برای
+fi: varten; puolesta; kohti
+fr: pour; vers
+globasa: tas
+glosa: pro
+hi: ... के लिए; की तरफ़
+hu: -nak; -nek; számára; részére; -ért; mellette; felé; -ra; -re; céljából
+ia: por
+id: untuk; bagi
+it: per; pro; verso
+ja: ...のために; …行きの; のために
+ko: 를 위해서; 을 위해서; ...을 위해
+lidepla: fo
+ms: untuk
+nl: voor; naar
+pl: dla; za; ku; do; na
+pt: para; a favor de; a
+ro: pentru; către; înspre
+ru: для; ра́ди; за; к; на
+sv: för; åt; mot; till
+sw: kwa
+th: สำหรับ; สนับสนุน; ในความโปรดปราน; ไปยัง; ไปสู่; เพื่อ
+tr: için
+uk: для; зара́ди; за; до; на
+ur: ... کے لئے; کیلئے; برائے
+vi: cho; để
+yue: 為了 /为了
+
+word: ga
+class: prep
+infl: ja (が/ga); ko (-가/ga)
+sense: subject marker
+en: (optional subject marker)
+hi: ने
+ja: が
+ko: -이; -가
+lidepla: da
+
+word: ganzo
+class: noun
+infl: globasa (ganzo); cmn (肝臟/肝脏/gānzàng, 肝/gān); ja (肝臓/kanzō); ko (간장/ganjang, 간/gan); vi (gan)
+sense: organ of the body
+am: ጉበት
+ar: كَبِد; كِبْد
+bg: че́рен дроб
+bn: যকৃৎ
+ca: fetge
+cmn: 肝臟 /肝脏; 肝
+cs: játra
+da: lever
+de: Leber
+el: ήπαρ; συκώτι
+en: liver
+eo: hepato
+es: hígado
+fa: جِگَر
+fi: maksa
+fr: foie
+globasa: ganzo
+glosa: hepa
+ha: hantā̀; antā̀
+hi: कलेजा; जिगर; कलेजी; यकृत
+hu: máj
+ia: ficato; hepate
+id: hati; hepar; lever
+io: hepato
+it: fegato
+ja: 肝臓; 肝
+ko: 간장; 간
+lidepla: hepata
+ms: hati; hepar
+nl: lever
+pl: wątroba
+pt: fígado
+ro: ficat
+ru: пе́чень
+sv: lever; lever-
+sw: ini
+ta: கல்லீரல்; நகராமுசி
+te: కాలేయం
+th: ตับ
+tl: atay
+tpi: lewa; liva
+tr: karaciğer
+uk: печі́нка
+ur: کَلیجا; جِگَر
+vi: gan
+yue: 肝
+
+word: gina
+class: noun
+infl: glosa (gina); lidepla (gina, ginjen); ja (女/onna)
+sense: adult female person
+am: ሰበይቲ; ሴት
+ar: اِمْرَأَة
+arz: ست
+bg: жена́
+bn: নারী; মহিলা
+ca: dona
+cmn: 婦女 /妇女; 女人; 女性; 女的
+cs: žena
+da: kvinde
+de: Frau; Weibchen; Weibsperson
+el: γυναίκα
+en: woman
+eo: virino
+es: mujer
+fi: nainen
+fr: femme
+globasa: femixu; femyen
+glosa: femina; fe; gina
+ha: mace; mata
+hi: महिला; नारी; स्त्री; औरत; जनि
+hu: nő; asszony
+ia: femina
+id: perempuan; wanita
+io: muliero; homino
+it: donna
+ja: 女の人; 女; 女性; 女人
+ko: 여성; 계집; 여자; 녀성; 녀자; 여인; 녀인
+lidepla: gina; ginjen
+ms: wanita
+nl: vrouw
+pcm: wuman
+pl: kobieta; kobiecina; baba; babka
+pt: mulher
+ro: femeie; muiere; doamnă
+ru: же́нщина
+sv: kvinna
+sw: mwanamke
+ta: பெண்; ஸ்திரீ
+te: ఆడది; స్త్రీ; మహిళ
+th: ผู้หญิง; ญิง
+tl: babae
+tpi: meri
+tr: kadın; hatun; bayan; karı
+uk: жі́нка
+ur: عَورَت; خاتُون; زَنانی; زَن; مَہِیلا; ناری; سُتْری
+vi: phụ nữ; đàn bà
+yue: 女人; 女性
+
+word: grin
+class: adj
+infl: en (green); lidepla (grin); de (grün); tpi (grinpela)
+sense: having green as its colour
+am: ኣረንጓዴ
+ar: أَخْضَر; خَضْرَاء; خُضْر
+arz: أخضر
+bg: зеле́н
+bn: সবুজ; কচুয়া
+ca: verd
+cmn: 綠色的 /绿色的
+cs: zelený
+da: grøn
+de: grün
+el: πράσινος
+en: green
+eo: verda
+es: verde
+fi: vihreä
+fr: vert
+globasa: kijawi
+glosa: kloro; verdi
+ha: kore
+hi: हरा; सब्ज़
+hu: zöld
+ia: verde
+id: hijau
+io: verda
+it: verde
+ja: 緑の; 緑色の; 青い; 青の
+ko: 녹색의; 초록의
+lidepla: grin
+ms: hijau
+nl: groen
+pl: zielony
+pt: verde
+ro: verde
+ru: зелёный
+sv: grön
+sw: kijani; chanikiwiti
+ta: பச்சை
+te: పచ్చని
+th: เขียว
+tl: lungti; lungtian; berde
+tpi: grinpela
+tr: yeşil
+uk: зеле́ний
+ur: ہَرا; سَبْز
+vi: xanh; xanh lá cây; xanh lục; lục
+yue: 綠色嘅 /绿色嘅
+
+word: habe
+class: verb
+infl: de (haben); glosa (habe); ar (حَازَ/ḥāza); cmn (具备/jùbèi); en (have); globasa (hare)
+sense: to possess | to have (something) as, or as if as, an owner
+ar: مَلَكَ; اِمْتَلَكَ; تَمَلَّكَ; عِنْدَ; حَازَ
+bg: и́мам; владе́я; притежа́вам
+ca: tenir; posseir
+cmn: 有; 擁有 /拥有; 抱有; 具备; 具有; 所有; 具備 /具备
+cs: mít; vlastnit
+da: have; besidde; eje
+de: haben; besitzen
+el: έχω; διαθέτω; κατέχω
+en: have; possess
+eo: havi; posedi
+es: tener; poseer
+fa: داشتن
+fi: omistaa; omata; olla
+fr: avoir; posséder
+globasa: hare
+glosa: habe
+hi: रखना; ...के पास; ...के
+hu: bír; birtokol; rendelkezik; van
+ia: haber
+id: punya
+it: avere; tenere; possedere
+ja: 持つ; ある; いる; 占有する; 所持する; 所有する
+ko: 있다; 가지다; 갖다; 있으시다; 소지하다; 소유하다
+lidepla: hev
+ms: ada; punya; mempunyai
+nl: hebben; bezitten
+pl: mieć; posiadać
+pt: ter; possuir
+ro: avea; poseda; deține
+ru: име́ть; у меня́; у тебя́; облада́ть; владе́ть
+sv: äga; ha; besitta; inneha
+ta: (இரு (iru, literally “object is at subject”))
+th: มี; ครอบครอง
+tl: magkaroon; mag-ari
+tr: sahip olmak; malik olmak
+uk: ма́ти; у/в мене; у/в тебе; etc. See у; в; володі́ти
+ur: ... کے پاس
+vi: có; sở hữu
+yue: 有
+
+word: hanta
+class: noun
+infl: globasa (hanta); bn (হাত/hat); de (Hand); en (hand); ha (hannū); hi (हाथ/hāth); lidepla (handa); tpi (han)
+sense: part of the fore limb
+am: እጅ
+ar: يَد
+bg: ръка́
+bn: হাত; দস্ত
+ca: mà
+cmn: 手
+cs: ruka
+da: hånd
+de: Hand
+el: χέρι
+en: hand
+eo: mano
+es: mano
+fa: دَسْت; دَس
+fi: käsi
+fr: main; mains; menotte; menottes
+globasa: hanta
+glosa: manu; keiro
+ha: hannū
+hi: हाथ
+hu: kéz
+ia: mano
+id: tangan; yad
+io: manuo
+it: mano
+ja: 手
+ko: 손
+lidepla: handa
+ms: tangan; yad
+nl: hand
+pl: ręka; dłoń
+pt: mão
+ro: mână
+ru: рука́; кисть руки́
+sv: hand
+sw: mkono
+ta: கை
+te: చెయ్యి
+th: มือ
+tl: kamay
+tpi: han
+tr: el
+uk: рука́
+ur: ہاتھ; دَسْت
+vi: tay
+yue: 手
+
+word: hen
+class: adv
+infl: cmn (很/hěn); es (bien); fa (خیلی/xeyli); ja (大変/taihen); ru (о́чень/óčenʹ); th (แสน/sɛ̌ɛn)
+sense: to a high degree | extremely | very
+am: በጣም
+ar: جِدًّا
+bg: мно́го
+bn: খুব
+ca: molt; força; tan
+cmn: 很; 太; 非常; 超; 十分
+cs: velmi; tak
+da: meget; særlig; vældig; så
+de: sehr; ganz; wahrlich; schön; so
+el: πολύ; τόσο
+en: very; very much; so
+eo: tre; tiel
+es: muy; asaz; requete-; requetecontra; bien; tan
+fa: بسیار; خیلی
+fi: hyvin; todella; erittäin; kovin; tosi; erittäin paljon; niin
+fr: très; beaucoup; tellement; vraiment; si
+globasa: daymo (day+mo)
+glosa: forti; fo; excesi
+hi: बहुत; इतना
+hu: nagyon; igen; olyan; annyira
+ia: multo
+id: sangat; nian; sekali; banget
+io: tre
+it: molto; estremamente; mille; tanto; veramente
+ja: とても; かなり; 非常に; 凄く; 大変; 大分; 随分; ずっと; めちゃ; ばり; つるつる; なまら; どえらい、でら; 大いに
+ko: 아주; 매우; 너무; 굉장히
+lidepla: muy
+ms: sangat; -nya
+nl: zeer; heel; erg; zo; zodanig
+pl: bardzo; wielce; tak
+pt: muito; tão
+ro: foarte; atât
+ru: о́чень; весьма́; изря́дно; так
+sv: mycket; väldigt; jätte-; så
+sw: sana
+ta: மிகவும்; ரொம்ப; மிக
+te: చాలా
+th: มาก; แสน
+tl: talaga; talagang; sobra; sobrang
+tpi: tumas
+tr: çok; pek; o kadar
+uk: ду́же; ве́льми
+ur: بَہُت
+vi: rất; lắm; quá; lém
+yue: 好; 非常
+
+word: idi
+class: verb
+infl: globasa (idi); ru (ходи́ть/xodítʹ); vi (đi)
+sense: to move through space (especially from one place to another)
+ar: ذَهَبَ; رَاحَ
+bg: оти́вам; хо́дя; вървя́; я́здя
+bn: যাওয়া
+ca: anar
+cmn: 去
+cs: chodit; jít; jet; jezdit
+da: gå
+de: gehen
+el: πάω; πηγαίνω
+en: go
+eo: iri
+es: ir
+fa: رَفْتَن; شُدَن
+fi: mennä
+fr: aller
+globasa: idi
+glosa: ki
+hi: जाना
+hu: megy; jár; halad; utazik
+ia: ir; vader
+id: pergi
+io: irar
+it: andare
+ja: 行く; いらっしゃる; 参る
+ko: 가다
+lidepla: go
+ms: pergi
+nl: gaan
+pl: chodzić; iść; pójść; jeździć; jechać; pojechać
+pt: ir
+ro: merge; duce
+ru: ходи́ть; идти́; е́здить; е́хать
+sv: gå; åka; resa; fara
+sw: gura; kwenda
+ta: செல்; போ
+te: వెళ్ళు; పోవు; వెళ్ళిపోవు
+th: ไป
+tl: magpatuloy; pumunta; magpunta
+tpi: go
+tr: gitmek
+uk: ходи́ти; іти́; йти; піти́; ї́здити; пої́здити; ї́хати impf пої́хати
+ur: جانا
+vi: đi
+yue: 去
+
+word: in
+class: prep
+infl: de (in); en (in); globasa (in); glosa (in); lidepla (in); es (en); fr (en); ha (cikin); ko (...에 둘러싸인/...e dulleossain)
+sense: contained by | surrounded by
+ar: فِي
+bg: в
+bn: ভিতর
+ca: en; dins; dintre
+cmn: 在; ...里; 于……中
+cs: v; ve
+da: i
+de: in
+el: σε; εντός
+en: in
+eo: en
+es: en; dentro de; adentro de
+fa: در; اندر; تو; درون
+fi: -ssa; -ssä
+fr: dans; en
+globasa: in
+glosa: in
+ha: cikin; a; a ciki
+hi: अन्दर; ... में; भीतर; अंदर
+hu: -ban; -ben
+id: di dalam
+io: en
+it: in; dentro
+ja: ...に; ...で; ...の中で
+ko: ...의 안에; ...에 둘러싸인
+lidepla: in
+ms: di dalam; di
+nl: in
+pl: w; we
+pt: em
+ro: în
+ru: в
+sv: i
+ta: உள்ளே; மத்தியில்
+te: లో
+th: ใน
+tl: sa
+tpi: long
+tr: içinde; -de; -da; -ta; -te
+uk: в; у; во; ув; вві; уві; ві
+ur: اندر; ... میں; بھیتر
+vi: trong; ở; tại
+
+word: inom
+class: verb
+infl: tl (inom); id (minum); ja (飲む/nomu)
+sense: consume liquid through the mouth | consume alcoholic beverages
+am: መጠጣት
+ar: شَرِبَ
+bg: пи́я
+bn: খাওয়া; পিয়া
+ca: beure
+cmn: 喝; 飲 /饮; 喝酒; 酗酒; 酒醉
+cs: pít
+da: drikke
+de: trinken; saufen
+el: πίνω; απορροφώ; πώνω
+en: drink
+eo: trinki; drinki
+es: beber; tomar; abrevar; trincar; pimplar; chupar; trasegar
+fa: نوشیدَن; آشامیدَن
+fi: juoda
+fr: boire
+globasa: glu
+glosa: bibe
+hi: पीना; सोखना; शराब पीना
+hu: iszik
+ia: biber
+id: minum
+io: drinkar
+it: bere; bere alcolici
+ja: 飲む; 召し上がる; 頂く
+ko: 마시다; 드시다; 먹다
+lidepla: pi
+ms: minum
+nl: drinken
+pl: pić
+pt: beber; tomar
+ro: bea
+ru: пить; вы́пить; попи́ть; выпива́ть
+sv: dricka; supa
+sw: -nywa; -piga maji
+ta: குடி
+te: తాగు
+th: ดื่ม
+tl: inom; uminom; tagay; toma
+tr: içmek
+uk: пи́ти; ви́пити
+ur: پِینا
+vi: uống; uống rượu; uống say
+yue: 飲 /饮; 呷
+
+word: it
+class: pron
+infl: en (it); lidepla (it); ko (이것/igeot); ms (ia)
+sense: subject — inanimate thing | object
+am: እሱ
+ar: هُوَ; هِيَ; ـهُ
+bg: той; тя; то; него; го; на него; нему; му; нея; я; на нея; ней; ѝ
+bn: সে
+ca: ell; ella; allò; això; ho; lo; la
+cmn: 它; 之; 這 /这; 那; 牠 /它
+cs: to; ono; on; ona; toho; tomu
+da: den c det
+de: er; sie; es
+el: το; αυτό; τούτος
+en: it
+eo: ĝi; ĝin
+es: ello; él; ella; eso; lo; le; la
+fa: او; این; او را
+fi: se
+fr: il; elle; ce; ça; le; la
+globasa: to
+glosa: id
+hi: वह; यह
+hu: az; ez; azt; ezt
+ia: lo; illo
+io: ol; olu
+it: esso; essa; lo; la
+ja: これ; それ; あれ
+ko: 이것; 그것; 저것
+lidepla: it
+ms: ia
+nl: het; hij; er
+pl: to
+pt: ele; ela; isso; o; a
+ro: el
+ru: он; она́; оно́; э́то; его́; ему́; им; её; ей; е́ю
+sv: den; det
+th: มัน
+tr: o
+uk: воно́; це
+ur: وہ; یہ
+vi: nó
+
+word: it-su
+class: det
+sense: belonging to it
+bg: не́гов; не́ин
+ca: seu
+cs: jeho
+da: dens; dets
+de: sein; ihr
+en: its
+eo: ĝia; ties
+es: su; sus
+fi: sen
+fr: son; sa; ses
+hu: -a; -e; -ja; -je
+ia: su
+io: olua
+it: suo
+nl: zijn; haar
+pt: seu; sua; dele; dela
+ru: его́; её; свой
+sv: dess
+tr: onun
+uk: його́; її́; свій
+
+word: jan
+class: verb
+infl: bn (জানা/jana); hi (जानना/jānnā); lidepla (jan); ha (sanī̀)
+sense: be justifiably certain or sure about (something true) | have knowledge of
+am: ማወቅ; ማዎቅ
+ar: عَلِمَ; عَرَفَ; دَرَى
+bg: зна́я; зная
+bn: জানা; চেনা
+ca: saber
+cmn: 知道; 曉得 /晓得; 懂; 明白
+cs: vědět
+da: vide; kende
+de: wissen
+el: ξέρω; γνωρίζω
+en: know
+eo: scii
+es: saber
+fa: دانستن
+fi: tietää
+fr: savoir; connaître; connaitre
+globasa: jixi
+glosa: ski
+ha: sanī̀
+hi: जानना
+hu: tud
+ia: saper
+id: tahu
+io: savar; konocar
+it: sapere; conoscere
+ja: 知る; 確信している; ご存知である; 存じ上げる; 知っている
+ko: 알다
+lidepla: jan
+ms: tahu
+nl: weten
+pl: wiedzieć
+pt: saber; conhecer; entender de; saber de
+ro: ști
+ru: знать; уме́ть
+sv: veta
+sw: kujua
+ta: தெரிந்திரு
+th: รู้; ทราบ
+tl: alam; malaman; mabatid
+tpi: save
+tr: bilmek
+uk: зна́ти
+ur: جاننا
+vi: biết
+yue: 知
+
+word: kai
+class: noun
+infl: th (ไข่/kài); de (Ei); ha (ƙwai); tpi (kiau)
+sense: approximately spherical or ellipsoidal body produced by birds, insects, reptiles, and other animals, housing the embryo within a membrane or shell during its development
+am: እንቁላል
+ar: بَيْض; بَيْضَة
+bg: яйце́
+bn: ডিম
+ca: ou
+cmn: 卵子
+cs: vejce
+da: æg
+de: Ei
+el: αβγό
+en: egg
+eo: ovo
+es: huevo; aguautle; ahuautle; aguaucle
+fa: تُخْم; تُخْمِ مُرْغ
+fi: muna
+fr: œuf
+globasa: ovo
+glosa: ova
+ha: ƙwai
+hi: अंडा; डिंब; अंड
+hu: tojás
+ia: ovo
+id: telur
+io: amniotala ovo; ovo
+it: uovo
+ja: 卵; 玉子
+ko: 달걀
+lidepla: ovo
+ms: telur
+nl: ei
+pl: jajo; jajko
+pt: ovo; ovisão pl or
+ro: ou
+ru: яйцо́
+sv: ägg
+sw: yai
+ta: முட்டை
+te: గుడ్డు
+th: ไข่
+tl: itlog
+tpi: kiau
+tr: yumurta
+uk: яйце́
+ur: اَنْڈا; تُخْم
+vi: trứng
+yue: 卵
+
+word: kani
+class: noun
+infl: glosa (kani); es (can); ha (kàrē); hi (कुत्ती/kuttī); vi (cẩu)
+sense: animal
+am: ውሻ; ከልብ; ዉሻ
+ar: كَلْب
+bg: ку́че
+bn: কুকুর; কুত্তা
+ca: gos; ca; gossa; cutxu
+cmn: 狗; 犬
+cs: pes; fena
+da: hund
+de: Hund; Hündin
+el: σκύλος; σκυλί
+en: dog
+eo: hundo; hundino
+es: perro; can; tuso
+fa: سَگ
+fi: koira
+fr: chien
+globasa: bwaw
+glosa: kani; kini
+ha: kàrē
+hi: कुत्ता; कुत्ती; श्वान; कुक्कुर; कुक्कुरी; कुर्कुर; कूकुर; कुकुरी; कुतिया; कूकर; कुकुर
+hu: kutya; eb
+ia: can
+id: anjing; asu
+io: hundo; hundino
+it: cane
+ja: 犬; 狗
+ko: 개; 견; 구; 강아지
+lidepla: doga
+ms: anjing; asu; kuyuk
+nl: hond
+pcm: dọg
+pl: pies; suka
+pt: cão; cachorro
+ro: câine; cîine; cățea
+ru: соба́ка; пёс
+sv: hund; hynda
+sw: mbwa
+ta: நாய்; ஞமலி; ஞாளி
+te: కుక్క; శునకము
+th: หมา; สุนัข
+tl: aso
+tpi: dok
+tr: köpek; it
+uk: соба́ка; пес
+ur: کُتّا; سَگ
+vi: chó; cẩu; khuyển
+yue: 狗; 犬
+
+word: kansa
+class: verb
+infl: lidepla (kansa); cmn (看/kàn, 觀察/观察/guānchá)
+sense: perceive with the eyes | to try to see | to look at for a period of time | observe or watch | to look at
+ar: رَأَى; عَايَنَ; نَظَرَ; شاف; شَاهَدَ; تَفَرَّجَ; رَاقَبَ
+bg: ви́ждам; гле́дам; гледам; разглеждам
+bn: দেখা; তাকান
+ca: veure; mirar; guaitar
+cmn: 見 /见; 看見 /看见; 看; 視 /视; 觀 /观; 觀看 /观看; 觀察 /观察
+cs: vidět; dívat se; podívat se; hlídat; sledovat; zhlédnout; zhlížet; dívat se na; prohlížet si
+da: se; kigge; kikke; se på; holde øje med
+de: sehen; schauen; blicken; hinschauen; hinsehen; guggen; ansehen; zusehen; anschauen
+el: βλέπω; κοιτάζω; παρακολουθώ; θεωρώ
+en: see; look; watch; look at; view
+eo: vidi; rigardi; spekti
+es: ver; veer; mirar; ojear; guachar; aguaitar
+fa: دِیدَن; دیدَن; سیل کردن; نگاه کردن; نگریستن; نِگاه کَرْدَن; تماشا کردن; نظاره کردن; پاییدن; دیدن
+fi: nähdä; katsoa; katsella; valvoa; vilkaista
+fr: voir; regarder; considérer; visionner
+globasa: oko
+glosa: vide; skope
+ha: gani
+hi: देखना; निगाह करना
+hu: lát; néz; megtekint
+ia: vider; reguardar
+id: melihat; menyaksikan; menonton; memandang; pandangi
+io: vidar; regardar; spektar
+it: vedere; guardare
+ja: 見る; ご覧になる; 拝見する; 観る; 見てみる
+ko: 보다; 뵙다; 관찰하다
+lidepla: vidi; kansa
+ms: lihat; tengok; nampak; menyaksikan; melihat
+nl: zien; aanschouwen; bekijken; bezien; kijken; kijken naar
+pl: widzieć; zobaczyć; dostrzegać; patrzeć; popatrzeć; oglądać; obserwować; spoglądać; spojrzeć
+pt: ver; enxergar; olhar; assistir; observar
+ro: vedea; privi; uita; observa; urmări; monitoriza; se uita
+ru: ви́деть; уви́деть; смотре́ть; посмотре́ть; гляде́ть; погляде́ть; наблюда́ть
+sv: se; titta; kika; kolla; spana; se på; titta på
+sw: kuona; angalia
+ta: பார்; காண்
+te: చూచు
+th: เห็น; ดู; แล; มอง; ชม
+tl: makita; tignan; tingnan; manood; magmasid
+tpi: lukim; luk
+tr: görmek; bakmak; izlemek; seyretmek
+uk: ба́чити; диви́тися; подиви́тися; спостеріга́ти
+ur: دیکْھنا; دیکھنا
+vi: nhìn thấy; xem xét; thấy; xem; nhìn; dòm; nhòm; ngó; coi
+yue: 見 /见; 睇見 /睇见; 睇; 望
+
+word: kapa
+class: noun
+infl: lidepla (kapa); es (cabeza); globasa (kapi); glosa (kefa); ha (kai); hi (कपाल/kapāl); id (kepala); tr (kafa)
+sense: part of the body
+am: ራስ
+ar: رَأْس
+bg: глава́
+bn: মাথা
+ca: cap; testa
+cmn: 頭 /头; 頭腦 /头脑; 腦袋 /脑袋
+cs: hlava
+da: hoved
+de: Kopf
+el: κεφάλι
+en: head
+eo: kapo
+es: cabeza; maceta; marote (Americanism); sabiola (Americanism); sesera; testa; colodrillo
+fa: سَر
+fi: pää; lanttu
+fr: tête
+globasa: kapi
+glosa: kefa; korifa
+ha: kai
+hi: सिर; सर; खोपड़ी; कपाल
+hu: fej
+ia: capite
+id: kepala; hulu
+io: kapo
+it: testa; capo
+ja: 頭; 頭部
+ko: 머리
+lidepla: kapa
+ms: kepala; hulu
+nl: hoofd; kop
+pl: głowa
+pt: cabeça
+ro: cap
+ru: голова́
+sv: huvud; skalle
+sw: kichwa
+ta: தலை
+te: తల
+th: หัว; ศีรษะ
+tl: ulo
+tpi: het
+tr: baş; kafa
+uk: голова́
+ur: سِر; سَر
+vi: đầu
+yue: 頭 /头
+
+word: ke
+class: conj
+infl: es (que); fa (که/ke); fr (que); glosa (ke); lidepla (ke); globasa (ki); hi (कि/ki); tr (ki)
+sense: connecting a noun clause
+ar: أَنْ
+arz: ان
+bg: че
+bn: যে
+ca: que
+cmn: (not used in Mandarin)
+cs: že
+da: at
+de: dass
+el: ότι; πως
+en: that (conjunction)
+eo: ke
+es: que
+fa: که
+fi: että
+fr: que
+globasa: ki
+glosa: ke
+hi: कि
+hu: hogy
+id: bahwa
+io: ke
+it: che
+ja: と (quotation particle)
+ko: 그
+lidepla: ke
+ms: bahawa
+nl: dat
+pl: że; iż
+pt: que
+ro: că
+ru: что
+sv: att
+sw: kwamba; kuwa
+ta: எப்படி
+th: ว่า
+tr: ki
+uk: що
+ur: کہ
+vi: rằng
+yue: 嘅
+
+word: kel
+class: det
+infl: fr (quel); es (cuál); globasa (ke); lidepla (kwel)
+sense: (interrogative) what, of those mentioned or implied | (interrogative) what one or ones
+ar: أَيّ
+bg: кой
+ca: quin
+cmn: 哪
+cs: který; jaký
+da: hvilken; hvilket; hvilke; hvad
+de: welcher; welche; welches
+el: ποιος; ποια; ποιο; ποιοι; ποιες
+en: which (question determiner)
+eo: kiu; kiuj
+es: cuál; cuáles
+fa: کدام
+fi: mikä; kumpi
+fr: quel; quelle; quels; quelles
+globasa: ke
+glosa: qo
+hi: कौनसा
+hu: melyik; hányadik
+ia: qual
+id: yang mana
+it: quale
+ja: どの; どれ
+ko: 어느
+lidepla: kwel
+ms: mana; yang mana
+nl: welk; hetwelk; dewelke
+pl: który
+pt: qual
+ro: care
+ru: кото́рый; како́й; кой
+sv: vilken; vilket; vilka
+sw: -pi
+ta: எந்த; எது
+te: ఏ
+th: ไหน
+tl: alin
+tr: hangi
+uk: котри́й; яки́й
+ur: کَون سا; کَونْسا
+vi: nào
+yue: 邊 /边
+
+word: kel-ge
+class: adv
+sense: in what manner | in what state
+ar: كَيْف; كَيْفَ
+bg: ко́лко; как
+bn: কিভাবে; কীভাবে
+ca: com
+cmn: 怎麼樣 /怎么样; 怎麼 /怎么; 怎樣 /怎样; 如何
+cs: jak
+da: hvordan; hvorledes
+de: wie
+el: πώς
+en: how
+eo: kiel
+es: cómo; qué tal; qué tan bueno; bien; cuán bueno
+fa: چگونه; چطور; چجور; چطوری
+fi: miten; kuinka; millä tavalla; millä tavoin; millainen; minkälainen
+fr: comment
+globasa: kemaner; kemo; kepul; daydenmo
+glosa: komo; qo-mode
+hi: कैसे; कैसा
+hu: hogyan; hogy; milyen
+ia: como
+id: bagaimana
+io: quale
+it: come
+ja: どのように; どうやって; どう
+ko: 어떻게; 어찌
+lidepla: komo
+ms: bagaimana; macam mana
+nl: hoe
+pl: jak
+pt: como
+ro: cum
+ru: как; каки́м о́бразом
+sv: hur
+sw: namna; jinsi; -je
+ta: எப்படி
+te: ఏవిధముగా
+th: ยังไง; อย่างไร
+tl: paano; kumusta
+tr: nasıl
+uk: як; як са́ме
+ur: کیسے
+vi: như thế nào; làm sao; sao
+yue: 怎麼樣 /怎么样; 怎麼 /怎么; 怎樣 /怎样; 點樣 /点样; 點 /点; 如何
+
+word: kel-it
+class: pron
+sense: what? (interrogative pronoun)
+ar: مَاذَا; مَا
+bg: какво́; що
+bn: কী
+ca: què
+cmn: 什麼 /什么; 何
+cs: co
+da: hvad
+de: was
+el: τί; ίντα
+en: what (question pronoun)
+eo: kio
+es: qué; cuál
+fa: چِه; چی
+fi: mikä; mitä
+fr: quoi; que; qu'est-ce que; qu'est-ce qui; quel
+globasa: keto
+glosa: qo-ra
+hi: क्या; का
+hu: mi; mit
+ia: qual
+id: apa; mana
+io: quo; quon
+it: che cosa; che; cosa
+ja: 何
+ko: 무엇; 뭐
+lidepla: kwo
+ms: apa
+nl: wat
+pcm: wetin
+pl: co
+pt: o que
+ro: ce
+ru: что
+sv: vad
+sw: nini
+ta: என்ன; எது
+te: ఏమిటి
+th: อะไร; ยังไง
+tl: ano
+tr: ne
+uk: що
+ur: کْیا
+vi: gì; 之
+yue: 乜嘢; 咩; 乜
+
+word: kolor
+class: noun
+infl: es (color); globasa (kolor); lidepla (kolor); fr (couleur); glosa (kolora)
+sense: spectral composition of visible light (color) | particular set of the visible spectrum (color) | – (colour)
+am: ቀለም
+ar: لَوْن
+bg: цвят
+bn: রঙ; রং; বর্ণ
+ca: color
+cmn: 色; 顏色 /颜色
+cs: barva
+da: farve
+de: Farbe
+el: χρώμα
+en: color; colour
+eo: koloro
+es: color
+fa: رَنْگ; گُون; گون
+fi: väri
+fr: couleur
+globasa: kolor
+glosa: kroma; kolora; tinktu
+ha: launi
+hi: रंग
+hu: szín
+id: warna
+io: koloro
+it: colore
+ja: 色; 色彩
+ko: 색깔; 색
+lidepla: kolor
+ms: warna; rona
+nl: kleur
+pl: kolor; barwa
+pt: cor
+ro: culoare
+ru: цвет
+sv: färg
+sw: michezo; rangi; launi
+ta: நிறம்; வண்ணம்
+te: రంగు; వర్ణము
+th: สี
+tl: kulay
+tpi: kala
+tr: renk; ıl; tüs
+uk: ко́лір; фа́рба; ба́рва
+ur: رَن٘گ
+vi: màu; màu sắc; sắc
+yue: 色; 顏色 /颜色
+
+word: kolor-arko
+class: noun
+sense: multicoloured arch in the sky
+am: ቀስተ ደመና
+ar: قَوْس قُزَح
+bg: дъга́
+bn: রংধনু
+ca: arc de Sant Martí; arc iris
+cmn: 彩虹; 隮 /𬯀; 虹; 虹霓
+cs: duha
+da: regnbue
+de: Regenbogen
+el: ουράνιο τόξο
+en: rainbow
+eo: ĉielarko
+es: arco iris
+fa: رَنْگینکَمان; آدْیَنْدِه; قُوْس و قُزَح; قُوْسِ قُزَح; آژْفَنْداک; نیراژِه; تیراژِه; آفِنْداک; اَغْلیسون; اَنْطَلْیون
+fi: sateenkaari
+fr: arc-en-ciel
+globasa: kolorarko (kolor+arko)
+glosa: iridi
+ha: bàkan gizò
+hi: इंद्रधनुष; इन्द्रधनुष; धनुष; रामधनुष; मेघधनु; इंद्रचाप; धनुक
+hu: szivárvány
+ia: iris; iride
+id: pelangi; bianglala
+io: cielarko; pluvarko
+it: arcobaleno; iride
+ja: 虹; 虹霓
+ko: 무지개; 색동다리; 홍; 홍예
+lidepla: raduga
+ms: pelangi; bangun-bangun; benang raja; bianglala; ganu; kuwung; teja; ular danu; ular mengiang; lanum
+nl: regenboog
+pl: tęcza; ceta (Kielce)
+pt: arco-íris; arco-da-velha; arco da aliança
+ro: curcubeu
+ru: ра́дуга
+sv: regnbåge
+sw: upinde wa mvua
+ta: வானவில்
+te: ఇంద్రధనుస్సు; హరివిల్లు
+th: รุ้ง; สายรุ้ง
+tl: bahaghari; bahagsubay; balangaw
+tpi: renbo
+tr: gökkuşağı; ebem kuşağı; peygamber kuşağı; alaimisema; eleğimsağma; alkım
+uk: весе́лка; ра́йдуга
+ur: دَھنِک; دَھنُش; قَوس و قُزَح; قَوسِ قُزَح; ہَفْت رَن٘گ; رَن٘گِین کَمان
+vi: cầu vồng; lẹm
+yue: 彩虹; 天虹
+
+word: kom
+class: prep
+infl: fr (comme); globasa (kom); lidepla (kom); es (como); glosa (homo); sw (kama)
+sense: similar to | such as
+ar: مِثْل; كَـ
+arz: زي
+bg: като́
+bn: মত
+ca: com
+cmn: 象; 相像的; 如; 猶如 /犹如; 好似
+cs: jako; jak
+da: som; lig
+de: wie; nach
+el: ως; σαν; όπως
+en: like (in comparisons)
+eo: kiel; kvazaŭ
+es: como
+fa: مثل; مانند
+fi: kuten; kuin
+fr: comme
+globasa: kom
+glosa: homo
+hi: ... की तरह; ... तरह; के जैसा
+hu: mint
+io: quale
+it: come; quale
+ja: ...のように; ...よう
+ko: 처럼; 같이; ...처럼
+lidepla: kom
+ms: seperti; bagai; macam; bak
+nl: zoals; als; lijkend op; gelijk
+pl: jak
+pt: como; que nem; tipo
+ro: ca
+ru: как
+sv: som; lik
+sw: kama
+te: లాంటి
+th: เหมือน; อย่าง; เช่น
+tr: gibi
+uk: як
+ur: ... کی طرح; ... طرح
+vi: như
+yue: 好似; 如
+
+word: komun
+class: adj
+infl: es (común); fr (commun); globasa (komun); en (common); lidepla (komune)
+sense: mutual | usual
+am: የተለመደ; ተራ
+ar: شَائِع
+bg: общ; обикновен
+ca: comú
+cmn: 共同; 共通; 相互; 通常; 平常
+cs: společný; běžný; obvyklý
+da: fælles; almindelig; vanlig; sædvanlig
+de: gemeinsam; Gemein-; gemeinschaftlich; gewöhnlich; häufig; normal
+el: κοινός; συνηθισμένος
+en: common
+eo: komuna; ofta; normala; ordinara
+es: común
+fa: رایج; شایع; معمول
+fi: yhteinen; yleinen; tavallinen
+fr: commun
+globasa: komun
+glosa: koeno
+hi: परस्पर; सामान्य; साधारण
+hu: közös; egyező; megegyező; azonos; szokásos; szokványos; mindennapos; hétköznapi; megszokott; közismert
+ia: commun
+io: komuna; ordinara
+it: comune
+ja: 相互; 共通; 通常; 平常
+ko: 상호; 공통; 통상
+lidepla: komune
+ms: sama; sepunya; biasa
+nl: gemeen; gemene; gewoon; gewone
+pl: wspólny; wzajemny; zwykły; pospolity; powszedni; potoczny; obiegowy
+pt: comum
+ro: comun; obișnuit; uzual
+ru: о́бщий; взаи́мный; обы́чный; обы́денный; повседне́вный; обыкнове́нный
+sv: gemensam; allmän; vanlig
+te: మామూలు
+tl: pambalana; balana
+tr: ortak
+uk: зага́льний; зви́чний; звича́йний
+vi: chung; thường; thông thường
+
+word: kosa
+class: noun
+infl: es (cosa); lidepla (kosa); fr (chose)
+sense: that which is considered to exist as a separate entity, object, quality or concept | thing
+am: ነገር
+ar: شَيْء; عُرْضَة
+bg: вещ; не́що; предме́т
+bn: বস্তু; চিজ
+ca: cosa; objecte
+cmn: 東西 /东西; 事物; 物件; 物; 物體 /物体
+cs: věc; předmět; objekt
+da: ting; objekt
+de: Ding; Sache; Gegenstand; Objekt
+el: πράγμα; αντικείμενο
+en: thing; object
+eo: aĵo; afero; objekto
+es: cosa; objeto; objecto
+fa: چِیز; شَیْء; چیز; شِیْء
+fi: asia; esine; seikka; objekti; kappale; olio
+fr: chose; truc; machin; objet
+globasa: xey
+glosa: ra
+hi: वस्तु; चीज़
+hu: dolog; tárgy; objektum
+ia: cosa
+id: benda; barang; makhluk; hal
+io: kozo; objekto
+it: cosa; oggetto
+ja: 物; 物件; 物体
+ko: 물건; 것
+lidepla: kosa; obyekta
+ms: benda; barang
+nl: ding; object; voorwerp
+pl: rzecz; coś; przedmiot; obiekt
+pt: coisa; objeto
+ro: lucru; chestie; obiect
+ru: вещь; не́что; предме́т; объе́кт
+sv: sak; ting; grej; objekt; föremål
+sw: kitu; vitu
+ta: வஸ்து; பொருள்
+te: వస్తువు
+th: สิ่ง; วัตถุ
+tr: şey; nesne; cisim
+uk: річ; предме́т; об'є́кт
+ur: چِیز
+vi: vật; điều; thứ; đồ vật; vật thể
+yue: 嘢; 事物; 物件
+
+word: kota
+class: noun
+infl: lidepla (kota); ar (قِطّ/qiṭṭ, قِطَّة/qiṭṭa); de (Kater); en (cat); es (gata); ru (ко́шка/kóška, кот/kot)
+sense: domestic species
+am: ድመት
+ar: قِطّ; قِطَّة; هِرّ; هِرَّة; سَنُّور; بسة; بْسَيْن; بْسَيْنة
+bg: ко́тка; ко́те; кота́к; котара́к
+bn: বিড়াল; বেড়াল; বিলাই; মেকুর
+ca: gat; gata; mix; mixa; moix; moixa
+cmn: 貓 /猫; 貓兒 /猫儿
+cs: kočka; kocour
+da: huskat; kat
+de: Katze; Kater; Kätzin; Pantoffeltiger
+el: γάτα; γάτος
+en: cat
+eo: kato
+es: gato; gata; mish; misha; mishingo; mishinga
+fa: گُرْبَه; پُشَک; پِشَک; گُرْبِه; پیشی
+fi: kissa; katti; mirri; kolli; kisu
+fr: chat; chatte
+globasa: myaw
+glosa: feli; ailuro; katus
+ha: kyânwā
+hi: बिल्ली; बिल्ला
+hu: macska; kandúr; cica
+ia: catto; catta
+id: kucing
+io: kato
+it: gatto; gatta; micio; micia
+ja: 猫; 家猫
+ko: 고양이
+lidepla: kota
+ms: kucing کوچيڠ
+nl: huiskat; kat; poes; kater
+pl: kot; kotka; kocur; kocica; kotek
+pt: gato; gata; gato-doméstico; bichano
+ro: pisică
+ru: ко́шка; кот
+sv: katt
+sw: paka
+ta: பூனை; பூசை
+te: పిల్లి
+th: แมว; วิฬาร์
+tl: pusa
+tpi: pusi
+tr: kedi; enik; göcen; bissiru; sarman
+uk: кіт; кі́шка
+ur: بِلّی; بِلَّا
+vi: mèo
+yue: 貓 /猫
+
+word: ku
+class: conj
+infl: lidepla (ku); id (-kah); ja (か/ka); tl (kung)
+sense: introducing indirect questions | particle used to form yes-no questions | whether
+ar: إِذَا مَا; إِذَا; هَلْ; هَل‎; أَ‎
+arz: إذا
+bg: дали́
+bn: কিনা; কি না
+ca: si
+cmn: 是否; 嗎; 吗
+cs: zda; zdali
+da: om; hvorvidt
+de: ob
+en: whether; yes-no (question marker); if
+eo: ĉu
+es: si; si ... o
+fa: آیا; آیا‎; که آیا
+fi: -ko
+fr: si; si oui ou non; est-ce que; -tu; que; soit
+globasa: kam
+glosa: qe
+hi: क्या; कि
+hu: -e; vajon; (vajon) -e
+id: -kah; kalau
+it: se; indipendentemente
+ja: かどうか; か
+ko: -는지; -ᆫ지; ㅂ니까; 습니까
+lidepla: ob; ku
+ms: sama ada
+nl: of
+pl: czy
+pt: se
+ro: dacă
+ru: ли; ра́зве
+sv: om; ifall; huruvida
+sw: je
+th: ไหม
+tl: kung
+uk: чи
+ur: کیا‎
+vi: có ... không; không; phải không; hả; hử; à
+
+word: kurtena
+class: noun
+infl: lidepla (kurtena); en (curtain); es (cortina); globasa (kurtina); ja (カーテン/kāten); ru (портье́ра/portʹjéra); tl (kurtina)
+sense: piece of cloth covering a window | piece of cloth in a theater
+ar: سِتَارَة
+arz: ستارة
+bg: перде́; заве́са
+bn: পরদা
+ca: cortina; teló
+cmn: 窗簾 /窗帘; 簾子 /帘子; 幕布
+cs: závěs; záclona; opona
+da: gardin; tæppe
+de: Vorhang; Gardine
+el: κουρτίνα; αυλαία
+en: curtain
+eo: kurteno
+es: cortina; telón
+fi: verho; esirippu
+fr: rideau
+globasa: kurtina
+glosa: pende-te
+hi: पर्दा
+hu: függöny; firhang
+id: tirai; tabir; gorden
+io: kurteno
+it: tenda; cortina; tappezzeria; drappo; drappeggio; tendina; tendaggio; sipario
+ja: カーテン; 幕; 緞帳; 引き幕
+ko: 커튼
+lidepla: kurtena
+ms: langsir; tirai; tabir
+nl: gordijn; doek
+pl: zasłona; zasłonka; firana; firanka; kurtyna
+pt: cortina
+ro: perdea; draperie; cortină
+ru: што́ра; занаве́ска; гарди́на; портье́ра; за́навес; кули́са
+sv: gardin; förhänge; skynke; ridå
+sw: pazia
+ta: திரைச்சீலை; திரை
+te: తెర
+th: ม่าน; ผ้าม่าน
+tl: kurtina
+tr: perde
+uk: заві́са; занаві́ска; курти́на; портьє́ра; што́ра; фіра́нка
+ur: پَرْدَہ
+vi: màn cửa; màn; rèm; ri-đô
+yue: 窗簾 /窗帘
+
+word: lak
+class: noun
+infl: fr (lac); lidepla (lak); en (lake); es (lago); glosa (laku); tl (lawa)
+sense: body of water
+am: ሀይቅ
+ar: بُحَيْرَة; بحيرة
+bg: е́зеро
+bn: হ্রদ
+ca: llac
+cmn: 湖; 湖泊
+cs: jezero
+da: sø
+de: See
+el: λίμνη
+en: lake
+eo: lago
+es: lago
+fa: دَرْیاچِه; دَرْیاژِه; دَرْیااَک
+fi: järvi
+fr: lac
+globasa: hosu
+glosa: laku; limno
+ha: tabkī
+hi: झील; सरोवर
+hu: tó
+ia: laco
+id: danau; telaga
+io: lago
+it: lago
+ja: 湖; -湖
+ko: 호수; -호
+lidepla: lak
+ms: tasik; danau; alongan; situ; telaga
+nl: meer
+pl: jezioro
+pt: lago
+ro: lac
+ru: о́зеро
+sv: sjö; insjö; tjärn; vatten
+sw: jito; majito; ziwa
+ta: ஏரி
+te: సరస్సు
+th: สาบ; ทะเลสาบ
+tl: lawa
+tpi: wara; raunwara
+tr: göl
+uk: о́зеро
+ur: دَرِیاچَہ; جِھیل
+vi: hồ
+yue: 湖; 湖泊
+
+word: lashe
+class: noun
+infl: bn (লাশ/laś); fa (لاشه/lâše); hi (लाश/lāś); lidepla (lash); de (Leiche); tr (leş)
+sense: dead body | a dead body | body of a dead animal | –
+am: ሬሳ; አስከሬን; ካዳቨር
+ar: جُثَّة; جُثْمَان; جِيفَة; فَطِيسَة
+bg: труп; мъртве́ц; леш
+bn: মৃতদেহ; লাশ; মড়া; শব; বিশীর্ণ দেহ
+ca: cos; cadàver
+cmn: 屍體 /尸体; 軀體 /躯体; 胴體 /胴体
+cs: mrtvola; mrtvý; tělo; zdechlina
+da: lig; kadaver
+de: Leiche; Leichnam; Kadaver
+el: πτώμα; κουφάρι; ψοφίμι
+en: corpse; cadaver; carcass; (dead) body
+eo: kadavro
+es: cuerpo; cadáver; difunto; muerto
+fa: جنازه; جسد; کالبد; لاشه; نعش; نسا; لش; لاش; مردار
+fi: raato; ruumis; kalmo; vainaja; ruho; haaska
+fr: cadavre; corps; corps sans vie; carcasse
+globasa: morjismu
+glosa: morta soma; lazaro; ptoma
+ha: gāwā
+hi: लाश; शव
+hu: holttest; hulla; tetem; dög
+ia: cadavere
+id: mayat; jenazah; batang; kadaver; bangkai; karkas
+io: kadavro; korpo
+it: cadavere; salma; carcassa
+ja: 死体; 屍体; 死骸
+ko: 시체; 주검; 송장; 시신; 사체
+lidepla: lash
+ms: mayat; jenazah; jasad; bangkai
+nl: lijk; kreng; kadaver; karkas; aas
+pl: zwłoki; trup; ciało; ścierwo
+pt: cadáver; corpo; carcaça
+ro: cadavru; corp mort; hoit; stârv
+ru: труп; мёртвое те́ло; мертве́ц; мертвя́к; мёртвый; па́даль; кадавр; ту́ша; ту́шка
+sv: lik; kadaver; as
+sw: maiti; mfu; mzoga; jifu
+ta: பிணம்; சவம்
+te: శవం; శవము; కళేబరం
+th: ศพ; อสุภ; ผี; อาจารย์ใหญ่; ซาก
+tl: bangkay
+tpi: daiman
+tr: ceset; naaş; kadavra; leş
+uk: труп; мертве́ць; мрець; па́даль; па́дло; мертвечи́на; мертве́ччина
+ur: لاش; جسد; شو
+vi: xác; thi thể; tử thi; thây
+yue: 屍體 /尸体; 死屍 /死尸; 屍身 /尸身
+
+word: le
+class: particle
+infl: globasa (le); ru (-л/-l, -ла/-la, -ло/-lo, -ли/-li); sw (-li-)
+sense: past tense
+da: -de; -te
+en: -ed (past tense)
+eo: -is
+es: -ado
+fa: ـده; ـد; ـته; ـت
+globasa: le
+glosa: pa
+hu: -t; -tt; -ott; -ett; -ött
+io: -is
+ja: -た
+ko: -았
+lidepla: he
+pl: -ł
+ru: -л; -ла; -ло; -ли
+sv: -de; -t
+sw: -li-
+uk: -в; -ла; -ло; -ли
+vi: đã
+
+word: li
+class: pron
+infl: lidepla (li); fr (les)
+sense: third-person plural pronoun | third personal plural pronoun used after a preposition or as the object of a verb
+am: እነሱ
+ar: هُمَا; هُم; هُنَّ; هِيَ; ـهُم; ـهُنَّ; ـهُمَا; إِيَّاهُم; إِيَّاهُنَّ; إيَّاهُمَا
+arz: ـهم
+bg: те; тях; им
+bn: তারা
+ca: ells; elles; els; les
+cmn: 他們 /他们; 她們 /她们; 它們 /它们; 牠們 /它们
+cs: oni; ony; jich; jim; je
+da: de; dem
+de: sie; ihnen
+el: αυτοί; αυτές; αυτά
+en: they; them
+eo: ili; tiuj; ilin
+es: ellos; ellas; elles; a ellos; a ellas; los; las; les
+fa: ایشان; آنْها; آنان
+fi: he; ne; heidät; heitä; heillä; heille; heiltä; niille; niitä
+fr: ils; elles; eux; iels; eusse; eux-autres; les; leur
+globasa: ete; oto
+glosa: mu
+ha: súu
+hi: वे; ये
+hu: ők; -nek; őket; azokat
+ia: illes; illas; illos
+id: mereka
+io: li; ili; eli; oli
+it: essi; loro; a loro; li; le
+ja: 彼ら; あいつら; それら; あの人達; あの方々; 彼女ら
+ko: 그들; 그녀들
+lidepla: li
+ms: mereka
+nl: zij; ze; hen; hun
+pl: oni; one; ich; je
+pt: eles; elas; os; lhes; as
+ro: ei; ele; dumnealor; îi; le; lor
+ru: они́; их; им
+sv: de; dom; dem
+sw: wao
+ta: அவர்; இவர்
+te: వారు; వాళ్ళు
+th: เขา; พวกเขา
+tl: sila
+tpi: ol
+tr: onlar
+uk: вони́; їх; їм
+ur: وہ; یہ
+vi: họ
+yue: 佢哋; 他們 /他们
+
+word: li-su
+class: det
+sense: belonging to them (plural)
+ar: لَهُم; ـهُمْ; ـهُنَّ; ـهُمَا
+arz: ـهم
+bg: те́хен; им
+ca: llur
+cmn: 他們的 /他们的; 她們的 /她们的
+cs: jejich
+da: deres; sin
+de: ihr; ihre
+en: their
+eo: ilia; iliaj; siaj
+es: su; sus
+fa: ـشان
+fi: heidän; niiden; niitten
+fr: leur; leurs
+hi: उनका
+hu: -uk; -ük; -juk; -jük
+ia: lor
+io: lia
+ja: 彼らの
+ko: 그들의
+nl: hun
+pl: ich
+pt: seu; seus
+ro: lor; săi; sale
+ru: их
+sv: deras; sin (c); sitt (n); sina
+th: ของเขา
+tl: kanila (preposed); nila (postposed)
+tr: onların
+uk: їх; ї́хній
+ur: ان کا
+vi: của họ
+yue: 他們的 /他们的; 佢哋嘅
+
+word: lisan
+class: noun
+infl: am (ልሳን/ləsan); ar (لِسَان/lisān); fa (لِسَان/lisān, لِسان/lesân); hi (लिसान/lisān); lidepla (lisan); id (lidah); th (ลิ้น/lín)
+sense: organ
+am: ልሳን
+ar: لِسَان
+bg: ези́к
+bn: জিভ; জিহ্বা; জিব; জবান
+ca: llengua
+cmn: 舌頭 /舌头; 舌
+cs: jazyk
+da: tunge
+de: Zunge
+el: γλώσσα
+en: tongue
+eo: lango
+es: lengua; argüendero
+fa: زَبَان; لِسَان; زَبان; لِسان
+fi: kieli
+fr: langue
+globasa: xeto
+glosa: glosa; lingua
+ha: harshe
+hi: जीभ; ज़बान; जिह्वा; लिसान; रसना
+hu: nyelv
+ia: lingua
+id: lidah
+io: lango
+it: lingua
+ja: 舌; べろ
+ko: 혀
+lidepla: lisan
+ms: lidah; lisan
+nl: tong
+pl: język; ozór
+pt: língua
+ro: limbă
+ru: язы́к
+sv: tunga
+sw: ulimi
+ta: நாக்கு; நாவு; நா
+te: నాలుక; జిహ్వ
+th: ลิ้น; ชิวหา
+tl: dila
+tpi: tang
+tr: dil
+uk: язи́к
+ur: جِیبھ; زَبان; زُبان; لِسان
+vi: lưỡi
+yue: 舌頭 /舌头; 舌; 脷
+
+word: luna
+class: noun
+infl: es (luna); glosa (luna); lidepla (luna); ru (луна́/luná); en (moon); fr (lune); tpi (mun)
+sense: the natural satellite of planet Earth
+am: ጨረቃ
+ar: قَمَر
+bg: луна́
+bn: চাঁদ; চন্দ্র; শশী; মাহতাব
+ca: lluna
+cmn: 月亮; 月球; 月; 太陰 /太阴
+cs: měsíc
+da: måne
+de: Mond
+el: σελήνη; φεγγάρι
+en: moon
+eo: luno
+es: luna
+fa: مَاه; قَمَر; ماه; مانْگ; مَهْتاب
+fi: Kuu
+fr: lune
+globasa: candru
+glosa: luna; selene; mene
+ha: wata
+hi: चांद; चन्द्रमा; चंद्र; माह; कमर; महताब; माहताब; शशि; क़मर
+hu: Hold
+ia: luna
+id: bulan; candra
+io: luno
+it: luna
+ja: 月; 太陰
+ko: 달; 태음
+lidepla: luna
+ms: bulan; purnama; kamar
+nl: maan
+pl: księżyc; miesiąc; luna
+pt: lua
+ro: lună
+ru: луна́; ме́сяц
+sv: måne
+sw: mwezi
+ta: நிலா; நிலவு; மதி
+te: చంద్రుడు; జాబిల్లి; చందమామ; శశాంకుడు; నెల
+th: ดวงจันทร์; จันทร์; เดือน
+tl: buwan; bulan; dutaing buntabay
+tpi: mun
+tr: ay
+uk: мі́сяць
+ur: چانْد; چَنْدْرَما; قَمَر; ماہ; مَہْتاب
+vi: mặt trăng; trăng
+yue: 月亮; 月球; 月
+
+word: ma
+class: det
+infl: sw (ma-); de (-er); tl (mga); vi (mấy)
+sense: regular plurals of nouns | plurals of nouns
+ar: ـَانِ; ـَيْنِ; ـُونَ; ـِينَ; ـَات
+ca: -s; -es
+cmn: 們 /们
+da: -er; -e
+de: -e; -en; -er; -s
+el: -αίοι; -ήδες; -άδες (-ádes); -ες (-es); -ές (-és); -οι (-oi); -οί (-oí); -ούδες (-oúdes); -ηδες (-ides); -α (-a); -ατα; -ά (-á); -έδες; -η; -ή (-í); -ια
+en: -s; -es (plural marker)
+eo: -j
+es: -s; -es
+fa: ـها; ـهایی; ـهان
+fi: -t
+fr: -s; -x
+globasa: plu
+glosa: plu
+hu: -k; -ak; -ok; -ek; -ök
+id: sejumlah
+io: -i
+it: -i; -e
+ja: 達; 等; 供
+ko: -들; -네
+lidepla: -s; -es
+nl: -en; -s
+pcm: dèm (placed after the noun)
+pt: -s; -es; -ns; -is; -ãos; -ões; -ães
+ro: -i; -e; -uri; -le
+sv: -ar -er -or -r -n
+sw: wa-; mi-; ma-; vi-
+th: หลาย
+tl: mga
+tr: -ler; -lar
+vi: những; các; mấy
+
+word: mahi
+class: noun
+infl: fa (مَاهِی/māhī); globasa (mahi); hi (मछली/machlī, माही/māhī, मच्छी/macchī); bn (মাছ/mach); sw (samaki)
+sense: vertebrate animal
+am: ዓሣ; አሳ
+ar: سَمَكَة; سَمَك; حُوت
+bg: ри́ба
+bn: মাছ
+ca: peix
+cmn: 魚 /鱼; 魚兒 /鱼儿
+cs: ryba
+da: fisk
+de: Fisch; Fusch (Vorderpfälzisch)
+el: ψάρι
+en: fish
+eo: fiŝo
+es: pez; pescado; peje; pesce (disused)
+fa: مَاهِی; ماهی
+fi: kala
+fr: poisson
+globasa: mahi
+glosa: piski; ikti
+ha: kifi
+hi: मछली; मत्स्य; माही; मीन; मच्छी
+hu: hal
+ia: pisce
+id: ikan
+io: fisho
+it: pesce
+ja: 魚; 魚類
+ko: 물고기; 고기; 어류
+lidepla: fish
+ms: ikan
+nl: vis
+pl: ryba
+pt: peixe
+ro: pește
+ru: ры́ба
+sv: fisk
+sw: samaki
+ta: மீன்
+te: చేప; మత్స్యము
+th: ปลา; มีน
+tl: isda
+tpi: pis
+tr: balık; sokan
+uk: ри́ба
+ur: مَچْھلی; ماہی; مَتْسیَہ
+vi: cá
+yue: 魚 /鱼
+
+word: man
+class: noun
+infl: de (Mann); en (man); lidepla (man); tpi (man); globasa (manixu, manyen); hi (मानुस/mānus, मानस/mānas, मानव/mānav, मानुष/mānuṣ); ko (사내/sanae); ta (ஆண்/āṇ)
+sense: adult male human
+am: ወንድ
+ar: رَجُل
+bg: мъж
+bn: পুরুষ; নর; মরদ
+ca: home
+cmn: 男人; 男的; 男子; 男子漢 /男子汉
+cs: muž; pán
+da: mand
+de: Mann; Herr
+el: άνδρας
+en: man
+eo: viro
+es: hombre; varón
+fa: مَرْد
+fi: mies
+fr: homme
+globasa: manixu; manyen
+glosa: andro
+ha: mutum
+hi: पुरुष; नर; मानुस; मानस; आदमी; मर्द; मानव; मानुष
+hu: férfi; ember
+ia: homine; viro; masculo
+id: pria; laki-laki
+io: viro
+it: uomo
+ja: 男性; 男の人; 男
+ko: 남자; 사내
+lidepla: man
+ms: lelaki
+nl: man; heer
+pl: mężczyzna; pan; człowiek
+pt: homem; mane
+ro: bărbat; om
+ru: мужчи́на
+sv: man; karl
+sw: mwanaume
+ta: ஆண்
+te: పురుషుడు; మగవాడు
+th: ผู้ชาย; ชาย
+tl: lalaki
+tpi: man
+tr: adam; erkek; er; er kişi
+uk: чолові́к; мужчи́на
+ur: آدْمی; مَرْد; پُرُش
+vi: đàn ông
+yue: 男人
+
+word: manya
+class: adv
+infl: lidepla (manya); es (mañana)
+sense: on the day after the present day | the day after the present day
+am: ነገ
+ar: غَدًا; الْغَد; غَد
+bg: у́тре
+bn: কাল; আগামীকাল
+ca: demà
+cmn: 明天; 明日; 明兒 /明儿
+cs: zítra; zítřek
+da: i morgen; morgendag
+de: morgen; Morgen
+el: αύριο
+en: tomorrow
+eo: morgaŭ; morgaŭe; morgaŭo
+es: mañana; cras (disused)
+fa: فَرْدَا; صُبَاح; فَرْدا; فردا
+fi: huomenna; huominen; huomispäivä
+fr: demain
+globasa: jaxadin (ja+xa+din)
+glosa: fu-di; krase
+hi: कल; सुबह; कल - can also refer to yesterday; depending on context; आगामी; आगमी; आगामिक; आनेवाला
+hu: holnap
+ia: deman
+id: esok; besok
+io: morge
+it: domani
+ja: 明日
+ko: 내일; 래일; 명일
+lidepla: manya
+ms: esok; besok
+nl: morgen
+pl: jutro
+pt: amanhã
+ro: mâine
+ru: за́втра
+sv: imorgon; i morgon; morgondag
+sw: kesho
+ta: நாளை
+te: రేపు
+th: พรุ่งนี้; พรุ่ง
+tl: bukas
+tr: yarın
+uk: за́втра
+ur: کَل; فَرْدا; کل - can also refer to yesterday; depending on context
+vi: ngày mai; mai
+yue: 明天; 聽日 /听日; 明日
+
+word: mata
+class: noun
+infl: bn (আম্মা/amma, মাতা/mata, মা/ma); hi (माता/mātā, मां/mā̃, मादर/mādar); lidepla (mata); ar (مَامَا/māmā); cmn (媽媽/妈妈/māma, 媽/妈/mā); de (Mutter, Mutti, Mama); en (mother); fa (مَادَر/mādar, مامان/mâmân); fr (maman); globasa (matre); glosa (matri); ja (ママ/mama); ru (мать/matʹ, ма́тушка/mátuška); sw (mama); ta (அம்மா/ammā); te (అమ్మ/amma); th (มารดา/maan-daa); tpi (mama, mami); vi (má)
+sense: female (human) who parents a child, gives birth to a baby, or is pregnant
+am: እናት
+ar: أُمّ; وَالِدَة; مَامَا
+bg: ма́йка
+bn: আম্মা; আম্মু; মাতা; মা
+ca: mare
+cmn: 母親 /母亲; 母; 媽媽 /妈妈; 媽 /妈
+cs: matka
+da: moder; mor
+de: Mutter; Mutti; Mama
+el: μητέρα
+en: mother
+eo: patrino
+es: madre
+fa: مَادَر; وَالِدَه; نَنَه; آبَه; مادَر; مامان; والِدِه
+fi: äiti
+fr: mère; maman
+globasa: matre
+glosa: matri
+ha: uwa; inna
+hi: माता; मां; मादर; वालिदा
+hu: anya
+ia: matre
+id: ibu; bunda
+io: matro
+it: madre
+ja: お母さん; 母; ママ
+ko: 엄마; 어머니; 어머님; 에미; 어미; 모친
+lidepla: mata
+ms: ibu; emak
+nl: moeder
+pl: matka; mama; mamusia; matula; matuchna; mateczka; mamuśka; matuś; matuśka
+pt: mãe
+ro: mamă; maică
+ru: мать; ма́тушка
+sv: mor; moder; mamma
+sw: mzazi; mama
+ta: அம்மா; தாய்; அன்னை; யாய்; ஆய்
+te: తల్లి; అమ్మ
+th: แม่; มารดา
+tl: ina
+tpi: mama; mami
+tr: anne; ana
+uk: ма́ти; ма́ма; ма́тір; не́ня; мату́ся; ма́мця
+ur: ماتا; ماں; مادَر; والِدَہ
+vi: mẹ; má; mạ; mệ; mợ; bầm; u; nạ; đẻ; cái
+yue: 母親 /母亲; 母; 阿媽 /阿妈; 媽媽 /妈妈
+
+word: megu
+class: noun
+infl: globasa (megu); bn (মেঘ/megh); fa (میغ/mēġ); hi (मेघ/megh); te (మేఘము/mēghamu); th (เมฆ/mêek)
+sense: visible mass of water droplets suspended in the air
+am: ደመና
+ar: سَحَاب; غَيْم; غَمَام; عَنَان
+bg: о́блак
+bn: মেঘ
+ca: núvol
+cmn: 雲 /云
+cs: mrak; oblak
+da: sky
+de: Wolke; Gewölk
+el: σύννεφο; νέφος
+en: cloud
+eo: nubo
+es: nube; nimbo
+fa: اَبْر; میغ; مُزْنَه; مُزْنِه
+fi: pilvi
+fr: nuage
+globasa: megu
+glosa: nefo; nubi
+hi: मेघ; बादल; अभ्र
+hu: felhő; felleg
+ia: nube
+id: awan
+io: nubo
+it: nuvola; nube; nembo
+ja: 雲
+ko: 구름
+lidepla: badal
+ms: awan; mega; merawan
+nl: wolk
+pl: chmura; obłok
+pt: nuvem; nimbo
+ro: nor
+ru: о́блако; ту́ча
+sv: moln; sky
+sw: wingu
+ta: மேகம்
+te: మేఘము; ధూమయోని; పయోధరము
+th: เมฆ
+tl: ulap; alapaap
+tpi: klaut
+tr: bulut
+uk: хма́ра
+ur: میگھ; بادَل; اَبْر; سَحاب
+vi: mây
+yue: 雲 /云
+
+word: mesa
+class: noun
+infl: es (mesa); globasa (mesa); tl (mesa); bn (মেজ/mej); fa (میز/mēz); glosa (mensa); hi (मेज़/mez); id (meja); sw (meza); ta (மேசை/mēcai, மேஜை/mējai); te (మేజా/mējā); tr (masa)
+sense: item of furniture
+am: ጠረጴዛ
+ar: طَاوِلَة; مِنْضَدَة; طاولة
+bg: ма́са
+bn: টেবিল; মেজ
+ca: taula
+cmn: 桌子
+cs: stůl
+da: bord
+de: Tisch
+el: τραπέζι
+en: table (furniture)
+eo: tablo
+es: mesa; expremijo; entremijo; entremiso
+fa: میز
+fi: pöytä
+fr: table
+globasa: mesa
+glosa: mensa
+hi: पटल; उत्पीठिका; मेज़
+hu: asztal
+ia: tabula
+id: meja
+io: tablo
+it: tavola; tavolo
+ja: 台; 机; テーブル; 卓; 卓袱台
+ko: 테이블; 탁자; 상; 밥상
+lidepla: tabla
+ms: meja
+nl: tafel
+pl: stół
+pt: mesa
+ro: masă
+ru: стол
+sv: bord
+sw: meza
+ta: மேசை; மேஜை
+te: బల్ల; మేజా; టేబులు
+th: โต๊ะ
+tl: mesa
+tr: masa
+uk: стіл
+ur: میز; پَٹَل; اُتْپِیٹِھکا
+vi: bàn
+yue: 檯 /台; 枱
+
+word: mi
+class: pron
+infl: en (me); es (me, mí); globasa (mi); glosa (mi); pcm (mi); bn (আমি/ami); de (mich); fr (me); hi (मैं/ma͠i); lidepla (me); sw (mimi); vi (mình)
+sense: personal pronoun | direct object of a verb
+am: እኔ
+ar: أَنَا; ـنِي; ـنِيَ; إِيَّايَ
+arz: انا; ـني
+bg: аз; ме́не; ме
+bn: আমি; আমাকে
+ca: jo; em; me
+cmn: 我
+cs: já; mě; mne
+da: jeg; mig
+de: ich; mich
+el: εγώ; με; εμένα
+en: I; me
+eo: mi; min
+es: yo; me; mí
+fi: minä; minut (telic); minua (atelic)
+fr: je; moi; me
+globasa: mi
+glosa: mi
+ha: nī
+hi: मैं; हम; अहम्; अहं; मुझ; मुझे
+hu: én; engem
+ia: io
+id: saya; aku
+io: me; men
+it: io; mi
+ja: 私; わたくし; あたし; こちら; 内; 僕; 俺; 小生; 愚生; あたい; わし; 私を
+ko: 나; 저; 나를
+lidepla: me
+ms: saya; aku (ku, ku-); daku; hamba; patik; beta; aku (-ku)
+nl: ik; 'k; me; mij
+pcm: mi; à
+pl: ja; mnie
+pt: eu; me; mim
+ro: eu; mine; mă
+ru: я; меня́
+sv: jag; mig
+sw: mimi
+ta: நான்
+te: నేను; నన్ను
+th: ผม; ดิฉัน; ฉัน; กระหม่อม; หนู; ข้าพเจ้า; กู
+tl: ako; ko
+tpi: mi
+tr: ben; beni
+uk: я; мене́
+ur: مَیں; خاکْسار; مجھ
+vi: tôi; tớ; ta; tui; tao; mình
+yue: 我
+
+word: mi-su
+class: det
+sense: belonging to me
+ar: ـِي
+bg: мой
+bn: আমার
+ca: meu
+cmn: 我的
+cs: můj
+da: min
+de: mein
+el: μου
+en: my
+eo: mia
+es: mi; mis
+fa: ـم; من
+fi: minun ...ni; -ni; minun
+fr: mon; ma; mes
+globasa: misu (mi+su)
+glosa: mi
+hi: मेरा
+hu: -m; -om; -am; -em; -öm
+ia: mi
+id: saya
+io: mea
+it: mio; mia
+ja: 私の; 僕の; 我が
+ko: 나의; 내; 저의; 제
+lidepla: me-ney; may
+ms: saya
+nl: mijn
+pl: mój
+pt: meu; minha; meus; minhas
+ro: meu; mea
+ru: мой; моя́; моё; мои́
+sv: min; mitt
+ta: என்
+te: నా; నా యొక్క
+th: ของผม; ของดิฉัน; ของฉัน
+tl: ko; aking
+tr: benim
+uk: мій
+ur: میرا
+vi: của tôi; tôi
+yue: 我嘅; 我的
+
+word: monti
+class: noun
+infl: glosa (monti); en (mountain); es (montaña, monte); fr (montagne, mont); lidepla (monta)
+sense: large mass of earth and rock
+am: ተራራ; ጋራ
+ar: جَبَل; طُور
+arz: جبل
+bg: планина́
+bn: পর্বত; পাহাড়
+ca: muntanya
+cmn: 山
+cs: hora
+da: bjerg
+de: Berg
+el: βουνό; όρος
+en: mountain
+eo: monto
+es: montaña; monte
+fi: vuori
+fr: montagne; mont
+globasa: jabal
+glosa: monti; oro
+ha: dutse
+hi: पहाड़; पर्वत; गिरि; पर्बत; अचल; नग
+hu: hegy; hegység
+ia: montania; monte
+id: gunung
+io: monto
+it: montagna; monte
+ja: 山; 山地; 山岳
+ko: 산; 메 뫼
+lidepla: monta
+ms: gunung
+nl: berg
+pl: góra
+pt: montanha; monte
+ro: munte
+ru: гора́
+sv: berg
+sw: mlima
+ta: மலை; பெருங்குவியல்
+te: పర్వతము
+th: ภู; เขา; ภูเขา; ดอย
+tl: bundok
+tpi: maunten
+tr: dağ
+uk: гора́
+ur: پَہاڑ; پَرْوَت; کوہ; جَبَل
+vi: núi
+yue: 山
+
+word: mun
+class: noun
+infl: hi (मुँह/mũh); bn (মুখ/mukh); de (Mund); globasa (munte); lidepla (muh)
+sense: the opening of a creature through which food is ingested
+am: አፍ; አንደበት
+ar: فَم
+bg: уста́
+bn: মুখ
+ca: boca
+cmn: 嘴; 口; 嘴巴
+cs: ústa; pusa; tlama
+da: mund; kæft
+de: Mund
+el: στόμα
+en: mouth
+eo: buŝo
+es: boca; busarda; bemba; jeta
+fa: دَهَان; دَهان
+fi: suu
+fr: bouche; gueule
+globasa: munte
+glosa: stoma; ora; os; rostra
+ha: baki
+hi: मुँह; मुख
+hu: száj
+ia: bucca
+id: mulut
+io: boko
+it: bocca
+ja: 口
+ko: 입
+lidepla: muh
+ms: mulut
+nl: mond; bek; muil
+pl: usta; paszcza; gęba
+pt: boca
+ro: gură; гурэ
+ru: рот; уста́; пасть
+sv: mun; käft
+sw: kinywa
+ta: வாய்
+te: నోరు
+th: ปาก
+tl: bibig; bunganga
+tpi: maus
+tr: ağız
+uk: рот
+ur: مُن٘ہ; مُکھ
+vi: miệng; mồm
+yue: 口; 嘴
+
+word: na
+class: particle
+infl: sw (-na-)
+sense: present tense
+en: (indicates the present tense)
+sw: -na-
+
+word: nen
+class: noun
+infl: hi (नैन/nain); am (ዐይን/ʿäyn); bn (নয়ন/noẏon); cmn (眼/yǎn); ko (눈/nun)
+sense: organ
+am: ዐይን
+ar: عَيْن; عين; ⁧plural: عيون
+bg: око́
+bn: চোখ; চশম; নয়ন; আঁখি
+ca: ull
+cmn: 眼睛; 眼; 目
+cs: oko
+da: øje
+de: Auge
+el: μάτι; οφθαλμός; όμμα; ομμάτιον
+en: eye
+eo: okulo
+es: ojo; clisos; lumbreras
+fa: چَشْم; چِشْم
+fi: silmä
+fr: œil
+globasa: oko
+glosa: oku; oceli; oma; opti
+ha: idṑ; ijiya
+hi: आँख; नैन; नेत्र; नयन; लोचन; चक्षु; अक्षि; नैना; चश्म; ऐन
+hu: szem
+ia: oculo
+id: mata
+io: okulo
+it: occhio
+ja: 目; 眼; 瞳
+ko: 눈
+lidepla: oko
+ms: mata; ain
+nl: oog; kijker; gezichtsorgaan; oculus
+pl: oko
+pt: olho
+ro: ochi
+ru: глаз
+sv: öga
+sw: jicho
+ta: கண்
+te: కన్ను; నేత్రము
+th: ตา
+tl: mata
+tpi: ai
+tr: göz
+uk: о́ко
+ur: آن٘کھ; نَین; عَین; چَشْم
+vi: mắt
+yue: 眼; 眼睛
+
+word: no
+class: particle
+infl: es (no); globasa (no); bn (না/na); en (not); fa (نه/na); fr (ne); glosa (ne); hi (न/na); ru (не/ne)
+sense: negates meaning of verb
+am: አይደለም
+ar: لَا; مَا; لَم; لَن; لَيْسَ
+bg: не
+bn: না
+ca: no; no ... pas
+cmn: 不; 沒 /没; 沒有 /没有; 別 /别; 無 /无; 未; 非
+cs: ne-
+da: ikke; ej
+de: nicht
+el: δε; δεν; μη; μην
+en: not
+eo: ne
+es: no
+fa: نه
+fi: ei
+fr: ne ... pas; pas; ne
+globasa: no
+glosa: ne
+ha: ba
+hi: नहीं; न; मत
+hu: nem
+ia: non
+id: tidak; tak
+io: ne
+it: non
+ja: ...ではない; ...ない; -ません
+ko: 안; ...아니다
+lidepla: bu
+ms: tidak; bukan; endah (Sarawak)
+nl: niet
+pl: nie
+pt: não
+ro: nu
+ru: не
+sv: inte; ej; icke
+sw: (use negative conjugated forms of the verb)
+ta: இல்லை
+te: కాదు
+th: ไม่; ไม่ใช่
+tl: hindi
+tr: değil; -ma; -me
+uk: не
+ur: نہیں; نہ; مت
+vi: không; chẳng; chả
+yue: 不; 唔
+
+word: nove
+class: adj
+infl: lidepla (nove); bn (নয়া/noẏa); de (neu); fa (نو/now); fr (nouveau, nouvel, neuf); hi (नव/nav, नवा/navā); ru (но́вый/nóvyj)
+sense: recently made or created
+am: አዲስ
+ar: جَدِيد; حَدِيث
+bg: нов
+bn: নয়া; নতুন
+ca: nou
+cmn: 新
+cs: nový
+da: ny; frisk
+de: neu
+el: νέος; καινούργιος
+en: new
+eo: nova
+es: nuevo
+fa: نو; تازه; جدید
+fi: uusi
+fr: nouveau; nouvel; neuf
+globasa: neo
+glosa: neo; kaino
+ha: sabo
+hi: नया; नवीन; नव; नूतन; नव्य; नवा; ताज़ा
+hu: új
+ia: nove
+id: baru; baharu
+io: nova
+it: nuovo
+ja: 新しい; 新
+ko: 새롭다; 새; 신; 뉴
+lidepla: nove
+ms: baru; baharu
+nl: nieuw; jong
+pl: nowy
+pt: novo
+ro: nou
+ru: но́вый
+sv: ny
+sw: -pya
+ta: புதிய
+te: కొత్త; క్రొత్త; నవ్యము
+th: ใหม่; สด
+tl: bago
+tr: yeni
+uk: нови́й
+ur: نیا
+vi: mới
+yue: 新
+
+word: nu
+class: pron
+infl: fr (nous, à nous); lidepla (nu); ar (نَحْنُ/naḥnu, ـنَا/-nā); glosa (na)
+sense: generic we (the speaker and at least one other person, regardless of whether it's the person being addressed) | objective case of "we"
+am: እኛ
+ar: نَحْنُ; ـنَا; إِيَّانَا
+arz: ـنا
+bg: ни́е
+bn: আমরা; আমাদের
+ca: nosaltres; nos; ens
+cmn: 我們 /我们
+cs: my; nás; nám
+da: vi
+de: wir; uns
+el: εμείς; μας
+en: we; us
+eo: ni; nin
+es: nosotros; nosotras; nos
+fa: مَا; ما
+fi: me; meidät; meitä
+fr: nous; on; à nous
+globasa: imi
+glosa: na
+ha: múu; mún; múkà; bàmù...bá; záamù; mâa; múkàn; mù; múnàa; múkè; báamàa
+hi: हम
+hu: mi; -ünk; minket; bennünket
+ia: nos
+id: kita
+io: ni
+it: noi; noialtri; a noi; ci
+ja: 私達; 我ら; 我々; 僕ら; うち; 僕達; 私ども
+ko: 우리; 저희
+lidepla: nu
+ms: kami; kita
+nl: wij; we; ons
+pl: my; nas; nam; nami
+pt: nós; a gente; nos
+ro: noi; ne; nouă; (pe) noi
+ru: мы; нас; нам; на́ми
+sv: vi; oss
+sw: sisi
+te: మమ్మల్ని
+th: เรา
+tr: biz
+uk: ми; нас; нам
+ur: ہَم
+yue: 我哋
+
+word: nu-su
+class: det
+sense: belonging to us
+ar: ـنَا
+arz: ـنا
+bg: наш
+bn: আমাদের
+ca: nostre
+cmn: 我們的 /我们的
+cs: náš
+da: vor
+de: unser
+el: μας
+en: our
+eo: nia
+es: nuestro; nuestra; nuestros; nuestras
+fa: ما
+fi: meidän ...mme; -mme; meidän
+fr: notre; nos
+hi: हमारा
+hu: -nk; -unk; -ünk
+ia: nostre
+io: nia
+it: nostro; nostra; nostri; nostre
+ja: 私たちの; 我らの; 我々の
+ko: 우리의
+nl: ons; onze
+pl: nasz
+pt: nosso
+ro: nostru
+ru: наш
+sv: vår
+sw: -etu
+te: మా; మన
+th: ของเรา
+tl: atin; amin
+tr: bizim
+uk: наш
+ur: ہمارا
+vi: của chúng tôi
+yue: 我哋嘅
+
+word: oke
+class: adj
+infl: en (OK); es (okey, okay); globasa (okey); hi (ओके/oke); ja (オーケー/ōkē, OK); ms (okey); ru (оке́й/okéj, ок/ok); tl (okey); tr (okey); ar (أُوكَي/ʔokay); cmn (OK); de (Okay, OK); fr (OK); ko (오케이/okei); th (โอเค/oo-kee)
+sense: all right, permitted (OK) | acknowledgement or acceptance (OK) | – (okay) | Used to affirm, indicate agreement, or consent (1) (all right)
+am: እሺ
+ar: حَسَنًا; صَحِيح; طَيِّب; أُوكَي
+bg: добре́; оке́й
+ca: d'acord; molt bé; OK; entesos
+cmn: OK (ōukèi, ōukēi); 好; 行; 可以; 沒事 /没事; 明白了; 知道了; OK; 好的
+cs: OK
+de: Okay; OK; Gut; in Ordnung; okay; gut
+el: εντάξει
+en: OK; okay; all right
+eo: enorde; bone; konsentite; en ordo; okej
+es: bien; vale; de acuerdo; okey; okay; bueno; ya; muy bien
+fa: باشه
+fi: sopia; kelvata; OK; okei; selvä; hyvä on; samapa se
+fr: permis; bien; pouvoir; avoir le droit de; OK; d'accord; entendu; ça va; c'est bon
+globasa: okey
+glosa: no-defekti
+hi: ओके; ठीक; अच्छा
+hu: oké; rendben; elfogadható; jól van
+it: andare bene; OK; va bene; d'accordo; intesi
+ja: オーケー; よし; はい; 大丈夫; OK (ōkē); 畏まりました; 了解; オッケー; オーライ
+ko: 오케이; 괜찮다; 알겠어요; 괜찮아
+lidepla: hao
+ms: baik; okey
+nl: oké; in orde; goed
+pl: dobrze; w porządku; zgoda
+pt: OK; tudo bem; tá; certo; está bem; tá bom
+ro: în ordine; în regulă; bine; de acord
+ru: ла́дно; хорошо́; оке́й; ок
+sv: okej; ok; okey; visst
+th: โอเค
+tl: sige; okey
+tr: peki; tamam; olur; okey; oldu; doğru; pekâlâ
+uk: оке́й; до́бре; гара́зд
+ur: ٹھیک; اچّھا
+vi: được; tốt; vâng; dạ; được rồi; rồi
+
+word: ol
+class: det
+infl: en (all); lidepla (ol); bn (সকল/śokol); de (all); tpi (olgeta)
+sense: every individual of the given class
+ar: كُلّ; جَمِيع
+arz: كل
+bn: সকল
+ca: tot; tota; tots; totes
+cmn: ...都; 所有
+cs: všichni
+da: alle; al; alt
+de: all; alle; jeder; jede; jedes
+el: όλοι; όλες; όλα
+en: all
+eo: ĉiuj; ĉiaj; ĉia
+es: todos; todas
+fa: همه; سراسر
+fi: kaikki
+fr: tous les; toutes les; tout le; toute la
+globasa: moy
+glosa: panto
+hi: सब; सारा
+hu: minden; valamennyi; összes
+ia: omne
+id: semua; segenap; seluruh
+io: omnu; omna
+it: tutto; tutta
+ja: 全て; 全部; あらゆる; 全体; 全...
+ko: 모든; 전
+lidepla: ol; oli
+ms: semua
+nl: al; alle
+pl: wszystek
+pt: todo; toda
+ro: tot
+ru: весь; це́лый
+sv: alla; all; allt
+sw: -ote
+te: అందరూ; అన్నీ; సమస్తము; సర్వము; మొత్తము
+tl: lahat
+tpi: olgeta
+tr: bütün; tüm
+uk: весь; ці́лий
+ur: سب; سارا
+vi: mọi
+yue: 所有
+
+word: ol-it
+class: pron
+sense: all the things
+ar: كُلّ شَيْء
+arz: كل حاجة
+bg: вси́чко
+bn: সবকিছু
+ca: tot
+cmn: 一切; 每事; 什麼都 /什么都; 凡事; 萬事 /万事
+cs: všechno; všechen
+da: alt
+de: alles
+el: όλα; τα πάντα
+en: everything
+eo: ĉio
+es: todo
+fa: هر چیز; همهچیز
+fi: kaikki
+fr: tout
+globasa: moyto
+glosa: panto-ra
+hi: सब कुछ; सब
+hu: minden; mind
+ia: omne; toto
+id: segala sesuatu; semuanya
+io: omno
+it: tutto
+ja: 全て; 全部; いずれも; どれも
+ko: 모두; 모든 것; 전부
+lidepla: olo
+ms: semuanya
+nl: alles
+pl: wszystko
+pt: tudo
+ro: tot
+ru: всё
+sv: allt; alla
+te: అన్నీ
+th: ทุกสิ่ง; ทุกอย่าง
+tpi: olgeta samting
+tr: her şey; herşey
+uk: усе́; все
+ur: سب کچھ; سب; ہر چیز
+vi: mọi vật; mọi thứ nào; tất cả
+yue: 凡事; 一切; 萬事 /万事; 乜嘢都
+
+word: ore
+class: noun
+infl: globasa (ore); am (ጆሮ/ǧoro); de (Ohr); es (oreja); fr (oreille)
+sense: organ of hearing
+am: ጆሮ
+ar: أُذُن; أُذْن
+arz: ودن
+bg: ухо́
+bn: কান; কর্ণ
+ca: orella
+cmn: 耳朵; 耳
+cs: ucho
+da: øre
+de: Ohr
+el: αυτί
+en: ear
+eo: orelo
+es: oído; oreja
+fi: korva
+fr: oreille
+globasa: ore
+glosa: oti; auri
+ha: kunne
+hi: कान
+hu: fül
+ia: aure
+id: telinga; kuping
+io: orelo
+it: orecchio; orecchia; orecchie
+ja: 耳
+ko: 귀
+lidepla: aur
+ms: telinga; kuping
+nl: oor
+pl: ucho
+pt: ouvido; orelha
+ro: ureche
+ru: у́хо; у́ши
+sv: öra
+sw: sikio
+ta: காது; செவி
+te: చెవి
+th: หู
+tl: tainga
+tpi: yau; ia
+tr: kulak
+uk: ву́хо
+ur: کان
+vi: tai
+yue: 耳仔; 耳
+
+word: orni
+class: noun
+infl: glosa (orni); ja (鳥/tori, 鳥類/chōrui)
+sense: animal
+am: ወፍ
+ar: طَائِر; عُصْفُور; عصفورة
+bg: пти́ца
+bn: পাখী
+ca: au; ocell; aucell; pardal
+cmn: 鳥 /鸟; 雀
+cs: pták
+da: fugl
+de: Vogel; Vögelchen; Vögelein; Vöglein
+el: πουλί; πτηνό
+en: bird
+eo: birdo; birdeto
+es: pájaro; ave
+fa: پَرِنْدَه; مُرْغ; پَرَنْدِه
+fi: lintu
+fr: oiseau; oiselle; oiselet; oisillon
+globasa: piu
+glosa: avi; orni
+ha: tsuntsu
+hi: चिड़िया; पंछी; पक्षी; परन्दा; पखेरू
+hu: madár
+ia: ave
+id: burung
+io: ucelo
+it: uccello; pennuto; volatile
+ja: 鳥; 鳥類
+ko: 새; 조류
+lidepla: faula
+ms: burung
+nl: vogel
+pcm: bẹd
+pl: ptak
+pt: pássaro; ave
+ro: pasăre
+ru: пти́ца; пта́шка
+sv: fågel
+sw: ndege
+ta: பறவை
+te: పక్షి; విహంగము; పిట్ట
+th: นก; ปักษา
+tl: ibon
+tpi: pisin
+tr: kuş
+uk: птах; пти́ця
+ur: چِڑْیا; پَنْچھی; پَکْشی; پَرِنْدَہ; پَکھیرو
+vi: chim
+yue: 雀仔; 雀; 鳥 /鸟
+
+word: pala
+class: verb
+infl: globasa (pala); ar (قَالَ/qāla); es (hablar); fr (parler); ko (말하다/malhada)
+sense: to communicate with one's voice using words | to pronounce
+ar: تَحَدَّثَ; تَكَلَّمَ; قَالَ
+bg: гово́ря; разгова́рям; разгово́ря; ка́звам; ка́жа
+bn: বলা
+ca: parlar; dir
+cmn: 講 /讲; 說話 /说话; 講話 /讲话; 說 /说; 告訴 /告诉
+cs: mluvit; hovořit; říkat; říct; povědět
+da: tale; sige
+de: sprechen; reden; sagen
+el: μιλώ; λέω
+en: speak; say
+eo: paroli; diri; elparoli; prononci
+es: hablar; decir
+fa: گَپ زَدَن; صُحْبَت کَرْدَن; حَرْف زَدَن; سُخَن گُفْتَن; گُفْتَن; Dari گُفْتَن
+fi: puhua; sanoa; kertoa
+fr: parler; dire
+globasa: pala; loga
+glosa: dice
+hi: बोलना; कहना
+hu: beszél; mond
+ia: parlar; dicer
+id: berbicara; berpidato; berkata; bicara
+io: parolar
+it: parlare; dire
+ja: 話す; 語る; 言う; しゃべる; おっしゃる; 申す; 申し上げる
+ko: 말하다; 말씀하다; 이야기하다
+lidepla: shwo
+ms: bercakap; kata; cakap
+nl: spreken; zeggen; luiden; opzeggen
+pl: mówić; rozmawiać; powiadać; powiedzieć; wymawiać; rzec
+pt: falar; dizer
+ro: a vorbi; a discuta; zice; spune
+ru: говори́ть; разгова́ривать; сказа́ть
+sv: tala; prata; snacka; säga
+sw: ongea
+ta: பேசு; சொல்
+te: మాట్లాడు; చెప్పు
+th: พูด; กล่าว
+tl: magsalita; sabihin; magsabi
+tr: konuşmak; söylemek; demek
+uk: говори́ти; сказа́ти; розмовля́ти; каза́ти
+ur: بولْنا; کَہْنا
+vi: nói
+yue: 講 /讲
+
+word: parpar
+class: noun
+infl: lidepla (parpar); fa (پَرْوَانَه/parwāna, پَرْوانِه/parvâne); ta (பாப்பாத்தி/pāppātti); tl (paruparo)
+sense: insect
+am: ቢራቢሮ
+ar: فَرَاشَة
+bg: пеперу́да
+bn: প্রজাপতি
+ca: papallona
+cmn: 蝴蝶
+cs: motýl
+da: sommerfugl; sommerflue; skurvefugl
+de: Schmetterling; Falter; Tagfalter
+el: πεταλούδα; ψυχή
+en: butterfly
+eo: papilio
+es: mariposa
+fa: شَوْپَرَک; پَرْوَانَه; پَرْوانِه
+fi: perhonen
+fr: papillon
+globasa: pepero
+glosa: papilio; Lepidoptera
+ha: balebale; bude littafi; malam bu'de littafi
+hi: तितली
+hu: pillangó; lepke
+ia: papilion
+id: kupu-kupu; rama-rama
+io: papiliono
+it: farfalla
+ja: 胡蝶; 蝶々; 蝶; チョウ
+ko: 나비; 호접
+lidepla: parpar
+ms: kupu-kupu; rama-rama; kulimambang
+nl: vlinder; pepel; vijfwouter; botervlieg; pennenvogel; schoenlapper; zomervogel; fladderaar
+pl: motyl
+pt: borboleta; panapaná
+ro: fluture
+ru: ба́бочка; мотылёк; моты́ль
+sv: fjäril; dagfjäril
+sw: kipepeo
+ta: வண்ணத்துப்பூச்சி; பட்டாம்பூச்சி; பாப்பாத்தி
+te: సీతాకోక చిలుక
+th: ผีเสื้อ
+tl: paruparo; mariposa
+tpi: bataplai; bembe
+tr: kelebek
+uk: мете́лик
+ur: تِتْلی
+vi: bươm bướm; bướm
+yue: 蝴蝶
+
+word: plis
+class: intj
+infl: en (please); lidepla (plis); bn (প্লিজ/plij)
+sense: interjection to make a polite request
+ar: مِن فَضْلِك; رَجَاءً; لَو سَمَحْت; لُطْفًا; أَرْجُوك
+bg: мо́ля
+bn: প্লিজ; প্লীজ; দয়া করে
+ca: si us plau; per favor
+cmn: 請 /请; 拜託 /拜托
+cs: prosím
+da: vær så venlig; tak; gerne
+de: bitte
+el: παρακαλώ
+en: please (interjection)
+eo: bonvolu
+es: por favor; favor de; porfa
+fa: لطفاً; خواهش میکنم; بیزحمت; مهربانی; مرحمت
+fi: olkaa hyvä; ole hyvä; kiitos; ole kiltti
+fr: s'il vous plaît; s'il te plaît; S.V.P.; prière de; veuillez
+globasa: fe lutuf; fe peti
+glosa: place
+hi: कृपया; मेहरबानी करके; कृपा करके
+hu: kérem; legyen szíves; kérlek; légy szíves
+ia: si il vos place; si il te place
+id: minta tolong; tolong; kumohon
+io: voluntez; pliz; me pregas
+it: per favore; per piacere
+ja: ...ください; どうぞ; お願いします
+ko: 제발; ~ 주세요
+lidepla: plis
+ms: sila; tolong
+nl: alstublieft; gelieve; alsjeblieft; a.u.b.; a.j.b.
+pcm: abeg
+pl: proszę; poprosiłbym
+pt: por favor; faça favor; se faz favor
+ro: vă rog; te rog
+ru: пожа́луйста; прошу́; бу́дьте добры́; бу́дь добр; бу́дь добра́
+sv: tack; snälla; var så god; vänligen
+sw: tafadhali
+ta: தயவு செய்து
+th: ช่วย; กรุณา; โปรด
+tl: pakiusap
+tpi: plis
+tr: lütfen; zahmet olmazsa; iltimas
+uk: будь ла́ска; прошу́
+ur: لطفاً; برائے مہربانی; براہ مہربانی; براہ کرم; از راہ کرم; از راہ تلطف; ازراہ لطف و کرم; ازراہ مہربانی; ازراہ نوازش; مہربانی کر کے; مہربانی فرما کر; مہربانی فرمائیے; مہربانی کیجیے; ذرا; ذرہ
+vi: xin; vui lòng
+yue: 請 /请
+
+word: pluva
+class: noun
+infl: lidepla (pluva); es (pluvia); fr (pluie); glosa (pluvi)
+sense: condensed water from a cloud
+am: ዝናብ
+ar: مَطَر
+bg: дъжд
+bn: বৃষ্টি
+ca: pluja
+cmn: 雨
+cs: déšť
+da: regn
+de: Regen
+el: βροχή
+en: rain
+eo: pluvo
+es: lluvia; pluvia
+fa: بَارَان; باران
+fi: sade
+fr: pluie
+globasa: barix
+glosa: pluvi; hieto
+ha: ruwa
+hi: बारिश; बरसात; मेंह; वर्षा; वृष्टि
+hu: eső
+ia: pluvia
+id: hujan
+io: pluvo
+it: pioggia
+ja: 雨
+ko: 비
+lidepla: pluva
+ms: hujan; panjang tangkai
+nl: regen
+pl: deszcz
+pt: chuva
+ro: ploaie; плоае
+ru: дождь
+sv: regn; regnväder
+sw: mvua; manyunyu
+ta: மழை; மாரி
+te: వాన; వర్షం
+th: ฝน
+tl: ulan
+tr: yağmur; baran; yağış
+uk: дощ
+ur: بارِش; مین٘ہ; بَرْسات; باراں; مَطَر; باران
+vi: mưa
+yue: 雨
+
+word: po
+class: prep
+infl: glosa (po); bn (পরে/pore); ru (по́сле/pósle)
+sense: subsequently; following in time; later than
+am: በኋላ
+ar: بَعْدَ
+arz: بعد
+bg: след; подир
+bn: পরে
+ca: després de; acabat de; en acabat de
+cmn: ...以後 /...以后
+cs: po
+da: efter
+de: nach
+el: μετά
+en: after (preposition)
+eo: post
+es: después de; tras; en pos de
+fa: پس از; بعد از; بعد; در پی
+fi: jälkeen; yli
+fr: après
+globasa: xafe (xa+fe)
+glosa: po; post
+hi: ... के बाद
+hu: után
+ia: post; depois
+id: setelah
+io: pos
+it: seguente; dopo
+ja: 後に
+ko: 다음에
+lidepla: afte
+ms: selepas
+nl: na; over
+pl: po
+pt: depois de
+ro: după; peste
+ru: по́сле
+sv: efter
+ta: பிறகு
+th: หลัง
+tpi: bihain
+tr: sonra
+uk: пі́сля
+ur: ... کے بعد; بعد از; پھر
+vi: sau
+
+word: po ke
+class: conj
+sense: signifies that the action of its clause takes place before the action of the other clause
+ar: بَعْدَمَا
+bg: след като
+ca: després que; acabat que; en acabat que
+de: nachdem
+el: αφού; αφότου
+en: after (conjunction)
+es: después
+fi: kun; sen jälkeen, kun
+fr: après que; après de
+globasa: xaki (xa+ki)
+hu: miután
+it: dopo
+nl: nadat
+pt: depois de
+ru: по́сле того́, как
+uk: пі́сля то́го, як
+
+word: po-ge
+class: adv
+sense: at a later or succeeding time (afterwards) | – (afterward) | soon afterward (then) | next in order (then) | behind; later in time; following (after)
+ar: أَخِير; بَعْدَ ذٰلِك; ثُمَّ; بعد
+bg: след това; впоследствие; после; зад
+bn: এরপর; এর পর; এরপরে; এর পরে; তারপর; তার পর; তারপরে; তার পরে; বাদে
+ca: després; llavors; més tard; acabat; en acabat
+cmn: 然後 /然后; 接著 /接着; 就; 以后
+cs: později; poté; pak; potom
+da: bagefter; senere; efter
+de: später; nachher; danach; hinterher; dann; anschließend; darauf
+el: ύστερα; κατόπιν; μετά; στην συνέχεια; έπειτα
+en: afterwards; afterward; then; after
+eo: poste; tiam
+es: después; consecuentemente; en seguida; luego
+fa: بعد; بعداً; سپس; پس از
+fi: jälkeenpäin; jälkikäteen; perästäpäin; sittemmin; myöhemmin; perässä; sitten
+fr: après; ultérieurement; ensuite; après coup; par la suite; puis
+globasa: jaxali (ja+xa+li)
+glosa: po-co
+hi: बाद में; पश्चात; फिर; उपरांत; तत्पश्चात्
+hu: azután; később; utóbb; utólag; utána; aztán; majd
+ia: pois
+id: lalu
+io: pose; lore
+it: dopo; poi; successivamente; in seguito; dopodiché; quindi
+ja: その後; それから; 後で; そして; 次に; のちに
+ko: 나중에; 이후; 다음에; 앞으로
+lidepla: poy
+ms: tidak lama kemudian; selepas itu
+nl: nadien; achteraf; toen; dan; na; achter
+pl: później; potem; (a) następnie; (a) potem
+pt: depois; mais tarde; em seguida; então; seguidamente; sequencialmente
+ro: apoi; mai târziu; după aceea; după
+ru: по́зже; потом; после; впосле́дствии; зате́м; пото́м; по́сле
+sv: efteråt; senare; därpå; sen; sedan; så; efter
+sw: kisha; baada
+ta: பின்னே
+th: แล้วก็; หลัง
+tl: pagkatapos
+tpi: bihain; orait
+tr: sonradan; daha sonra; sonraları; sonra; sonrasında; ondan sonra
+uk: пізні́ше; зго́дом; по́тім
+ur: بعد میں; پھر
+vi: sau này; sau đó; về sau; rồi; xong rồi; rồi đến; rồi tới; sau
+yue: 然後 /然后; 然之後 /然之后; 之後 /之后
+
+word: pote
+class: verb
+infl: glosa (pote); es (poder); vi (có thể)
+sense: to be able to; to know how to | have ability to
+am: መቻል
+ar: قَدَرَ; اِسْتَطَاعَ; أَمْكَنَ
+arz: قدر
+bg: мо́га; уме́я
+ca: poder; poguer
+cmn: 會 /会; 能; 能夠 /能够
+cs: moci; umět
+da: kunne
+de: können; vermögen; in der Lage sein
+el: μπορώ; δύναμαι
+en: can; be able to
+eo: povi
+es: poder; saber; ser capaz de
+fa: توانستن; قادر بودن
+fi: osata; voida; pystyä; kyetä; saada
+fr: pouvoir; savoir; être capable de
+globasa: abil
+glosa: pote
+hi: सकना; समर्थ होना
+hu: tud; képes
+ia: poter
+id: boleh; bisa
+io: povar
+it: potere; sapere
+ja: できる; -れる; 出来る
+ko: ...을/ᄅ 수 있다; ...할 수 있다
+lidepla: mog
+ms: boleh; dapat (Sarawak); bisa
+nl: kunnen; vermogen; in staat zijn te
+pl: móc; umieć; potrafić; być w stanie
+pt: conseguir; saber; poder
+ro: putea
+ru: мочь; смочь; уме́ть; быть в состоя́нии; суме́ть
+sv: kunna
+sw: kuweza
+ta: செய்யக்கூடிய
+th: ได้; ย่อม; สามารถ; เป็น
+tr: -ebilmek; -abilmek
+uk: могти́; змогти́; вмі́ти; умі́ти; зумі́ти
+ur: سکنا
+vi: có thể; được; nổi
+yue: 識得 /识得
+
+word: real
+class: adj
+infl: de (real); es (real); globasa (real); en (real); fr (réel); glosa (reali); lidepla (reale); ru (реа́льный/reálʹnyj)
+sense: true, genuine, not merely nominal (real) | genuine, not artificial, counterfeit or fake (real) | that has physical existence (real) | existing in act or reality, not just potentially (actual)
+ar: حَقِيقِيّ; وَاقِعِيّ; فِعْلِيّ
+bg: действи́телен; и́стински; реа́лен; автентичен; истински; реален
+bn: আসল; বাস্তব; খোদ
+ca: real; ver; veritable
+cmn: 真的; 真實的 /真实的; 實際的 /实际的
+cs: skutečný; reálný
+da: ægte; virkelig
+de: wahr; wirklich; echt; real; tatsächlich; konkret
+el: αληθινός; αυθεντικός; πραγματικός
+en: real; actual
+eo: vera; aŭtenta; reala
+es: real; verdadero; auténtico; vero; existente; efectivo
+fa: حقیقی; واقعی
+fi: todellinen; tosi; aito; ehta; oikea; tosiasiallinen
+fr: réel; vrai; effectif
+globasa: real
+glosa: reali
+ha: ainihin
+hi: सच्चा; असली; वास्तविक; खरा
+hu: igaz; valós; valódi; igazi; valóságos; fennálló; tényleges
+ia: real; effective; ver
+it: reale; vero; effettivo
+ja: 現実の; 真実の; 本物の; 実在; 現存; 実際の
+ko: 실제(實際)의; 현실(現實)의; 진실(眞實)의; 참; 진; 진짜(眞)의; 진품(眞品)의; 실존(實存)의
+lidepla: reale
+nl: echt; waar; werkelijk; daadwerkelijk; effectief; reëel
+pl: prawdziwy; realny
+pt: real; vero; verdadeiro; efectivo
+ro: real; adevărat; actual
+ru: настоя́щий; и́стинный; действи́тельный; реа́льный
+sv: sann; verklig; riktig; äkta; faktisk; reell
+te: నిజమైన; అసలు
+th: จริง
+tl: tunay
+tr: doğru; hakiki; gerçek
+uk: спра́вжній; ді́йсний; і́стинний; реа́льний
+vi: thật; thiệt; thực; thật sự; thực tế; có thật
+
+word: rude
+class: adj
+infl: lidepla (rude); en (red); fr (rouge); glosa (rubi, rufi)
+sense: having red as its colour
+am: ቀይ
+ar: أَحْمَر; حَمْرَاء; حُمْر
+bg: черве́н
+bn: লাল; আলহামরা; লোহিত
+ca: roig; vermell
+cmn: 紅 /红; 紅色 /红色
+cs: červený; rudý
+da: rød
+de: rot
+el: κόκκινος
+en: red
+eo: ruĝa
+es: rojo; colorado; rubro
+fa: قِرْمِز; سُرْخ; اَحْمَر
+fi: punainen
+fr: rouge
+globasa: roso
+glosa: rubi; eritro; rubri; rufi; rutilo
+ha: ja
+hi: लाल; सुर्ख़
+hu: piros; vörös; rőt
+ia: rubie
+id: merah
+io: reda
+it: rosso; rubino
+ja: 赤い
+ko: 빨갛다; 붉다
+lidepla: rude
+ms: merah
+nl: rood
+pl: czerwony
+pt: vermelho
+ro: roșu
+ru: кра́сный; а́лый
+sv: röd
+sw: nyekundu
+ta: சிவப்பு; செம்; செங்; செந்
+te: ఎర్ర; ఎర్రని
+th: แดง
+tl: mapula
+tpi: ret; retpela
+tr: kırmızı; al; kızıl-
+uk: черво́ний
+ur: لال; سُرْخ; قِرْمِز; اَحْمَر
+vi: đỏ
+yue: 紅 /红; 紅色 /红色
+
+word: safro
+class: adj
+infl: glosa (safro); ar (صَفْرَاء/ṣafrāʔ, صُفْر/ṣufr); tr (sarı)
+sense: having yellow as its color
+am: ቢጫ
+ar: أَصْفَر; صَفْرَاء; صُفْر
+bg: жълт
+bn: হলদে
+ca: groc
+cmn: 黃 /黄
+cs: žlutý
+da: gul
+de: gelb
+el: κίτρινος
+en: yellow
+eo: flava
+es: amarillo
+fa: زَرْد
+fi: keltainen
+fr: jaune
+globasa: jalo
+glosa: xanto; flavo; galbino; lutea; safro
+hi: पीला; ज़र्द
+hu: sárga
+ia: jalne
+id: kuning
+io: flava
+it: giallo
+ja: 黄色い
+ko: 노란; 노랗다
+lidepla: hwan
+ms: kuning
+nl: geel
+pl: żółty
+pt: amarelo
+ro: galben
+ru: жёлтый
+sv: gul
+sw: -a manjano
+ta: மஞ்சள்; மஞ்சன்
+te: పసుపు
+th: เหลือง
+tl: dilaw; amarilyo
+tpi: yelopela
+tr: sarı
+uk: жо́втий
+ur: پِیلا; زَرْد; اَصْفَر
+vi: vàng; màu vàng
+yue: 黃 /黄
+
+word: sarpen
+class: noun
+infl: globasa (sarpen); es (serpiente); fr (serpent); glosa (serpenti); hi (साँप/sā̃p, सर्प/sarp); lidepla (serpenta)
+sense: legless reptile
+am: እባብ
+ar: ثُعْبَان; حَنَش; حَيَّة; أَفْعَى; حيِّة; تعْبان
+bg: змия́
+bn: সাপ
+ca: serp; serpent; colobra
+cmn: 蛇; 長蟲 /长虫
+cs: had
+da: slange
+de: Schlange; Wurm
+el: φίδι
+en: snake
+eo: serpento
+es: serpiente; culebra
+fa: مَار; مار
+fi: käärme
+fr: serpent
+globasa: sarpen
+glosa: serpenti; angui; ofi
+ha: macī̀jī; macījìyā
+hi: साँप; सर्प; नाग
+hu: kígyó
+ia: serpente
+id: ular
+io: serpento
+it: serpente; serpe; biscia
+ja: 蛇; ヘビ
+ko: 뱀
+lidepla: serpenta
+ms: ular; cewe; cewe ceblek
+nl: slang; serpent
+pcm: snek
+pl: wąż
+pt: cobra; serpente; ofídio; víbora
+ro: șarpe
+ru: змея́
+sv: orm
+sw: nyoka
+ta: பாம்பு; சருப்பம்
+te: పాము
+th: งู
+tl: ahas
+tr: yılan
+uk: змія́
+ur: سان٘پ; مار
+vi: rắn
+yue: 蛇
+
+word: se
+class: det
+infl: fr (ce, cette, ce ... ci, cette ... ci); lidepla (sey); cmn (此/cǐ); es (este); yue (此/ci²)
+sense: the (thing) here | –
+am: ይህ
+ar: هٰذَا; هٰذِهِ; هٰذَانِ; هَاتَانِ; هٰؤُلَاءِ
+bg: то́зи; та́зи; това́; те́зи
+bn: এই; এইটা; এটা; এইটি; এটি
+ca: aquest; aquesta; est; este
+cmn: 這 /这; 此
+cs: tento; tato; toto
+da: denne; dette
+de: dieser
+el: αυτός
+en: this; these (determiner)
+eo: ĉi tiu; tiu ĉi
+es: este; esta; esto; aqueste; aquesta; aquesto
+fa: این
+fi: tämä
+fr: ce; cette; ce ... ci; cette ... ci
+globasa: hin
+glosa: u-ci
+ha: wannan
+hi: यह; इस
+hu: ez
+ia: iste
+id: ini
+io: ico
+it: questo; questa; 'sto; 'sta
+ja: この
+ko: 이
+lidepla: sey; se
+ms: ini; ni
+nl: deze; dit
+pl: ten m ta f to n ci m pl te
+pt: este; esta; isto; estes; estas
+ro: acest; această; ăsta; asta
+ru: э́тот; э́та; э́то; э́ти
+sv: den här; denna
+ta: இது
+te: ఈ; ఇది
+th: นี้
+tl: ito
+tr: bu; bunlar
+uk: цей; ця; це; ці
+ur: یہ
+vi: này
+yue: 這 /这; 呢; 此
+
+word: se ma
+class: det
+sense: plural of this
+ar: هٰذِهِ; هٰؤُلَاءِ
+bg: ти́я; те́зи
+cmn: 這些 /这些
+cs: tito; tyto; tato
+de: diese
+en: these (determiner expressing plurality)
+eo: ĉi tiuj; tiuj ĉi
+es: estos; estas
+fa: این
+fi: nämä
+fr: ces; ces …-ci
+globasa: hin
+glosa: plu-ci
+hu: ezek; ezeket
+ia: iste
+io: ici; ci
+it: questi
+ja: この; これらの
+lidepla: sey
+nl: die; deze
+pl: te; ci
+pt: estes; esses
+ro: acești; aceste; ăștia; astea
+ru: э́ти
+sv: de här; dessa; dom här
+th: เหล่านี้
+uk: ці
+yue: 呢啲
+
+word: se-din
+class: adv
+sense: on the current day | today (noun)
+am: ዛሬ
+ar: الْيَوْمَ; الْيَوْم
+bg: днес; дне́ска
+bn: আজ
+ca: avui; hui
+cmn: 今天; 今日; 今兒 /今儿
+cs: dnes; dnešek
+da: i dag; idag
+de: heute; Heute
+el: σήμερα; σάμερον
+en: today
+eo: hodiaŭ; hodiaŭo
+es: hoy; hoy día
+fa: اِمْروز; امروز
+fi: tänään; tämä päivä; kuluva päivä
+fr: aujourd'hui
+globasa: nundin (nun+din)
+glosa: nu-di
+ha: yau
+hi: आज; अद्य
+hu: ma; a mai nap
+ia: hodie
+id: hari ini
+io: hodie; cadie
+it: oggi
+ja: 今日; 本日
+ko: 오늘; 금일
+lidepla: sedey (se+dey)
+ms: hari ini
+nl: vandaag
+pl: dzisiaj; dziś
+pt: hoje
+ro: astăzi; azi
+ru: сего́дня; сего́дняшний день
+sv: idag; i dag
+sw: leo
+ta: இன்று
+te: నేడు
+th: วันนี้
+tl: ngayon
+tr: bugün
+uk: сього́дні; ни́ні
+ur: آج; ادیہ; امروز
+vi: hôm nay; bữa nay
+yue: 今日; 今天
+
+word: se-ge
+class: adv
+sense: in the same aformentioned manner | in this way or manner | – | –
+ar: هَكَذَا; كَذَا
+arz: كذا; هكدا; هيك
+bn: এভাবে
+ca: així
+cmn: 這樣 /这样; 这样; 如此
+cs: tak; takto
+da: sådan; dermed; dennelunde
+de: so
+el: έτσι
+en: so; thus; like this; in this way
+eo: tiel
+es: así; de esta manera; por lo tanto; ansí; ansina; asín
+fa: ایدون
+fi: niin; siten; täten; näin
+fr: ainsi; comme ça
+globasa: daydenmo; hinmo
+glosa: so
+hi: ऐसा; यथा
+hu: úgy; így; ily módon; ekképp; ekképpen
+io: tante
+it: così
+ja: このように; この様に; こう; こうして
+ko: 그렇게; 이와 같이; 이처럼
+lidepla: tak
+nl: zo; zodanig; alzo; aldus; waardoor
+pl: tak
+pt: assim; dessa forma; desse jeito
+ro: așa; așa cum; în acest fel; astfel
+ru: так; таки́м о́бразом
+sv: så; såhär; sålunda; på detta vis
+ta: அவ்வாறு; இவ்வாறு
+th: เพื่อให้
+tpi: olsem
+tr: böyle; şöyle; öyle; böylece
+uk: так; таки́м чи́ном
+yue: 噉樣 /噉样; 噉样
+
+word: se-it
+class: pron
+sense: the thing, item, etc. being indicated | a specified object | –
+am: ይህ
+ar: هٰذَا; هٰذِهِ; هٰذِي; هٰذَانِ; هٰتَانِ; هٰؤُلَاءِ
+bg: е́то; това
+bn: এইটা; এটা; এইটি; এটি
+ca: això; aquest; aquesta; açò
+cmn: 這 /这; 這個 /这个; 这个; 這些 /这些; 这些
+cs: toto
+da: dette
+de: dieser; diese; dieses; der
+el: αυτός; αυτή; αυτό; ούτος; αύτη; τούτο
+en: this; this one; this thing (pronoun)
+eo: tio ĉi; ĉi tio
+es: esto; éste; ésta
+fa: این; این یکی
+fi: tämä
+fr: ceci; celui-ci; celle-ci; ceux-ci; celles-ci
+globasa: hinto
+glosa: u-ci
+hi: यह; ये
+hu: ez; ez (t)
+ia: isto
+id: ini; yang ini
+io: ca
+it: questo; questa; questo qua
+ja: これ
+ko: 이것
+lidepla: se
+ms: ini; ni; yang ini
+nl: deze; dit
+pl: ten; ta; to
+pt: isto; isso; este; esse
+ro: acest; ăsta; această; asta; acesta
+ru: э́то; э́тот; э́та; э́ти
+sv: den här; denna; det här; detta; de här
+ta: இது
+te: ఇది
+th: นี่
+tr: bu; bunlar
+uk: цей; це
+vi: đây; cái này
+
+word: se-li
+class: pron
+sense: plural of this | –
+bg: ти́я; те́зи
+cs: tito
+de: diese
+en: these; these ones (pronoun)
+es: éstos
+fa: اینها
+fi: nämä
+fr: ceux-ci; celles-ci
+globasa: hinete; hinoto
+glosa: plu-ci
+hu: ezek; ezeket
+io: ici; ci
+it: questi
+ja: これら
+lidepla: se
+pl: te; ci
+pt: esses; estes
+ru: э́ти
+tr: bu; bunlar
+uk: ці
+
+word: se-ta
+class: pron
+sense: this person | – | –
+en: this; this one; this person (pronoun)
+globasa: hinte
+glosa: u-ci
+lidepla: se
+
+word: sel
+class: pron
+infl: de (selbst, selber); es (se, solo); globasa (se); glosa (se); lidepla (selfa); ru (себе́/sebé)
+sense: me, reflexive form of me (myself) | in apposition with I; personally (myself) | (reflexive) your own self (yourself) | you, used emphatically (yourself) | (reflexive) male person as the previously mentioned object (himself) | (emphatic, exclusive) he (himself) | (reflexive object) her (herself) | (as intensifier) she (herself) | (reflexive) it (itself) | (emphatic) it (itself) | reflexive: us (ourselves) | emphatic: we (ourselves) | you (referring to the people being spoken to, previously mentioned) (yourselves) | intensifier (yourselves) | the reflexive case of they, the third-person plural personal pronoun (themselves) | emphatic: they (themselves) | a person's self: general form of himself, herself, themself or yourself (oneself)
+ar: نَفْسِي; نفسكَ; نفسكِ; نَفْسَهُ; نَفْسُهَا; نَفْسُهُ; أَنْفُسَنَا; أَنْفُسُكُم; نَفْس
+arz: نفسى; نفسَك; نفسِك
+bg: се́бе си; се; самият; самите
+bn: নিজেকে
+ca: em; mateix; et; es; mateixa; ens; mateixos; us
+cmn: 自己; 他自己; 她自己; 我們自己 /我们自己; 我们自己; 你們自己 /你们自己; 他們自己 /他们自己; 自身; 自個兒 /自个儿
+cs: se; sebe; sám; samotný; jí; sám sebe; o sobě; sám o sobě; jako takový; sami; samy; sama
+da: mig selv; personligt
+de: mich; mir; selbst; selber; dich; dich selbst; sich; sich selbst; er selbst; sie selbst; von selbst; von allein; Sie selbst; euch; ihr selbst
+el: ο εαυτός μου
+en: myself; yourself; himself; herself; itself; ourselves; yourselves; themselves; oneself (reflexive or emphatic)
+eo: mi; min; persone; vi; vin; vi mem; sin; li mem; si mem; mem; ni; nin; ni mem
+es: me; (yo) mismo; te; ti; se; ti mismo (tuteo); ti misma (tuteo); vos mismo; vos misma; usted mismo; usted misma; tú mismo; él mismo; sí mismo; ella misma; sí misma; solo; a / por si mismo; mismo; en sí; nos; nosotros; nosotros mismos; ustedes mismos; sí mismos; vosotros mismos; ellos mismos; ellas mismas; uno mismo
+fa: خودت; خود; نفس
+fi: itseni; minä itse; itsesi; itsenne; sinä itse; te itse; itsensä; itse; hän ... itse; itsemme; itseään; keskenään
+fr: me; m'; moi-même; te; vous; toi-même; vous-même; lui-même; à lui-même; se; elle-même; soi-même; vous-mêmes; eux-mêmes; elles-mêmes
+globasa: se; he
+glosa: auto; se
+ha: kaina
+hi: खुद; मैं; स्वयं; ख़ुद
+hu: magam; magad; magadat; magát; maga; magunk; magunkat; maguk; magukat; önmaga; saját maga
+ia: me; me ipse; io ipse
+id: diri
+io: me ipsa; tu ipsa; vu ipsa; ni ipsa
+it: mi; te stesso; te stessa; voi stessi; voi stesse; lei stessa; sé; se stesso; sé stesso; ci; noi stessi; noi stesse; se stessa
+ja: 自分; 自身; 彼自身; 彼女自身; ご自分; 御自分; 彼ら自身; 自分自身; 自己
+ko: 자신; 그 여자 자신; 당신 자신; 자기
+lidepla: swa; selfa
+nl: me; mijzelf; mezelf; jijzelf; uzelf; zich; zichzelf; zelf; hijzelf; zijzelf
+pl: siebie; sobie; się; sam; sama; ono samo; sami; same
+pt: me; mim; eu mesmo; eu mesma; te; se; você/tu mesmo; si; a si mesmo; ele mesmo; a si (própria/mesma); ela mesma; ele/ela mesmo; próprio; própria; nos; nós; nós mesmos; vós/vocês mesmos; vós/vocês mesmas; eles mesmos; elas mesmas
+ro: însumi; se; el însuși; ea însăși; noi înșine; noi însene; înșivă; însevă; voi înșivă; voi însevă
+ru: себя́; себе́; собо́й; -ся; я сам; я сама́; ты са́м; ты сама́; вы са́ми; сам; он сам; сама́; сам себя́; оно́ само́; са́ми; они́ са́ми
+sv: mig; mig själv; sig; sig själv; oss själva; (vi) själva; en själv
+ta: நானே
+te: నాకు; తాను
+th: ตนเอง; ตัวเอง
+tr: kendim; tek başıma; şahsen; kendin
+uk: себе́; собі́; собо́ю; -ся; я сам; я сама́; ти сам; ти сама́; ви сами́; ви самі́; він сам; вона́ сама́; се́бе; воно́ само́; само́; ми сами́; ми самі́; вони́ сами́; вони́ самі́
+ur: خود
+vi: mình; tự
+yue: 自己
+
+word: sel-su
+class: det
+sense: belonging to (determiner) | –
+ar: مِلْك; نَفْس
+bg: свой; со́бствен
+ca: mateix; propi
+cmn: 自己的
+cs: vlastní
+da: egen
+de: eigen
+el: δικός
+en: own; one's own (emphatic possessive)
+eo: propra
+es: propio
+fi: oma
+fr: propre
+globasa: suli (su+li)
+glosa: auto; idio; proprie
+hi: अपना
+hu: saját; birtokol
+id: sendiri
+it: proprio
+ja: 自身の
+ko: 자기의
+lidepla: swa-ney; prope
+ms: sendiri
+nl: eigen
+pl: swój; własny
+pt: próprio
+ro: propriu
+ru: свой; со́бственный
+sv: egen
+uk: свій; вла́сний
+ur: اپنا
+vi: riêng
+
+word: sen
+class: verb
+infl: globasa (sen); de (sein); es (ser)
+sense: to occupy a place (be) | intransitive, non-copulative (usually literary in English): to exist; to have real existence (be) | – (am) | – (are) | – (is)
+ar: كَانَ
+arz: يبقى; موجود
+bg: съм
+bn: হওয়া
+ca: ésser; ser; estar; haver-hi; existir
+cmn: 在; 是; 有; 存在
+cs: být
+da: være; være til
+de: sein; sich befinden; existieren
+el: είμαι; υπάρχω
+en: be; am; are; is (copula)
+eo: esti; ekzisti
+es: estar; ser; existir
+fi: olla; olla olemassa
+fr: être
+globasa: sen
+glosa: es
+hi: होना
+hu: van
+id: berada; ada
+io: esar; existar
+it: essere; esserci
+ja: 在る; 居る; 存在する; いる; いらっしゃる
+ko: 있다; 계시다; 없다; 존재하다
+lidepla: bi; es
+ms: berada; ada
+nl: zijn; staan; zitten; liggen; wezen; zich bevinden; bestaan
+pl: być
+pt: estar; ser; haver; existir
+ro: fi; exista
+ru: быть; находи́ться; существова́ть
+sv: vara; ligga; stå; sitta; finnas; existera; finnas till; vara till
+sw: kuwa
+ta: இரு; அமர்; உள்
+te: ఉండు
+th: อยู่; มีอยู่
+tl: maging
+tr: bulunmak; olmak; var
+uk: бу́ти; знахо́дитися
+ur: ہونا
+vi: ở; có
+
+word: si
+class: conj
+infl: es (si); fr (si); glosa (si); lidepla (si); tr (-se, -sa); yue (要是/jiu³ si⁶)
+sense: supposing that
+ar: إِنْ; لَوْ; إِذَا
+arz: اذا; إذا; لو; إن
+bg: а́ко
+bn: যদি
+ca: si
+cmn: 如果; 要是; 如; ...的话; 當 /当
+cs: jestliže; pokud
+da: hvis; om; dersom; nærmest; snarere
+de: wenn; falls
+el: αν; εάν; άμα; ει
+en: if (supposing that)
+eo: se
+es: si
+fa: اگر; چنانچه
+fi: jos; mikäli
+fr: si
+globasa: eger
+glosa: si
+hi: अगर; यदि; जो
+hu: ha; hogyha; amennyiben
+ia: si
+id: jika; kalau; apabila
+io: se
+it: se
+ja: もし...; ...なら; ...ならば; ...だったら; ...と; ...ては; ...えば
+ko: 만약; -면
+lidepla: si
+ms: kalau; kira; jika; jikalau; andai; sekiranya
+nl: als; indien; as
+pl: jeśli; jeżeli; gdyby
+pt: se; caso
+ro: dacă
+ru: е́сли; е́жели; ка́бы
+sv: om
+sw: ikiwa; kama
+ta: என்றால்
+te: అయితే
+th: ถ้า หาก
+tpi: sapos
+tr: eğer; -se; -sa; ise; varsayarsak
+uk: якщо́; коли́
+ur: اگر; یدی
+vi: nếu (mà); hễ (mà)
+yue: 要是; 如果
+
+word: simple
+class: adj
+infl: es (simple); fr (simple); lidepla (simple); tl (simple); de (simpel); en (simple); glosa (simpli)
+sense: uncomplicated (simple) | ordinary; lacking adornment or ornamentation (plain) | simple-minded (simple)
+ar: بَسِيط; سَهْل; أَبْلَه
+arz: بسيط
+bg: прост; ле́сен; обикновен; наивен; простодушен
+bn: সহজ
+ca: simple; senzill
+cmn: 簡單 /简单; 容易; 簡易 /简易; 平的; 平常; 質素 /质素
+cs: jednoduchý; prostý; lehký; obyčejný
+da: enkel; simpel
+de: einfach; simpel; schlicht
+el: απλός
+en: simple; plain
+eo: simpla; simplanima
+es: simple; sencillo; llano; mondo
+fa: ساده
+fi: yksinkertainen; selko-; selvä; tavallinen
+fr: simple
+globasa: jandan
+glosa: simpli
+hi: सरल; आसान
+hu: egyszerű
+ia: simple; simplice
+id: sederhana; mudah
+io: simpla
+it: semplice; mero
+ja: 簡単な; 単純な; 易い; 平易な; 質素な; 普段の; 普通の
+ko: 간단(簡單)하다; 소박한
+lidepla: simple
+ms: mudah
+nl: eenvoudig; simpel; achterlijk
+pl: prosty; łatwy; lekki; zwykły; zwyczajny; prostak
+pt: simples
+ro: simplu; necomplicat
+ru: просто́й; лёгкий; обыкнове́нный; обы́чный; простоду́шный
+sv: enkel; simpel; vanlig
+ta: எளிய; எளிது; எளிமையான
+te: సరళమైన
+th: ง่าย; ธรรมดา; งั้น ๆ
+tl: simple; payak; yano; liso; pangkaraniwan
+tr: basit; sade
+uk: про́стий; ле́гкий
+ur: آسان
+vi: giản dị; mộc mạc; đơn giản; giản đơn
+
+word: soho
+class: pron
+infl: globasa (soho); ja (相互/sōgo); ko (서로/seoro)
+sense: to one another; one to the other | idiomatic, reciprocal pronoun
+ar: بَعْضُهُ الْبَعْض
+ca: l'un a l'altre; mútuament
+cmn: 互相; 彼此; 交互; 相互
+da: hinanden; hverandre
+de: einander; gegenseitig; aufeinander
+el: αλλήλων
+en: each other; one another
+eo: unu al la alia; unu la alian
+es: el uno al otro; entre sí; mutuamente; el uno con el otro; unos a / con otros; los unos a / con los otros
+fa: همدیگر; یکدیگر
+fi: toisensa; toinen toisensa
+fr: l'un l'autre; les uns les autres
+globasa: soho
+glosa: alelo
+hu: egymás
+id: saling
+io: l'una l'altra; l'uni l'altri; l’una l’altra; l’una, l’altra
+it: a vicenda; vicendevolmente; l'un l'altro
+ja: お互いに; 互い; お互い; 相互
+ko: 서로
+lidepla: mutu
+ms: saling
+nl: elkaar; elkander; mekaar
+pl: nawzajem; jeden drugiego; jeden drugiemu
+pt: um ao outro; se
+ro: unul pe altul
+ru: друг дру́га; друг дру́гу; взаи́мно
+sv: varandra; varann
+ta: ஒருவருக்கொருவர்; ஒருவரையொருவர்
+th: กันและกัน
+tl: isa't isa; isa’t-isa
+tr: birbiri; birbirine; birbirini
+uk: оди́н о́дного; оди́н о́дному
+vi: nhau
+yue: 互相; 相互
+
+word: sola
+class: name
+infl: globasa (Sola); glosa (sola); de (Sonne); es (sol); fr (soleil)
+sense: the star around which the Earth revolves — see also Sun
+am: ፀሐይ
+ar: شَمْس
+bg: слъ́нце
+bn: সূর্য; আফতাব
+ca: sol; solell
+cmn: 太陽 /太阳; 日; 日頭 /日头
+cs: slunce
+da: sol
+de: Sonne
+el: ήλιος
+en: sun
+eo: suno; Suno
+es: sol
+fa: خورْشِید; آفْتَاب; هور; خور; خورْشید; آفْتاب; خْوَرْشِید; شَمْس; خْوَر
+fi: aurinko
+fr: soleil; Soleil
+globasa: Sola
+glosa: heli; sola
+ha: rana
+hi: सूर्य; सूरज; ख़्वुरशेद; रवि; सुरुज; खुरशीद; आफ़ताब; शम्स; आदित्य; अंशुमान
+hu: Nap
+ia: sol
+id: matahari
+io: suno; Suno
+it: sole
+ja: 太陽; 日
+ko: 해; 태양
+lidepla: surya
+ms: matahari; mentari; suria; rawi; syamsi; syamsu
+nl: Zon
+pl: słońce
+pt: Sol
+ro: soare
+ru: со́лнце
+sv: sol
+sw: jua
+ta: சூரியன்; ஞாயிறு; கதிரவன்; பகலவன்; ஆதவன்; வெய்யோன்
+te: సూర్యుడు
+th: ดวงอาทิตย์; พระอาทิตย์; ตะวัน
+tl: araw
+tpi: san
+tr: güneş
+uk: со́нце
+ur: سُورْیَہ; سُورَج; خورْشِید; رَوی
+vi: Mặt Trời
+yue: 太陽 /太阳; 日
+
+word: sui
+class: noun
+infl: globasa (sui); tr (su)
+sense: inorganic compound H₂O
+am: ውሃ
+ar: مَاء
+bg: вода́
+bn: পানি; জল; বারি
+ca: aigua
+cmn: 水
+cs: voda
+da: vand
+de: Wasser
+el: νερό; ύδωρ
+en: water
+eo: akvo
+es: agua; linfa
+fa: آب
+fi: vesi
+fr: eau
+globasa: sui
+glosa: aqa; hidro
+ha: ruwā
+hi: पानी; जल; आब; पाणी; नीर; उदक; वाटर; आब-; अप; आप
+hu: víz
+ia: aqua
+id: air
+io: aquo
+it: acqua
+ja: 水
+ko: 물
+lidepla: akwa
+ms: air
+nl: water
+pl: woda
+pt: água
+ro: apă; апэ
+ru: вода́
+sv: vatten
+sw: maji
+ta: தண்ணீர்; நீர்; ஜலம்
+te: నీరు; జలము
+th: น้ำ; ชล
+tl: tubig
+tpi: wara
+tr: su
+uk: вода́
+ur: پانی; آب; جل
+vi: nước
+yue: 水
+
+word: swate
+class: adj
+infl: lidepla (swate); ar (أَسْوَد/ʔaswad); globasa (syahe)
+sense: absorbing all light
+am: ጥቁር
+ar: أَسْوَد; سَوْدَاء; سُود
+bg: че́рен
+bn: কালো; কাল
+ca: negre
+cmn: 黑; 黑色
+cs: černý
+da: sort
+de: schwarz
+el: μαύρος
+en: black
+eo: nigra
+es: negro
+fa: سِیاه
+fi: musta
+fr: noir
+globasa: syahe
+glosa: melano; atro; nigra
+hi: काला; कारौ
+hu: fekete
+ia: nigre
+id: hitam
+io: nigra
+it: nero
+ja: 黒い; 黒色の
+ko: 검다; 검은; 까맣다; 까만
+lidepla: swate
+ms: hitam; aswad; lotong; lutung; lutong
+nl: zwart
+pl: czarny
+pt: preto; atro; negro
+ro: negru
+ru: чёрный; вороно́й
+sv: svart
+sw: eusi
+ta: கருப்பு
+te: నల్ల; నల్లని
+th: ดำ
+tl: itim
+tr: kara; siyah
+uk: чо́рний
+ur: کالا; سِیاہ
+vi: đen; đen thui
+yue: 黑; 黑色
+
+word: syau
+class: adj
+infl: lidepla (syao); cmn (小/xiǎo); yue (細/细/sai³)
+sense: not large
+am: ትንሽ
+ar: صَغِير
+bg: ма́лък
+bn: ছোট
+ca: petit
+cmn: 小
+cs: malý
+da: lille; liden
+de: klein; gering
+el: μικρός; μικκός
+en: small
+eo: malgranda
+es: pequeño; chico; parvo
+fa: کوچک; خرد; که; سوتام; ریز
+fi: pieni
+fr: petit; minuscule; vieille; conseil; couilles
+globasa: lil
+glosa: pusi; mikro; exiguo; tito
+ha: ƙure
+hi: छोटा; क्षुद्र; छोट; नन्हा; सगीर
+hu: kicsi; kis
+ia: parve
+id: kecil
+io: mikra
+it: piccolo; ristretto
+ja: 小さい; 狭い
+ko: 작다; 작은
+lidepla: syao
+ms: kecil
+nl: klein; nietig; minuscuul
+pl: mały
+pt: pequeno
+ro: mic
+ru: ма́ленький; ма́лый
+sv: liten
+sw: -dogo
+ta: சிறிய்; சிறிய; சின்ன
+te: చిన్న
+th: เล็ก
+tl: maliit
+tpi: liklik
+tr: küçük; ufak
+uk: мале́нький; мали́й
+ur: چھوٹا
+vi: nhỏ; bé
+yue: 小; 細 /细
+
+word: ta
+class: pron
+infl: cmn (他/tā); lidepla (ta); yue (他/ta¹); bn (তাকে/take, তাঁকে/tãke); de (er); globasa (te); ha (’ítá); id (ia); ja (あの方/ano kata); th (เธอ/təə)
+sense: personal pronoun "he" | person | accusative / direct object | she
+am: እሱ; እሷ
+ar: هُوَ; هِيَ; ـهُ; ـهِ; إِيَّاهُ; ـهَا; إِيَّاهَا
+arz: هُوَّ; هي; ـها
+bg: той; тя
+bn: সে; আপনি; একে; ওকে; তাকে; এনাকে; ওনাকে; তাঁকে
+ca: ell; ella
+cmn: 他; 伊; 她
+cs: on; ona; ho; jeho; jí; ji
+da: han; hun; hende
+de: er; sie; ihn; ihr; es; ihm
+el: αυτός; αυτή
+en: he; she; him; her
+eo: li; ŝi; lin
+es: él; ella; lo; le; la
+fi: hän; hänet; häntä
+fr: il; elle; le; lui; la
+globasa: te; mante (man+te); femte (fem+te)
+glosa: an; fe
+ha: shíi; ’ítá
+hi: वह; यह; इस; उस
+hu: ő; őt; neki
+ia: ille; illa; la
+id: dia; ia
+io: il; ilu; el; elu
+it: lui; egli; lei; ella; lo
+ja: 彼; あの人; あの方; その奴; 奴; そいつ; 彼女
+ko: 그; 그이; 이분; 그녀
+lidepla: ta; lu; ela
+ms: dia; baginda; beliau; ia
+nl: hij; ie; zij; hem; haar
+pl: on; ona; jego; go; jej; ją; nią; niej
+pt: ele; ela; o
+ro: dumnealui; el; dumneaei; ea; (pe) el; îl
+ru: он; она́; его́; её; ей
+sv: han; hon; henne
+sw: yeye
+ta: அவன் class distal
+te: అతడు; అతను; ఆమె; వాణ్ని; అతణ్ని; ఆయన్ని; దాన్ని; ఆమెని; ఆవిణ్ని
+th: เขา; เธอ; หล่อน
+tl: siya
+tpi: em
+tr: o; onu
+uk: він; вона́; його́
+ur: وہ; یہ
+vi: anh ấy; ông ấy; nó; ổng; ảnh; chị ấy; cô ấy; bà ấy
+yue: 佢; 他; 她
+
+word: ta-su
+class: det
+sense: attributive: belonging to him | belonging to
+ar: ـهُ; لَه; ـهَا
+arz: ـه; ليه بتاعو m بتاعتو f بتوعو; ـها
+bg: не́гов; свой; не́ин
+bn: এর; ওর; তার; এনার; ওনার; তাঁর
+ca: seu; seva
+cmn: 他的; 她的
+cs: jeho; svůj; její
+da: hans; hendes
+de: sein; n; seine; ihr; ihre
+el: του; της
+en: his; her
+eo: lia; ŝia
+es: su; sus
+fa: او
+fi: hänen
+fr: son; sa; ses
+hi: उसका; इसका; उनका
+hu: -a; -e; -ja; -je
+ia: su
+io: ilua
+it: suo; sua; suoi; sue
+ja: 彼の; 彼女の
+ko: 그의; 그녀의
+nl: zijn; haar
+pl: jego; swój; jej
+pt: seu; dela
+ro: său; sa; săi; sale; lui; ei
+ru: его́; свой; её
+sv: hans; sin; hennes
+te: వాడి; అతని; ఆయన; దాని; ఆమె; ఆవిడ
+th: ของเขา
+tl: niya; kaniya
+tr: onun
+uk: його́; свій; її́
+ur: اس کا; ان کا
+vi: của anh ấy; của nó; của hắn
+
+word: to
+class: det
+infl: lidepla (to); ru (тот/tot, та/ta, то/to, те/te); tr (o)
+sense: what is being indicated | –
+am: ያ
+ar: ذٰلِكَ; ذَاكَ; تِلْكَ; تَاكَ; ذَانِكَ; تَانِكَ; أُولَائِكَ
+bg: онзи; онази; онова; онези; оная; онуй; ония
+bn: ওই; সেই
+ca: aqueix; aqueixa
+cmn: 那; 那個 /那个
+cs: tamten; tamta; tamto
+da: den; disse; det
+de: jener; jene; jenes
+el: εκείνος; εκείνη; εκείνο; εκοίνοι; εκείνες; εκείνα; τούτος
+en: that; those (determiner)
+eo: tiu
+es: ese; esa; eso; aquel; aquella; aquello; aquese; aquesa; aqueso
+fa: آن
+fi: tuo
+fr: ce; cet; cette
+globasa: den
+glosa: u-la
+hi: वह; वो
+hu: az a…, az az…)
+ia: ille; aquelle; celle
+id: itu
+io: ta; ita
+it: quello; quella
+ja: その; あの
+ko: 그; 저
+lidepla: toy; to
+ms: itu; tu
+nl: dat; die
+pl: tamten; tamta; tamto
+pt: esse; essa; isso; aquele; aquela; aquilo
+ro: acela; ăla; cela; aceea; aia; ceea
+ru: тот; та; то; те
+sv: den; den där; det; det där; dessa
+ta: அது
+te: ఆ
+th: นั่น
+tl: iyan; iyon
+tr: şu; o
+uk: той
+vi: đó; cái đó; kia; cái kia
+yue: 嗰 /𠮶; 那
+
+word: to ma
+class: det
+sense: plural of that
+bg: ония; онези
+cmn: 那些
+cs: ty; tamty
+da: de
+de: jene
+en: those (determiner expressing plurality)
+es: esos; esas; aquéllos; aquellas
+fa: آن
+fi: niitä; noita; nuo; he
+fr: ces
+globasa: den
+glosa: plu-la
+hu: azok
+io: iti; ti
+it: quelle; quei; quegli
+lidepla: toy
+nl: die
+pl: tamte
+pt: aqueles
+ro: acei; acele; ăia; alea
+ru: те
+sv: de; de där; dom; dom där
+th: เหล่านั้น
+tr: o; onlar
+vi: ấy; kia
+yue: 嗰啲
+
+word: to-ge
+class: adv
+sense: in that particular manner | –
+ar: هَٰكَذَا; كَذَا; كَذَٰلِكَ
+cmn: 這樣 /这样; 如此
+da: sådan
+de: so
+el: έτσι
+en: like that; in that way
+eo: tiel
+es: así
+fi: noin; tuolla tavalla
+fr: comme ça (comme cela); comme ceci; ainsi
+globasa: denpul
+hu: így; úgy
+id: begitu
+it: così
+ko: 그렇게
+ms: begitu
+pl: tak; w ten sposób; w taki sposób
+pt: assim
+ru: так; таки́м о́бразом
+th: อย่างนั้น
+tl: ganoon
+
+word: to-it
+class: pron
+sense: that thing | – | –
+am: ያ
+ar: ذَاكَ; ذٰلِكَ; تِلْكَ
+arz: الي هناك دا; الي هناك دي
+bg: това
+bn: ওইটা; ওটা; সেইটা; সেটা; ওইটি; ওটি; সেইটি; সেটি
+ca: açò; això; allò
+cmn: 那; 彼
+cs: to
+da: det
+de: jener; jene; jenes
+el: αυτός; αυτή; αυτό; αυτοί; αυτές; αυτά
+en: that; that one; that thing (pronoun)
+eo: tio
+es: ése / ese; ésa / esa f eso; aquél / aquel; aquélla / aquella; aquello; tal
+fa: آن
+fi: tuo
+fr: ça; cela
+globasa: dento
+glosa: u-la
+hi: वह; वो; ओ; ओह
+hu: az
+ia: illo; illos
+id: itu
+io: ito; to
+it: quello; quella
+ja: それ; あれ
+ko: 그것; 저것
+lidepla: to
+ms: itu; tu
+nl: dat
+pl: ten; ta; to; te
+pt: esse; essa; isso; aquele; aquela; aquilo
+ro: acel; acea; ăla; aia
+ru: э́то; то
+sv: den; denna; den där; det; detta; det där
+te: అది
+th: นั่น; โน่น
+tr: o; onlar; şu; şunlar
+uk: то; те
+vi: điều này; cái này; đây
+
+word: to-li
+class: pron
+sense: pronoun plural of that | –
+en: those; those ones (pronoun)
+fr: ceux-là; celles-là
+globasa: denete; denoto
+glosa: plu-la
+lidepla: to
+
+word: to-ta
+class: pron
+sense: that person | – | –
+en: that; that one; that person (pronoun)
+globasa: dente
+glosa: u-la
+lidepla: to
+
+word: ton
+class: prep
+infl: globasa (ton); cmn (同/tóng); es (con); glosa (kon); ja (...と/to); te (తో/tō, తోని/tōni)
+sense: in the company of (with) | with (with) | in addition to (with) | in support of (with) | – (together with)
+ar: مَعَ; بِـ
+arz: معا
+bg: с
+bn: সঙ্গে; দিয়ে
+ca: amb
+cmn: 跟; 和; 與 /与; 同
+cs: s; se
+da: med
+de: mit; nebst; bei
+el: με; κατά; μαζί; υπέρ
+en: with; together with
+eo: kun
+es: con
+fa: با; ابا
+fi: kera; luona; kanssa; avulla
+fr: avec
+globasa: ton
+glosa: kon
+hi: ... के साथ; लेकर
+hu: -val; -vel; vele
+ia: con
+id: dengan; dgn; bersama
+io: koram
+it: con
+ja: ...と; ...とともに; と一緒に; …を伴って; …付きの; …に賛成して; …を支持して
+ko: -와
+lidepla: kun
+ms: dengan; dgn
+nl: met; bij; voor
+pl: z
+pt: com
+ro: cu; alături
+ru: с
+sv: med
+sw: na
+te: తోపాటు; తో; తోని
+th: กับ; ด้วย; โดย
+tl: kasama
+tr: ile; -le; -yle; -la; -yla; -lı
+uk: з; із; зі; зо
+ur: ... کے ساتھ
+vi: với
+yue: 同埋; 同; 跟埋; 跟
+
+word: tra
+class: prep
+infl: lidepla (tra); ar (عَبْرَ/ʕabra); en (through)
+sense: from one side of an opening to the other
+ar: خِلَالَ; عَبْرَ
+bg: през; чрез
+bn: ভিতর দিএ
+ca: per
+cmn: 通過 /通过
+cs: skrz
+da: gennem; igennem
+de: durch
+en: through
+eo: tra
+es: a través de; por
+fi: läpi; kautta
+fr: par; à travers
+globasa: pas
+glosa: dia
+hu: át; keresztül
+id: lewat; melalui
+io: tra
+it: attraverso
+ja: ...を通って; ...を通り抜けて
+ko: 을 통하여; 통해
+lidepla: tra
+ms: melalui
+nl: door
+pl: przez
+pt: pelo; pela; por; através
+ro: prin
+ru: че́рез; сквозь
+sv: genom; igenom
+te: గుండా
+th: ผ่าน
+tr: boyunca
+uk: че́рез; крізь
+vi: qua; xuyên qua
+
+word: tu
+class: pron
+infl: es (tú, te, ti); fa (تُو/tū, تو/to); fr (tu); glosa (tu); hi (तू/tū, तुम/tum, तुइ/tui, तुझ/tujh); bn (তুই/tui, তুমি/tumi); ru (ты/ty); th (เธอ/təə)
+sense: subject pronoun: the person being addressed | object pronoun: the person being addressed
+am: አንተ; አንቺ; እርስዎ
+ar: أَنْتَ; أَنْتِ; حَضْرَتُكَ; حَضْرَتُكِ; ـكَ; ـكِ; إِيَّاكَ; إِيَّاكِ
+bg: ти; Ви́е; теб; те; тебе; Вас; Ви; Вам
+bn: তুই; তুমি; আপনি; তোকে; তোমাকে; আপনাকে
+ca: tu; vós; vostè; et
+cmn: 你; 您
+cs: ty; vy; tebe; tobě; tě; tebou
+da: du; De; dig; Dem
+de: du; Du; Sie; dich; Dich; dir; Dir; Euch; Ihnen
+el: εσύ; εσείς; εσένα
+en: you (singular)
+eo: vi; ci; vin; cin
+es: usted; tú; vos; lo; la; le; (leísmo) le; te; ti
+fa: تُو; شُمَا; تو; شُما; تو را; تُرا; شُما را
+fi: sinä; sinun; sinut; sinua
+fr: tu; vous; toi
+globasa: yu
+glosa: tu
+hi: तू; तुम; आप; तुइ; तुझ
+hu: te; ön; maga; -∅; téged; önt; magát
+id: kamu; engkau; dikau; kau; Anda
+it: tu; lei; Lei; ti; te
+ja: 貴方; 君; あんた; 僕; お前; そちら; そっち; 貴様
+ko: 당신; 너; 네; 자네; 그대; 동무
+lidepla: yu; yu un
+ms: kamu; awak; anda; engkau; mu; kau; anta
+nl: jij; je; u; gij; ge; jou
+pl: ty; Pan; Pani; Państwo; ciebie; cię
+pt: tu; você; o senhor; a senhora; o
+ro: tu; dumneata; dumneavoastră; te; pe tine; îți; ție
+ru: ты; Вы; вы; тебя́; тебе́; тобо́й; Вас; Вам; Вами
+sv: du; ni; dig
+sw: wewe
+ta: நீ; நீங்கள்; தாங்கள்; நீர்; உன்னை; உங்களை; தங்களை
+te: నీవు; మీరు; నిన్ను
+th: คุณ; เธอ; เรา; โยม; ประสก; สีกา; เตง; ลูก
+tl: ikaw; kayo; iyo; inyo; mo; niyo; nila; ka; kita; sila
+tpi: yu du
+tr: sen; siz; seni; sizi
+uk: ти; ви
+ur: آپ; تُم; تُو
+vi: various
+yue: 你
+
+word: tu-su
+class: det
+sense: belonging to you (singular; one owner)
+ar: ـك
+arz: ـك; بتاعك
+bg: твой; ваш
+bn: তোর; তোমার; আপনার
+ca: el teu; la teva; ta; ton
+cmn: 你的; 您的
+cs: tvůj; váš
+da: din
+de: dein; Ihr
+el: σας; σου
+en: your (one owner)
+eo: via
+es: tu; su
+fa: ـت; تو
+fi: sinun ...si; -si; sinun
+fr: ton m ta f tes; votre m or f vos
+globasa: yusu (yu+su)
+glosa: tu
+hi: तेरा; तुम्हारा; आपका
+hu: -d; -od; -ad; -ed; -öd; -a; -e; -ja; -je
+ia: tu
+id: -mu; kamu; Anda
+io: vua
+it: tuo
+ja: あなたの; きみの
+ko: 당신의
+lidepla: yu-ney; yur
+nl: je; jouw; uw
+pl: twój; pana; pański; pani
+pt: teu; tua; seu; sua
+ro: tău; ta
+ru: твой; ваш
+sv: din
+ta: உன்
+te: మీ; నీ
+th: ของคุณ
+tl: iyo
+tr: senin
+uk: твій; ваш
+ur: تیرا; تمہارا; آپ کا
+vi: (của bạn (replace bạn with the appropriate word or kinship term: ông, bà, anh, cô, chị, mày, em))
+
+word: u
+class: det
+infl: am (-u); glosa (u); es (un); fr (un)
+sense: – | indefinite article | article
+am: -u; -w (masculine); -wa; -itwa; -ätwa (feminine)
+ar: الـ
+arz: الـ
+bg: ((attached suffixes are used, -ът, -та, -то, etc.))
+bn: -রা; -এরা; -গুলা; -গুলো; -টা; -টি
+ca: un; una; el; la f els m pl les; es; sa; ets; sos; ses
+cmn: (not used in Mandarin)
+cs: (not used in Czech)
+da: en; et
+de: ein; eine; der; die; das
+el: ένας; μια; ο
+en: a; an; the (singular noun phrase marker)
+eo: la
+es: un; una; el; la; los; las; lo
+fa: یک; ـی; -ی; یک -ی; را for definite direct object
+fi: se
+fr: un; une; le; la; les; l’
+glosa: u; un (before vowels and h)
+hi: एक
+hu: egy; a; az
+ia: un; le
+id: sebuah; seorang; si; sang; itu; al; -nya
+io: la; le
+it: un; uno; una; un'; il; lo; la; i; gli; le
+ja: その; 正に; 正しく
+ko: (not used in Korean)
+lidepla: ge
+ms: sang; -nya; itu; ini; si
+nl: een; de; het
+pl: (not used in Polish)
+pt: um; uma; o; a; os; as
+ro: un; o; -ul; -a; cel; cea
+ru: (not used in Russian)
+sv: en; ett; den; -en
+sw: ya
+ta: ஒரு; ஒன்று
+te: ఒక
+th: หนึ่ง; เดอะ
+tl: isang; ang
+tpi: wanpela; dispela
+tr: bir; bi'; bi
+uk: (not used in Ukrainian)
+ur: (not used in Urdu)
+vi: (not used in Vietnamese)
+
+word: uma
+class: noun
+infl: globasa (uma); ja (馬/uma); cmn (馬/马/mǎ); th (ม้า/máa); yue (馬/马/maa⁵)
+sense: members of the species Equus ferus
+am: ፈረስ
+ar: حِصَان; فَرَس; خَيْل
+bg: кон
+bn: ঘোড়া
+ca: cavall
+cmn: 馬 /马
+cs: kůň
+da: hest; hingst; hoppe
+de: Pferd; Ross; Roß; Hengst; Pferdehengst; Stute; Pferdestute; Hengstfohlen; Hengstfüllen; Stutenfohlen; Stutfohlen; Stutenfüllen; Stutfüllen; Rössl; Rössle
+el: άλογο; ίππος
+en: horse
+eo: ĉevalo
+es: caballo
+fa: اَسْپ; اَسْب
+fi: hevonen; heppa; polle; hepo; humma; ravuri; ratsu; ruuna; ori; tamma
+fr: cheval; étalon; jument; poulain; pouliche
+globasa: uma
+glosa: Equs
+ha: doki
+hi: घोड़ा; अश्व; तुरग
+hu: ló; mén; kanca
+ia: cavallo
+id: kuda
+io: kavalo
+it: cavallo
+ja: 馬; ウマ
+ko: 말
+lidepla: kaval
+ms: kuda
+nl: paard
+pl: koń; klacz
+pt: cavalo; égua
+ro: cal
+ru: ло́шадь; конь
+sv: häst; russ; fåle
+sw: farasi
+ta: குதிரை; புரவி
+te: గుర్రము; గుర్రం
+th: ม้า
+tl: kabayo
+tpi: hos
+tr: at; deh deh
+uk: кінь
+ur: گھوڑا; اَسْپ; اَشْو; تُرَگ
+vi: ngựa
+yue: 馬 /马
+
+word: un
+class: num
+infl: fr (un); globasa (un); lidepla (un); es (uno); tl (uno)
+sense: cardinal number 1 | digit or figure
+am: አንድ
+ar: وَاحِد; وَاحِدَة; ١
+bg: едно́; едини́ца
+bn: এক
+ca: un; u
+cmn: 一
+cs: jeden; jedna; jedno; jednička
+da: én; et; ettal; ener
+de: eins; ein; Eins
+el: ένα
+en: one (number)
+eo: unu
+es: uno
+fa: یَک; ١; یِک; یک
+fi: yksi; ykkönen
+fr: un
+globasa: un
+glosa: mo
+ha: ɗaya
+hi: एक; इक
+hu: egy; egyes
+ia: un; uno
+id: satu
+io: un
+it: uno
+ja: 一; 一つ; ワン; 一 ワン
+ko: 하나; 한; 일; 원
+lidepla: un
+ms: satu; esa; se; tunggal; eka; ahad; wahid
+nl: één; een
+pcm: wọ́n; one
+pl: jeden; jedynka
+pt: um
+ro: unu; una; уну
+ru: оди́н; одна́; одно́; раз; едини́ца
+sv: ett; en; etta
+sw: moja
+ta: ஒன்று
+te: ఒకటి
+th: หนึ่ง; ๑
+tl: isa; uno
+tpi: wanpela; wan
+tr: bir
+uk: оди́н; одини́ця
+ur: ایک; ١
+vi: một; số một
+yue: 一
+
+word: ve
+class: particle
+infl: lidepla (ve); de (werden)
+sense: indicating future action
+ar: سَوْفَ; سَـ
+arz: (prefix هـ (ha-) or حـ (ḥa-) + present tense)
+bg: ще
+ca: anar
+cmn: 將 /将; 要; 將要 /将要; 會 /会
+cs: (Use the future perfective or use the future of být + imperfective infinitive)
+da: vil; skal
+de: werden; present tense form is often used
+el: (Use θα + subjunctive verb form (future simple) or present verb form (future continuous e.g. θα δω or θα βλέπω)
+en: will (future tense)
+eo: -os Use the future tense
+es: future tense; ir a
+fi: tulla; aikoa
+fr: -ras; -ra; -rons; -rez; -ront
+globasa: xa
+glosa: fu
+hi: होंगे
+hu: fog
+id: akan
+io: (suffix -os after verbal roots)
+it: -rai; -rà; -remo; -rete; -ranno
+ja: (present/future tense form is usually used)
+ko: -을 것이다; -ㄹ 것이다; -을게; -ㄹ게; -겠-
+lidepla: ve
+ms: akan
+nl: zullen
+pl: (Use the future perfective or use the future of być + imperfective infinitive)
+pt: (Use the future tense)
+ru: (Use the future perfective or use the future of быть (bytʹ) + imperfective infinitive)
+sv: komma till att; komma att; skola; vilja; tänka
+sw: -ta-
+th: จะ
+tr: -ecek; -acak
+uk: special endings
+vi: sẽ
+yue: 會 /会
+
+word: vi
+class: pron
+infl: glosa (vi); ru (вы/vy, вами/vami); fr (vous)
+sense: subject pronoun: the group being addressed | object pronoun: the group being addressed
+am: እናንተ
+ar: أَنْتُمَا; أَنْتُم; أَنْتُنَّ; حَضْرَتُكُمَا; حَضْرَتُكُمْ; حَضْرَتُكُنَّ; ـكُم; ـكُنَّ; ـكُمَا; إيَّاكُمْ; إِيَّاكُنَّ; إيَّاكُمَا
+bg: ви́е; вас; ви; вам
+bn: তোরা; তোমরা; আপনারা; তোদেরকে; তোমাদেরকে; আপনাদেরকে
+ca: vosaltres; vós; vostès; vos; us
+cmn: 你們 /你们
+cs: vy; vás; vám; vámi
+da: I; De; jer
+de: ihr; Sie; euch; Euch; Ihnen
+el: εσείς; εσάς
+en: you (plural)
+eo: vi; vin
+es: vosotros; vosotras; ustedes; os; los; las; les; (leísmo) les
+fa: شُمَا; شُمَاهَا; شُما; شُماها; شُما را
+fi: te; teidän; teidät; teitä
+fr: vous
+globasa: uyu
+glosa: vi
+ha: kúu; kai; ku; ke
+hi: तुम; आप
+hu: ti; önök; maguk; -tek; -tök; -nak; -nek; titeket; benneteket; önöket; magukat
+ia: vos
+id: kalian
+io: vu
+it: voi; Loro; vi
+ja: 貴方達; 貴方方; お前達; 君達; 貴様等; お前ら
+ko: 너희; 여러분; 당신들; 이놈들; 니네; 니들; 자네들; 동무들
+lidepla: yu
+ms: kalian; kau orang; korang
+nl: jullie; u; gij; gijlie; gijle; gulder; je
+pl: wy; Państwo; was; Państwa
+pt: vós; vocês; os senhores; as senhoras; os; as
+ro: voi; dumneavoastră; vă; pe voi; vouă
+ru: вы; вас; вам; вами
+sv: ni; er
+sw: ninyi
+ta: நீங்கள்; தாங்கள்; நீர்; உங்களை; தங்களை
+te: నువ్వు; మీరు; నీవు
+th: คุณ
+tl: ninyo; inyo; kayo; niyo
+tpi: yutupela du; yutripela; yupela
+tr: siz; sizler; sizi
+uk: ви; вас
+ur: تُو; آپ
+vi: various
+yue: 你哋
+
+word: vi-su
+class: det
+sense: belonging to you (plural; more owners)
+ar: ـكُم; ـكُنَّ; ـكُمَا
+arz: ـكو; بتاعكوا
+bg: ваш
+bn: তোদের; তোমাদের; আপনাদের
+ca: el vostre; la vostra; vostre; vostro; vostra
+cmn: 你們的 /你们的
+cs: váš
+da: jeres
+de: euer; Ihr
+el: σας
+en: your (several owners)
+eo: viaj
+es: vuestro; su; voso
+fi: teidän ...nne; -nne; teidän
+fr: votre; vos
+hi: आपका
+hu: -tok; -tek; -tök; -a; -e; -ja; -je
+ia: vostre
+id: kalian
+it: vostro
+ja: あなたがたの; あなたたちの; きみたちの
+nl: jullie; uw; ulle
+pl: wasz; państwa
+pt: vosso; vossa; de vocês
+ro: vostru; voastră
+ru: ваш
+sv: er; eder; edert; edra
+sw: -enu
+te: మీ
+tl: inyo
+tr: sizin
+uk: ваш
+ur: آپ کا
+vi: (của các bạn (replace bạn with the appropriate word or kinship term: ông, bà, anh, cô, chị, mày, em))
+
+word: wu
+class: particle
+infl: en (would); lidepla (wud); yue (會/wui5)
+sense: indicating an action or state that is conditional on another
+ar: (Use the conditional tense)
+ca: (Use the conditional tense)
+cs: (Use conditional tense of být + infinitive)
+de: würde
+en: would (conditional mood, describing unreal or uncertain conditions and hypothetical situations)
+eo: -us
+es: -ría; -rías; -ríamos; -ríais; -rían
+fi: (Use the conditional mood)
+fr: -rais; -rait; -rions; -riez; -raient
+globasa: ger
+glosa: sio
+hi: -ū̃; -e; -o; ẽ
+hu: -na; -ne; -ná; -né
+id: akan
+it: (Use the conditional tense)
+lidepla: wud
+nl: zou; zouden
+pl: by
+pt: (use the conditional tense)
+ro: avea
+ru: бы
+sv: skulle
+sw: -nge-
+th: จะ
+tr: (Use the aorist past tense)
+vi: sẽ
+yue: 會
+
+word: yau
+class: verb
+infl: cmn (要/yào, 想/xiǎng, 想要/xiǎngyào, 需要/xūyào, 慾望/欲望/yùwàng); lidepla (yao); id (mau); th (อยาก/yàak, เอา/ao)
+sense: to desire | wish for earnestly
+am: መፈለግ
+ar: أَرَادَ; رَغِبَ; شَاءَ
+bg: и́скам; жела́я
+bn: চাওয়া
+ca: voler; desitjar
+cmn: 要; 想; 想要; 願意 /愿意; 需要; 慾望 /欲望
+cs: chtít; toužit; přát si
+da: ville; kræve; ønske
+de: wollen; begehren
+el: θέλω; επιθυμώ
+en: want; desire
+eo: voli; deziri
+es: querer; desear
+fa: خواستن; آرزو کردن
+fi: tahtoa; haluta; mieliä
+fr: vouloir; désirer
+globasa: vole
+glosa: volu
+hi: चाहना; इच्छा; चाह; कामना; अभिलाषा
+hu: akar; kíván; óhajt; vágyik
+ia: voler; desirar
+id: mau; hendak; menginginkan; hasrat
+io: dezirar; volar
+it: volere
+ja: 欲しい; 欲する; 望む; 願う; 希望する
+ko: 빌다; 바라다; 싶다; 원하다; -고 싶어요
+lidepla: yao
+ms: mahu; ingin; hendak
+nl: willen; wensen; verlangen
+pl: chcieć; życzyć; pragnąć; pożądać
+pt: querer; desejar
+ro: vrea; dori
+ru: хоте́ть; захоте́ть; жела́ть; пожела́ть
+sv: vilja; önska; begära; eftertrakta; längta
+sw: taka; kutamani
+ta: வேண்டு; ஆசைப்படு
+te: కోరుకొను; వాంఛించు; ఆశ; కోరిక; ఇచ్చ; అపేక్ష; అభిలాష; వాంఛ
+th: อยาก; ต้องการ; เอา; ประสงค์; ปรารถนา
+tl: magustohan
+tr: istemek
+uk: хоті́ти; бажа́ти
+ur: چاہنا
+vi: muốn; cần
+yue: 要; 想; 想要; 愛 /爱
+
+word: yeri
+class: adv
+infl: lidepla (yeri); es (ayer); fr (hier); ta (நேற்று/nēṟṟu)
+sense: on the day before today | day before today
+am: ትናንትና; ትናንት
+ar: أَمْسِ; أَمْس
+arz: امبارح
+bg: вче́ра
+bn: গতকাল
+ca: ahir
+cmn: 昨天; 昨日; 昨兒 /昨儿; 昨兒個 /昨儿个
+cs: včera; včerejšek
+da: i går
+de: gestern; gestriger Tag
+el: χθες
+en: yesterday
+eo: hieraŭ
+es: ayer
+fa: دیروز
+fi: eilen; eilispäivänä; eilinen; eilispäivä
+fr: hier
+globasa: jaledin (ja+le+din)
+glosa: pa-di
+hi: कल; काल; कलि
+hu: tegnap
+ia: heri
+id: kemarin
+io: hiere
+it: ieri
+ja: 昨日
+ko: 어제; 작일
+lidepla: yeri
+ms: semalam (Peninsular West Coast incl. KL); kelmarin; kemarin
+nl: gisteren
+pl: wczoraj
+pt: ontem
+ro: ieri
+ru: вчера́
+sv: i går; igår; gårdag
+sw: jana
+ta: நேற்று
+te: నిన్న
+th: เมื่อวานนี้
+tl: kahapon
+tpi: asde
+tr: dün
+uk: учо́ра; вчо́ра
+ur: کَل; دِیروز; کل
+vi: hôm qua
+yue: 尋日 /寻日; 琴日; 昨天; 昨日
+
+word: yu-
+class: prefix
+infl: glosa (ju-); cmn (幼/yòu); ja (幼/yō); lidepla (yun-)
+sense: a young, not yet fully grown individual
+cmn: 幼
+en: (a young, not yet fully grown member of a species or group)
+globasa: juni-
+glosa: ju-
+ja: 幼
+lidepla: yun-
+
+word: yu-gina
+class: noun
+sense: woman — see also woman (girl) | young female person (girl) | – (young woman)
+am: ሴት ልጅ; ልጃገረድ
+ar: بِنْت; فَتَاة; طِفْلة
+bg: моми́че; дево́йка; мома́; моми́ченце; дево́йче
+bn: মেয়ে
+ca: noia; nena; xiqueta; al·lota
+cmn: 女; 女生; 女孩兒 /女孩儿; 女孩子; 姑娘; 女兒 /女儿
+cs: holka; děvče; dívka; holčička
+da: pige
+de: Frau; Mädchen
+el: κορίτσι
+en: girl; young woman
+eo: fraŭlino; virino; knabino
+es: mujer; niña; muchacha; chica; lola
+fa: زن; بانو; دُخْتَر
+fi: tyttö
+fr: femme; fille; jeune fille; fillette
+globasa: femnini
+glosa: ju-fe
+ha: yarinya
+hi: महिला; स्त्री; नारी; लड़की; कन्या; युवती; बालिका; किशोरी
+hu: nő; lány
+ia: puera; pupa
+id: anak perempuan; gadis
+io: yunino; puerino
+it: bambina; ragazza
+ja: 女; 女の子; 少女; 女子; 乙女
+ko: 여자; 녀자; 소녀; 여자(女子)아이; 녀자(女子)아이
+lidepla: gela
+ms: gadis
+nl: vrouw; meisje; meid
+pl: dziewczyna; dziewczę; dziewczynka; dziołcha; dziewoja; dziewka; dzieweczka
+pt: mulher; garota; menina; moça; rapariga
+ro: fată; copilă
+ru: де́вушка; де́вочка; девчо́нка; деви́ца
+sv: tjej; flicka; jänta; tös
+sw: msichana; mwari
+ta: சிறுமி; பெண்
+te: అమ్మాయి; కన్య; బాలిక; పిల్ల
+th: เด็กผู้หญิง; เด็กหญิง; เด็กสาว
+tl: babae; dalaga; batang babae
+tr: kız
+uk: ді́вчина; дівчи́на; ді́вчинка; дівча́; дівча́тко
+ur: لَڑْکی
+vi: cô gái; con gái; gái
+yue: 女仔; 細路女 /细路女
+
+word: yuve
+class: adj
+infl: glosa (juve); de (jung); hi (युवा/yuvā); lidepla (yunge); ru (ю́ный/júnyj); te (యువ/yuva)
+sense: in the early part of life or growth
+ar: صَغِير; حَدَث; شَابّ; صَغِير اَلسِّنّ
+arz: شب; صغير
+bg: млад
+bn: যুবক; যুবতী; তরুণ; জোয়ান
+ca: jove
+cmn: 年輕 /年轻
+cs: mladý
+da: ung
+de: jung; jugendlich
+el: νεαρός; άπλερος
+en: young
+eo: juna
+es: joven
+fa: جوان
+fi: nuori
+fr: jeune
+globasa: juni
+glosa: juve
+hi: युवा; जवान
+hu: fiatal; ifjú
+ia: juvene
+id: muda
+io: yuna
+it: giovane
+ja: 若い
+ko: 어리다; 젊다
+lidepla: yunge
+ms: muda
+nl: jong; jeugdig
+pl: młody
+pt: jovem
+ro: tânăr
+ru: молодо́й; ю́ный
+sv: ung
+sw: -changa; -dogo
+ta: இளைய; இளம்
+te: యువ
+th: เด็ก; หนุ่ม; สาว
+tl: bata
+tr: genç
+uk: молоди́й; ю́ний
+ur: جوان
+vi: trẻ; non
+yue: 年輕 /年轻

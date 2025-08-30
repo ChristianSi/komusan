@@ -1,0 +1,24 @@
+159 values known for English
+158 values known for French
+157 values known for German
+156 values known for Russian
+155 values known for Spanish
+154 values known for Turkish
+153 values known for Mandarin Chinese
+153 values known for Indonesian (153) and Malay (0)
+151 values known for Japanese
+150 values known for Standard Arabic (30) and Egyptian Arabic (120)
+149 values known for Korean
+148 values known for Hausa
+148 values known for Hindi (144) and Urdu (4)
+147 values known for Persian
+145 values known for Tagalog
+143 values known for Vietnamese
+142 values known for Swahili
+139 values known for Thai
+127 values known for Nigerian Pidgin (4) and Sango (123)
+99 values known for Amharic
+93 values known for Yue Chinese
+83 values known for Tamil
+64 values known for Telugu
+53 values known for Bengali

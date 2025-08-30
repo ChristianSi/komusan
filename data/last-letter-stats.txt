@@ -1,0 +1,29 @@
+Frequency stats for the last letters of candidate nouns (incl. proper nouns
+= names), make on 2025-01-29 via phonstudy.py.
+
+ 178897 a
+ 148699 n
+ 101177 i
+  84856 o
+  84621 e
+  66291 t
+  62091 r
+  58791 u
+  45368 s
+  44996 l
+  43686 k
+  41437 N
+  33618 m
+  33013 y
+  19288 d
+  13244 w
+   8934 p
+   7780 S
+   7207 h
+   6800 g
+   6366 f
+   5840 b
+   5783 j
+   5524 z
+   3975 v
+   2852 C
