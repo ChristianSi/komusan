@@ -66,6 +66,39 @@ th: ของ
 vi: của
 yue: 嘅
 
+word: -yum
+class: suffix
+infl: globasa (-yum); fr (-ième)
+sense: used to form the ordinal numeral
+ar: ((no specific suffixes are used))
+ca: -è; -èsim
+cmn: 第……
+de: -te; -ste
+en: -th (forms ordinal numbers)
+eo: -a
+es: -avo (8, 18, 28, ...); -imo (7, 10, 11, 12)
+fa: ـم
+fi: -s
+fr: -ième
+globasa: -yum
+hi: -वां
+id: ke-
+io: -esma
+it: -esimo; -to (4, 5, 6); -imo (7, 10)
+ja: 第...; ...目; ...番目
+ko: -째; 제-; ~ 번째
+lidepla: -ney
+ms: ke-
+pl: -y; -ty
+pt: -ésimo; -to (4, 5, 6, 14, 15, 16, …); -avo (8, 18, 28, …)
+ru: -ый; -о́й; -ий
+sv: -te; -de
+th: ที่-
+tl: ika-
+tr: -inci; -nci; -ıncı; -ncı; -üncü; -uncu
+vi: thứ ...
+yue: 第……
+
 word: agni
 class: noun
 infl: hi (आग/āg, अग्नि/agni, अगन/agan, आगि/āgi); lidepla (agni); te (అగ్ని/agni); bn (আগুন/agun, অগ্নি/ogni)
@@ -299,6 +332,56 @@ uk: щось; де́що; що-не́будь; чого́-не́будь
 ur: کچھ
 vi: cái gì; gì; một cái gì đó
 yue: 啲嘢; 某啲嘢
+
+word: bardi
+class: adj
+infl: globasa (bardi); ar (بَارِد/bārid); fa (سَرْد/sard); hi (सर्द/sard); sw (baridi)
+sense: having a low temperature
+am: ቀዝቃዛ
+ar: بَارِد
+bg: студе́н
+bn: ঠান্ডা; শীত; শৈত্য; হৈম
+ca: fred
+cmn: 冷; 寒
+cs: studený; chladný
+da: kold
+de: kalt
+el: κρύος
+en: cold
+eo: malvarma; frida
+es: frío; algente; frígido
+fa: سَرْد
+fi: kylmä
+fr: froid
+globasa: bardi; bardipul
+glosa: frigi; algido; psikro
+ha: sansanya
+hi: ठंडा; शीत; शीतल; हिम; सर्द
+hu: hideg
+ia: frigide
+id: dingin
+io: kolda
+it: freddo; gelato; gelido
+ja: 冷たい; 寒い
+ko: 차다; 춥다; 차갑다
+lidepla: lenge; lenga-ney
+ms: sejuk; dingin
+nl: koud; fris; koel
+pl: zimny
+pt: frio; gelado
+ro: rece
+ru: холо́дный
+sv: kall; frusen
+sw: baridi
+ta: குளுழு; பணி
+te: శీతల; చల్లని
+th: เย็น; หนาว
+tl: lamig
+tr: soğuk
+uk: холо́дний; зи́мний
+ur: ٹَھنْڈا; سَرْد
+vi: lạnh; lạnh lẽo; nguội
+yue: 凍 /冻
 
 word: baru
 class: noun
@@ -847,6 +930,57 @@ tr: -in; -ın; -ün; -un; -'nin; -'nun; -'nın
 ur: ... کا; izāfa; کا; کے; کی
 vi: của
 yue: ...嘅; 個 /个; 嘅; 的; 之
+
+word: denta
+class: noun
+infl: globasa (denta); lidepla (denta); bn (দাঁত/dãt, দান্দান/dandan, দন্ত/donto); es (diente); fa (دَنْدَان/dandān); fr (dent); glosa (denti, odonto); hi (दाँत/dā̃t)
+sense: anatomy: tooth
+am: ጥርስ
+ar: سِنّ
+bg: зъб
+bn: দাঁত; দান্দান; দন্ত; দশন; রদ; দংষ্ট্র
+ca: dent
+cmn: 牙齒 /牙齿; 牙; 齒 /齿
+cs: zub
+da: tand
+de: Zahn
+el: δόντι
+en: tooth
+eo: dento
+es: diente
+fa: دَنْدَان; دَنْدان
+fi: hammas
+fr: dent
+globasa: denta
+glosa: denti; odonto
+ha: haƙori
+hi: दाँत; दान्त; दांत
+hu: fog
+ia: dente
+id: gigi
+io: dento
+it: dente
+ja: 歯
+ko: 이; 니; 이빨
+lidepla: denta
+ms: gigi; danta
+nl: tand
+pl: ząb
+pt: dente
+ro: dinte
+ru: зуб
+sv: tand
+sw: jino; meno
+ta: பல்
+te: పన్ను
+th: ฟัน; ทันต์; กราม
+tl: ngipin
+tpi: tis
+tr: diş
+uk: зуб
+ur: دان٘ت; دَنْدان
+vi: răng
+yue: 牙
 
 word: din
 class: noun
@@ -2398,6 +2532,57 @@ ur: کْیا
 vi: gì; 之
 yue: 乜嘢; 咩; 乜
 
+word: kitabu
+class: noun
+infl: globasa (kitabu); sw (kitabu, vitabu); ar (كِتَاب/kitāb); bn (কিতাব/kitab); fa (کِتَاب/kitāb, کِتاب/ketâb); ha (littafi); hi (किताब/kitāb); id (kitab); lidepla (kitaba); tr (kitap)
+sense: collection of sheets of paper bound together containing printed or written material
+am: መጽሃፍ
+ar: كِتَاب; سِفْر
+bg: кни́га
+bn: বই; কিতাব; পুঁথি
+ca: llibre
+cmn: 書 /书
+cs: kniha
+da: bog
+de: Buch
+el: βιβλίο; τόμος
+en: book
+eo: libro
+es: libro
+fa: نَامَه; کِتَاب; کِتاب; نامِه
+fi: kirja
+fr: livre; bouquin
+globasa: kitabu
+glosa: bibli; libri
+ha: littafi
+hi: पुस्तक; किताब; ग्रंथ; बही; पोथी; पोथा; पुस्तिका; पत्रिका
+hu: könyv
+ia: libro
+id: buku; kitab
+io: libro
+it: libro
+ja: 本; 書籍; ブック
+ko: 책; 도서
+lidepla: kitaba
+ms: buku; kitab; pustaka
+nl: boek
+pl: książka; księga
+pt: livro
+ro: carte
+ru: кни́га; кни́жка
+sv: bok
+sw: kitabu; vitabu
+ta: நூல்; புத்தகம்
+te: పుస్తకం; పొత్తం
+th: หนังสือ; สมุด
+tl: libro; aklat
+tpi: buk
+tr: kitap; betik
+uk: кни́жка; кни́га
+ur: کِتاب; پُسْتَک; بُک
+vi: sách; sổ; sách giáo khoa
+yue: 書 /书
+
 word: kolor
 class: noun
 infl: es (color); globasa (kolor); lidepla (kolor); fr (couleur); glosa (kolora)
@@ -2584,6 +2769,56 @@ tl: pambalana; balana
 tr: ortak
 uk: зага́льний; зви́чний; звича́йний
 vi: chung; thường; thông thường
+
+word: kordia
+class: noun
+infl: lidepla (kordia); fr (cœur); glosa (kardia)
+sense: an organ
+am: ልብ
+ar: قَلْب; فُؤَاد
+bg: сърце́
+bn: হৃৎপিন্ড; হার্ট
+ca: cor
+cmn: 心臟 /心脏
+cs: srdce
+da: hjerte
+de: Herz
+el: καρδιά
+en: heart
+eo: koro
+es: corazón
+fa: دِل; قَلْب
+fi: sydän
+fr: cœur
+globasa: tutum
+glosa: kardia
+ha: zūcìyā
+hi: दिल; हृदय; हिया; क़ल्ब
+hu: szív
+ia: corde
+id: jantung
+io: kordio
+it: cuore
+ja: 心臓; 心
+ko: 심장
+lidepla: kordia
+ms: jantung
+nl: hart
+pl: serce
+pt: coração
+ro: inimă; cord
+ru: се́рдце
+sv: hjärta
+sw: moyo; mioyo
+ta: இதயம்
+te: గుండె
+th: หัวใจ; ดวงใจ; หฤทัย; ฤทัย
+tl: puso
+tr: yürek; kalp; dil; gönül
+uk: се́рце
+ur: دِل; قَلْب; ہْرِدَی
+vi: tim
+yue: 心臟 /心脏
 
 word: kosa
 class: noun
@@ -2824,6 +3059,55 @@ ur: دَرِیاچَہ; جِھیل
 vi: hồ
 yue: 湖; 湖泊
 
+word: lama
+class: adj
+infl: globasa (lama); id (lama); lidepla (lao); ta (பழைய/paḻaiya); tl (luma)
+sense: of an object, concept, etc: having existed for a relatively long period of time | former
+am: አሮጌ
+ar: قَدِيم
+bg: стар; бивш
+bn: পুরোনো
+ca: vell; antic
+cmn: 舊 /旧; 古老; 前
+cs: starý
+da: gammel; tidligere
+de: alt
+el: παλιός; αρχαίος; πρώην; τέως
+en: old (not new)
+eo: malnova; grandaĝa; eksa; antaŭa
+es: antiguo; viejo; vejancón; sometimes with people ex-
+fa: قدیمی; کهن; کهنه; قبلی; پیشین; سابق
+fi: vanha; entinen
+fr: vieux; vieille; ancien; ex-
+globasa: lama
+glosa: paleo; kasko; presbi; vetu; no-neo
+ha: tsoho
+hi: पुराना
+hu: régi; régebbi; előző; korábbi
+ia: vetere; vetule
+id: lama
+io: anciena; antiqua
+it: vecchio
+ja: 古い
+ko: 낡다; 오래되다
+lidepla: lao; dave
+ms: lama; bekas
+nl: oud; vorig; voormalig
+pl: stary
+pt: velho; antigo
+ro: vechi; fost
+ru: ста́рый; бы́вший; пре́жний
+sv: gammal; tidigare; före detta
+ta: பழைய
+te: పాత; మునుపటి
+th: เก่า; ก่อน
+tl: luma; dating
+tr: eski; önceki
+uk: стари́й
+ur: پرانا
+vi: cũ; cựu
+yue: 舊 /旧
+
 word: lashe
 class: noun
 infl: bn (লাশ/laś); fa (لاشه/lâše); hi (लाश/lāś); lidepla (lash); de (Leiche); tr (leş)
@@ -3037,6 +3321,106 @@ uk: язи́к
 ur: جِیبھ; زَبان; زُبان; لِسان
 vi: lưỡi
 yue: 舌頭 /舌头; 舌; 脷
+
+word: lok
+class: noun
+infl: lidepla (-lok); en (location); globasa (loka); glosa (loka, -lo); tl (pook); tr (lokasyon)
+sense: location, position (place) | any area of the earth (place) | place (location)
+am: ቦታ
+ar: مَكَان; مَوْقِع; مَوْضِع
+arz: مكان
+bg: мя́сто; местоположе́ние
+bn: জায়গা; স্থান
+ca: lloc; indret; ubicació
+cmn: 地方; 位置; 場所 /场所; 地點 /地点
+cs: místo; poloha; umístění
+da: sted; plads; placering; post; beliggenhed
+de: Platz; Ort; Stelle; Position; Lage; Standort
+el: τόπος; θέση; περιοχή; τοποθεσία; μέρος; σημείο; χώρος
+en: place; location
+eo: loko; situo
+es: lugar; sitio; ubicación; posición
+fa: مَحَلّ; جا; مَکان; جایگاه; محل; مکان
+fi: paikka; tila; seutu; sijainti
+fr: lieu; endroit; place; situation; emplacement; position
+globasa: loka; dom
+glosa: loka; koro; topo; -lo
+hi: जगह; मकान; स्थान; अवस्थिति
+hu: hely
+id: tempat
+io: loko
+it: luogo; posto; posizione; ubicazione
+ja: 場所; 位置; 所; 空間; 余地; 地方; 地点
+ko: 장소; 터; 곳; 위치; 지점
+lidepla: loko; plasa; -lok
+ms: tempat
+nl: plaats; locatie
+pl: miejsce; lokalizacja; położenie
+pt: lugar; local; terra; localização
+ro: loc
+ru: ме́сто; положе́ние; местоположе́ние; местонахожде́ние; расположе́ние; пози́ция
+sv: plats; placering; post; säte; ställe; läge
+sw: pahali
+ta: இடம்
+te: స్థానము
+th: บริเวณ; สถานที่; ตำแหน่ง; ที่
+tl: pook; lugar
+tpi: hap; ples
+tr: yer; mekân; konum; lokasyon
+uk: мі́сце; місцеполо́ження; поло́ження; розташува́ння; місцезнаходження
+ur: جَگَہْ; جَگَہ; مَکان; جاگَہ
+vi: nơi; chỗ; chốn; vị trí; địa điểm
+yue: 地方
+
+word: longi
+class: adj
+infl: glosa (longi); en (long); fr (long); globasa (lungo); lidepla (longe)
+sense: having much distance from one point to another
+am: ረዥም
+ar: طَوِيل
+arz: طويل
+bg: дъ́лъг
+bn: দীর্ঘ; লম্বা
+ca: llarg; llong
+cmn: 長 /长
+cs: dlouhý
+da: lang
+de: lang
+el: μακρύς
+en: long
+eo: longa
+es: largo
+fa: دراز; طولانی
+fi: pitkä
+fr: long
+globasa: lungo
+glosa: longi
+ha: dōgō
+hi: लम्बा; लंबा
+hu: hosszú
+ia: longe
+id: panjang
+io: longa
+it: lungo
+ja: 長い
+ko: 길다
+lidepla: longe
+ms: panjang
+nl: lang
+pl: długi
+pt: longo; comprido
+ro: lung
+ru: дли́нный
+sv: lång; långsmal
+sw: refu
+ta: நீளமான
+th: ยาว
+tl: mahaba
+tr: uzun
+uk: до́вгий
+ur: لمبا
+vi: dài
+yue: 長 /长
 
 word: luna
 class: noun
@@ -3633,6 +4017,158 @@ sense: present tense
 en: (indicates the present tense)
 sw: -na-
 
+word: nahir
+class: noun
+infl: globasa (nahir); ar (نَهْر/nahr); fa (نَهْر/nahr); hi (नदी/nadī); ta (நதி/nati); te (నది/nadi); tr (nehir)
+sense: large stream which drains a landmass
+am: ወንዝ
+ar: نَهْر; أَنْهَار; أَنْهُر
+bg: река́
+bn: নদী
+ca: riu
+cmn: 河; 河流; 江; 江河; 水流; 川; 河川
+cs: řeka
+da: flod; å; elv
+de: Fluss; Strom
+el: ποτάμι; ποταμός
+en: river
+eo: rivero
+es: río
+fa: رود; رودْخانِه; نَهْر; دَرْیا
+fi: joki
+fr: fleuve; rivière
+globasa: nahir
+glosa: fluvi; potami
+ha: kogi
+hi: नदी; सरिता; शैलजा
+hu: folyó; folyam
+ia: fluvio
+id: sungai
+io: rivero
+it: fiume; rivo
+ja: 川
+ko: 강; 수; 가람
+lidepla: riva
+ms: sungai; alur; alir; batang; bengawan; kali; wai; ci; sei
+nl: rivier; stroom
+pl: rzeka
+pt: rio
+ro: râu; fluviu
+ru: река́; ре́чка
+sv: flod; älv; å
+sw: mto
+ta: ஆறு; அருவி; நதி
+te: నది
+th: แม่น้ำ
+tl: ilog
+tpi: wara; hanwara
+tr: ırmak; nehir
+uk: ріка́; рі́чка
+ur: نَدی; دَرْیا
+vi: sông; giang; hà
+yue: 河; 江; 河流
+
+word: nam
+class: noun
+infl: bn (নাম/nam); fa (نَام/nām); hi (नाम/nām); lidepla (nam); th (นาม/naam); de (Name); en (name); fr (nom); globasa (name); glosa (nima); id (nama); ja (名前/namae, 名/na); te (నామము/nāmamu); tpi (nem)
+sense: word or phrase indicating a particular person, place, class or thing
+am: ስም
+ar: اِسْم; أَسْمَاء
+bg: и́ме; назва́ние; наименова́ние
+bn: নাম
+ca: nom
+cmn: 名; 名字; 名稱 /名称
+cs: jméno; název
+da: navn
+de: Name
+el: όνομα
+en: name
+eo: nomo
+es: nombre
+fa: نَام; اِسْم; نام
+fi: nimi; nimitys
+fr: nom
+globasa: name
+glosa: nomina; nima
+ha: suna
+hi: नाम; इस्म
+hu: név
+ia: nomine
+id: nama
+io: nomo
+it: nome
+ja: 名前; 名; お名前; ご芳名; 名称
+ko: 이름; 성함; 명칭
+lidepla: nam
+ms: nama
+nl: naam
+pl: imię; nazwa
+pt: nome
+ro: nume
+ru: и́мя; назва́ние; наименова́ние
+sv: namn
+sw: jina; majina
+ta: பெயர்
+te: పేరు; నామము
+th: ชื่อ; นาม
+tl: ngalan; pangalan
+tpi: nem
+tr: ad; isim
+uk: ім'я́; на́зва; найменува́ння
+ur: نام; اِسْم
+vi: tên
+yue: 名; 名字; 名稱 /名称
+
+word: nasa
+class: noun
+infl: globasa (nasa); glosa (nasa); bn (নাক/nak); de (Nase); en (nose); es (napia, napias, naso); hi (नाक/nāk, नासिका/nāsikā); ja (鼻/hana); lidepla (nos); ru (нос/nos); th (นัตถุ์/nát, นาสิก/naa-sìk); tpi (nus)
+sense: protuberance on the face
+am: አፍንጫ
+ar: أَنْف; خَشَم
+bg: нос
+bn: নাক
+ca: nas
+cmn: 鼻子; 鼻
+cs: nos
+da: næse; snude
+de: Nase
+el: μύτη
+en: nose
+eo: nazo
+es: nariz; napia; napias; naso
+fa: بِینِی; بینی; دَماغ
+fi: nenä
+fr: nez
+globasa: nasa
+glosa: nasa; rino
+ha: hanci
+hi: नाक; नासिका
+hu: orr
+id: hidung
+io: nazo
+it: naso
+ja: 鼻
+ko: 코
+lidepla: nos
+ms: hidung
+nl: neus
+pl: nos
+pt: nariz
+ro: nas
+ru: нос
+sv: näsa
+sw: pua
+ta: மூக்கு
+te: ముక్కు
+th: จมูก; นัตถุ์; นาสิก
+tl: ilong
+tpi: nus
+tr: burun
+uk: ніс
+ur: ناک
+vi: mũi
+yue: 鼻
+
 word: nen
 class: noun
 infl: hi (नैन/nain); am (ዐይን/ʿäyn); bn (নয়ন/noẏon); cmn (眼/yǎn); ko (눈/nun)
@@ -3687,7 +4223,7 @@ yue: 眼; 眼睛
 word: no
 class: particle
 infl: es (no); globasa (no); bn (না/na); en (not); fa (نه/na); fr (ne); glosa (ne); hi (न/na); ru (не/ne)
-sense: negates meaning of verb
+sense: negates meaning of another word
 am: አይደለም
 ar: لَا; مَا; لَم; لَن; لَيْسَ
 bg: не
@@ -3733,6 +4269,55 @@ uk: не
 ur: نہیں; نہ; مت
 vi: không; chẳng; chả
 yue: 不; 唔
+
+word: nocha
+class: noun
+infl: lidepla (nocha); es (noche); globasa (noce); hi (निशा/niśā); ru (ночь/nočʹ)
+sense: period between sunset and sunrise
+am: ሌት; ሌሊት
+ar: لَيْلَة; لَيْل
+bg: нощ
+bn: রাত
+ca: nit
+cmn: 夜晚; 夜; 宵
+cs: noc
+da: nat
+de: Nacht
+el: νύχτα
+en: night
+eo: nokto
+es: noche; sorna
+fa: شَب
+fi: yö
+fr: nuit
+globasa: noce
+glosa: noktu
+hi: रात; रात्रि; रात्र; राति; निशा
+hu: éjszaka; éjjel; éj
+id: malam
+io: nokto
+it: notte
+ja: 夜
+ko: 밤
+lidepla: nocha
+ms: malam; lailah
+nl: nacht
+pl: noc
+pt: noite
+ro: noapte
+ru: ночь
+sv: natt
+sw: usiku
+ta: இரவு
+te: రాత్రి
+th: กลางคืน; คืน; ราตรี
+tl: gabi
+tpi: nait
+tr: gece
+uk: ніч
+ur: رات; شَب
+vi: đêm; tối; ban đêm; khuya
+yue: 夜晚
 
 word: nove
 class: adj
@@ -4612,6 +5197,56 @@ ur: پِیلا; زَرْد; اَصْفَر
 vi: vàng; màu vàng
 yue: 黃 /黄
 
+word: sali
+class: noun
+infl: glosa (sali); de (Salz); es (sal); fr (sel); ru (соль/solʹ); tpi (sol)
+sense: sodium chloride
+am: ጨው
+ar: مِلْح
+bg: сол
+bn: নুন; লবণ
+ca: sal
+cmn: 鹽 /盐; 食鹽 /食盐
+cs: sůl
+da: salt
+de: Salz; Kochsalz
+el: αλάτι
+en: salt
+eo: salo
+es: sal
+fa: نَمَک
+fi: suola
+fr: sel
+globasa: namake
+glosa: sali; hali
+ha: gishiri
+hi: नमक; लोन; लवण; मिल्ह
+hu: só
+id: garam
+io: salo
+it: sale
+ja: 塩
+ko: 소금; 염
+lidepla: solta
+ms: garam
+nl: zout; keukenzout
+pl: sól; sól kuchenna
+pt: sal
+ro: sare
+ru: соль; пова́ренная соль
+sv: salt; koksalt; bordssalt
+sw: chumvi
+ta: உப்பு; லவண
+te: ఉప్పు
+th: เกลือ
+tl: asin
+tpi: sol
+tr: tuz
+uk: сіль
+ur: نَمَک
+vi: muối
+yue: 鹽 /盐
+
 word: sarpen
 class: noun
 infl: globasa (sarpen); es (serpiente); fr (serpent); glosa (serpenti); hi (साँप/sā̃p, सर्प/sarp); lidepla (serpenta)
@@ -4901,6 +5536,55 @@ ru: э́ти
 tr: bu; bunlar
 uk: ці
 
+word: se-lok
+class: adv
+sense: in, on, or at this place
+am: እዚህ
+ar: هُنَا
+arz: هنا
+bg: тук; ту́ка
+bn: এখানে
+ca: aquí; ací
+cmn: 這裡 /这里; 這兒 /这儿; 此處 /此处
+cs: tady; zde; tu
+da: her
+de: hier
+el: εδώ
+en: here
+eo: ĉi tie; tie ĉi
+es: aquí; acá
+fa: اینجا; ایدر
+fi: täällä; tässä
+fr: ici
+globasa: hinloka (hin+loka)
+glosa: ci
+hi: यहाँ
+hu: itt
+ia: hic; ci
+id: sini
+io: hike
+it: qui; qua
+ja: ここ; ここに; ここで
+ko: 여기
+lidepla: hir
+ms: di sini
+nl: hier
+pl: tu; tutaj
+pt: aqui; cá
+ro: aici; aci
+ru: здесь; тут
+sv: här
+sw: hapa
+ta: இங்கே
+te: ఇక్కడ
+th: ที่นี่; ตรงนี้
+tl: dito; dini; rito; dine; rine
+tr: burada; işte; burası
+uk: тут
+ur: یہاں
+vi: tại đây
+yue: 呢度
+
 word: se-ta
 class: pron
 sense: this person | – | –
@@ -4908,6 +5592,54 @@ en: this; this one; this person (pronoun)
 globasa: hinte
 glosa: u-ci
 lidepla: se
+
+word: se-tem
+class: adv
+sense: at the present time
+am: አሁን
+ar: الْآنَ; حَالًا
+arz: دلوقتي
+bg: сега́
+bn: এখন
+ca: ara
+cmn: 現在 /现在; 如今; 現今 /现今; 現下 /现下; 現時 /现时
+cs: teď; nyní
+da: nu
+de: jetzt; nun; gerade
+el: τώρα
+en: now
+eo: nun
+es: ahora; agora
+fi: nyt
+fr: maintenant
+globasa: hinwatu (hin-watu); nun
+glosa: nu; presenti
+hi: अब; अधुना; अभी
+hu: most
+ia: nunc; ora
+id: sekarang; kini
+it: adesso; ora
+ja: 今; 現在
+ko: 지금; 이제
+lidepla: nau
+ms: sekarang; kini
+nl: nu; nou; thans
+pl: teraz; aktualnie; obecnie; w tej chwili; w tym momencie
+pt: agora
+ro: acum
+ru: сейча́с; тепе́рь; ны́не
+sv: nu
+sw: sasa
+ta: இப்போது
+te: ఇప్పుడు
+th: บัดนี้; เดี๋ยวนี้
+tl: ngayon
+tpi: nau
+tr: şimdi
+uk: тепе́р; ни́ні; зараз
+ur: اَب; اَکْنُون; اَبھی; حالا; اَدُھنا; اِسی وَقْت
+vi: bây giờ; hiện tại
+yue: 而家; 依家; 如今; 現在 /现在; 現今 /现今; 現時 /现时
 
 word: sel
 class: pron
@@ -5325,6 +6057,58 @@ ur: کالا; سِیاہ
 vi: đen; đen thui
 yue: 黑; 黑色
 
+word: swina
+class: noun
+infl: lidepla (swina); globasa (swini); ru (свинья́/svinʹjá)
+sense: mammal of genus Sus | animal of the family Suidae | –
+am: አሳማ
+ar: خِنْزِير; حَلُوف
+arz: خنزير
+bg: свиня́; прасе
+bn: শূকর; শুওর; শুয়ার; শুয়োর
+ca: porc; suid; marrà
+cmn: 豬 /猪; 豬玀 /猪猡
+cs: prase; vepř; svině
+da: svin; gris
+de: Schwein; Hausschwein; Mocke; Docke; Wutz
+el: γουρούνι
+en: pig; hog; swine
+eo: porko; virporko; porkiĉo; porkino
+es: cerdo; chon; cochín; cochino; cocho; cuchi; gocho; gorrino; guarro; tocino; pitzote; puerco
+fa: خُوک; خُوگ; خِنْزِیر; خوک; گراز
+fi: sika
+fr: cochon; porc; pourceau
+globasa: swini
+glosa: sui
+ha: alade
+hi: सूअर
+hu: sertés; disznó; malac
+ia: porco
+id: babi
+io: porko; porkulo; porkino
+it: maiale; porco; suino
+ja: 豚; ブタ
+ko: 돼지
+lidepla: swina
+ms: babi; khinzir
+nl: zwijn; varken
+pl: świnia; wieprz
+pt: porco; suíno
+ro: porc
+ru: свинья́; бо́ров; вепрь
+sv: gris; svin; svindjur
+sw: nguruwe
+ta: பன்றி
+te: పంది; సూకరము
+th: หมู
+tl: baboy
+tpi: pik
+tr: domuz; hınzır
+uk: свиня́; кнур; кабан
+ur: سُؤَر; خُوک; خِنْزِیر
+vi: heo; lợn; cúi
+yue: 豬 /猪
+
 word: syau
 class: adj
 infl: lidepla (syao); cmn (小/xiǎo); yue (細/细/sai³)
@@ -5466,6 +6250,57 @@ tr: onun
 uk: його́; свій; її́
 ur: اس کا; ان کا
 vi: của anh ấy; của nó; của hắn
+
+word: tem
+class: noun
+infl: fr (temps); glosa (tem); en (time); es (tiempo); fa (تایْم/tâym); ko (때/ttae); lidepla (taim); tpi (taim)
+sense: inevitable passing of events | quantity of availability in time | measurement of a quantity of time | time of day, as indicated by a clock, etc | division of the day: particular moment or hour | extended period of time, defined or undefined: age, era, etc.
+am: ጊዜ; ዘመን
+ar: زَمَان; زَمَن; وَقْت; دَهْر; حِين; أَوَان; عَصْر; إِبَّان
+bg: вре́ме; час
+bn: সময়; ওয়াক্ত; বেলা; জমানা; কাল
+ca: temps; hora; moment; època; era
+cmn: 時間 /时间; 時光 /时光; 時候 /时候; 時刻 /时刻; 一天時間 /一天时间
+cs: čas; časy
+da: tid; klokken
+de: Zeit; Uhrzeit; Zeitpunkt; Zeitalter; Zeiten
+el: χρόνος; καιρός; ώρα
+en: time
+eo: tempo; horo
+es: tiempo; hora; hora del día; momento; horario; era; época; evo
+fa: زَمَان; وَقْت; زَمان; تایْم; ساعَت; مُوْقِع; هِنْگام; اِوان; دُوْران
+fi: aika; kellonaika; kello; aikakausi
+fr: temps; heure; heure du jour; moment; époque; ère
+globasa: watu
+glosa: kron; tem
+ha: lokaci
+hi: समय; काल; प्रहर; समाँ; युग; क्षण; बेर; वक़्त; पहर; पल; घंटा; शक; कल्प
+hu: idő; időtartam; óra; ideje; kor; korszak
+ia: tempore
+id: waktu; jaman
+io: tempo
+it: tempo; ora
+ja: 時間; 時; 時刻; 時代
+ko: 시간; 시각; 때; 순간; 시; 시대
+lidepla: taim
+ms: masa; kala; waktu; zaman; tempoh
+nl: tijd; duur; tijdperk
+pl: czas; godzina; pora; epoka; czasy
+pt: tempo; horas; hora; época
+ro: timp; vreme; timpuri; timpi; ceas; oră; ora zilei; eră; epocă
+ru: вре́мя; вре́мя су́ток; времена́
+sv: tid; tidpunkt; dags
+sw: wakati; muda; nafasi; saa; umri; zama
+ta: காலம்
+te: సంఘటన; సమయం; కాలం; శకము
+th: เวลา; กาล
+tl: tion; oras
+tpi: taim
+tr: zaman; vakit; çağ; saat; sögen
+uk: час; годи́на
+ur: وَقْت; سَمَے; کال
+vi: thời gian
+yue: 時間 /时间; 時光 /时光; 時候 /时候; 時刻 /时刻
 
 word: to
 class: det
@@ -5961,6 +6796,54 @@ uk: оди́н; одини́ця
 ur: ایک; ١
 vi: một; số một
 yue: 一
+
+word: un-yum
+class: adj
+sense: numeral first — see also 1st
+am: አንደኛ
+ar: أَوَّل; أُولَى
+bg: пъ́рви
+bn: প্রথম; আউয়াল; পহেলা
+ca: primer
+cmn: 第一; 最初
+cs: první
+da: første
+de: erster; erste
+el: πρώτος; πρᾶτος
+en: first
+eo: unua
+es: primer
+fa: اولین; اول; یکمین; یکم; نخستین; نخست
+fi: ensimmäinen
+fr: premier; -unième
+globasa: unyum (un+yum)
+glosa: mo; numera mo; proto
+hi: पहला; प्रथम; पहिला; अव्वल; प्रारंभिक
+hu: első
+ia: prime
+id: pertama; perdana; kesatu
+io: unesma
+it: primo
+ja: 第一; 最初; 初めて; 初; 一番目
+ko: 첫째; 첫 번째; 제일; 최초
+lidepla: un-ney
+ms: pertama
+nl: eerst
+pl: pierwszy
+pt: primeiro
+ro: prim
+ru: пе́рвый
+sv: förste; första; först
+sw: -a kwanza
+ta: முதல்
+te: మొదటి; ఒకటవ; ప్రథమము
+th: ที่หนึ่ง
+tl: una
+tr: birinci; ilk
+uk: пе́рший
+ur: پہلا; اوّل; اولین; یکم; نخست; نخستین
+vi: thứ nhất; đầu tiên
+yue: 第一; 最初
 
 word: ve
 class: particle

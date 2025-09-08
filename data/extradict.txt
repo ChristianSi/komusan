@@ -17,6 +17,18 @@ sense: plurals of nouns
 tags: add
 en: -es [əz]
 
+sense: female suffix
+de: -in
+en: -ess [ɛs]
+
+class: prefix
+sense: prefix for a male
+tags: add
+cmn: 男 [nán]
+en: he- [ˈhiː]
+eo: -iĉ-; vir-
+id: dia-
+
 sense: used to form adverbs from adjectives
 ar: [-an]
 bn: -ভাবে [-bhabe]
@@ -144,6 +156,14 @@ tr: -iyor
 vi: đang
 yue: 緊 [gan2]
 
+sense: attractive
+en: beautiful [ˈbjuːtɪ.fəl]
+es: hermoso; bello; lindo; guapo; bonito
+
+sense: insect
+en: bee [ˈbiː]
+fa: زَنْبور [zanbur]; زَنْبورِ عَسَل [zanbur-e asal]
+
 sense: alcoholic drink made of malt
 en: beer
 es: cerveza; birra; chela
@@ -168,6 +188,10 @@ es: hacer
 sense: consume alcoholic beverages
 en: drink [dɹɪŋk]
 vi: uống rượu; uống say
+
+sense: caused by
+en: due to
+tr: ötürü; -den ötürü
 
 sense: to one another; one to the other
 en: each other [iˈt͡ʃʌð.ɚ]
@@ -221,9 +245,18 @@ sense: subject — inanimate thing
 cmn: 它 [tā]; 之 [zhī]; 這 /这 [zhè]; 那 [nà]; 牠 /它 [tā]
 en: it [ɪt]
 
+sense: a male of a royal family who is the supreme ruler of his nation
+en: king [kɪŋ]
+hi: राजा [rājā]
+
 sense: body of water
 en: lake [leɪk]
 ta: ஏரி [ēri]
+
+sense: place
+en: location [ləʊˈkeɪʃən]
+es: ubicación; lugar; posición
+fr: lieu; situation; emplacement; position
 
 sense: having much distance from one point to another
 en: long [lɒŋ]
@@ -246,6 +279,10 @@ sense: possessive genitive: belonging to
 en: of [ɒv]
 id: (possessor is simply placed after the possession)
 
+sense: location, position
+en: place [pleɪs]
+es: lugar; sitio
+
 sense: having red as its colour
 en: red [ɹɛd]
 es: rojo; colorado; rubro
@@ -253,6 +290,11 @@ es: rojo; colorado; rubro
 sense: sodium chloride
 en: salt [sɒlt]
 es: sal
+
+sense: body of water
+en: sea [siː]
+fa: دَرْیا [daryâ]; بَحْر [bahr]
+tpi: solwara
 
 sense: not large
 fr: petit; minuscule; vieille; conseil; couilles
@@ -263,6 +305,10 @@ yue: 小 [siu2]; 細 /细 [sai³]
 sense: to communicate with one's voice using words
 en: speak [spiːk]
 es: hablar
+
+sense: having a pleasant taste
+en: sweet
+ha: mai dàɗi
 
 sense: connecting a noun clause
 en: that [ˈðæt]
@@ -356,6 +402,10 @@ th: จะ [jà]
 tr: (Use the aorist past tense)
 vi: sẽ
 yue: 會 [wui5]
+
+sense: time it takes for the Earth to complete one revolution around the Sun
+en: year [jɪɹ]
+hi: साल [sāl]; वर्ष [varṣ]; संवत्सर [samvatsar]
 
 sense: particle used to form yes-no questions
 tags: add
