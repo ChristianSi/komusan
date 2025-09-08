@@ -8,5 +8,6 @@ __pycache__/
 /data/*-words.csv
 /data/phoible.csv
 /data/top*.csv
+/data/wordlist-*.txt
 /data/wordlist-20*.md
 /data/termdict.txt
