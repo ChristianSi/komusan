@@ -26,8 +26,8 @@ DICT_FILE = util.DICT_FILE
 OUTFILE = 'wordlist-(LANG).txt'
 
 # The order in which classes should be printed
-GROUP_ORDER = tuple('noun name adj adv verb aux particle quant sel pron num prep prep_phrase '
-                    'conj prefix suffix intj phrase'.split())
+GROUP_ORDER = tuple('noun name adj adv verb particle det pron num prep prep_phrase conj prefix '
+                    'suffix intj phrase'.split())
 
 # A few word classes are replaced with shorter names when showing them in word class lists
 SHORT_CLASS_NAMES = {

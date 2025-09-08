@@ -671,17 +671,18 @@ class Constraints:
                 self.target_class = value
                 continue
 
-            # Merge this concept with an existing Komusan word, e.g. "Merge:ku"
+            # Merge this concept with an existing Komusan word, e.g. "Merge:ku".
+            # A rationale may be given in parenthesis, but is (for now) ignored.
             value = constraint.removeprefix('Merge:').strip()
             if value != constraint:
-                self.merge_with = value
+                self.merge_with = util.split_text_and_explanation(value)[0]
                 continue
 
             # Premerge: like Merge, but put the new translations before instead of after the
-            # existing ones
+            # existing ones. A rationale may be given in parenthesis, but is (for now) ignored.
             value = constraint.removeprefix('Premerge:').strip()
             if value != constraint:
-                self.merge_with = value
+                self.merge_with = util.split_text_and_explanation(value)[0]
                 self.premerge = True
                 continue
 

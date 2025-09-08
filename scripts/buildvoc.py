@@ -2634,7 +2634,7 @@ class VocBuilder:
                         # Check if the polysemy check suggestions a merger
                         merge_word, merge_percentage = self.check_polysemy(entry, False)
                         if merge_word:
-                            merge_constraint = f'Merge: {merge_word} ({merge_percentage:.1f}%)'
+                            merge_constraint = f'Merge:{merge_word} ({merge_percentage:.1f}%)'
                         else:
                             merge_constraint = ''
 

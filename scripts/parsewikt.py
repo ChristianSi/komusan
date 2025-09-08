@@ -42,7 +42,8 @@ TAGS_TO_SKIP = frozenset('archaic colloquial dated derogatory dialectal historic
 
 # Likewise, but listing regional variants for specific languages
 DE_TAGS_TO_SKIP = frozenset('Alemannic-German Austria Austrian Bavaria Liechtenstein Palatine '
-                            'Swiss Swiss-German Switzerland'.split())
+                            'Swabian Swiss Swiss-German Switzerland'.split() + ['Swabian German'])
+
 
 ES_TAGS_TO_SKIP = frozenset(
     'Aragon Argentina Belize Bolivia Canary-Islands Caribbean Central-America Chile Colombia '
@@ -278,7 +279,8 @@ class WiktParser:
           except when it's the first Arabic translation, since we want to keep at least one.
         * if a Spanish translation belongs to one of the regional variants listed in
           ES_TAGS_TO_SKIP (such as "Latin-America"), without "Spain" being listed as another
-          region – except when it's the first Spanish translation
+          region – except when it's the first Spanish translation; also if a Spanish word is labeled
+          as "disused", as is sometimes the case
         * if a French translation belongs to one of the regional variants listed in
           FR_TAGS_TO_SKIP (such as "Canada"), without "France" being listed as another region
           – except when it's the first French translation
@@ -293,7 +295,7 @@ class WiktParser:
         'existing_translations' are the translations with the same word sense already added.
         """
         # pylint: disable=too-many-return-statements
-        tags = trans_entry.get('tags', {})
+        tags = trans_entry.get('tags', []) + trans_entry.get('raw_tags', [])
         lang = trans_entry.get('lang')
         code = trans.code
         if (any(tag in TAGS_TO_SKIP for tag in tags)
@@ -311,6 +313,9 @@ class WiktParser:
         if (trans.code == 'es' and any(tag in ES_TAGS_TO_SKIP for tag in tags)
                 and 'Spain' not in tags
                 and any(trans.code == 'es' for trans in existing_translations)):
+            return True
+        if (trans.code == 'es' and (any(word.endswith('disused)') for word in trans.word))
+                or any(word.startswith('disused:') for word in trans.word)):
             return True
         if (trans.code == 'fr' and any(tag in FR_TAGS_TO_SKIP for tag in tags)
                 and 'France' not in tags
