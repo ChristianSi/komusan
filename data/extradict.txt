@@ -29,6 +29,10 @@ en: he- [ˈhiː]
 eo: -iĉ-; vir-
 id: dia-
 
+sense: having great weight
+en: heavy [ˈhɛv.i]
+hi: भारी [bhārī]; भारा [bhārā]
+
 sense: used to form adverbs from adjectives
 ar: [-an]
 bn: -ভাবে [-bhabe]

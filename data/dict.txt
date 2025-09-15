@@ -150,6 +150,67 @@ ur: آگ; آتِش; اَگْنی
 vi: lửa
 yue: 火
 
+word: an-
+class: prefix
+infl: glosa (an-); cmn (男/nán); globasa (man-); lidepla (man-)
+sense: prefix for a male
+cmn: 男
+en: he- (prefix marking individuals as male)
+eo: -iĉ-; vir-
+globasa: man-
+glosa: an-
+id: dia-
+lidepla: man-
+
+word: an-rega
+class: noun
+sense: a male of a royal family who is the supreme ruler of his nation
+am: ንጉስ; ንጉሥ
+ar: مَلِك; سُلْطَان
+arz: ملك
+bg: цар; крал
+bn: রাজা; বাদশাহ; সুলতান; তাজদার
+ca: rei
+cmn: 國王 /国王; 王
+cs: král
+da: konge; kong
+de: König
+el: βασιλιάς
+en: king
+eo: reĝo
+es: rey
+fi: kuningas
+fr: roi
+globasa: manwangu (man+wangu)
+glosa: an-regi; basili
+ha: sarki
+hi: राजा
+hu: király
+ia: rege
+id: raja
+io: rejulo
+it: re
+ja: 国王; 王様; 王; 大君
+ko: 임금; 왕; 국왕
+lidepla: rego
+ms: raja; datu; perabu; syah; malik; padsyah; narapati
+nl: koning
+pl: król
+pt: rei
+ro: rege
+ru: коро́ль; царь; князь
+sv: kung; drott
+sw: mfalme
+ta: மன்னன்; அரசன்; ராஜா; கோ
+te: రాజు
+th: ราชา; กษัตริย์; ราช; ราชัน
+tl: hari
+tr: kral; padişah
+uk: коро́ль; цар
+ur: راجا; بَادْشَاہ
+vi: vua; quốc vương
+yue: 國王 /国王; 王
+
 word: arko
 class: noun
 infl: es (arco); globasa (arko); de (Arkus); en (arch, arc); fr (arc, arche); glosa (arca); ja (円弧/enko, 弧/ko); lidepla (arka); ru (а́рка/árka)
@@ -383,6 +444,53 @@ ur: ٹَھنْڈا; سَرْد
 vi: lạnh; lạnh lẽo; nguội
 yue: 凍 /冻
 
+word: bari
+class: adj
+infl: bn (ভারী/bhari); glosa (bari); hi (भारी/bhārī, भारा/bhārā)
+sense: having great weight
+ar: ثَقِيل
+arz: تقيل
+bg: те́жък
+bn: ভারী
+ca: feixuc; pesant
+cmn: 重
+cs: těžký
+da: tung
+de: schwer
+el: βαρύς
+en: heavy
+eo: peza
+es: pesado; ponderoso
+fa: سنگین
+fi: painava; raskas
+fr: lourd; pesant
+globasa: wazenpul (wazen+pul)
+glosa: bari; masi; pesanto; ponderoso
+hi: भारी; भारा
+hu: nehéz
+id: berat
+io: grava
+it: pesante
+ja: 重い
+ko: 무겁다
+lidepla: grave
+ms: berat
+nl: zwaar
+pl: ciężki
+pt: pesado
+ro: greu
+ru: тяжёлый; тя́жкий
+sv: tung
+sw: -zito
+te: బరువైన
+th: หนัก
+tl: mabigat
+tr: ağır
+uk: важки́й
+ur: بھاری
+vi: nặng
+yue: 重
+
 word: baru
 class: noun
 infl: globasa (baru); bn (ভালুক/bhaluk); de (Bär); en (bear); hi (भालो/bhālo, भालू/bhālū); id (beruang)
@@ -581,6 +689,57 @@ ur: پیڑ; دَرَخْت
 vi: cây
 yue: 樹 /树; 樹木 /树木
 
+word: bine
+class: noun
+infl: de (Biene); en (bee); globasa (beze); tpi (bi, binen)
+sense: insect
+am: ንብ
+ar: نَحْلَة; نَحْل
+bg: пчела́
+bn: মৌমাছি
+ca: abella
+cmn: 蜜蜂; 蠟蜂 /蜡蜂
+cs: včela
+da: bi
+de: Biene; Imme; Beivogl (Styrian)
+el: μέλισσα
+en: bee
+eo: abelo
+es: abeja
+fa: زَنْبور; زَنْبورِ عَسَل
+fi: mehiläinen
+fr: abeille
+globasa: beze
+glosa: apis; melisa
+ha: zuma
+hi: मधुमक्खी
+hu: méh
+ia: ape; apicula
+id: lebah; tawon
+io: abelo
+it: ape; pecchia
+ja: 蜂; 花蜂
+ko: 벌; 밀봉
+lidepla: mifen
+ms: lebah; tawon
+nl: bij; honingbij; imme
+pl: pszczoła
+pt: abelha
+ro: albină
+ru: пчела́
+sv: bi
+sw: nyuki
+ta: தேனீ
+te: తేనెటీగ
+th: ผึ้ง; ภมร; ภุมรี
+tl: bubuyog; pukyot
+tpi: bi; binen
+tr: arı
+uk: бджола́
+ur: شَہْد کی مَکھّی; مَدھ مَکھّی
+vi: ong
+yue: 蜜蜂
+
 word: bira
 class: noun
 infl: am (ቢራ/bira); ar (بِيرَة/bīra); es (birra); globasa (bira); glosa (bira); lidepla (bira); tr (bira); bn (বিয়ার/biẏar); de (Bier); en (beer); hi (बियर/biyar, मदिरा/madirā); id (bir); ja (ビール/bīru); sw (bia); te (బీరు/bīru); th (เบียร์/biia); tpi (bia); vi (bia)
@@ -682,6 +841,54 @@ uk: бі́лий
 ur: سَفید
 vi: trắng; bạch
 yue: 白
+
+word: blinde
+class: adj
+infl: de (blind); lidepla (blinde); en (blind)
+sense: unable to see
+ar: أَعْمَى; عَمْيَاء; كَفِيف
+bg: сляп
+bn: অন্ধ
+ca: cec; orb
+cmn: 盲; 盲目; 失明
+cs: slepý
+da: blind
+de: blind
+el: τυφλός; αόμματος
+en: blind
+eo: blinda
+es: ciego; invidente
+fa: کور; نابینا; مکفوفالبصر
+fi: sokea
+fr: aveugle; mal-voyant; mal-voyante
+globasa: okonenabil (oko+nen+abil)
+glosa: no-vide; ceko; tiflo
+hi: अंधा
+hu: vak
+ia: cec
+id: buta
+io: blinda
+it: cieco; orbo
+ja: 失明した; 目の見えない; 盲目の; 盲
+ko: 눈멀다
+lidepla: blinde
+ms: buta; tunanetra
+nl: blind
+pl: ślepy; niewidomy
+pt: cego
+ro: orb; chior
+ru: слепо́й; незря́чий
+sv: blind; synskadad
+sw: kipofu
+ta: குருடு
+te: గుడ్డి
+th: ตาบอด; บอด
+tl: bulag
+tr: kör; görme engelli; görmez; âmâ; gözsüz
+uk: сліпи́й
+ur: اندھا
+vi: mù; đui mù; đui
+yue: 盲; 失明
 
 word: blu
 class: adj
@@ -1631,6 +1838,86 @@ ur: کَلیجا; جِگَر
 vi: gan
 yue: 肝
 
+word: gin-
+class: prefix
+infl: lidepla (gin-); de (-in)
+sense: the prefix she- for a female animal or a woman | female suffix
+ar: ـَة
+bn: -ঈ; -ইনী; -নী; -আ
+cmn: 女-; 母-
+da: hun; hun-; -inde
+de: -in
+el: -ισσα
+en: she-; -ess (prefix marking individuals as female)
+eo: -in-; -ino
+fi: -tar; -tär
+fr: -esse; -euse; -e
+globasa: fem-
+glosa: fe-
+hi: -नी
+hu: -nő
+ia: -essa; -a
+id: dia-
+io: -in-; -ino
+it: -essa
+ko: 암
+lidepla: gin-
+nl: -in; -esse
+pl: -ka
+pt: -a; -esa
+ro: -iță; -easă
+ru: -ка; -ша; -ица; -ница; -и́са; -е́сса; -а; -чица; -иня; -ыня; -и́ха; -ья; -у́ха
+sv: hon-; hona; -inna; -essa; -ska
+
+word: gin-rega
+class: noun
+sense: female monarch
+am: ንግሥት
+ar: مَلِكَة
+bg: крали́ца; цари́ца
+bn: রাণী; শাহবানু
+ca: reina
+cmn: 女王; 女皇; 王后
+cs: královna
+da: dronning
+de: Königin
+el: βασίλισσα
+en: queen
+eo: reĝino
+es: reina
+fa: مَلِکَه; مَلِکِه; شَهْبانو
+fi: kuningatar
+fr: reine
+globasa: femwangu (fem+wangu)
+glosa: fe-regi; basilisa
+ha: sarauniya
+hi: रानी; बेगम; मलिका; राणी; राज्ञी; महारानी
+hu: királynő
+ia: regina
+id: ratu; rani
+io: rejino
+it: regina
+ja: 王; 女王; クイーン
+ko: 여왕; 녀왕; 황후
+lidepla: regina
+ms: ratu; rani; suri
+nl: koningin
+pl: królowa
+pt: rainha
+ro: regină
+ru: короле́ва; цари́ца
+sv: drottning
+sw: malkia
+ta: அரசி; ராணி
+te: రాణి
+th: ราชินี; พระราชินี
+tl: reyna; haribini; hariginang
+tr: ece; kraliçe
+uk: короле́ва; цари́ця
+ur: مَلِکَہ; رانی; مَہَارَانی
+vi: nữ hoàng; bà hoàng; bà chúa; nữ vương
+yue: 王后; 女王
+
 word: gina
 class: noun
 infl: glosa (gina); lidepla (gina, ginjen); ja (女/onna)
@@ -1682,6 +1969,57 @@ uk: жі́нка
 ur: عَورَت; خاتُون; زَنانی; زَن; مَہِیلا; ناری; سُتْری
 vi: phụ nữ; đàn bà
 yue: 女人; 女性
+
+word: gras
+class: noun
+infl: de (Gras); en (grass); globasa (gras); tpi (gras, garas); es (grama); glosa (gra); hi (घास/ghās)
+sense: ground cover plant
+am: ሣር
+ar: حَشِيش; عُشْب
+bg: трева́
+bn: ঘাস; তৃণ
+ca: herba
+cmn: 草; 青草; 禾草
+cs: tráva
+da: græs
+de: Gras
+el: χορτάρι
+en: grass
+eo: herbo; greso
+es: pasto; hierba; grama
+fa: سَبْزَه; عَلَف; سَبْزِه; چَمَن; واش
+fi: heinä; ruoho
+fr: herbe
+globasa: gras
+glosa: gra; herba
+ha: cìyāwā̀
+hi: घास
+hu: fű
+ia: herba
+id: rumput
+io: gazono
+it: erba; graminacea
+ja: 草; 雑草
+ko: 풀; 잡초
+lidepla: herba
+ms: rumput
+nl: gras
+pl: trawa
+pt: grama; relva
+ro: iarbă
+ru: трава́; мурава́
+sv: gräs
+sw: majani; nyasi
+ta: புல்
+te: గడ్డి; తృణము; కసవు
+th: หญ้า
+tl: damo
+tpi: gras; garas
+tr: ot; çimen; çim
+uk: трава́; мурава́; морі́г
+ur: گھاس; عَلَف; سَبْزَہ
+vi: cỏ
+yue: 草
 
 word: grin
 class: adj
@@ -2140,6 +2478,57 @@ uk: зна́ти
 ur: جاننا
 vi: biết
 yue: 知
+
+word: kafe
+class: noun
+infl: cmn (咖啡/kāfēi); de (Kaffee); es (café, cafelito); fr (café); globasa (kafe); ha (kṑfī, kafe); ja (カフェ/kafe); en (coffee); glosa (kafa); hi (क़हवा/qahvā, कोफ़ी/kofī, काफ़ी/kāfī, काफी/kāphī); ru (ко́фе/kófe); ta (காபி/kāpi); te (కాఫీ/kāphī); th (กาแฟ/gaa-fɛɛ); tl (kape); tr (kahve); vi (cà phê); yue (咖啡/gaa³ fe¹)
+sense: beverage
+am: ቡና
+ar: قَهْوَة
+bg: кафе́
+bn: কফি
+ca: cafè
+cmn: 咖啡
+cs: káva
+da: kaffe
+de: Kaffee
+el: καφές
+en: coffee
+eo: kafo
+es: café; tinto; cafelito
+fa: قَهْوَه; قَهْوِه
+fi: kahvi
+fr: café
+globasa: kafe
+glosa: kafa
+ha: kṑfī; kafe
+hi: क़हवा; कोफ़ी; काफ़ी; कॉफ़ी; कहवा; काफी
+hu: kávé
+ia: caffe
+id: kopi
+io: kafeo
+it: caffè
+ja: コーヒー; 珈琲; カフェ
+ko: 커피
+lidepla: kahwa
+ms: kopi; kahwa; kawa
+nl: koffie
+pl: kawa
+pt: café
+ro: cafea
+ru: ко́фе
+sv: kaffe
+sw: kahawa
+ta: குளம்பி; கொட்டைவடிநீர்; காபி
+te: కాఫీ
+th: กาแฟ
+tl: kape
+tpi: kopi
+tr: kahve; konur
+uk: ка́ва
+ur: کافی; کوفی; قَہْوَہ
+vi: cà phê
+yue: 咖啡
 
 word: kai
 class: noun
@@ -2961,6 +3350,55 @@ uk: чи
 ur: کیا‎
 vi: có ... không; không; phải không; hả; hử; à
 
+word: kumi
+class: noun
+infl: globasa (kumi); ja (蜘蛛/kumo); ko (거미/geomi)
+sense: arthropod
+am: ሸረሪት
+ar: عَنْكَبُوت; شَبَث
+bg: па́як
+bn: মাকড়সা; ঊর্ণনাভ; উর্ণনাভ; লূতা
+ca: aranya
+cmn: 蜘蛛; 蛛蛛
+cs: pavouk
+da: edderkop
+de: Spinne
+el: αράχνη
+en: spider
+eo: araneo
+es: araña
+fa: تنند; جولَا; جولَاه; عَنْکَبوت; تارْتَنَک; جُوْلاهی
+fi: hämähäkki
+fr: araignée
+globasa: kumi
+glosa: arakni; aranea
+ha: gizò-gizò; tautàu
+hi: मकड़ी; मकड़ा
+hu: pók
+ia: aranea
+id: labah; laba-laba
+it: ragno
+ja: 蜘蛛; クモ; スパイダー
+ko: 거미; 지주
+lidepla: spaida
+ms: labah-labah
+nl: spin; kobbe
+pl: pająk
+pt: aranha
+ro: păianjen
+ru: пау́к
+sv: spindel
+sw: buibui
+ta: சிலந்தி
+te: సాలీడు
+th: แมงมุม
+tl: gagambá; álalawa; pitik
+tr: örümcek; ankebut
+uk: паву́к
+ur: مَکْڑی; مَکْڑا
+vi: nhện; nhền nhện
+yue: 蠄蟧 /蠄𮔚; 蜘蛛
+
 word: kurtena
 class: noun
 infl: lidepla (kurtena); en (curtain); es (cortina); globasa (kurtina); ja (カーテン/kāten); ru (портье́ра/portʹjéra); tl (kurtina)
@@ -3270,6 +3708,57 @@ uk: їх; ї́хній
 ur: ان کا
 vi: của họ
 yue: 他們的 /他们的; 佢哋嘅
+
+word: life
+class: noun
+infl: en (leaf); lidepla (lif); ru (лист/list); tpi (lip)
+sense: part of a plant
+am: ቅጠል
+ar: وَرَقَة
+bg: лист; листо́
+bn: পাতা
+ca: fulla
+cmn: 葉 /叶; 葉子 /叶子
+cs: list
+da: blad; løv
+de: Blatt; Laubblatt
+el: φύλλο
+en: leaf
+eo: folio
+es: hoja; fronda
+fa: بَرْگ; پَر
+fi: lehti
+fr: feuille
+globasa: dahun
+glosa: folia
+ha: ganye; warƙa
+hi: पत्ता; पत्ती
+hu: levél; falevél
+ia: folio
+id: daun
+io: folio
+it: foglia
+ja: 葉; 葉っぱ; 木の葉
+ko: 잎
+lidepla: lif
+ms: daun
+nl: blad
+pl: liść
+pt: folha
+ro: frunză
+ru: лист; ли́стья
+sv: blad; löv
+sw: jani; msahafu
+ta: இலை
+te: ఆకు
+th: ใบ; ใบไม้
+tl: dahon
+tpi: lip
+tr: yaprak
+uk: лист
+ur: پَتّی; بَرْگ
+vi: lá
+yue: 葉 /叶; 葉子 /叶子
 
 word: lisan
 class: noun
@@ -3660,6 +4149,56 @@ ur: کَل; فَرْدا; کل - can also refer to yesterday; depending on conte
 vi: ngày mai; mai
 yue: 明天; 聽日 /听日; 明日
 
+word: mari
+class: noun
+infl: glosa (mari); am (ባሕር/baḥr); ar (بَحْر/baḥr); de (Meer); es (mar); fa (بَحْر/bahr); fr (mer); globasa (bahari); hi (दरिया/dariyā); lidepla (mar); ru (мо́ре/móre); sw (bahari)
+sense: body of water
+am: ባሕር
+ar: بَحْر; يَمّ
+bg: море́
+bn: সাগর; সমুদ্র
+ca: mar
+cmn: 海
+cs: moře
+da: hav; sø
+de: Meer; See
+el: θάλασσα; πέλαγος; πόντος
+en: sea
+eo: maro
+es: mar; ponto; piélago
+fa: دَرْیا; بَحْر
+fi: meri
+fr: mer
+globasa: bahari
+glosa: mari; pelago; talasi
+hi: सागर; समुद्र; समुंदर; अम्बुधि; बहर; दरिया; दरया
+hu: tenger
+ia: mar
+id: laut
+io: maro
+it: mare
+ja: 海
+ko: 바다; 해양
+lidepla: mar
+ms: laut; tasik; samudera; segara; bahar
+nl: zee
+pl: morze
+pt: mar
+ro: mare
+ru: мо́ре
+sv: hav; sjö
+sw: bahari
+ta: கடல்; ஆழி
+te: సముద్రం; కడలి
+th: ทะเล; ห้วงน้ำ; สมุทฺท
+tl: dagat
+tpi: solwara
+tr: deniz; derya
+uk: мо́ре
+ur: سَمَنْدَر; سَمُنْدَر; بَحْر
+vi: biển; bể
+yue: 海
+
 word: mata
 class: noun
 infl: bn (আম্মা/amma, মাতা/mata, মা/ma); hi (माता/mātā, मां/mā̃, मादर/mādar); lidepla (mata); ar (مَامَا/māmā); cmn (媽媽/妈妈/māma, 媽/妈/mā); de (Mutter, Mutti, Mama); en (mother); fa (مَادَر/mādar, مامان/mâmân); fr (maman); globasa (matre); glosa (matri); ja (ママ/mama); ru (мать/matʹ, ма́тушка/mátuška); sw (mama); ta (அம்மா/ammā); te (అమ్మ/amma); th (มารดา/maan-daa); tpi (mama, mami); vi (má)
@@ -3760,6 +4299,55 @@ uk: хма́ра
 ur: میگھ; بادَل; اَبْر; سَحاب
 vi: mây
 yue: 雲 /云
+
+word: meli
+class: adj
+infl: cmn (美/měi, 美麗/美丽/měilì); globasa (meli); ar (مَلِيح/malīḥ); fr (belle); glosa (kali, beli); id (molek); yue (美麗/美丽/mei⁵ lai⁶)
+sense: attractive
+am: ቆንጆ
+ar: جَمِيل; مَلِيح
+arz: جميل
+bg: краси́в; прекра́сен; ху́бав
+bn: সুন্দর; খুবসুরত; হাসিন
+ca: bell; bella; formós; formósa; bonic; bonica
+cmn: 漂亮; 美; 好看; 美麗 /美丽
+cs: krásný; pěkný; sličný
+da: smuk
+de: schön
+el: ωραίος; όμορφος
+en: beautiful
+eo: bela
+es: hermoso; bello; lindo; guapo; bonito
+fi: kaunis
+fr: beau; belle
+globasa: meli
+glosa: kali; aglao; beli; formoso; hermoso; pulkri
+hi: ख़ूबसूरत; सुन्दर; हसीन; प्यारा
+hu: szép; gyönyörű
+ia: belle
+id: indah; cantik; ayu; molek; cakep
+io: bela
+it: bello; bella; affascinante; incantevole; meraviglioso
+ja: 美しい; 綺麗; 素敵
+ko: 아름답다; 예쁘다
+lidepla: jamile
+ms: cantik; indah; molek
+nl: mooi; schoon
+pl: piękny; fajny
+pt: belo; bela; bonito; bonita; lindo; linda
+ro: frumos; frumoasă; mușat
+ru: краси́вый; прекра́сный; приго́жий
+sv: fin; vacker; skön
+sw: zuri
+ta: அழகிய
+te: అందమైన; చక్కని
+th: สุนทร; สวย; งาม
+tl: maganda
+tr: güzel
+uk: вродли́вий; краси́вий; га́рний; хоро́ший; фа́йний; кра́сний
+ur: خُوبْصُورَت; سُنْدَر; حَسِین; پْیارا; قَشَن٘گ; زیبا
+vi: đẹp; xinh đẹp
+yue: 靚 /靓; 好睇; 漂亮; 美麗 /美丽
 
 word: mesa
 class: noun
@@ -3908,6 +4496,57 @@ ur: میرا
 vi: của tôi; tôi
 yue: 我嘅; 我的
 
+word: milko
+class: noun
+infl: globasa (milko); de (Milch); en (milk); ja (ミルク/miruku); ko (밀크/milkeu); lidepla (milka); ru (молоко́/molokó)
+sense: liquid
+am: ወተት
+ar: حَلِيب; لَبَن
+arz: لبن
+bg: мля́ко
+bn: দুধ
+ca: llet
+cmn: 奶; 乳; 乳汁; 牛乳
+cs: mléko
+da: mælk
+de: Milch
+el: γάλα
+en: milk
+eo: lakto
+es: leche
+fi: maito
+fr: lait
+globasa: milko
+glosa: lakti
+ha: madara; nono
+hi: दूध; शीर
+hu: tej
+ia: lacte
+id: susu
+io: lakto
+it: latte
+ja: 乳; 乳汁; ミルク; 牛乳
+ko: 젖; 유즙; 밀크; 우유
+lidepla: milka
+ms: susu
+nl: melk
+pl: mleko
+pt: leite
+ro: lapte
+ru: молоко́
+sv: mjölk
+sw: maziwa
+ta: பால்
+te: పాలు; క్షీరము
+th: น้ำนม; นม
+tl: gatas
+tpi: susu
+tr: süt
+uk: молоко́
+ur: دُودھ; شِیر
+vi: sữa
+yue: 奶; 乳
+
 word: monti
 class: noun
 infl: glosa (monti); en (mountain); es (montaña, monte); fr (montagne, mont); lidepla (monta)
@@ -4009,6 +4648,55 @@ uk: рот
 ur: مُن٘ہ; مُکھ
 vi: miệng; mồm
 yue: 口; 嘴
+
+word: murache
+class: noun
+infl: globasa (murace); fa (مورچه/murče, مور/mur); ru (мураве́й/muravéj)
+sense: insect
+am: ጉንዳን
+ar: نَمْل; نَمْلَة; شَيْصَبَان
+bg: мра́вка; мравия́; мра́ва
+bn: পিঁপড়া
+ca: formiga
+cmn: 螞蟻 /蚂蚁
+cs: mravenec
+da: myre
+de: Ameise
+el: μυρμήγκι
+en: ant
+eo: formiko
+es: hormiga; himenóptero
+fa: مورچه; مور
+fi: muurahainen
+fr: fourmi
+globasa: murace
+glosa: formika; mirmeko
+ha: gara
+hi: चींटी; चिऊँटी
+hu: hangya
+ia: formica
+id: semut
+it: formica
+ja: 蟻; アリ
+ko: 개미
+lidepla: furmi
+ms: semut
+nl: mier
+pl: mrówka
+pt: formiga
+ro: furnică
+ru: мураве́й
+sv: myra; pissmyra
+sw: sisimizi; siafu
+ta: எறும்பு
+te: చీమ
+th: มด
+tl: langgam; guyam
+tr: karınca; karışka; komursga
+uk: мура́шка; мура́ха
+ur: چیونٹی
+vi: kiến
+yue: 螞蟻 /蚂蚁; 蟻 /蚁
 
 word: na
 class: particle
@@ -4458,6 +5146,57 @@ uk: наш
 ur: ہمارا
 vi: của chúng tôi
 yue: 我哋嘅
+
+word: nyan
+class: noun
+infl: globasa (nyan); cmn (年/nián); de (Jahr); fr (an); ko (년/nyeon, 연/yeon); lidepla (yar); vi (năm); yue (年/nin⁴)
+sense: time it takes for the Earth to complete one revolution around the Sun
+am: አመት
+ar: أَعْوَام; سَنَوَات; عَام; سَنَة
+bg: годи́на
+bn: সাল; বছর; সন
+ca: any
+cmn: 年
+cs: rok
+da: år
+de: Jahr
+el: χρόνος; χρονιά; έτος
+en: year
+eo: jaro
+es: año
+fa: سَال; سال
+fi: vuosi
+fr: année; an
+globasa: nyan
+glosa: anua; eto
+ha: shekara
+hi: साल; वर्ष; संवत्सर
+hu: év
+ia: anno
+id: tahun
+io: yaro
+it: anno
+ja: 年
+ko: 년; 연; 해
+lidepla: yar
+ms: tahun; sanah; warsa
+nl: jaar
+pl: rok
+pt: ano
+ro: an
+ru: год; лет; ле́то; годи́на
+sv: år
+sw: mwaka
+ta: ஆண்டு; வருடம்; வருஷம்; வர்ஷம்; யாண்டு
+te: సంవత్సరము
+th: ปี
+tl: taon
+tpi: yia
+tr: yıl; sene
+uk: рік
+ur: سال; برس
+vi: năm
+yue: 年
 
 word: oke
 class: adj
@@ -5095,6 +5834,57 @@ tl: tunay
 tr: doğru; hakiki; gerçek
 uk: спра́вжній; ді́йсний; і́стинний; реа́льний
 vi: thật; thiệt; thực; thật sự; thực tế; có thật
+
+word: rega
+class: noun
+infl: lidepla (rega); bn (রাজা/raja); es (rey, reina); fr (roi, reine); glosa (regi); hi (राजा/rājā, बेगम/begam); id (raja); ta (ராஜா/rājā); tl (reyna)
+sense: ruler | monarch | a male of a royal family who is the supreme ruler of his nation | female monarch
+am: ንጉሥ; ንጉስ; ንግሥት
+ar: عَاهِل; مَلِك; سُلْطَان; مَلِكَة
+arz: ملك
+bg: мона́рх; сувере́н; повели́тел; цар; крал; крали́ца; цари́ца
+bn: সম্রাট; সম্রাজ্ঞী; রাজা; বাদশাহ; সুলতান; তাজদার; রাণী; শাহবানু
+ca: monarca; sobirà; rei; reina
+cmn: 君主; 君王; 國王 /国王; 王; 女王; 女皇; 王后
+cs: panovník; monarcha; vládce; suverén; král; královna
+da: monark; hersker; suveræn; konge; kong; dronning
+de: Monarch; Monarchin; Fürst; Souverän; Herrscher; König; Königin
+el: μονάρχης; ηγεμόνας; βασιλιάς; βασίλισσα
+en: monarch; sovereign; king; queen
+eo: monarĥo; monarko; suvereno; reĝo; reĝino
+es: monarca; soberano; coya; rey; reina
+fa: مونارک; پادِشاه; پادشاه; مَلَکه; مَلِکَه; مَلِکِه; شَهْبانو
+fi: monarkki; hallitsija; kuningas; kuningatar
+fr: monarque; souverain; roi; reine
+globasa: wangu
+glosa: regi
+ha: sarki; sarauniya
+hi: राजा; रानी; बेगम; मलिका; राणी; राज्ञी; महारानी
+hu: uralkodó; egyeduralkodó; fejedelem; monarcha; király; királynő
+ia: monarcha; soverano; rege; regina
+id: raja; penguasa; ratu; rani
+io: monarko; rejo; rejulo; rejino
+it: monarca; sovrano; re; regina
+ja: 君主; 王; 国王; 王様; 大君; 女王; クイーン
+ko: 군주; 군왕; 임금; 왕; 국왕; 여왕; 녀왕; 황후
+lidepla: rega; monarka
+ms: ratu; raja; permaisuri; pemerintah; datu; perabu; syah; malik; padsyah; narapati; rani; suri
+nl: monarch; vorst; soeverein; koning; koningin
+pl: monarcha; monarchini; suweren; władca; król; królowa
+pt: monarca; suserano; soberano; soberana; rei; rainha
+ro: monarh; монарх; suveran; rege; regină
+ru: мона́рх; сувере́н; госуда́рь; госуда́рыня; власти́тель; власти́тельница; влады́ка; повели́тель; повели́тельница; коро́ль; царь; князь; короле́ва; цари́ца
+sv: monark; regent; suverän; kung; drott; drottning
+sw: mfalme; malkia
+ta: அரசன்; மன்னன்; ராஜா; கோ; அரசி; ராணி
+te: రాజు; రాణి
+th: กษัตริย์; ราชา; ราช; ราชัน; ราชินี; พระราชินี
+tl: monarka; higpuno; hari; reyna; haribini; hariginang
+tr: hakan; hükümdar; monark; kral; padişah; ece; kraliçe
+uk: мона́рх; монархиня; сувере́н; госуда́р; волода́р; влада́р; госпо́дар; влади́ка; коро́ль; цар; короле́ва; цари́ця
+ur: راجا; بَادْشَاہ; مَلِکَہ; رانی; مَہَارَانی
+vi: vua; quân chủ; quốc vương; nữ hoàng; bà hoàng; bà chúa; nữ vương
+yue: 國王 /国王; 王; 王后; 女王
 
 word: rude
 class: adj
@@ -5819,6 +6609,53 @@ ur: اگر; یدی
 vi: nếu (mà); hễ (mà)
 yue: 要是; 如果
 
+word: sika
+class: adj
+infl: glosa (sika); es (seco); fr (sec); hi (सूखा/sūkhā)
+sense: free from liquid or moisture
+am: ደረቅ
+ar: جَاف
+bg: сух
+ca: eixut; sec
+cmn: 乾 /干; 乾燥 /干燥
+cs: suchý
+da: tør
+de: trocken
+el: στεγνός; ξηρός
+en: dry
+eo: seka
+es: seco
+fa: خشک
+fi: kuiva
+fr: sec
+globasa: suhe
+glosa: sika; aridi; azale; kapiro; toridi; xero
+hi: सूखा
+hu: száraz
+id: kering
+io: sika
+it: secco; asciutto
+ja: 乾いた
+ko: 마른; 건
+lidepla: suhe
+ms: kering
+nl: droog
+pl: suchy
+pt: seco
+ro: uscat; sec
+ru: сухо́й
+sv: torr
+sw: -kavu
+te: పొడి
+th: แห้ง
+tl: tuyo
+tpi: drai
+tr: kuru
+uk: сухи́й
+ur: سوکھا
+vi: khô
+yue: 乾 /干
+
 word: simple
 class: adj
 infl: es (simple); fr (simple); lidepla (simple); tl (simple); de (simpel); en (simple); glosa (simpli)
@@ -6250,6 +7087,56 @@ tr: onun
 uk: його́; свій; її́
 ur: اس کا; ان کا
 vi: của anh ấy; của nó; của hắn
+
+word: tami
+class: adj
+infl: globasa (tami); sw (tamu); te (తియ్యని/tiyyani); tl (matamis); tr (tatlı); yue (甜/tim⁴)
+sense: having a pleasant taste
+am: ጣፋጭ
+ar: حُلْو
+arz: سكري
+bg: сла́дък
+bn: মিঠা; মিষ্টি
+ca: dolç
+cmn: 甜
+cs: sladký
+da: sød
+de: süß; lecker
+el: γλυκός
+en: sweet
+eo: dolĉa
+es: dulce; rico; sabroso; gustoso
+fa: شیرین
+fi: makea
+fr: doux
+globasa: tami
+glosa: gluko; sukro; dulce; suavi
+ha: mai dàɗi
+hi: मीठा
+hu: édes
+id: manis
+io: dolca
+it: dolce
+ja: 甘い
+ko: 달콤하다; 달다
+lidepla: dolche
+ms: manis
+nl: zoet
+pl: słodki
+pt: doce
+ro: dulce
+ru: сла́дкий
+sv: söt
+sw: tamu
+ta: இனிப்பான; இனிக்க
+te: తియ్య; తీయ; తియ్యని
+th: หวาน
+tl: matamis
+tr: tatlı
+uk: соло́дкий
+ur: میٹھا
+vi: ngọt
+yue: 甜
 
 word: tem
 class: noun

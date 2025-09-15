@@ -1,0 +1,20 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+grass,ground cover plant,,gras,"gra, herba ",herba
+milk,liquid,"Skip:milka (we prefer the very similar form “milko”, since the related Russian candidate ends in -o, while none of the related candidates ends in -a)",milko,lakti,milka
+coffee,beverage,,kafe,kafa,kahwa
+bee,insect,"Skip:mifen (not ideal, since the related chinese word ends in -ng instead of -n); Choose:bine (related to the Globasa candidate “beze”, which would otherwise be chosen but is an onomatopoeia, and to the two top-ranking candidates ""bi"", which are too short to be selected)",beze,"apis, melisa ",mifen
+spider,arthropod,Syllables:3,kumi,"arakni, aranea ",spaida
+leaf,part of a plant,,dahun,folia,lif
+"monarch, sovereign, king, queen",ruler | monarch | a male of a royal family who is the supreme ruler of his nation | female monarch ,Syllables:2; Skip:rani (only used for ‘queen’); Skip:raja (only used for ‘king’); Skip:regi (the related Lidepla candidate is more gender-neutral in the related words) ,wangu,regi,"rega, monarka"
+he- (prefix marking individuals as male),prefix for a male,,man-,an-,man-
+king,a male of a royal family who is the supreme ruler of his nation,Compound:an-rega,manwangu (man+wangu),"an-regi, basili",rego
+"she-, -ess (prefix marking individuals as female)",the prefix she- for a female animal or a woman | female suffix,Set class:prefix,fem-,fe-,gin-
+queen,female monarch,Compound:gin-rega,femwangu (fem+wangu),"fe-regi, basilisa",regina
+ant,insect,,murace,"formika, mirmeko",furmi
+year,time it takes for the Earth to complete one revolution around the Sun,,nyan,"anua, eto",yar
+sea,body of water,,bahari,"mari, pelago, talasi",mar
+beautiful,attractive,,meli,"kali, aglao, beli, formoso, hermoso, pulkri ",jamile
+dry,free from liquid or moisture,,suhe,"sika, aridi, azale, kapiro, toridi, xero",suhe
+sweet,having a pleasant taste,,tami,"gluko, sukro, dulce, suavi",dolche
+blind,unable to see,,okonenabil (oko+nen+abil),"no-vide, ceko, tiflo",blinde
+heavy,having great weight,,wazenpul (wazen+pul),"bari, masi, pesanto, ponderoso ",grave
