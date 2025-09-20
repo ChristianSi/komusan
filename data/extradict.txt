@@ -279,6 +279,11 @@ en: nose [nəʊ̯z]
 es: nariz; napia; napias; naso
 fa: بِینِی [bīnī]; بینی [bini]; دَماغ [damâġ]
 
+sense: quantity
+en: number [ˈnʌ̟mbɚ(ɹ)]
+ja: 数 [kazu]
+sw: idadi; hesabu
+
 sense: possessive genitive: belonging to
 en: of [ɒv]
 id: (possessor is simply placed after the possession)

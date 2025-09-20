@@ -2734,6 +2734,142 @@ ur: سِر; سَر
 vi: đầu
 yue: 頭 /头
 
+word: kaus
+class: prep
+infl: globasa (kos); glosa (kausa)
+sense: on account of, by reason of, for the purpose of | caused by
+ar: بِسَبَب; بِحُكْم; بِهَدَفّ; بِفَضْل; عَنّ طَرِيق; مِنْ جَرَّاء; عَلَى خَلْفِيَّة
+arz: بسبب
+bg: поради; заради; поради́; благодаре́ние на
+bn: জন্য
+ca: per culpa de; gràcies a; degut a
+cmn: 由於 /由于; 基於 /基于; 為了 /为了; 因為 /因为
+cs: kvůli
+da: på grund af
+de: wegen; vor; aufgrund
+el: λόγω; εξαιτίας
+en: because of; due to
+eo: pro
+es: a causa de; debido a; por mor de; a raíz de
+fa: به خاطر
+fi: takia; vuoksi; johdosta; johtuen
+fr: à cause de; grâce à; en raison de
+globasa: kos; fe kosa fe
+glosa: kausa
+hi: के कारण; की वजह से
+hu: miatt; következtében
+id: karena; lantaran
+io: pro
+it: a causa di; per via di
+ja: ...のせいで; のために; …のせいで; …のために
+ko: ... 때문에
+lidepla: por
+nl: wegens; vanwege; door; veroorzaakt door; als gevolg van
+pl: z powodu; ze względu na; przez
+pt: por causa de; devido a; devido
+ro: din cauza; din motive de; pentru; datorită
+ru: из-за; всле́дствие; ра́ди; и́з-за; благодаря́
+sv: på grund av
+sw: kwa ajili ya; kwa sababu ya
+ta: பொருட்டு; அதனால்; ஆதலால்; ஏனென்றால்; ஏனெனில்
+te: వల్ల
+th: เนื่องจาก
+tl: dahil sa
+tr: -dan dolayı; -den dolayı; -tan dolayı; -ten dolayı; yüzünden; ötürü; -den ötürü
+uk: з-за; і́з-за; че́рез; вна́слідок; завдяки́
+vi: bởi; do; vì; nhờ; tại
+
+word: kaus ke
+class: conj
+sense: by or for the cause that; on this account that; for the reason that | because | considering that, because | because
+ar: لِأَنَّ
+arz: علشان; عشان
+bg: защо́то; тъй като́; поне́же; тъй като
+bn: কারণ; কেননা
+ca: perquè; ja que; car; puix; puix que; per; com que; atès que
+cmn: 因為 /因为; 由於 /由于; 因; 為著 /为著; 为着
+cs: protože; neboť; jelikož; poněvadž; neb
+da: fordi; eftersom; da; for; thi; siden; idet
+de: weil; denn; da
+el: διότι; επειδή; γιατί; αφού; μια και
+en: because; for; as; since
+eo: ĉar
+es: porque; ya que; por cuanto; pues; como; puesto que; supuesto que; debido a que; por; dado que; visto que
+fa: برای; برای اینکه; از آنجایی که
+fi: koska; siksi että; sillä
+fr: parce que; car; à cause que; puisque; comme; vu que; étant donné que
+globasa: koski (kos+ki)
+glosa: ka; kausa
+hi: क्योंकि
+hu: mert; mivel; minthogy; ugyanis
+ia: proque; nam; viste que
+id: karena; sebab
+io: pro ke; nam
+it: perché; poiché; siccome; giacché; dacché; visto che; dato che
+ja: なぜなら; だって; から; ので; ために; ...のため; …ので; …ため; ……により; …によって; …から
+ko: 왜냐하면; 때문에; ...때문에
+lidepla: bay-kausa; bikos
+ms: kerana; sebab; karena; lantaran
+nl: omdat; aangezien; daar; want
+pl: bo; ponieważ; dlatego że; gdyż; albowiem; bowiem; wszak; skoro
+pt: porque; já que; visto que; pois; uma vez que; como
+ro: pentru că; din cauză că; datorită; deoarece; căci; fiindcă
+ru: потому́ что; та́к как; поско́льку; ведь; и́бо; и́з-за того́, что; так как
+sv: därför att; eftersom; ty; då
+sw: kwa sababu; kwani; maana
+te: కోసము
+th: เพราะ; เพราะว่า; เพื่อ; เนื่องจาก
+tl: dahil; kasi; palibhasa; sapagkat
+tr: çünkü; için; -den
+uk: бо; тому́; тому́ що; та́к як; оскі́льки; а́дже; внаслі́док; унаслі́док; че́рез те, що; так як
+ur: کْیون٘کِہ; چونکہ
+vi: tại vì; vì; bởi vì; cho
+yue: 因為 /因为
+
+word: kaus-ka
+class: noun
+sense: that which causes: a cause (reason) | motive for an action or determination (reason) | source or reason of an event or action (cause)
+ar: سَبَب
+arz: سبب
+bg: причи́на; основа́ние; моти́в; по́вод
+bn: কারণ
+ca: causa; raó; motiu
+cmn: 理由; 原因
+cs: příčina; důvod
+da: årsag; grund
+de: Grund; Ursache; Anlass
+el: λόγος; αιτία
+en: reason; cause
+eo: kialo; kaŭzo
+es: razón; causa
+fa: سبب
+fi: syy; juuri; lähde
+fr: raison; cause
+globasa: seba
+glosa: kausa
+hi: कारण; वजह; सबब; बाइस
+hu: ok; indíték
+id: alasan; sebab; motif; kausa; penyebab
+it: ragione; causa; perché; motivo
+ja: 理由; 原因
+ko: 이유; 리유; 원인
+lidepla: kausa
+ms: sebab; alasan; pasal
+nl: oorzaak; reden; grond; aanleiding
+pl: przyczyna; powód
+pt: causa; motivo; razão
+ro: cauză; pricină; motiv; rațiune
+ru: причи́на; резо́н; моти́в; по́вод; основа́ние
+sv: anledning; skäl; orsak; grund; motiv
+ta: காரணம்
+th: เหตุผล; สาเหตุ; เหตุ
+tl: rason; kawsa
+tr: neden; sebep
+uk: причи́на
+ur: وَجَہ; وَجَہْ; سَبَب; باعِث; وجہ; سبب; باعث
+vi: lý do; nguyên nhân
+yue: 理由; 原因; 道理
+
 word: ke
 class: conj
 infl: es (que); fa (که/ke); fr (que); glosa (ke); lidepla (ke); globasa (ki); hi (कि/ki); tr (ki)
@@ -2920,6 +3056,195 @@ uk: що
 ur: کْیا
 vi: gì; 之
 yue: 乜嘢; 咩; 乜
+
+word: kel-kaus
+class: adv
+sense: for what reason | why
+am: ለምን
+ar: لِمَاذَا; لِمَ
+arz: ليه
+bg: защо́; защо; как така
+bn: কেন
+ca: per què; com és?; com així?
+cmn: 為甚麼 /為什麼 /为什么; 怎麼 /怎么; 為何 /为何; 為什麼 /为什么
+cs: proč; jak to, že; jak to přijde, že
+da: hvorfor
+de: warum; wieso; weshalb; weswegen; wie kommt es dass
+el: γιατί; πώς κι έτσι
+en: why; how come
+eo: kial
+es: por qué; ¿cómo es que; ¿por qué
+fa: چرا; برای چی; برای چه
+fi: miksi; mitä varten; minkä tähden; minkä vuoksi; minkä takia
+fr: pourquoi; comment se fait-il que; comment se fait-ce que
+globasa: keseba (ke+seba)
+glosa: qo-ka
+hi: क्यों; क्यूँ
+hu: miért; hogyhogy
+id: mengapa; kenapa
+io: pro quo
+it: perché; come mai
+ja: 何故; なんで; どうして; 何で
+ko: 왜
+lidepla: way
+ms: mengapa; kenapa; kena apa; apa kena; apa pasal
+nl: waarom; hoe komt het dat
+pl: dlaczego; czemu; po co; na co; jakże; jak to
+pt: por que; por quê; como
+ro: de ce; pentru ce; cum se face; cum de
+ru: почему́; заче́м; отчего́; почему́ же; почему́ э́то; как так; как это так
+sv: varför; hur kommer det sig
+sw: kwaje; mbona
+ta: ஏன்; எதற்கு
+te: ఎందుకు
+th: ทำไม; ไฉน
+tl: bakit
+tpi: watpo
+tr: neden; niçin; niye
+uk: чому́; чом; як так
+ur: کیوں; کاہے
+vi: sao; vì sao; tại sao; tai sao
+yue: 點解 /点解; 為乜 /为乜; 做乜; 做乜嘢; 做咩
+
+word: kel-lok
+class: adv
+sense: at what place; to what place; from what place
+ar: أَيْن
+bg: къде́; откъде́
+bn: কোথায়; যেখানে
+ca: on
+cmn: 哪裡 /哪裏 /哪里; 哪兒 /哪儿; 哪; 何處 /何处
+cs: kde; odkud
+da: hvor
+el: πού
+en: where (in questions)
+eo: kie; kien; de kie
+es: dónde
+fa: کُجَا; کُجا; کو
+fi: missä
+fr: où
+globasa: keloka (ke+loka)
+glosa: qo-lo; ubi
+hi: कहाँ; किधर
+hu: hol
+ia: ubi
+id: ke mana; di mana
+io: ube
+it: dove
+ja: 何処; どこ; どうなる
+ko: 어디; 하처
+lidepla: wo; kwellok (kwel+lok)
+ms: di mana; ke mana; dari mana
+nl: waar
+pl: gdzie; skąd
+pt: onde
+ro: unde
+ru: где; отку́да
+sv: var
+sw: wapi
+te: ఎక్కడ
+th: ที่ไหน
+tl: saan
+tr: nerede; hani
+uk: де; зві́дки
+ur: کَہاں; کِدَھر
+vi: ở đâu
+yue: 哪裡 /哪裏 /哪里; 邊度 /边度; 邊處 /边处
+
+word: kel-ta
+class: pron
+sense: who? (interrogative pronoun)
+ar: مَن
+bg: кой
+bn: কে
+ca: qui
+cmn: 誰 /谁; 何人; 誰人 /谁人; 阿誰 /阿谁
+cs: kdo
+da: hvem
+de: wer
+el: ποιος
+en: who (in questions)
+eo: kiu
+es: quién; quiénes
+fa: کِی; کی
+fi: kuka; ken; ketkä
+fr: qui
+globasa: kete (ke+te)
+glosa: qo-pe
+ha: wā̀nē nḕ; wā̀cē cḕ
+hi: कौन
+hu: ki; kik
+ia: qui
+id: siapa
+io: qua; qui
+it: chi
+ja: 誰; だれ; どなた; どちらさま
+ko: 누구
+lidepla: hu
+ms: siapa
+nl: wie
+pcm: hú
+pl: kto
+pt: quem
+ro: cine
+ru: кто
+sv: vem; vilka
+ta: யார்; எவர்; எவன்
+te: ఎవరు
+th: ใคร
+tl: sino
+tpi: husat
+tr: kim
+uk: хто
+ur: کَون
+vi: ai
+yue: 邊個 /边个; 誰 /谁; 邊位 /边位; 乜誰 /乜谁; 何人; 誰人 /谁人; 阿誰 /阿谁
+
+word: kel-tem
+class: adv
+sense: at what time, as a direct question | at what time, as an indirect question | what time; which time
+ar: مَتَى
+bg: кога́
+bn: কখন; কবে
+ca: quan
+cmn: 甚麼時候 /什麼時候 /什么时候; 何時 /何时
+cs: kdy
+da: hvornår
+de: wann
+el: πότε
+en: when (in questions)
+eo: kiam
+es: cuándo; cuando
+fa: کی
+fi: milloin; koska; mistä lähtien
+fr: quand
+globasa: kewatu (ke+watu)
+glosa: qo-tem; qo-di; qo-horo; qando
+hi: कब
+hu: mikor; amikor
+id: kapan; bila
+io: kande
+it: quando
+ja: 何時; いつ
+ko: 언제
+lidepla: wen
+ms: bila; kapan
+nl: wanneer
+pl: kiedy; gdy
+pt: quando
+ro: când
+ru: когда́
+sv: när
+sw: lini
+ta: எப்பொழுது; எப்போது; எப்பொழுதிருந்து; எப்போதிலிருந்து
+te: ఎప్పుడు
+th: เมื่อไหร่; เมื่อไร; เมื่อใด
+tl: kailan; kung kailan
+tr: ne zaman
+uk: коли́
+ur: کب
+vi: khi nào; bao giờ
+yue: 幾時 /几时; 何時 /何时
 
 word: kitabu
 class: noun
