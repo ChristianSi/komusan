@@ -176,6 +176,9 @@ class VocBuilder:
         self.auxlangs: List[str] = []
         self.preferred_cand = -1
 
+        # Set of currently active fallback languages
+        self._active_fallbacks: set[str] = set()
+
         # For English (IPA): Combining tilde marks nasalization, so we change it to 'n');
         # remove other combining marks commonly used in IPA (inverted breve, bridge below,
         # bridge above, voiceless, syllabic)
@@ -198,18 +201,26 @@ class VocBuilder:
         sourcelang_list: List[str] = []
         main_to_fallbacks: dict[str, List[str]] = {}
         fallback_to_main: dict[str, str] = {}
-        sourcelang_dict: dict[str, str] = util.read_dict_from_csv_file(util.SOURCELANGS_FILE)
+        latin_main_set: set[str] = set()
+        latin_fallback_set: set[str] = set()
+        # Mapping from language codes to script
+        sourcelang_dict: dict[str, str] = util.read_dict_from_csv_file(
+            util.SOURCELANGS_FILE, converter=bu.extract_code_and_script)
 
-        # We only need the values (language codes), some of which still need to be split into
-        # main and fallback language (e.g. hi/ur)
-        for code in sourcelang_dict.values():
+        # Some language codes still need to be split into main and fallback language (e.g. hi/ur)
+        for code, script in sourcelang_dict.items():
             if '/' in code:
                 main, fallback = code.split('/')
                 sourcelang_list.append(main)
                 main_to_fallbacks[main] = [fallback]
                 fallback_to_main[fallback] = main
+                if script == 'Latin':
+                    latin_main_set.add(main)
+                    latin_fallback_set.add(fallback)
             else:
                 sourcelang_list.append(code)
+                if script == 'Latin':
+                    latin_main_set.add(code)
 
         for main, fallbacks in EXTRA_FALLBACKS.items():
             # Add extra fallback languages (some of which may be themselves slash-separated)
@@ -217,11 +228,21 @@ class VocBuilder:
             main_to_fallbacks[main] = fallbacks_split
             for fallback in fallbacks_split:
                 fallback_to_main[fallback] = main
+                # If the main language uses the Latin script, we assume the fallback does too
+                if main in latin_main_set:
+                    latin_fallback_set.add(fallback)
 
         # Init attributes
         self._sourcelang_list = sourcelang_list
         self._main_to_fallbacks = main_to_fallbacks
         self._fallback_to_main = fallback_to_main
+        self._latin_main_set = latin_main_set
+        self._latin_fallback_set = latin_fallback_set
+        ##print('Main source languages using the Latin alphabet: '
+        ##      + ', '.join(sorted(latin_main_set)))
+        ##print('Fallback source languages using the Latin alphabet: '
+        ##      + ', '.join(sorted(latin_fallback_set)))
+
         # Set of all typical source languages, including fallback languages and those
         # auxlangs used by default
         self._full_sourcelang_set = (set(sourcelang_list) | set(fallback_to_main)
@@ -665,10 +686,6 @@ class VocBuilder:
                 word = word[:-1]
 
             if conv_dict_name == 'lidepla':
-                # 'x' is pronounced 'gs' between vowels, 'ks' otherwise
-                word = re.sub(rf'([{bu.SIMPLE_VOWELS}])X([{bu.SIMPLE_VOWELS}])', r'\1gs\2', word)
-                word = word.replace('X', 'ks')
-
                 # If a word has at least three vowel letters (excluding words like "zoo"),
                 # doubled vowels represent a single stressed vowel sound
                 if bu.count_vowels_internal(word) >= 3:
@@ -1433,6 +1450,11 @@ class VocBuilder:
         """
         self.add_entries_to_dict([] if entry is None else [entry], export_needed)
 
+    @staticmethod
+    def protect_ch_sh(word: str) -> str:
+        """Convert 'ch' and 'sh' to upper case to protect them against seeming similar to c/s."""
+        return word.replace('ch', 'CH').replace('sh', 'SH')
+
     def combine_entry(self, cand: Candidate, entry: LineDict) -> LineDict:
         """Combine a candidate an entry into a unified entry.
 
@@ -1448,21 +1470,27 @@ class VocBuilder:
             # Will be empty (and is skipped) if the --word option is used
             first_set.add(cand.lang)
 
-        second_set = set(cand.related_cands.keys()) - first_set
+        infl_set = set(cand.related_cands.keys())
+        second_set = infl_set - first_set
         extra_originals: dict[str, str] = {cand.lang: cand.show_original}
 
-        # Check if English/French/Spanish should be added to the list of influences based on
-        # the spelling – e.g. 'relasi' is clearly related to 'relation', but because the
-        # English pronunciation is so different, the latter is nevertheless not listed in the
-        # related_cands; likewise for 'historia' and French 'histoire' or for '-aje' in
-        # Komusan and Spanish
-        this_word = cand.export_word().lower()
-        for lang_code in ('en', 'es', 'fr'):
-            if lang_code in first_set or lang_code in second_set:
+        # Check if languages written in the Latin alphabet should be added to the list of
+        # influences based on the spelling – e.g. 'relasi' is clearly related to 'relation',
+        # but because the English pronunciation is so different, the latter is nevertheless not
+        # listed in the related_cands; likewise for 'historia' and French 'histoire' or for
+        # '-aje' in Komusan and Spanish. However, we convert 'ch' and 'sh' to upper case since
+        # otherwise e.g. 'c' pronounced /k/ or /s/ would seem similar to 'ch' /tS/ which it
+        # really isn't.
+        this_word = self.protect_ch_sh(cand.export_word().lower())
+        lang_codes_to_check = self._active_fallbacks & self._latin_fallback_set
+        lang_codes_to_check |= self._latin_main_set
+
+        for lang_code in lang_codes_to_check:
+            if lang_code in infl_set:
                 continue
-            enfr_words = util.split_on_commas(entry.get(lang_code, '').lower())
+            enfr_words = util.split_on_semicolons(entry.get(lang_code, ''))
             for enfr_word in enfr_words:
-                if self.calc_distance(this_word, enfr_word)[1]:
+                if self.calc_distance(this_word, self.protect_ch_sh(enfr_word.lower()))[1]:
                     second_set.add(lang_code)
                     extra_originals[lang_code] = enfr_word
                     break
@@ -2096,8 +2124,10 @@ class VocBuilder:
     def build_candidates(self, entry: LineDict, constraints: bu.Constraints | None = None
                          ) -> dict[str, Sequence[Candidate]]:
         """Build and return candidate words for each languages."""
+        self._active_fallbacks.clear()
         candidates: dict[str, Sequence[Candidate]] = {}
         lang_codes = self._sourcelang_list
+
         if self.args.consider:
             extra_lang_codes = util.split_on_commas(self.args.consider)
             LOG.info(f'Also considering candidates from {", ".join(extra_lang_codes)} as '
@@ -2120,6 +2150,7 @@ class VocBuilder:
                     if cands:
                         LOG.info(f'Using fallback candidate(s) from {fallback_code}')
                         candidates[fallback_code] = cands
+                        self._active_fallbacks.add(fallback_code)
                         break
         if constraints and constraints.added:
             self.add_specified_word(candidates, constraints.added, 'Add: constraint')

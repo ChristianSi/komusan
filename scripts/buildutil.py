@@ -820,3 +820,15 @@ def extract_phonetic_conversion_rule(row: Sequence[str], filename: str) -> Tuple
         if rawpenalty != '1':
             LOG.warn(f'Unexpected penalty in {filename}: "{rawpenalty}" instead of "0" or "1".')
     return inchar, Conversion(outchar, penalty)
+
+
+def extract_code_and_script(row: Sequence[str], filename: str) -> Tuple[str, str]:
+    """Extract ISO code and script (e.g. 'Latin') from the source languages CSV.
+
+    ISO code is read from the 2nd column, script from the 6th one.
+    If a row doesn't have exactly 6 columns, a warning is logged.
+    """
+    if len(row) != 6:
+        LOG.warn(f'Error parsing {filename}: Row "{",".join(row)}" has {len(row)} fields '
+                 'instead of 6.')
+    return (row[1], row[5])
