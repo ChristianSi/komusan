@@ -137,6 +137,10 @@ sense: used to connect two similar words, phrases, et cetera
 en: and [ænd]
 es: y; e
 
+sense: fruit of Malus domestica
+en: apple [ˈæp(ə)l]
+es: manzana; poma
+
 sense: intransitive, non-copulative (usually literary in English): to exist; to have real existence
 en: be [biː]
 es: ser; existir
@@ -177,6 +181,12 @@ en: blue [bluː]
 es: azul; celeste
 vi: xanh; xanh lam; màu xanh nước biển
 
+sense: male sibling
+en: brother [ˈbɹʌðɚ]
+id: saudara; kakak laki-laki; abang; adik laki-laki
+tl: kapatid na lalaki; kuya; diko; sangko
+yue: 哥哥 [go1-4 go1]; 弟弟 [dai6-4 dai6-2]; 兄弟 [hing¹ dai⁶]; 大佬 [daai⁶ lou²]; 細佬 /细佬 [sai³ lou²]; 阿哥 [aa³ go¹]
+
 sense: domestic species
 en: cat [kæt]
 ja: 猫 [neko]; 家猫 [ieneko]
@@ -207,9 +217,22 @@ sense: approximately spherical or ellipsoidal body produced by birds, insects, r
 en: egg [ɛɡ]
 ta: முட்டை [muṭṭai]
 
+sense: mammal
+de: Elefant
+en: elephant [ˈɛlɪfənt]
+fr: éléphant; éléphante
+
 sense: directed at, intended to belong to
 en: for [fɔː(ɹ)]
 ko: 를 위해서 [-reul wihaeseo]; 을 위해서 [-eul wihaeseo]
+
+sense: the cardinal number 4
+en: four [foɹ]
+hi: चार [cār]; चहार [cahār]
+
+sense: Vulpes
+en: fox [fɒks]
+de: Fuchs
 
 sense: acting in the interest of good; ethical good intentions
 en: good [ɡʊd]
@@ -218,6 +241,10 @@ es: bueno; buena; buen
 sense: pleasant; enjoyable
 de: gut; angenehm
 en: good [ɡʊd]
+
+sense: of a color somewhere between white and black, as the ash of an ember
+en: gray [ɡɹeɪ]
+vi: xám; màu xám; hoa râm
 
 sense: to possess
 en: have [hæv]
@@ -304,6 +331,17 @@ sense: body of water
 en: sea [siː]
 fa: دَرْیا [daryâ]; بَحْر [bahr]
 tpi: solwara
+
+sense: person who shares same parents
+en: sibling [ˈsɪb.lɪŋ]
+fr: frère et sœur; adelphe; fratrie; frères et sœurs; frœur
+ja: 兄弟 [kyōdai]; 兄弟姉妹 [kyōdai shimai], 同胞 [dōhō], 同胞 [harakara]
+ru: брат [brat]; сестра́ [sestrá]
+
+sense: woman or girl having the same parents
+en: sister [ˈsɪs.tɚ]
+tr: abla; kız kardeş; bacı
+yue: 姐姐 [ze2-4 ze2-1]; 家姐 [gaa1 ze2-1]; 妹妹 [mui6-4 mui6-2]; 姊妹 [zi² mui⁶]
 
 sense: not large
 fr: petit; minuscule; vieille; conseil; couilles
