@@ -1,0 +1,6 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+number,quantity | abstract entity used to describe quantity | mathematics: number,"Add:num (shortened from Glosa’s and Globasa’s best ranked auxlang candidates to better fit the pattern so for adapted for table words, and to move the stress on the first syllable, where most of the related candidates have it)",numer,"numera, aritme, cifra","numer, namba "
+how many,what number,Compound:kel-num (as in Globasa),kenumer (ke+numer),qanto,kwanto
+"quantity, amount","fundamental, generic term used when referring to the measurement | quantity::indefinite amount of something | total or sum of items | amount::quantity or volume",Syllables:2,kwanti,"qantita, amonta",kwantitaa
+how much,what quantity,Compound:kel-kwanti (as in Globasa),kekwanti,qanto,kwanto
+whose (in questions) ,of whom (interrogative) ,Compound:kel-su,kesu (ke+su),"de qi, qo-pe",hu-ney
