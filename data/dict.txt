@@ -989,6 +989,46 @@ ur: اَچّھا; بَھلا
 vi: tốt; hay; tuyệt
 yue: 好; 良
 
+word: bon-ge
+class: adv
+sense: accurately; competently | to a significant degree | completely; fully
+ar: حَسَنًا; بِخَيْر; جَيِّدًا
+bg: добре́; доста́тъчно; значи́телно; съвсе́м; напъ́лно
+bn: ভাল
+ca: bé; ben
+cmn: 好
+cs: dobře
+da: godt; vel; vel-; gennem-
+de: gut; ganz
+el: καλά; καλώς; αρκετά; εντελώς; πλήρως
+en: well (adverb)
+eo: bele; bone
+es: bien; totalmente; completamente
+fa: خوب; بَخُوبِی; بِخوبی
+fi: hyvin; kunnolla
+fr: bien
+hi: अच्छा; ख़ूब
+hu: jól; rendben; bőven; jócskán; jóval; sokkal; alaposan; teljesen
+ia: ben
+io: bone
+it: bene
+ja: 良く
+ko: 잘; 되게; 어느 정도; 꽤
+ms: dengan baik
+nl: goed
+pl: dobrze
+pt: bem; apuradamente; completamente
+ro: bine
+ru: хорошо́; как сле́дует
+sv: väl; bra; väl-; genom-
+th: ดี
+tl: mabuti; magaling
+tpi: gut
+tr: iyi; güzel; epey; epeyi; epeyce; epeyice; oldukça; hayli; iyice; güzelce; adamakıllı
+uk: до́бре; га́рно
+ur: اَچّھا
+vi: tốt; hay; khá
+
 word: dai
 class: adj
 infl: globasa (day); yue (大/daai⁶); cmn (大/dà); id (raya); th (ใหญ่/yài)
@@ -1732,6 +1772,56 @@ ur: لوہا; آہن
 vi: sắt
 yue: 鐵 /铁
 
+word: fikir
+class: verb
+infl: globasa (fikir); id (pikir, fikir, pikiran); tr (fikir); ar (فَكَّرَ/fakkara, فِكْر/fikr, فِكْرَة/fikra, تَفْكِير/tafkīr); sw (-fikiri, fikira)
+sense: communicate to oneself in one’s mind (think) | to ponder, to go over in one's head (think) | representation created in the mind (thought) | process (thought) | to think deeply (ponder)
+ar: فَكَّرَ; فَكَرَ; تَفَكَّرَ; فِكْر; فِكْرَة; تَفَكُّر; تَفْكِير
+bg: ми́сля; размишля́вам; разми́слям; разми́сля; ми́съл; иде́я; ра́змисъл; ми́слене
+bn: ভাবা; চিন্তা
+ca: pensar; pensament; ponderar
+cmn: 想; 思考; 念; 思想; 思維 /思维; 想法; 考慮 /考虑; 琢磨; 沈思; 沉思
+cs: přemýšlet; myslet; myšlenka; myšlení
+da: tænke; reflektere; tanke; tankevirksomhed; gruble; fundere
+de: denken; nachdenken; überlegen; Gedanke; Nachdenken; grübeln
+el: σκέφτομαι; σκέψη
+en: think; thought; ponder
+eo: pensi; penso; penseco; pensado
+es: pensar; pensamiento; considerar; meditar; cavilar; discurrir
+fa: با خود اَنْدیشیدَن; فِکْر کَرْدَن; اَنْدیشیدَن
+fi: ajatella; pohtia; harkita; miettiä; ajatus; idea; ajattelu
+fr: penser à; réfléchir à; songer à; ruminer; penser; idée; pensée; songer; réfléchir
+globasa: fikir
+glosa: pensi
+ha: tunani
+hi: सोचना; विचारना; विचार करना; विचार; चिंतन; मनन
+hu: gondolkodik; gondol; gondolat; gondolkodás; mereng; elmereng; tűnődik; eltűnődik; elmélkedik; mérlegel
+ia: pensata
+id: pikir; fikir; pikiran
+io: penso; ponderar; meditar; reflektar; konsiderar
+it: pensare; riflettere; rimuginare; cogitare; ponderare; idea; pensata; pensiero
+ja: 考える; 思考する; 思索する; 考え; 意見; 考慮; 思考; 思索; 意図; 思考力; 熟考する
+ko: 생각하다; 사고하다; 숙고하다; 생각; 사고; 고려; 사색
+lidepla: dumi
+ms: fikir; fikiran; pemikiran; merenungi
+nl: denken; nadenken; peinzen; overdenken; gedachte; idee; overwegen; overpeinzen
+pl: myśleć; pomyśleć; zastanawiać się; myśl; pomysł; dumać; rozważać; rozważyć; rozmyślać; namyślać się; namyślić się
+pt: pensar; refletir; pensamento; ideia; ponderar
+ro: gândi; cugeta; gând; cuget; gândire; cugetare
+ru: ду́мать; поду́мать; мы́слить; обду́мывать; обду́мать; размышля́ть; размы́слить; мысль; ду́ма; иде́я; мышле́ние; рассужде́ние; размышле́ние; заду́мываться; заду́маться
+sv: tänka; tänka över; tanke; fundering; fundera; begrunda; grunna
+sw: -fikiri; dhana; wazo; gezo; fikira
+ta: யோசி; நினை; எண்ணு; எண்ணம்
+te: ఆలోచించు; భావన; ఆలోచన; తలపు
+th: คิด; นึก; ความคิด
+tl: isipin; mag-isip; pag-iisip
+tpi: ting; tingting
+tr: düşünmek; düşünce; fikir; düşünüş; düşünme; düşünüp taşınmak
+uk: ду́мати; ми́слити; ду́мка; мисль; ми́сля; розмірко́вувати; розміркува́ти; поду́мати
+ur: سوچْنا; وِچار; فِکْر; اَنْدیشَہ
+vi: nghĩ; suy nghĩ; tư duy
+yue: 諗 /谂
+
 word: fo
 class: prep
 infl: en (for); lidepla (fo)
@@ -1776,6 +1866,52 @@ uk: для; зара́ди; за; до; на
 ur: ... کے لئے; کیلئے; برائے
 vi: cho; để
 yue: 為了 /为了
+
+word: fon
+class: prep
+infl: de (von, vor); lidepla (fon); en (from)
+sense: with the source or provenance of or at | with the origin, starting point or initial reference of or at | with the separation, exclusion or differentiation of
+ar: مِن; عَنْ
+arz: من
+bg: из; от
+bn: অবধি; থেকে; হতে; হইতে
+ca: de; des de
+cmn: 從 /从; 自; 由; 由於 /由于; 出於 /出于
+cs: z; ze; od; proti; před
+da: fra; mod
+de: von; aus; vor
+el: από
+en: from
+eo: el; de; ekde; disde
+es: de; de parte de; desde
+fa: از; ز
+fi: -sta; -lta
+fr: de; dans; sur
+globasa: of; xorfe (xor+fe)
+glosa: ab; de; ex
+hi: से
+hu: -ból; -ből; -tól; -től
+ia: de; ab
+io: de
+it: da; di
+ja: から; より
+ko: -에서; 부터; 에서
+lidepla: fon
+ms: dari; daripada
+nl: van; uit; tegen
+pl: z; od
+pt: de
+ro: de; din de la
+ru: из; от; с
+sv: från; ur
+ta: இருந்து
+th: จาก
+tl: galing
+tr: -den; -dan; -ten; -tan
+uk: від; з
+ur: سے
+vi: từ
+yue: 從 /从; 自; 由
 
 word: ga
 class: prep
@@ -2826,6 +2962,46 @@ ur: کْیون٘کِہ; چونکہ
 vi: tại vì; vì; bởi vì; cho
 yue: 因為 /因为
 
+word: kaus-ge
+class: adv
+sense: for that or this reason (therefore) | consequently; by consequence — see also consequently (therefore) | as a result, therefore (hence)
+ar: لِذٰلِكَ; لِهٰذَا; إِذَنْ; وَعَلَيْهِ; وَمِنْ ثَمَّ
+bg: затова́; следователно
+ca: per tant; per això; així doncs; idò
+cmn: 所以; 因此; 於是 /于是
+cs: proto; tudíž
+da: derfor; deraf
+de: also; daher; darum; demnach; demzufolge; deshalb; deswegen; mithin; somit
+el: επομένως; οπότε; άρα; εξού
+en: therefore; hence
+eo: tial; tial ĉi; ĉi tial; pro kio; do
+es: por eso; por consiguiente; por lo tanto; por ende; ergo; ansí que; por tanto; conque; por ello; por cuanto; ansina es que; por aqueso; de ahí; por conseguiente
+fa: بدلیل آن
+fi: siksi; sen vuoksi; sen takia; joten; siten
+fr: donc; pour ça; en conséquence; par conséquent; ainsi; d'où
+globasa: fe folo
+glosa: ka-co; alora
+hi: इसलिए; इसलिये
+hu: azért; ezért; emiatt; következésképpen; tehát; ennélfogva
+it: quindi; dunque; perciò; pertanto
+ja: それ故に; 故に; ですから; 従って
+ko: 따라서; 그래서; 그러므로
+lidepla: therefore
+ms: jadi; kerana itu; oleh sebab itu; justeru itu
+nl: daarom; daarvoor; bijgevolg; daardoor; waardoor; derhalve; dus
+pl: więc; zatem; dlatego; przeto; tak że; toteż; skutkiem tego; w związku z tym
+pt: portanto; assim sendo; por isto; logo; por isso; consequentemente
+ro: deci; așadar; prin urmare
+ru: поэ́тому; потому́; сле́довательно; зато́; зна́чит
+sv: därför; följaktligen; således; härav
+te: అందుకే; కాబట్టి; అందుచేత; కనుక
+th: ดังนั้น; แล้วจึง; จึง
+tl: ergo; kaya
+tr: binaenaleyh; bu nedenle; bu sebeple; bu yüzden; o yüzden; bundan dolayı; dolayısıyla
+uk: тому́; зати́м; о́тже
+ur: اس لئے
+vi: bởi vậy; cho nên; vì thế
+
 word: kaus-ka
 class: noun
 sense: that which causes: a cause (reason) | motive for an action or determination (reason) | source or reason of an event or action (cause)
@@ -3106,6 +3282,51 @@ ur: کیوں; کاہے
 vi: sao; vì sao; tại sao; tai sao
 yue: 點解 /点解; 為乜 /为乜; 做乜; 做乜嘢; 做咩
 
+word: kel-kwanti
+class: det
+sense: what quantity
+ar: كَمْ
+bg: ко́лко
+bn: কত
+ca: quant
+cmn: 多少; 幾 /几
+cs: kolik
+da: hvor meget
+de: wie viel
+el: πόσος; πόση; πόσο
+en: how much
+eo: kiom
+es: cuánto
+fa: چِقَدر; چَند
+fi: paljonko; kuinka paljon
+fr: combien
+globasa: kekwanti
+glosa: qanto
+hi: कितना
+hu: mennyi
+id: berapa
+io: quanta
+it: quanto; quanta
+ja: 幾ら; いくら
+ko: 얼마나; 얼마
+lidepla: kwanto
+ms: berapa
+nl: hoeveel
+pl: ile
+pt: quanto; quanta
+ro: cât
+ru: ско́лько
+sv: hur mycket
+sw: kiasi gani
+th: เท่าไร; กี่
+tl: gaano
+tpi: hamas
+tr: ne kadar
+uk: скі́льки
+ur: کِتْنا
+vi: mấy; bao nhiêu
+yue: 幾多 /几多
+
 word: kel-lok
 class: adv
 sense: at what place; to what place; from what place
@@ -3150,6 +3371,45 @@ uk: де; зві́дки
 ur: کَہاں; کِدَھر
 vi: ở đâu
 yue: 哪裡 /哪裏 /哪里; 邊度 /边度; 邊處 /边处
+
+word: kel-su
+class: det
+sense: of whom (interrogative)
+ar: لِمَن
+bg: чий
+ca: de qui
+cmn: 誰的 /谁的
+cs: čí
+da: hvis
+de: wessen
+el: ποιανού; ποιανής; ποιανών (poianón); τίνος (tínos)
+en: whose (in questions)
+eo: kies
+es: de quién
+fi: kenen
+fr: à qui
+globasa: kesu (ke+su)
+glosa: de qi; qo-pe
+hi: किस का; किसका
+hu: (kinek (a/az) …-a/-e/-ja/-je/-i/-ai/-ei/-jai/-jei? (only in adjectival/determiner's position, for the predicative/pronoun's position, see the other sense below))
+id: punya siapa
+io: di qua
+it: di chi
+ja: 誰の; どなたの
+ko: 누구의; 누구 것
+lidepla: hu-ney
+ms: milik siapa; kepunyaan siapa
+nl: van wie; wiens; wier
+pl: czyj
+pt: de quem
+ru: чей
+sv: vems
+ta: யாருடைய
+tl: kanino
+tr: kimin
+uk: чий
+ur: کس کا
+vi: của ai
 
 word: kel-ta
 class: pron
@@ -3246,6 +3506,81 @@ ur: کب
 vi: khi nào; bao giờ
 yue: 幾時 /几时; 何時 /何时
 
+word: ki-
+class: prefix
+infl: lidepla (-ki); de (-i); en (-y); ja (子/ko-); ru (-ка/-ka, -ко/-ko)
+sense: Diminutive | forming diminutive nouns | – | – | –
+ca: -et; -eta
+cmn: 小; 崽; -子; 子; 兒 /儿
+de: -chen; -lein; -erl; -i
+en: -ling; -y; -ie; -ette; -let (diminutive: smaller or weaker version)
+eo: -et-
+es: -ito; -ita; -illo; -illa; -iño; -iña; -ico; -ica; -uelo; -uela; -ino; -ina; -ucho; -ucha; -ete; -eta; -uco; -uca; -iello; -ullo; -ulla; -ejo; -eja
+fi: -nen; -lainen
+fr: -et; -ette; -in; -ine
+globasa: lil-
+glosa: pusi
+hu: -ka; -ke
+ia: -etto; -etta
+it: -ino; -ina; -etto; -etta; -ello; -ella
+ja: 子
+lidepla: -ki
+nl: -je; -pje; -tje; -ling; -etje; -ie; -ken; -ke; -che; -kijn
+pl: -ę; -ek; -ka; -ko
+pt: -inho
+ro: -el; -șor; -uț; -uș; -aș; -ior; -ușor; -uleț; -uță; -iță; -ică; -ioară
+ru: -ёнок; -о́нок; -ок; -ёк; -ик; -ек; -ка; -ко; -це; -цо
+sv: -is
+tr: -cık; -cik; -cuk; -cük; -çık; -çik; -çuk; -çük; -cak; -cağız; -ceğiz
+uk: -еня́; -о́чок; -е́нько
+
+word: ki-monti
+class: noun
+sense: elevated location
+ar: تَلّ; أَكَمَة; هَضْبَة
+arz: تل
+bg: хълм; възвише́ние
+bn: পাহাড়
+ca: puig; turó
+cmn: 小山; 山丘
+cs: kopec; vrch; pahorek
+da: bakke
+de: Hügel
+el: λόφος
+en: hill
+eo: monteto; altaĵo
+es: cerro; loma; colina; collado; alcor; otero; lomada; lomba; altozano
+fa: تپه; تبرک; گر
+fi: mäki; kukkula; kumpu
+fr: colline
+globasa: liljabal (lil+jabal)
+glosa: buno; kolina; montikula
+ha: tsauni
+hi: पहाड़ी; पहाड़; गिरि
+hu: domb; kisebb hegy
+id: bukit
+io: kolino
+it: collina; colle
+ja: 丘; 小山
+ko: 언덕
+lidepla: kolina
+ms: bukit
+nl: heuvel
+pl: wzgórze; pagórek; kopiec; górka
+pt: colina; morro
+ro: deal; colină
+ru: холм; го́рка; высота́; приго́рок; возвыше́ние
+sv: kulle; höjd
+sw: kilima
+ta: குன்று; மலை
+te: కొండ; గుట్ట
+th: ภูเขา; เนินเขา; เนิน
+tl: burol
+tr: tepe; yokuş
+uk: па́горб; паго́рок; гі́рка
+ur: پہاڑی
+vi: đồi
+
 word: kitabu
 class: noun
 infl: globasa (kitabu); sw (kitabu, vitabu); ar (كِتَاب/kitāb); bn (কিতাব/kitab); fa (کِتَاب/kitāb, کِتاب/ketâb); ha (littafi); hi (किताब/kitāb); id (kitab); lidepla (kitaba); tr (kitap)
@@ -3296,6 +3631,52 @@ uk: кни́жка; кни́га
 ur: کِتاب; پُسْتَک; بُک
 vi: sách; sổ; sách giáo khoa
 yue: 書 /书
+
+word: ko
+class: prep
+infl: hi (... को/... ko); fr (au); id (ke); ru (к/k); ta (-கு/-ku); te (-కి/-ki, -కు/-ku)
+sense: in the direction of, and arriving at (to) | used to indicate the indirect object (to) | in the direction of (at)
+ar: إِلَى; عَلَى; لِ; صَوْب
+bg: при; на; по вре́ме на
+ca: a; cap a
+cmn: 到; 給 /给; 在
+cs: k; ke; ku; do; na
+da: til
+de: zu; in; nach
+el: προς; σε; στον; στη; στο; στους; στις; στα
+en: to; at
+eo: al
+es: a; hacia
+fa: به; پیش; زی
+fi: suuntaan; päin; luokse; luo; tykö; kohti
+fr: à; au; en; vers
+globasa: tas; cel
+glosa: a; ad
+hi: ... को
+hu: -nak; -nek; -t
+ia: a
+id: ke; sampai; hingga; kepada
+io: a; ad
+it: a; ad; in; per
+ja: ...へ; ...まで; ...に
+ko: ...으로; ...에게; ...로; ...에게로
+lidepla: a
+ms: ke; kepada
+nl: naar; aan; op
+pl: do; na
+pt: a; para; em
+ro: la; către; spre; înspre
+ru: на; в; к
+sv: till; åt; på; mot
+sw: hadi; mpaka; kwenda
+ta: -கு; -இல்; -ஐ; -இடம்
+te: -కి; -కు
+th: ยัง; ณ
+tpi: long
+tr: -e; -a; -ye; -ya
+uk: на; в; до
+ur: ... کو
+vi: đến; cho
 
 word: kolor
 class: noun
@@ -3771,6 +4152,51 @@ ur: پَرْدَہ
 vi: màn cửa; màn; rèm; ri-đô
 yue: 窗簾 /窗帘
 
+word: kwanti
+class: noun
+infl: globasa (kwanti); de (Quantität); en (quantity); es (cuantía); fr (quantité); glosa (qantita); id (kuantitas); lidepla (kwantitaa)
+sense: fundamental, generic term used when referring to the measurement (quantity) | indefinite amount of something (quantity) | total or sum of items (amount) | quantity or volume (amount)
+ar: كَمِّيَّة; مِقْدَار; قدر; مَبْلَغ
+arz: مبلغ
+bg: коли́чество; су́ма; сбор
+bn: পরিমাণ
+ca: quantitat
+cmn: 數量 /数量; 量; 數字 /数字; 數目 /数目; 分量; 額 /额
+cs: množství
+da: kvantitet; antal; sum; beløb; mængde; mål
+de: Quantität; Menge; Anzahl; Betrag
+el: ποσότητα; σύνολο; ποσό
+en: quantity; amount
+eo: monsumo; kvanto
+es: cantidad; cuantía; monto; montante; importe
+fa: کمیت; مقدار; مبلغ
+fi: määrä; lukumäärä
+fr: quantité; montant
+globasa: kwanti
+glosa: qantita; amonta
+hi: मात्रा; परिमाण
+hu: mennyiség; összeg
+ia: quantitate
+id: kuantitas; jumlah
+io: quanteso; quanto
+it: grandezza; quantità; numero; ammontare
+ja: 量; 数量; 分量; 総量
+ko: 양; 량; 수량; 분량
+lidepla: kwantitaa
+ms: kuantiti; jumlah
+nl: hoeveelheid; kwantiteit; bedrag; saldo
+pl: ilość; wielkość; liczba; kwota; suma
+pt: quantidade; quantia
+ro: cantitate; sumă; valoare; măsură
+ru: коли́чество; су́мма
+sv: kvantitet; mängd
+te: పరిమాణము
+th: ปริมาณ; จำนวน; จำนวนรวม; รวม
+tr: miktar
+uk: кі́лькість; су́ма; число
+ur: مقدار
+vi: lượng; số lượng
+
 word: lak
 class: noun
 infl: fr (lac); lidepla (lak); en (lake); es (lago); glosa (laku); tl (lawa)
@@ -4235,6 +4661,58 @@ uk: до́вгий
 ur: لمبا
 vi: dài
 yue: 長 /长
+
+word: lubi
+class: verb
+infl: globasa (lubi); lidepla (lubi); ru (люби́ть/ljubítʹ, любо́вь/ljubóvʹ); ar (حُبّ/ḥubb); de (lieben)
+sense: have a strong affection for | care about; will good for | be strongly inclined towards doing | strong affection
+am: ማፍቀር; መውደድ; ፍቅር
+ar: أَحَبَّ; حُبّ; مَحَبَّة; عِشْق
+arz: حب
+bg: оби́чам; жела́я; любо́в; о́бич
+bn: ভালবাসা; মহব্বত; ভালোবাসা
+ca: estimar; amar; agradar; amor
+cmn: 愛 /爱; 熱愛 /热爱; 愛好 /爱好; 愛戴 /爱戴; 愛慕 /爱慕; 疼愛 /疼爱; 喜歡 /喜欢; 愛情 /爱情
+cs: milovat; mít rád; láska
+da: elske; kunne lide; holde af; kærlighed
+de: lieben; lieb haben; gern haben; ehren; Liebe; Zuneigung; Minne
+el: αγαπώ; εκτιμώ; λατρεύω; ποθώ; θέλω; αγάπη; έρωτας
+en: love
+eo: ami; ŝati; amo; korinklino; kareco; amsento
+es: amar; querer; encantar; gustar; adorar; chiflar; amor
+fa: دوست داشتن; عشق داشتن; عاشق بودن; مهر ورزیدن; عِشْق; مُحَبَّت; مَحَبَّت; مِهْر
+fi: rakastaa; pitää paljon; pitää kovasti; rakkaus
+fr: aimer; aimer beaucoup; aimer bien; vouloir beaucoup; amour
+globasa: lubi; exku
+glosa: amo; amoro; filo
+ha: ƙauna
+hi: प्यार करना; प्रेम करना; प्यार; प्रेम; सम्मोह; स्नेह; अनुराग; प्रीति; इष्ट; मोह
+hu: szeret; szeretet; szerelem
+ia: amar; amor
+id: cinta; suka
+io: amar; amo
+it: amare; volere bene; adorare; amore
+ja: 愛する; 恋する; 愛でる; 好む; 愛好する; 大好きである; 気に入る; 愛; 愛情; 愛好
+ko: 사랑하다; 애정을 품다; 좋아하다; 사랑; 애정
+lidepla: lubi
+ms: cinta; sayang
+nl: houden van; beminnen; liefhebben; graag zien; gek zijn op; liefde
+pl: kochać; miłować; uwielbiać; miłość
+pt: adorar; amar; amor
+ro: iubi; adora; admira; ține la; păsa de; dori; venera; iubire; dragoste; amor
+ru: люби́ть; любо́вь
+sv: älska; tycka om; kärlek
+sw: kupenda; upendo
+ta: காதலி; அன்பு செலுத்து; நேசி; விரும்பு; அன்பு; பாசம்; நேசம்; பரிவு
+te: ప్రేమించు; ప్రేమ
+th: รัก; ความรัก
+tl: ibig; mahal; gusto; nais; pag-ibig; pagmamahal
+tpi: lav
+tr: sevmek; sevgi; sevi; aşk; emre; muhabbet
+uk: люби́ти; коха́ти; любо́в; коха́ння
+ur: پیار کرنا; محبت کرنا; عشق کرنا; مُحَبَّت; عِشْق; پْیار; پْریم
+vi: yêu; tình yêu; ái tình
+yue: 愛 /爱; 愛情 /爱情
 
 word: luna
 class: noun
@@ -5081,6 +5559,95 @@ ur: نَدی; دَرْیا
 vi: sông; giang; hà
 yue: 河; 江; 河流
 
+word: nai
+class: det
+infl: ja (無い/nai); de (kein); ta (இல்லை/illai)
+sense: not any
+ar: لَا
+arz: مافيش
+ca: cap; gens
+cmn: 沒有 /没有; 無 /无; 無有 /无有
+cs: žádný
+da: ingen
+de: kein
+el: δεν; δε; κανένας; κανείς; καμία; καμιά; κανένα
+en: no (determiner)
+eo: neniu
+es: ninguno; ninguna; ningún; nada de
+fi: ei yhtään; ei mitään; ei yksikään
+fr: pas de; aucun
+globasa: nil
+glosa: nuli; zero; ze
+hu: semmi; semelyik; semmilyen; semmiféle
+ia: nulle
+io: nula
+it: non; nessuno
+ja: 無い; ない; ありません
+ko: 없다
+lidepla: nul
+ms: tiada
+nl: geen
+pl: żaden
+pt: nenhum; nada de
+ro: nu; deloc; nici; niciun
+ru: (нет (net) (with the noun in the genitive case))
+sv: ingen; inga; inget
+ta: இல்லை
+te: లేదు; లేవు
+tl: wala
+uk: жо́дний; жо́ден; ніяки́й
+vi: không
+
+word: nai-it
+class: pron
+sense: not any thing
+am: መነም; ምንም
+ar: لَا شَيْء
+arz: ولا حاجة
+bg: ни́що
+bn: কিছু না
+ca: res; re; cap cosa
+cmn: 沒什麼 /没什么; 沒事 /没事
+cs: nic
+da: intet; ingenting
+de: nichts
+el: τίποτα
+en: nothing
+eo: nenio
+es: nada; ninguna cosa; naca la pirinaca / piriznaca; naranjas; ni flores; ni flowers (fláwers)
+fa: هیچ; هیچچیز
+fi: ei mikään; ei mitään
+fr: rien; nulle chose
+globasa: nilto (nil+to)
+glosa: nuli; nuli-ra; zero; ze-ra
+ha: kome ba
+hi: कुछ नहीं
+hu: semmi
+ia: nihil; nil
+id: nol
+io: nulo
+it: niente; nulla; nessuna cosa
+ja: 何も...ない; 何でもない; 別に
+ko: 아무것도...없다
+lidepla: nixa; nihil
+ms: tiada apa-apa
+nl: niets; niks
+pl: nic
+pt: nada; nenhuma coisa
+ro: nimic
+ru: ничто́; ничего́
+sv: inget; ingenting; intet
+sw: kitu
+ta: எதுவும்; எதுவும் இல்லை; எதுவுமே
+te: ఏమిలేదు; ఏమీ
+th: ไม่มีอะไร
+tl: wala
+tpi: nogat samting
+tr: hiç; hiç bir şey
+uk: ніщо́; нічо́го
+ur: کچھ نہیں
+vi: không có gì; không có chi
+
 word: nam
 class: noun
 infl: bn (নাম/nam); fa (نَام/nām); hi (नाम/nām); lidepla (nam); th (นาม/naam); de (Name); en (name); fr (nom); globasa (name); glosa (nima); id (nama); ja (名前/namae, 名/na); te (నామము/nāmamu); tpi (nem)
@@ -5236,50 +5803,51 @@ yue: 眼; 眼睛
 word: no
 class: particle
 infl: es (no); globasa (no); bn (না/na); en (not); fa (نه/na); fr (ne); glosa (ne); hi (न/na); ru (не/ne)
-sense: negates meaning of another word
+sense: negates meaning of another word | used to show disagreement or negation
 am: አይደለም
 ar: لَا; مَا; لَم; لَن; لَيْسَ
+arz: لَأ; لَا
 bg: не
-bn: না
+bn: না; জি না; জ্বী না
 ca: no; no ... pas
-cmn: 不; 沒 /没; 沒有 /没有; 別 /别; 無 /无; 未; 非
-cs: ne-
-da: ikke; ej
-de: nicht
-el: δε; δεν; μη; μην
-en: not
+cmn: 不; 沒 /没; 沒有 /没有; 別 /别; 無 /无; 未; 非; 否
+cs: ne-; ne
+da: ikke; ej; nej
+de: nicht; nein
+el: δε; δεν; μη; μην; όχι
+en: not; no (answer or exclamation)
 eo: ne
 es: no
 fa: نه
 fi: ei
-fr: ne ... pas; pas; ne
+fr: ne ... pas; pas; ne; non
 globasa: no
 glosa: ne
 ha: ba
-hi: नहीं; न; मत
+hi: नहीं; न; मत; जी नहीं
 hu: nem
-ia: non
+ia: non; no
 id: tidak; tak
-io: ne
-it: non
-ja: ...ではない; ...ない; -ません
-ko: 안; ...아니다
+io: ne; no
+it: non; no
+ja: ...ではない; ...ない; -ません; いいえ; いえ; ううん; 違う; いや
+ko: 안; ...아니다; 아니요; 아뇨; 아니
 lidepla: bu
-ms: tidak; bukan; endah (Sarawak)
-nl: niet
+ms: tidak; bukan; endah (Sarawak); tak
+nl: niet; nee; neen
 pl: nie
 pt: não
 ro: nu
-ru: не
-sv: inte; ej; icke
-sw: (use negative conjugated forms of the verb)
-ta: இல்லை
-te: కాదు
-th: ไม่; ไม่ใช่
+ru: не; нет
+sv: inte; ej; icke; nej
+sw: hapana; sivyo
+ta: இல்லை; அல்ல
+te: కాదు; లేదు
+th: ไม่; ไม่ใช่; ไฮ้; เปล่า
 tl: hindi
-tr: değil; -ma; -me
-uk: не
-ur: نہیں; نہ; مت
+tr: değil; -ma; -me; yok; hayır
+uk: не; ні
+ur: نہیں; نہ; مت; جی نہیں; نے; لا; نا
 vi: không; chẳng; chả
 yue: 不; 唔
 
@@ -5655,6 +6223,86 @@ uk: усе́; все
 ur: سب کچھ; سب; ہر چیز
 vi: mọi vật; mọi thứ nào; tất cả
 yue: 凡事; 一切; 萬事 /万事; 乜嘢都
+
+word: om
+class: prep
+infl: lidepla (om); ru (о/o)
+sense: concerning (about) | concerned with, engaged in (about) | regarding (concerning) | concerning (regarding) | introducing topic or subject matter (of)
+ar: عَن; فِي مَا يَتَعَلَق بِـ; بِالنِّسْبَة لِـ; بِالنِّسْبَة إِلَى; فِي صَدَد
+arz: عن; بالنسبة لـ
+bg: за; отно́сно
+bn: সম্বন্ধে; নিয়ে
+ca: sobre; de
+cmn: 關於 /关于; 對於 /对于
+cs: o; ohledně
+da: om; vedrørende; angående; hvad angår; med hensyn til; -mæssig
+de: über; von; betreffs; bezüglich; mit Bezug auf
+el: για; περί
+en: about; concerning; regarding; of
+eo: pri; koncerne al; rilate al
+es: sobre; acerca de; de; a propósito de; por; con lo de; sobre lo de; concerniente a; referente a; concerniendo; en cuanto a; en lo tocante a; con respecto a; respectando; respectivo a; pertinente a; atañendo; atañedero a; por lo que respecta a; respectante a; que tiene que ver con; con respecto de; respecto a; respecto de
+fa: دربارهٔ; راجع به; در مورد; درباب; نزد
+fi: -sta; -stä; olla kyse; olla kysymys; hoitaa; koskien; liittyen; puheen ollen; suhteen
+fr: de; sur; au sujet de; à propos de; au sujet (de); à propos (de); quant à; concernant
+globasa: tem
+glosa: de
+hi: के बारे; ... के बारे में
+hu: -ról; -ről; ami …-t illet/illeti
+id: tentang; mengenai
+io: pri
+it: riguardo; su; riguardando; per quanto riguarda; in quanto a; di
+ja: …について（の）; …に関して; …について; ...に付いて; ...に関して; ...に対して
+ko: ~에 대한; ~에 대해; ~에 관한; ~에 관해; ...에 관해서; ...에 대한
+lidepla: om
+ms: tentang; mengenai; berkaitan dengan; berkenaan dengan; darihal
+nl: over; in verband met; aangaande; betreffende; met betrekking tot; omtrent; aan; van
+pl: o; dotyczący; odnośnie; na temat
+pt: sobre; acerca de; preocupado/lidando com; quanto a; de; em; a respeito de
+ro: despre; privind; în ce privește; în ceea ce privește
+ru: о; об; про; насчёт; относи́тельно; каса́тельно
+sv: om; angående; beträffande; rörande; gällande; på
+sw: kuhusu
+ta: பற்றி; குறித்து; varies. பற்றி
+th: เรื่อง; เกี่ยวกับ
+tl: tungkol sa
+tr: ilişkin
+uk: про; що́до; відно́сно; стосо́вно
+ur: بارے میں; متعلق; بابت; در بارہ; باب میں; در باب; سلسلہ; راجع; نسبت; مورد; ... کے بارے میں
+vi: về; liên quan đến; về việc
+
+word: on
+class: pron
+infl: fr (on); en (one); lidepla (oni)
+sense: indefinite personal pronoun; any person, people in general | one
+ar: اَلْمَرْء; مَن
+ca: un; hom; es; tu; una
+cmn: 人人; 自己
+cs: tebe; tobě; tě; tebou; vás; vám; vámi; člověk
+da: man; en; én
+de: man; einer
+en: one; you (generic pronoun: an unspecified person or people in general)
+eo: oni; onin
+es: uno; se; una
+fa: آدم; یکی; کسی
+fi: does not exist; passive voice used
+fr: on; se; soi
+globasa: ren
+glosa: pe
+hi: आदम; एक
+hu: az ember
+io: onu
+it: si
+ja: 人; だれでも; 自分
+lidepla: oni
+ms: seseorang; kita
+nl: men; je; ze; ge; u
+pt: você; se
+ru: челове́к; ну́жно; нельзя́; ты
+sv: man; en
+ta: ஒருவர்
+th: เขา
+vi: ta; người ta; mình; ai
+yue: 人
 
 word: ore
 class: noun
@@ -6413,6 +7061,55 @@ ur: سان٘پ; مار
 vi: rắn
 yue: 蛇
 
+word: saye
+class: noun
+infl: fa (سَایَه/sāya, سایِه/sâye); globasa (saye); hi (छाया/chāyā, साया/sāyā)
+sense: dark image projected onto a surface | darkness where light is blocked
+am: ጥላ
+ar: ظِلّ; خَيَال
+bg: ся́нка
+bn: ছায়া
+ca: ombra
+cmn: 陰影 /阴影; 影子
+cs: stín
+da: skygge
+de: Schatten
+el: σκιά; ίσκιος
+en: shadow; shade
+eo: ombro
+es: sombra
+fa: سَایَه; سایِه
+fi: varjo
+fr: ombre
+globasa: saye
+glosa: umbra; skia
+hi: परछाई; छाया; साया; छाँव
+hu: árny; árnyék
+ia: umbra
+id: bayangan
+io: ombro
+it: ombra
+ja: 影; 陰影; 日陰
+ko: 그림자; 음영; 그늘
+lidepla: shada
+ms: bayang
+nl: schaduw
+pl: cień
+pt: sombra
+ro: umbră
+ru: тень
+sv: skugga
+sw: uvuli
+ta: நிழல்
+te: నీడ
+th: เงา; ฉายา; เงามืด; ร่ม
+tl: anino; lilim
+tr: gölge
+uk: тінь
+ur: سایَہ; چھایا; چھاؤں
+vi: bóng; bóng tối
+yue: 陰影 /阴影; 影子
+
 word: se
 class: det
 infl: fr (ce, cette, ce ... ci, cette ... ci); lidepla (sey); cmn (此/cǐ); es (este); yue (此/ci²)
@@ -7170,6 +7867,57 @@ ur: پانی; آب; جل
 vi: nước
 yue: 水
 
+word: swal
+class: verb
+infl: globasa (swal); ar (سَأَلَ/saʔala, سُؤَال/suʔāl); fa (سُؤَال/su'āl, سُؤال/so'âl); hi (सवाल/savāl); id (soal); sw (swali)
+sense: request an answer (ask) | ask questions of (question) | sentence, phrase or word (question) | to ask about something (inquire)
+am: መጠየቅ; ጥያቄ
+ar: سَأَلَ; استفهم; سُؤَال; اِسْتَعْلَمَ
+arz: سأل
+bg: пи́там; питам; разпитвам; въпро́с; пи́тане; запи́тване; разпи́твам; интересу́вам се
+bn: জিজ্ঞাসা করা; জানতে চাওয়া; প্রশ্ন করা; প্রশ্ন; সওয়াল
+ca: preguntar; demanar; interrogar; pregunta; demanda; qüestió
+cmn: 問 /问; 詢問 /询问; 問題 /问题; 打聽 /打听
+cs: ptát se; zeptat se; otázka
+da: spørge; spørgsmål
+de: fragen; stellen; hinterfragen; befragen; Frage; Anfrage; sich erkundigen; nachfragen; inquirieren
+el: ρωτώ; αμφισβητώ; ερώτηση
+en: ask; question; inquire
+eo: demandi; demando
+es: preguntar; interrogar; pregunta; cuestión; investigar; informarse; inquirir
+fa: پرسیدن; سؤال کردن; پُرْسِش; سُؤَال; سُؤال
+fi: kysyä; kuulustella; udella; kysymys; tiedustella; kysellä
+fr: demander; poser une question; questionner; interroger; question; enquêter; se renseigner
+globasa: swal
+glosa: qestio
+ha: tambaya
+hi: पूछना; सवाल; प्रश्न
+hu: kérdez; megkérdez; kérdést tesz fel; érdeklődik; faggat; vallat; kérdőre von; kikérdez; kérdés; tudakozódik; kérdezősködik
+ia: demandar; question
+id: tanya; pertanyaan; soal
+io: questionar; questiono
+it: chiedere; domandare; interrogare; domanda
+ja: 聞く; 尋ねる; 伺う; 質問する; 質問; 問い合わせる; 訊く
+ko: 묻다; 질문하다; 여쭈다; 질문
+lidepla: kwesti
+ms: bertanya; whakaui; soalan; pertanyaan; tanya
+nl: vragen; ondervragen; vraag
+pl: pytać; zapytać; pytanie
+pt: perguntar; questionar; questão; pergunta; inquirir
+ro: întreba; întrebare; investiga; cerceta
+ru: спра́шивать; спроси́ть; задава́ть; зада́ть; расспра́шивать; расспроси́ть; допра́шивать; допроси́ть; вопро́с; справля́ться
+sv: fråga; spörja; ställa (en fråga); spörsmål; spörjning; höra sig för
+sw: kuuliza; swali
+ta: கேள்; வினவு; கேள்வி; வினா
+te: అడుగు; ప్రశ్నించు; ప్రశ్న; విచారించు; దర్యాప్తు చేయు
+th: ถาม; ถามหา; คำถาม; สอบถาม
+tl: magtanong; tanong
+tr: sormak; sorgulamak; soru
+uk: пита́ти; запита́ти; допи́тувати; допита́ти; пита́ння; питати; довідуватися
+ur: پوچھنا; سَوال
+vi: hỏi; câu hỏi
+yue: 問 /问; 問題 /问题
+
 word: swate
 class: adj
 infl: lidepla (swate); ar (أَسْوَد/ʔaswad); globasa (syahe)
@@ -7725,6 +8473,85 @@ ur: ... کے ساتھ
 vi: với
 yue: 同埋; 同; 跟埋; 跟
 
+word: tote
+class: adj
+infl: lidepla (tote); bn (গোটা/gōṭa); en (total); es (total); fr (total); globasa (total); glosa (toto); sw (-ote)
+sense: entire | whole | total, entire | entire
+ar: كَامِل; كُلّ
+arz: كامل
+bg: ця́л; цял; непокъ́тнат; цялостен; общ
+bn: পুরো; গোটা
+ca: sencer; tot; enter; total
+cmn: 整個 /整个; 全部; 全部的; 完全; 全體的 /全体的
+cs: celý; úplný
+da: hel; fuld
+de: ganz; gesamt
+el: ολόκληρος; ολικός; συνολικός
+en: whole; entire; full; total
+eo: tuta
+es: entero; total
+fa: تمام; سراسر
+fi: koko; kokonainen; kokonais-; yhteensä
+fr: entier; tout; entière; total
+globasa: total; kompleto
+glosa: holo; toto
+hi: सारा
+hu: egész; teljes; összes
+id: seluruh; antero; menyeluruh; semesta
+io: tota; totala
+it: intero; intera; totale; integrale
+ja: 全体の; 全部の; まる; たっぷり; 全部
+ko: 전체; 전부의
+lidepla: integre; ol; tote
+ms: seluruh
+nl: heel; geheel; hele; volledig; vol; totaal; totale; gehele
+pl: cały; pełny; całkowity
+pt: inteiro; todo; total
+ro: întreg; total
+ru: це́лый; це́льный; це́лостный; по́лный; весь
+sv: hel; total
+sw: -ote; -zima
+te: మొత్తం; మొత్తము; అన్ని
+tr: tam; tüm; bütün; yekpare
+uk: ці́лий; по́вний; весь
+ur: سارا
+vi: toàn thể; toàn bộ; hoàn toàn; cả; tất cả; tổng cộng
+yue: 成; 全
+
+word: tote-ge
+class: adv
+sense: – | – | to the full extent | in a full manner | to the fullest extent or degree | to the greatest extent; completely | without exception; wholly; completely
+arz: خالص
+bg: напълно; изцяло; съвсем; напъ́лно; съвсе́м
+ca: totalment; enterament; plenament; completament; del tot
+cmn: 充分地; 完全地; 彻底地; 十分; ...極了 /...极了; ...死了; 挺
+cs: zcela; do mrtě; dost
+da: helt; fuldstændig; ganske; fuldt ud; uden undtagelse
+de: völlig; vollkommen; vollumfänglich; ganz; ganz und gar; höchst; ohne Ausnahme; ausnahmslos; insgesamt; gänzlich
+en: wholly; wholely; entirely; fully; completely; quite; altogether
+eo: tute; plene; absolute
+es: enteramente; de todo punto; completamente; totalmente; rematadamente; plenamente; rotundamente; en toda la línea; considerablemente; bastante; asaz; tremendo; por completo
+fa: کاملا
+fi: täysin; kokonaan; täydellisesti; täydellisen; paljon; kovasti; varsin; sangen
+fr: entièrement; complètement; tout à fait
+hi: काफ़ी
+hu: teljesen; egészen; teljességgel
+it: pienamente; interamente; totalmente; completamente; del tutto; proprio
+ja: 全部; 全て; 丸ごと; 全く; まるっきり
+ko: 상당히
+ms: agak
+nl: helemaal; geheel; volledig; totaal
+pl: całkowicie; zupełnie; totalnie; bez reszty; do cna; do spodu; do szczętu; doszczętnie; kompletnie; na sto procent; całkiem
+pt: completamente; totalmente
+ro: în întregime; totalmente; cu totul; complet; total
+ru: по́лностью; вполне́; всеце́ло; соверше́нно; совсе́м; весьма́; изря́дно; совсем
+sv: fullständigt; helt; komplett
+te: మొత్తముగా; పూర్తిగా
+tl: napaka-
+tr: tam; hep birlikte; topluca; cümbür cemaat
+uk: по́вністю; цілко́м; зо́всім
+vi: hẳn; đầy đủ; hoàn toàn; quá
+
 word: tra
 class: prep
 infl: lidepla (tra); ar (عَبْرَ/ʕabra); en (through)
@@ -7763,6 +8590,55 @@ th: ผ่าน
 tr: boyunca
 uk: че́рез; крізь
 vi: qua; xuyên qua
+
+word: tren
+class: noun
+infl: bn (ট্রেন/ṭren); en (train); es (tren); fr (train); globasa (tren); hi (ट्रेन/ṭren); lidepla (tren); tl (tren); tr (tren); fa (تِرَن/teran); glosa (trena); sw (treni)
+sense: line of connected cars or carriages
+am: ባቡር
+ar: قِطَار
+bg: влак
+bn: ট্রেন; রেলগাড়ি
+ca: tren
+cmn: 火車 /火车; 列車 /列车
+cs: vlak
+da: tog
+de: Zug; Eisenbahn
+el: τρένο; αμαξαστίχος
+en: train (series of connected vehicles)
+eo: trajno; vagonaro
+es: tren
+fa: قَطَار; قَطار; تِرَن
+fi: juna
+fr: train; rame
+globasa: tren
+glosa: trena
+hi: ट्रेन; रेलगाड़ी; गाड़ी
+hu: vonat; vasút
+ia: traino
+id: kereta api; kereta
+io: treno
+it: treno
+ja: 列車; 電車; 汽車
+ko: 기차; 열차; 렬차
+lidepla: tren
+ms: kereta api; keretapi; tren; kereta lipan
+nl: trein
+pl: pociąg
+pt: trem; comboio
+ro: tren
+ru: по́езд; парово́з
+sv: tåg; persontåg; godståg
+sw: garimoshi; treni
+ta: ரயில்; புகைவண்டி; கோச்சி; புகையிரதம்; தொடருந்து; தூமரதம்; தொடர்வண்டி
+te: రైలు; ట్రయిను
+th: รถไฟ
+tl: tren
+tr: tren; katar
+uk: по́тяг; по́їзд
+ur: ریل گاڑی; گاڑی; قِطار; ریل; ٹرین
+vi: xe lửa; tàu hỏa; tàu lửa; hỏa xa
+yue: 火車 /火车; 列車 /列车
 
 word: tu
 class: pron
@@ -8218,6 +9094,56 @@ th: จะ
 tr: (Use the aorist past tense)
 vi: sẽ
 yue: 會
+
+word: ya
+class: particle
+infl: de (ja); glosa (ja); id (ya); lidepla (ya); tpi (ya, yesa); ja (やった/yatta); ko (예/ye)
+sense: word used to indicate agreement or acceptance | expression of pleasure, joy or great excitement — see also yay
+am: አዎን
+ar: نَعَم; أَجَل; إِي
+bg: да
+bn: হ্যাঁ; জি
+ca: sí
+cmn: 是; 對 /对
+cs: ano
+da: ja
+de: ja
+el: ναι
+en: yes
+eo: jes
+es: sí; pues
+fa: آری; بَلی; بله; آره
+fi: kyllä; jes!
+fr: oui
+globasa: si
+glosa: ja
+hi: हाँ; जी; जी हाँ
+hu: igen
+ia: si
+id: ya
+io: yes
+it: sì
+ja: はい; ええ; うん; よし; やった
+ko: 네; 예; 응; 어
+lidepla: ya
+ms: ya; ha'ah
+nl: ja
+pl: tak; no; ano
+pt: sim; sim!; é!; assim!; isso!; aí!
+ro: da
+ru: да; так; да!
+sv: ja
+sw: ndiyo
+ta: ஆம்; ஆமாம்
+te: అవును; ఔను
+th: ใช่; ครับ; ค่ะ; ถูก; ถูกต้อง; อืม
+tl: oo; opo
+tpi: ya; yes; yesa
+tr: evet; he; ha
+uk: так
+ur: ہاں; جی; جی ہاں; بلیٰ; بلے; آرے; نعم
+vi: vâng; dạ; phải; ờ; ừ
+yue: 係 /系; 唔; 嗯
 
 word: yau
 class: verb

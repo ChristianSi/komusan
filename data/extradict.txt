@@ -141,6 +141,10 @@ sense: fruit of Malus domestica
 en: apple [ˈæp(ə)l]
 es: manzana; poma
 
+sense: in the direction of
+en: at [æt]
+ja: ...に [...ni]
+
 sense: intransitive, non-copulative (usually literary in English): to exist; to have real existence
 en: be [biː]
 es: ser; existir
@@ -301,10 +305,20 @@ sense: the opening of a creature through which food is ingested
 de: Mund
 en: mouth [maʊθ]
 
+sense: not any
+en: no [nəʊ]
+fr: pas de; aucun
+es: ninguno; ninguna; ningún; nada de
+
 sense: protuberance on the face
 en: nose [nəʊ̯z]
 es: nariz; napia; napias; naso
 fa: بِینِی [bīnī]; بینی [bini]; دَماغ [damâġ]
+
+sense: abstract entity used to describe quantity
+fr: nombre
+bn: সংখ্যা [śoṅkha]
+en: number [ˈnʌ̟mbɚ(ɹ)]
 
 sense: quantity
 en: number [ˈnʌ̟mbɚ(ɹ)]
@@ -314,6 +328,14 @@ sw: idadi; hesabu
 sense: possessive genitive: belonging to
 en: of [ɒv]
 id: (possessor is simply placed after the possession)
+
+sense: ask questions of
+en: question [ˈkwɛs.tʃən]
+es: preguntar; interrogar
+
+sense: sentence, phrase or word
+bn: প্রশ্ন [prôśnô]; সওয়াল [śoōẇal]
+en: question [ˈkwɛs.tʃən]
 
 sense: location, position
 en: place [pleɪs]
@@ -331,6 +353,14 @@ sense: body of water
 en: sea [siː]
 fa: دَرْیا [daryâ]; بَحْر [bahr]
 tpi: solwara
+
+sense: darkness where light is blocked
+ar: ظِلّ [ẓill]
+en: shade [ʃeɪd]
+
+sense: dark image projected onto a surface
+bn: ছায়া [chaẏa]
+en: shadow [ˈʃædəʊ]
 
 sense: person who shares same parents
 en: sibling [ˈsɪb.lɪŋ]
@@ -356,6 +386,10 @@ es: hablar
 sense: having a pleasant taste
 en: sweet
 ha: mai dàɗi
+
+sense: drink made from leaves of tea plant
+en: tea [tiː]
+id: teh
 
 sense: connecting a noun clause
 en: that [ˈðæt]
@@ -470,6 +504,10 @@ sw: je
 th: ไหม [mǎi]
 ur: کیا‎ [kyā]
 vi: không; phải không; hả; hử; à
+
+sense: one
+en: you [ju]
+ta: ஒருவர் [oruvar]
 
 sense: in the early part of life or growth
 en: young [jʌŋ]
