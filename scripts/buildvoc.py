@@ -1465,12 +1465,13 @@ class VocBuilder:
         #   in alphabetic order
         # - then any other related languages, also in alphabetic
         first_set = cand.find_langs_with_identical_candidate()
+        infl_set = set(cand.related_cands.keys())
 
         if cand.lang:
             # Will be empty (and is skipped) if the --word option is used
             first_set.add(cand.lang)
+            infl_set.add(cand.lang)
 
-        infl_set = set(cand.related_cands.keys())
         second_set = infl_set - first_set
         extra_originals: dict[str, str] = {cand.lang: cand.show_original}
 
@@ -1490,6 +1491,7 @@ class VocBuilder:
                 continue
             enfr_words = util.split_on_semicolons(entry.get(lang_code, ''))
             for enfr_word in enfr_words:
+                enfr_word = util.discard_text_in_brackets(enfr_word)
                 if self.calc_distance(this_word, self.protect_ch_sh(enfr_word.lower()))[1]:
                     second_set.add(lang_code)
                     extra_originals[lang_code] = enfr_word
@@ -2925,7 +2927,10 @@ class VocBuilder:
                 this_word = entry.get('word', '')
                 this_word_lower = this_word.lower()
                 this_gloss = entry.get('gloss', '')
-                parts = this_word_lower.split() if ' ' in this_word_lower else []
+                if ' ' in this_word_lower or '-' in this_word_lower:
+                    parts = re.split(r'[ -]+', this_word_lower)
+                else:
+                    parts = []
 
                 if word_lower == this_word_lower or (delete_derivatives and any(
                         deletable_word in parts for deletable_word in words_to_delete_lower)):

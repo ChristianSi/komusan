@@ -244,10 +244,7 @@ class WiktParser:
         returned.
         """
         code = transinfo.get('code')
-        lang = transinfo.get('lang')
-
-        if lang:
-            lang = lang.strip()
+        lang = transinfo.get('lang', '').strip()
 
         if (not code) or (code == 'en' and lang != 'English'):
             # Sometimes the code is missing or translations are mislabeled as 'en'

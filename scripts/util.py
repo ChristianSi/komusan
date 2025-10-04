@@ -97,6 +97,20 @@ class RecordingLogger():
 
 ##### General utility functions #####
 
+def as_str(val: Any) -> str:
+    """Convert anything to a string.
+
+    * Strings will be returned as is.
+    * None will become '' (an empty string).
+    * str will be called on anything else.
+    """
+    if val is None:
+        return ''
+    if isinstance(val, str):
+        return val
+    return str(val)
+
+
 def or_empty(text: Optional[str]) -> str:
     """Returns the given string, or an empty string if its None."""
     return text if text is not None else ''

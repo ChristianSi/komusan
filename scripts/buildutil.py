@@ -436,30 +436,36 @@ class Candidate():
             # Convert initial semivowels followed by consonant not allowed in 2nd position to
             # the corresponding vowel
             word = re.sub(rf'^([{SEMIVOWELS}])([{NOT_SECOND_CONSONANTS}])',
-                          lambda m: ('u' if m.group(1) == 'w' else 'i') + m.group(2),
+                          lambda m: ('u' if m.group(1) == 'w' else 'i') + util.as_str(m.group(2)),
                           word)
 
             # Semivowels occurring as third consonant in a syllable (e.g. in "try" or "plw")
             # are converted to the corresponding vowel (without a penalty)
             word = re.sub(
                 rf'(^|[{SYLLABLE_FINAL_CONSONANTS}])([{INITIAL_NON_SEMIVOWELS}][lr])([wy])',
-                lambda m: m.group(1) + m.group(2) + ('u' if m.group(3) == 'w' else 'i'),
+                lambda m:
+                    util.as_str(m.group(1))
+                    + util.as_str(m.group(2))
+                    + ('u' if m.group(3) == 'w' else 'i'),
                 word)
             word = re.sub(
                 rf'([{INTERNAL_VOWELS}{SEMIVOWELS}][{NOT_SYLLABLE_FINAL_NON_SEMIVOWEL}][lr])'
                 r'([wy])',
-                lambda m: m.group(1) + ('u' if m.group(2) == 'w' else 'i'),
+                lambda m: util.as_str(m.group(1)) + ('u' if m.group(2) == 'w' else 'i'),
                 word)
 
             # But if two of them occur in a row (e.g. "gwy" or "hyw"), the first one becomes
             # a vowel
             word = re.sub(
                 rf'(^|[{SYLLABLE_FINAL_CONSONANTS}])([{INITIAL_NON_SEMIVOWELS}])(wy|yw)',
-                lambda m: m.group(1) + m.group(2) + ('uy' if m.group(3) == 'wy' else 'iw'),
+                lambda m:
+                    util.as_str(m.group(1))
+                    + util.as_str(m.group(2))
+                    + ('uy' if m.group(3) == 'wy' else 'iw'),
                 word)
             word = re.sub(
                 rf'([{INTERNAL_VOWELS}{SEMIVOWELS}][{NOT_SYLLABLE_FINAL_NON_SEMIVOWEL}])(wy|yw)',
-                lambda m: m.group(1) + ('uy' if m.group(2) == 'wy' else 'iw'),
+                lambda m: util.as_str(m.group(1)) + ('uy' if m.group(2) == 'wy' else 'iw'),
                 word)
 
             # "Nək" after a syllable-final consonant is simplified to "nək", since usually the 'N'
