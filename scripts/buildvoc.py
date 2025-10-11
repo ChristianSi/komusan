@@ -132,7 +132,7 @@ class VocBuilder:
         for entry in self.existing_entries:
             wordlist = entry.get('word', '')
             classes = set(util.split_on_commas(entry.get('class', '')))
-            for word in util.split_on_commas(wordlist):
+            for word in util.split_on_semicolons(wordlist):
                 existing_words_dict[word.lower()] |= classes
                 existing_norm_words.add(bu.normalize_word(word))
 
@@ -1641,6 +1641,8 @@ class VocBuilder:
     def validate_compound(self, word: str, entry: LineDict) -> None:
         """Ensure that a compound is valid.
 
+        "..." may be used to indicate a gap in multi-word expressions, e.g. "da ... su".
+
         Dies with an error if validation fails because
 
         * one of the compound parts doesn't exist
@@ -1659,6 +1661,8 @@ class VocBuilder:
         # (ending in -) and all except the first one may be suffixes (starting with -)
         missing_parts = []
         for idx, part in enumerate(parts):
+            if part == '...':
+                continue
             lower_part = part.lower()
             variants = {lower_part}
             if idx != last_part_idx:
@@ -1863,7 +1867,7 @@ class VocBuilder:
         if self.args.gloss:
             self.validate_and_store_gloss(new_word, self.args.gloss.strip(), entry)
 
-        joint_word = f'{new_word}, {old_word}' if self.args.first else f'{old_word}, {new_word}'
+        joint_word = f'{new_word}; {old_word}' if self.args.first else f'{old_word}; {new_word}'
         entry.add('word', joint_word, allow_replace=True)
         self.old_word = old_word  # storing this since we'll need to adjust the csv file
         self.add_entry_to_dict(entry, False)
