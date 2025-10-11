@@ -162,6 +162,104 @@ glosa: an-
 id: dia-
 lidepla: man-
 
+word: an-bete
+class: noun
+sense: a male person in relation to his parents
+am: ወንድ ልጅ
+ar: اِبْن
+bg: син
+bn: ছেলে; পুত্র; ওলদ; বেটা; ছাবাল; ছাওয়াল; পোলা; পো; পোয়া
+ca: fill
+cmn: 兒子 /儿子
+cs: syn
+da: søn
+de: Sohn
+el: γιος
+en: son
+eo: filo
+es: hijo
+fa: پِسَر; بَچَه; بَچَّه; فَرْزَنْد; پور
+fi: poika
+fr: fils
+globasa: manbete
+glosa: an-fili
+ha: ɗa
+hi: बेटा; पिसर
+hu: fiú
+id: putra; putera
+io: filiulo
+it: figlio
+ja: 息子; 坊っちゃん; せがれ
+ko: 아들; 아드님
+lidepla: son
+ms: anak lelaki; anak
+nl: zoon
+pl: syn; synek
+pt: filho
+ro: fiu
+ru: сын; сыно́к
+sv: son
+sw: mwana; auladi; mtoto wa kiume
+ta: மகன்; பிள்ளை
+te: కొడుకు; పుత్రుడు
+th: ลูกชาย
+tl: anak; anak na lalaki
+tpi: pikinini man; pikinini man bilong em
+tr: oğul; oğlan
+uk: син
+ur: بیٹا; پِسَر
+vi: con trai
+yue: 仔; 囝仔
+
+word: an-bovi
+class: noun
+sense: uncastrated adult male bovine
+am: በሬ
+ar: ثَوْر
+arz: تور
+bg: бик
+bn: ষণ্ড
+ca: toro
+cmn: 公牛; 特
+cs: býk
+da: tyr; okse
+de: Bulle; Stier
+el: ταύρος
+en: bull (male cattle)
+eo: virbovo; taŭro
+es: toro
+fa: گاو نر
+fi: sonni
+fr: taureau
+globasa: manmumu
+glosa: an-bovi; bu; taurus
+ha: sa
+hi: सांड; बैल; ऋषभ
+hu: bika
+ia: tauro
+id: sapi; banteng
+io: bovulo; tauro
+it: toro
+ja: 雄牛; 牡牛
+ko: 황소
+lidepla: man-gova; govo
+ms: lembu jantan
+nl: bul; stier
+pl: byk
+pt: touro; toiro
+ro: taur
+ru: бык
+sv: tjur
+sw: fahali
+ta: இடபம்
+th: พฤษภ
+tl: toro
+tpi: bulmakau man; bulmakau
+tr: boğa
+uk: бик; буга́й
+ur: سانڈ; بیل
+vi: bò đực
+
 word: an-rega
 class: noun
 sense: a male of a royal family who is the supreme ruler of his nation
@@ -210,6 +308,55 @@ uk: коро́ль; цар
 ur: راجا; بَادْشَاہ
 vi: vua; quốc vương
 yue: 國王 /国王; 王
+
+word: an-sodar
+class: noun
+sense: male sibling
+am: ወንድም
+ar: أَخ; شَقِيق
+bg: брат
+bn: ভাই; ভ্রাতা; বেরাদর
+ca: germà
+cmn: 哥哥; 弟弟; 兄弟
+cs: bratr; brat
+da: broder; bror
+de: Bruder
+el: αδελφός; αδερφός
+en: brother
+eo: frato
+es: hermano
+fa: بَرَادَر; لَالَا; اَخ; بَرادَر; داداش
+fi: veli
+fr: frère
+globasa: mansodar
+glosa: an-sibi; fratri; adelfo
+ha: ɗanuwa
+hi: भाई; भ्राता; सहोदर; दादा; भाऊ; वीर; बंधु; भैया; भ्रातृ
+hu: fivér; fiútestvér; bátya; öcs
+ia: fratre
+id: saudara; kakak laki-laki; abang; adik laki-laki
+io: fratulo
+it: fratello
+ja: 兄弟; 兄; お兄さん; 兄ちゃん; 弟
+ko: 형제; 형; 형님; 오빠; 남동생; 동생; 아우; 오라버님
+lidepla: brata
+ms: abang; adik lelaki
+nl: broer; broeder
+pl: brat
+pt: irmão
+ro: frate
+ru: брат
+sv: bror; broder
+sw: ndugu; kaka
+ta: சகோதரன்; அண்ணன்; தம்பி
+te: అన్న; తమ్ముడు; సోదరుడు
+th: พี่; พี่ชาย; น้อง; น้องชาย; ภราดร; ภราดา
+tl: kapatid na lalaki; kuya; diko; sangko
+tr: erkek kardeş; kardeş; birader; ağabey
+uk: брат
+ur: بھائی; بْھراتا
+vi: anh or anh trai; em trai; em; anh em
+yue: 哥哥; 弟弟; 兄弟; 大佬; 細佬 /细佬; 阿哥
 
 word: arko
 class: noun
@@ -689,6 +836,57 @@ ur: پیڑ; دَرَخْت
 vi: cây
 yue: 樹 /树; 樹木 /树木
 
+word: bete
+class: noun
+infl: globasa (bete); bn (বেটা/beṭa); hi (बेटा/beṭā, बेटी/beṭī)
+sense: a male person in relation to his parents | female offspring | singular offspring (male, female or sex unspecified) | –
+am: ወንድ ልጅ; ሴት ልጅ
+ar: اِبْن; اِبْنَة; بِنْت; وَلَد
+bg: син; дъщеря́; ще́рка; пото́мък
+bn: ছেলে; পুত্র; ওলদ; বেটা; ছাবাল; ছাওয়াল; পোলা; পো; পোয়া; মেয়ে; বালিকা; সন্তান
+ca: fill; filla
+cmn: 兒子 /儿子; 女兒 /女儿; 子孫 /子孙
+cs: syn; dcera; potomek; potomkyně
+da: søn; datter; afkom
+de: Sohn; Tochter; Nachkomme; Nachkommin; Kind; Sprössling
+el: γιος; κόρη; θυγατέρα; τέκνο; παιδί; απόγονος
+en: son; daughter; offspring; child
+eo: filo; filino; ido
+es: hijo; hija; vástago; descendiente; sucesor; sucesora
+fa: پِسَر; بَچَه; بَچَّه; فَرْزَنْد; پور; دُخْتَر; فرزند
+fi: poika; tytär; lapsi; jälkeläinen
+fr: fils; fille; enfant
+globasa: bete
+glosa: fili
+ha: ɗa; 'ya; ɗiya
+hi: बेटा; पिसर; बेटी; लड़की; पुत्री; दुख़्तर; संतान
+hu: fiú; lány; utód
+ia: filia
+id: putra; putera; putri; anak perempuan
+io: filiulo; filiino; decendanto
+it: figlio; figlia; discendente
+ja: 息子; 坊っちゃん; せがれ; 娘; お嬢さん; 胤; 子孫; 子種
+ko: 아들; 아드님; 딸; 따님; 자녀; 자식
+lidepla: kinda
+ms: anak lelaki; anak; anak perempuan
+nl: zoon; dochter; afstammeling; nageslacht; nakomeling; nazaat; kind
+pl: syn; synek; córka; potomek; potomkini
+pt: filho; filha; rebento; vergôntea
+ro: fiu; fiică
+ru: сын; сыно́к; дочь; до́чка; пото́мок; о́тпрыск
+sv: son; dotter; avkomling; avkomma; ättling
+sw: mwana; auladi; mtoto wa kiume; binti
+ta: மகன்; பிள்ளை; மகள்
+te: కొడుకు; పుత్రుడు; కూతురు; కుమార్తె; పుత్రిక; అమ్మాయి
+th: ลูกชาย; ลูกสาว
+tl: anak; anak na lalaki; kawil
+tpi: pikinini man; pikinini man bilong em
+tr: oğul; oğlan; kız; kız evlat; evlat; çocuk
+uk: син; дочка́; до́нька; наща́док; пото́мок
+ur: بیٹا; پِسَر; بیٹی; پُتْری; کُڑی; دُخْتَر
+vi: con trai; con gái
+yue: 仔; 囝仔; 女
+
 word: bine
 class: noun
 infl: de (Biene); en (bee); globasa (beze); tpi (bi, binen)
@@ -1028,6 +1226,284 @@ tr: iyi; güzel; epey; epeyi; epeyce; epeyice; oldukça; hayli; iyice; güzelce;
 uk: до́бре; га́рно
 ur: اَچّھا
 vi: tốt; hay; khá
+
+word: bovi
+class: noun
+infl: glosa (bovi); es (bovino); fr (bovin); lidepla (gova); te (గోవు/gōvu); tr (boğa); vi (bò)
+sense: any domestic bovine regardless of sex or age (cow) | female domesticated ox or other bovine (cow) | uncastrated adult male bovine (bull) | – (head of cattle)
+am: ላም; በሬ
+ar: بَقَرَة; بَقَر; اَبْقَار; ثَوْر
+arz: تور
+bg: кра́ва; бик
+bn: গাই; গরু; ষণ্ড
+ca: vaca; toro; taur
+cmn: 牛; 母牛; 公牛; 特
+cs: tur; skot; kráva; býk
+da: ko; tyr; okse
+de: Rind; Kuh; Bulle; Stier
+el: αγελάδα; ταύρος
+en: cow; bull; head of cattle
+eo: bovo; bovino; virbovo; taŭro
+es: bovino; vaca; toro
+fa: گاو; مادِهگاو; گاو نر
+fi: nauta; lehmä; sonni
+fr: bovin; vache; taureau
+globasa: mumu
+glosa: bovi; vaka
+ha: saniya; sa
+hi: गोरू; गाय; गो; गऊ; बकर; सांड; बैल; ऋषभ
+hu: szarvasmarha; marha; tehén; bika
+ia: vacca; tauro
+id: lembu; sapi; banteng
+io: bovo; bovino; bovulo; tauro
+it: bovino; vacca; mucca; toro
+ja: 牛; 雌牛; 雄牛; 牡牛
+ko: 소; 암소; 황소
+lidepla: gova
+ms: lembu; lembu jantan
+nl: rund; koe; bul; stier
+pl: krowa; byk
+pt: bovino; bovídeo; vaca; touro; toiro
+ro: vacă; taur
+ru: коро́ва; бык
+sv: nötkreatur; ko; kossa; tjur
+sw: ng'ombe; fahali
+ta: மாடு; பசு; இடபம்
+te: ఆవు; గోవు
+th: วัว; โค; พฤษภ
+tl: baka; toro
+tpi: bulmakau; bulmakau meri; bulmakau man
+tr: sığır; inek; boğa
+uk: коро́ва; бик; буга́й
+ur: گای; گو; گَئُو; بَقَر; سانڈ; بیل
+vi: bò; bò cái; bò đực
+yue: 牛; 母牛; 牛乸
+
+word: bu
+class: adv
+infl: cmn (不/bù, 無/无/wú); lidepla (bu); ha (ba)
+sense: negates meaning of another word | used to show disagreement or negation
+am: አይደለም
+ar: لَا; مَا; لَم; لَن; لَيْسَ
+arz: لَأ; لَا
+bg: не
+bn: না; জি না; জ্বী না
+ca: no; no ... pas
+cmn: 不; 沒 /没; 沒有 /没有; 別 /别; 無 /无; 未; 非; 否
+cs: ne-; ne
+da: ikke; ej; nej
+de: nicht; nein
+el: δε; δεν; μη; μην; όχι
+en: not; no (answer or exclamation)
+eo: ne
+es: no
+fa: نه
+fi: ei
+fr: ne ... pas; pas; ne; non
+globasa: no
+glosa: ne; no
+ha: ba
+hi: नहीं; न; मत; जी नहीं
+hu: nem
+ia: non; no
+id: tidak; tak
+io: ne; no
+it: non; no
+ja: ...ではない; ...ない; -ません; いいえ; いえ; ううん; 違う; いや
+ko: 안; ...아니다; 아니요; 아뇨; 아니
+lidepla: bu; non
+ms: tidak; bukan; endah (Sarawak); tak
+nl: niet; nee; neen
+pl: nie
+pt: não
+ro: nu
+ru: не; нет
+sv: inte; ej; icke; nej
+sw: hapana; sivyo
+ta: இல்லை; அல்ல
+te: కాదు; లేదు
+th: ไม่; ไม่ใช่; ไฮ้; เปล่า
+tl: hindi
+tr: değil; -ma; -me; yok; hayır
+uk: не; ні
+ur: نہیں; نہ; مت; جی نہیں; نے; لا; نا
+vi: không; chẳng; chả
+yue: 不; 唔
+
+word: chai
+class: noun
+infl: globasa (cay); hi (चाय/cāy, चायपत्ती/cāypattī); lidepla (chay); ru (чай/čaj); sw (chai); tr (çay); am (ሻይ/šay); ar (شَاي/šāy); bn (চা/ca); cmn (茶/chá, 茶葉/茶叶/cháyè); ha (shayi); ja (茶/cha, 茶葉/chaba); ko (차/cha); th (ชา/chaa); vi (trà)
+sense: drink made from leaves of tea plant | dried leaves of tea plant
+am: ሻይ
+ar: شَاي
+bg: чай
+bn: চা
+ca: te
+cmn: 茶; 茶水; 茶葉 /茶叶
+cs: čaj
+da: te; the
+de: Tee; Teeblatt; Teeblätter
+el: τσάι
+en: tea
+eo: teo
+es: té; hoja de té
+fi: tee; teenlehdet
+fr: thé
+globasa: cay
+glosa: tea
+ha: shayi; ti
+hi: चाय; चायपत्ती
+hu: tea; tealevél
+ia: the
+id: teh
+io: teo
+it: tè
+ja: 茶; お茶; ティー; 上がり; 上がり花; 出花; 茶葉
+ko: 차; 찻잎; 다엽
+lidepla: chay
+ms: teh; ca
+nl: thee
+pl: herbata
+pt: chá; folha de chá
+ro: ceai
+ru: чай
+sv: te
+sw: chai
+ta: தேநீர்; தேயிலை
+te: తేనీరు; టీ; తేయాకు
+th: ชา; น้ำชา; ใบชา
+tl: tsaa; tsa; saa
+tr: çay
+uk: чай
+ur: چائے
+vi: trà; chè; nước trà; nước chè; lá trà; lá chè
+yue: 茶
+
+word: char
+class: num
+infl: bn (চার/car); fa (چَهار/čahâr, چار/čâr); hi (चार/cār, चहार/cahār); lidepla (char); globasa (care)
+sense: the cardinal number 4
+am: አራት
+ar: أَرْبَعَة; أَرْبَع; ٤
+bg: че́тири
+bn: চার
+ca: quatre
+cmn: 四
+cs: čtyři; čtvery
+da: fire
+de: vier
+el: τέσσερα; δ΄
+en: four
+eo: kvar
+es: cuatro
+fa: چَهار; چار; ۴
+fi: neljä
+fr: quatre
+globasa: care
+glosa: tetra; tet; qatro; tesara
+ha: huɗu
+hi: चार; चहार
+hu: négy
+ia: quatro
+id: empat
+io: quar
+it: quattro
+ja: 四; 四つ; フォー
+ko: 넷; 네; 사; 포
+lidepla: char
+ms: empat; pat; catur
+nl: vier
+pcm: fọ́
+pl: cztery; czworo
+pt: quatro
+ro: patru
+ru: четы́ре
+sv: fyra
+sw: nne
+ta: நான்கு
+te: నాలుగు
+th: สี่
+tl: apat
+tpi: fopela
+tr: dört
+uk: чоти́ри; че́тверо
+ur: چار; چَہار; ۴
+vi: bốn
+yue: 四
+
+word: da
+class: pron
+infl: de (der, die, das); globasa (da); cmn (...的/... de); en (that)
+sense: who (relative pronoun) | relative pronoun (object) | (relative) who, whom, what | which
+ar: اَلَّذِي; اَلَّتِي; اَللَّذَانِ; اَللَّتَانِ; اَلَّذِينَ; اَللَّاتِي; اَللَّائِي; اللَّوَاتِي; الَّتِي; اَللَّذَيْنِ; اَللَّتَيْنِ; اَللَّوَاتِي
+arz: الي; إلى
+bg: кое́то; ко́йто; която; които; който; което; когато
+ca: qui; quins; qual; que; el qual; cosa que
+cmn: 所...的; ...的; 那; 那个
+cs: který; kteří; jemuž; jehož; komu; koho; kterého; jenž
+da: som; hvem; hvilken; hvis; der
+de: der; die; das; dem; den; welcher; was
+el: ο οποίος; η οποία; το οποίο; που
+en: who; whom; which; that (general relative clause marker)
+eo: kiu; kiuj; kiun; kiujn
+es: quien; quienes; cual; cuyo; que; el cual; la cual
+fa: کِه; که; -ی که
+fi: joka; jonka; jotka; mikä
+fr: qui; que
+globasa: hu; da; hu ... da
+glosa: qi
+hi: जो; जिस; कि
+hu: aki; akik; amelyik; ami; amely
+ia: qui; qual; que
+id: yang
+io: qua; qui
+it: che; cui
+ja: ...の
+ko: (not used in Korean)
+lidepla: kel; ti ... na
+ms: yang
+nl: die; wie; dat; wat
+pl: który
+pt: que; quem; o qual; a qual; os quais; as quais; qual
+ro: care; ce
+ru: что; кото́рый; кото́рая; кто; кото́рого; кото́рому; кото́рым; кото́ром
+sv: som; vilken; vilket; vilka
+th: ผู้; ซึ่ง; ที่
+tl: na
+tpi: husat
+uk: хто; що; ко́трий; ко́трого; котри́й; яки́й; котрий
+ur: جو
+vi: người; mà
+
+word: da-su; da ... su
+class: det
+sense: of whom (relative) | of which (relative)
+ar: اَلَّذِي; اَلَّتِي; اَلَّذِينَ; اَللَّوَاتِي
+ca: el subjecte del qual; de qui
+cs: jehož m or n jejíž f jejichž
+da: hvis
+de: dessen; deren
+el: του οποίου; της οποίας; των οποίων (ton opoíon)
+en: whose (in relative clauses)
+eo: kies
+es: de quien; cuyo; cuya; cuyas; cuyos
+fi: jonka
+fr: de qui; dont; duquel; de laquelle; desquels; desquelles
+globasa: dasu
+glosa: de qi
+hi: जिसका
+hu: (akinek …-a/-e/-ja/-je/-i/-ai/-ei/-jai/-jei (a/az))
+ia: cuje
+id: yang; yang mana
+it: il cui
+lidepla: kel-ney
+nl: van wie; wiens; wier; waarvan
+pl: który
+pt: cujo; cuja; cujos; cujas
+ro: cui
+ru: чей; кото́рого
+sv: vars
+ur: جس کا
 
 word: dai
 class: adj
@@ -1520,6 +1996,56 @@ ko: -을; -를
 lidepla: den
 tr: -i; -ı; -u; -ü
 
+word: elefan
+class: noun
+infl: fr (éléphant, éléphante); globasa (elefan); de (Elefant); en (elephant); es (elefante); glosa (elefa); lidepla (elefanta); tl (elepante)
+sense: mammal
+am: ዝሆን
+ar: فِيل
+bg: слон
+bn: হাতি
+ca: elefant
+cmn: 象; 大象
+cs: slon; slonice
+da: elefant
+de: Elefant
+el: ελέφαντας
+en: elephant
+eo: elefanto
+es: elefante
+fa: فِیل; پِیل; فیل; پیل; کنجر
+fi: norsu; elefantti
+fr: éléphant; éléphante
+globasa: elefan
+glosa: elefa
+ha: giwa
+hi: हाथी; हस्ती; गज; पील
+hu: elefánt
+ia: elephante
+id: gajah
+io: elefanto
+it: elefante
+ja: 象; ゾウ
+ko: 코끼리
+lidepla: elefanta
+ms: gajah; cewe untut; biram; liman
+nl: olifant; elpendier; elp
+pl: słoń; słonica
+pt: elefante; elefanta; aliá; elefoa; alifante
+ro: elefant
+ru: слон; слони́ха
+sv: elefant
+sw: ndovu; tembo
+ta: யானை
+te: ఏనుగు; గజము
+th: ช้าง; คชสาร
+tl: elepante; gadya
+tr: fil
+uk: слон; слони́ха
+ur: ہاتھی; ہَسْتی; گَج; فِیل; پِیل
+vi: voi
+yue: 象; 大象; 大笨象
+
 word: estara
 class: noun
 infl: lidepla (stara); bn (তারকা/tarka, তারা/tara, সিতারা/śitara, আখতার/akhtar); de (Stern); en (star); es (astro); fa (سِتَارَه/sitāra, اَخْتَر/axtar, سِتارِه/setâre); fr (astre); globasa (estare); glosa (astro); hi (तारा/tārā, सितारा/sitārā); te (తార/tāra); tl (tala)
@@ -1822,6 +2348,56 @@ ur: سوچْنا; وِچار; فِکْر; اَنْدیشَہ
 vi: nghĩ; suy nghĩ; tư duy
 yue: 諗 /谂
 
+word: flura
+class: noun
+infl: globasa (flura); en (flower); es (flor); fr (fleur); glosa (flori); ha (fure); lidepla (flor)
+sense: reproductive structure in angiosperms
+am: አበባ
+ar: زَهْرَة; زُهُور; أَزْهَار; وَرْدَة
+bg: цве́те
+bn: ফুল
+ca: flor
+cmn: 花; 花兒 /花儿; 花朵; 花卉
+cs: květ
+da: blomst
+de: Blüte; Blume
+el: άνθος; λουλούδι; ανθός
+en: flower
+eo: floro
+es: flor
+fa: گُل; اِسْپَرْغَم
+fi: kukka
+fr: fleur
+globasa: flura
+glosa: flori
+ha: fure
+hi: फूल; पुष्प
+hu: virág
+ia: flor
+id: bunga; kembang; puspa
+io: floro
+it: fiore
+ja: 花
+ko: 꽃
+lidepla: flor
+ms: bunga; kesuma
+nl: bloem
+pl: kwiat
+pt: flor
+ro: floare
+ru: цвето́к; цветы́
+sv: blomma
+sw: ua
+ta: மலர்; பூ
+te: పువ్వు; పుష్పము
+th: ดอก; ดอกไม้; บุษบา
+tl: bulaklak
+tr: çiçek
+uk: кві́тка; цвіт
+ur: پُھول
+vi: hoa; bông
+yue: 花
+
 word: fo
 class: prep
 infl: en (for); lidepla (fo)
@@ -1866,6 +2442,54 @@ uk: для; зара́ди; за; до; на
 ur: ... کے لئے; کیلئے; برائے
 vi: cho; để
 yue: 為了 /为了
+
+word: foksa
+class: noun
+infl: lidepla (foxa); de (Fuchs); en (fox); ja (フォックス/fokkusu)
+sense: Vulpes
+am: ቀበሮ
+ar: ثَعْلَب
+bg: лиси́ца
+bn: শিয়াল; খেঁকশিয়াল
+ca: guineu; guilla; rabosa
+cmn: 狐狸
+cs: liška
+da: ræv
+de: Fuchs
+el: αλεπού
+en: fox
+eo: vulpo
+es: zorro; zorra; raposo; raposa; vulpeja; raboso; rabosa
+fa: روباه; روبَه
+fi: kettu
+fr: renard; renard roux; renard commun
+globasa: rubahe
+glosa: Vulpes; alopecia
+hi: लोमड़ी
+hu: róka
+id: rubah
+io: foxo
+it: volpe; gorpe
+ja: 狐; キツネ; フォックス
+ko: 여우
+lidepla: foxa
+ms: rubah; musang
+nl: vos
+pl: lis; lisica; liszka
+pt: raposa; raposa-vermelha
+ro: vulpe
+ru: лиса́; лиси́ца; лис
+sv: räv
+sw: mbweha mwekundu; thalabu
+ta: நரி
+te: నక్క
+th: จิ้งจอก
+tl: soro
+tr: tilki
+uk: лис; лиси́ця
+ur: لومْڑی
+vi: cáo
+yue: 狐狸
 
 word: fon
 class: prep
@@ -1974,6 +2598,52 @@ ur: کَلیجا; جِگَر
 vi: gan
 yue: 肝
 
+word: garme
+class: adj
+infl: hi (गरम/garam, गर्म/garm); lidepla (garme)
+sense: having a high temperature
+ar: حَارّ; سَاخِن
+bg: горе́щ
+bn: গরম
+ca: calent
+cmn: 熱 /热; 燙 /烫
+cs: horký
+da: hed; varm
+de: heiß
+el: ζεστός; θερμός
+en: hot
+eo: varma; varmega
+es: caliente; muy caliente
+fa: داغ
+fi: kuuma
+fr: chaud; très chaud
+globasa: termoday (termo+day); termopul (termo+pul); daytermopul (day+termo+pul)
+glosa: termo; kalori; kalido; toridi
+hi: गरम; गर्म; उष्ण; तपित
+hu: meleg
+ia: (multo) calide
+id: panas
+io: varmega
+it: caldo; molto caldo; bollente
+ja: 熱い
+ko: 뜨겁다
+lidepla: garma-ney; garme
+ms: panas
+nl: heet; warm
+pl: gorący
+pt: (muito) quente
+ro: cald; fierbinte
+ru: горя́чий
+sv: het; varm
+te: వేడైన
+th: ร้อน
+tl: mainit; nakapapaso
+tr: sıcak
+uk: гаря́чий
+ur: گَرْم
+vi: nóng
+yue: 熱 /热
+
 word: gin-
 class: prefix
 infl: lidepla (gin-); de (-in)
@@ -2004,6 +2674,105 @@ pt: -a; -esa
 ro: -iță; -easă
 ru: -ка; -ша; -ица; -ница; -и́са; -е́сса; -а; -чица; -иня; -ыня; -и́ха; -ья; -у́ха
 sv: hon-; hona; -inna; -essa; -ska
+
+word: gin-bete
+class: noun
+sense: female offspring
+am: ሴት ልጅ
+ar: اِبْنَة; بِنْت
+bg: дъщеря́; ще́рка
+bn: মেয়ে; বালিকা
+ca: filla
+cmn: 女兒 /女儿
+cs: dcera
+da: datter
+de: Tochter
+el: κόρη; θυγατέρα
+en: daughter
+eo: filino
+es: hija
+fa: دُخْتَر; فَرْزَنْد
+fi: tytär
+fr: fille
+globasa: fembete
+glosa: fe-fili
+ha: 'ya; ɗiya
+hi: बेटी; लड़की; पुत्री; दुख़्तर
+hu: lány
+ia: filia
+id: putri; anak perempuan
+io: filiino
+it: figlia
+ja: 娘; お嬢さん
+ko: 딸; 따님
+lidepla: docha
+ms: anak perempuan; anak
+nl: dochter
+pl: córka
+pt: filha
+ro: fiică
+ru: дочь; до́чка
+sv: dotter
+sw: binti
+ta: மகள்
+te: కూతురు; కుమార్తె; పుత్రిక; అమ్మాయి
+th: ลูกสาว
+tl: anak
+tr: kız; kız evlat
+uk: дочка́; до́нька
+ur: بیٹی; پُتْری; کُڑی; دُخْتَر
+vi: con gái
+yue: 女
+
+word: gin-bovi
+class: noun
+sense: female domesticated ox or other bovine
+am: ላም
+ar: بَقَرَة
+bg: кра́ва
+bn: গাই; গরু
+ca: vaca
+cmn: 母牛
+cs: kráva
+da: ko
+de: Kuh
+el: αγελάδα
+en: cow (female)
+eo: bovino
+es: vaca
+fa: مادِهگاو; گاو
+fi: lehmä
+fr: vache
+globasa: femmumu
+glosa: fe-bovi; fe-bu
+ha: saniya
+hi: गाय; गो; गऊ; बकर
+hu: tehén
+ia: vacca
+id: sapi
+io: bovino
+it: vacca; mucca
+ja: 雌牛; 牛
+ko: 암소
+lidepla: gin-gova; govina
+ms: lembu
+nl: koe
+pl: krowa
+pt: vaca
+ro: vacă
+ru: коро́ва
+sv: ko; kossa
+sw: ng'ombe
+ta: பசு
+te: ఆవు; గోవు
+th: วัว; โค
+tl: baka
+tpi: bulmakau meri
+tr: inek; sığır
+uk: коро́ва
+ur: گای; گو; گَئُو; بَقَر
+vi: bò cái
+yue: 母牛; 牛乸
 
 word: gin-rega
 class: noun
@@ -2053,6 +2822,55 @@ uk: короле́ва; цари́ця
 ur: مَلِکَہ; رانی; مَہَارَانی
 vi: nữ hoàng; bà hoàng; bà chúa; nữ vương
 yue: 王后; 女王
+
+word: gin-sodar
+class: noun
+sense: woman or girl having the same parents
+am: እህት; እኅት
+ar: أُخْت; شَقِيقَة
+bg: сестра́
+bn: বোন; আপা; বুবু
+ca: germana
+cmn: 姐姐; 妹妹; 姐妹; 嬃 /媭; 姊妹
+cs: sestra
+da: søster
+de: Schwester
+el: αδελφή; αδερφή
+en: sister
+eo: fratino
+es: hermana
+fa: خوَاهَر; خْوَاهَر; هَمْشِیرَه; اُخْت; خواهَر; هَمْشیرِه
+fi: sisko; sisar
+fr: sœur
+globasa: femsodar
+glosa: fe-sibi; sorori; adelfa
+ha: ya
+hi: बहन; बहिन
+hu: nővér; húg
+ia: soror
+id: saudari; kakak perempuan; adik perempuan
+io: fratino
+it: sorella
+ja: 姉妹; 姉; お姉さん; 妹
+ko: 자매; 누나; 언니; 여동생; 녀동생; 동생; 누이
+lidepla: sista
+ms: kakak; adik perempuan
+nl: zus; zuster
+pl: siostra
+pt: irmã
+ro: soră; surori
+ru: сестра́
+sv: syster
+sw: dada; umbu
+ta: அக்கா; தங்கை; சகோதரி
+te: సోదరి; అక్క; అక్కయ్య; చెల్లి; చెల్లెలు
+th: พี่สาว; น้องสาว
+tl: kapatid na babae; ate; nene; ditse; sanse; sitse
+tr: abla; kız kardeş; bacı
+uk: сестра́
+ur: بَہَن; بَہِن; اُخْت
+vi: chị or chị gái; em gái; em
+yue: 姐姐; 家姐; 妹妹; 姊妹
 
 word: gina
 class: noun
@@ -2156,6 +2974,52 @@ uk: трава́; мурава́; морі́г
 ur: گھاس; عَلَف; سَبْزَہ
 vi: cỏ
 yue: 草
+
+word: gri
+class: adj
+infl: fr (gris); glosa (gri); tr (gri); de (grau); en (gray); es (gris); lidepla (grey); ru (се́рый/séryj)
+sense: of a color somewhere between white and black, as the ash of an ember | –
+ar: رَمَادِيّ; أَشْيَب; أَشْهَب; رَصَاصِيّ
+bg: сив
+bn: ধূসর
+ca: gris
+cmn: 灰色
+cs: šedý
+da: grå
+de: grau
+el: γκρίζος; φαιός
+en: gray; grey
+eo: griza
+es: gris
+fi: harmaa
+fr: gris
+globasa: hwese
+glosa: polio; cinera; gri; kanesce
+hi: धूसर
+hu: szürke; ősz
+id: abu-abu
+io: griza
+it: grigio
+ja: 灰色; 鼠色
+ko: 회색(灰色)의; 잿빛의
+lidepla: grey
+ms: abu; kelabu
+nl: grijs
+pl: szary; siwy
+pt: cinza; cinzento; gris
+ro: brumăriu; cenușiu; sur
+ru: се́рый; седо́й
+sv: grå
+sw: kijivu
+ta: சாம்பல் நிறம்
+te: నెరిసిన
+th: เทา
+tl: abuhin; kulay-abo
+tr: gri; boz; kır
+uk: сі́рий
+ur: سُرْمَئی; دُھوسَر; خاکِسْتَری
+vi: xám; màu xám; hoa râm
+yue: 灰色
 
 word: grin
 class: adj
@@ -2449,6 +3313,52 @@ uk: в; у; во; ув; вві; уві; ві
 ur: اندر; ... میں; بھیتر
 vi: trong; ở; tại
 
+word: in da
+class: adv
+sense: at or in which place | at or in what place
+am: የት
+ar: حَيْث; أَيْنَ
+arz: فين
+bg: къде́; откъде́
+bn: কোথায়; কই
+ca: on
+cmn: 哪裡 /哪里; 哪兒 /哪儿; 那裡 /那里; 那兒 /那儿
+cs: kde; odkud
+da: hvor
+de: wo; woher
+el: όπου
+en: where (in relative clauses)
+eo: kie
+es: donde; dónde
+fa: کُجَا; کُجا
+fi: jossa; missä; siellä missä
+fr: où; d'où
+globasa: denloka; in da
+glosa: topo; to
+hi: कहाँ; किधर
+hu: ahol; hol; merre
+ia: ubi
+id: mana; di mana; ke mana
+io: ube
+it: dove
+ja: どこ; そこ
+ko: 어디
+ms: mana; di mana; ke mana
+nl: waar; waarvan; waarvandaan
+pl: gdzie; skąd
+pt: onde; aonde
+ro: unde; de unde
+ru: где; отку́да; куда́
+sv: där; var
+ta: எங்கே
+th: ที่ไหน; ไหน
+tl: kung saan
+tr: nerede
+uk: де; звідки́; куди
+ur: جَہاں
+vi: đâu
+yue: 邊度 /边度; 邊處 /边处
+
 word: inom
 class: verb
 infl: tl (inom); id (minum); ja (飲む/nomu)
@@ -2716,6 +3626,105 @@ uk: яйце́
 ur: اَنْڈا; تُخْم
 vi: trứng
 yue: 卵
+
+word: kam
+class: det
+infl: ar (كَم/kam); tr (kaç)
+sense: what number | what quantity
+ar: كَم; كَمْ
+bg: ко́лко
+bn: কত
+ca: quants; quantes; quant
+cmn: 多少; 幾 /几; 幾個 /几个
+cs: kolik
+da: hvor mange; hvor meget
+de: wie viele; wie viel
+el: πόσοι; πόσος; πόση; πόσο
+en: how many; how much
+eo: kiom
+es: cuántos; cuántas; cuánto
+fa: چند; چند تا; چِقَدر; چَند
+fi: kuinka monta; montako; paljonko; kuinka paljon
+fr: combien
+globasa: kenumer (ke+numer); kekwanti (ke+kwanti)
+glosa: qanto
+hi: कितने; कितना
+hu: hány; mennyi
+ia: quante
+id: berapa
+io: quanta
+it: quanti; quante; quanto; quanta
+ja: 幾つ; いくつ; 何; 幾-; 幾ら; いくら
+ko: 몇; 얼마; 얼마나
+lidepla: kwanto
+ms: berapa
+nl: hoeveel
+pl: ile
+pt: quantos; quantas; quanto; quanta
+ro: câți; câte; cât
+ru: ско́лько
+sv: hur många; hur mycket
+sw: -ngapi; kiasi gani
+ta: எத்தனை
+th: เท่าไร; กี่
+tl: ilan; ilang beses; gaano
+tpi: hamas
+tr: kaç; ne kadar
+uk: скі́льки
+ur: کِتنے; کِتْنا
+vi: mấy; bao nhiêu
+yue: 幾 /几; 幾多 /几多
+
+word: kamus
+class: noun
+infl: ar (قَامُوس/qāmūs); ha (ƙamus); hi (क़ामूस/qāmūs); id (kamus); fa (قَامُوس/qāmūs); sw (kamusi)
+sense: publication that explains the meanings of an ordered list of words
+am: መዝገበ ቃላት
+ar: قَامُوس; مُعْجَم
+bg: ре́чник
+bn: অভিধান; ডিকশনারী; ডিকশনারি
+ca: diccionari
+cmn: 字典; 詞典 /词典; 辭典 /辞典; 辭林 /辞林
+cs: slovník; vokabulář; lexikon
+da: ordbog
+de: Wörterbuch; Dictionnaire
+el: λεξικό
+en: dictionary
+eo: vortaro
+es: diccionario
+fa: لُغَتنَامَه; فَرْهَنْگ; وَاژَهنَامَه; لُغَت; قَامُوس; لُغَتنامِه; واژِهنامِه; قاموس; فرهنگنامه; کتاب لغت
+fi: sanakirja
+fr: dictionnaire; dico
+globasa: menalari (mena+lari)
+glosa: verba-bibli; verba-lista; lexiko; diktionaria
+ha: ƙamus
+hi: शब्दकोश; शब्दकोष; कोश; डिक्शनरी; डिश्कनरी; शब्दसंग्रह; शब्दवारिधि; अभिधान; अभिधानमाला; लुग़त; लुग़ात; लुगत; लुगात; फरहंग; निघंटु; क़ामूस
+hu: szótár
+ia: dictionario
+id: kamus; bausastra
+io: vortolibro; dicionario; lexiko; vortaro
+it: dizionario; lessico; vocabolario
+ja: 辞書; 字書; 辞典; 字典; 字引
+ko: 사전; 자서; 자전
+lidepla: lexikon
+ms: kamus; buku katan; bausastera
+nl: woordenboek; dictionaire
+pl: słownik; leksykon
+pt: dicionário
+ro: dicționar
+ru: слова́рь; лексико́н
+sv: ordbok; ordlista; lexikon
+sw: kamusi
+ta: அகரமுதலி; அகராதி; நிகண்டு
+te: నిఘంటువు; పదకోశము; శబ్దకోశము
+th: พจนานุกรม; ดิกชันนารี; ดิก; ปทานุกรม
+tl: talatinigan; talahuluganan; diksyunaryo; diksiyonaryo
+tpi: dikseneri
+tr: sözlük
+uk: словни́к
+ur: لُغَت; ڈِکْشَنْری; فَرْہَن٘گ; شَبْدَکوش; شَبْد کوش; قامُوس; معجم; فَرْہَن٘گ نامہ; لغت نامہ
+vi: từ điển
+yue: 字典; 詞典 /词典
 
 word: kani
 class: noun
@@ -3281,51 +4290,6 @@ uk: чому́; чом; як так
 ur: کیوں; کاہے
 vi: sao; vì sao; tại sao; tai sao
 yue: 點解 /点解; 為乜 /为乜; 做乜; 做乜嘢; 做咩
-
-word: kel-kwanti
-class: det
-sense: what quantity
-ar: كَمْ
-bg: ко́лко
-bn: কত
-ca: quant
-cmn: 多少; 幾 /几
-cs: kolik
-da: hvor meget
-de: wie viel
-el: πόσος; πόση; πόσο
-en: how much
-eo: kiom
-es: cuánto
-fa: چِقَدر; چَند
-fi: paljonko; kuinka paljon
-fr: combien
-globasa: kekwanti
-glosa: qanto
-hi: कितना
-hu: mennyi
-id: berapa
-io: quanta
-it: quanto; quanta
-ja: 幾ら; いくら
-ko: 얼마나; 얼마
-lidepla: kwanto
-ms: berapa
-nl: hoeveel
-pl: ile
-pt: quanto; quanta
-ro: cât
-ru: ско́лько
-sv: hur mycket
-sw: kiasi gani
-th: เท่าไร; กี่
-tl: gaano
-tpi: hamas
-tr: ne kadar
-uk: скі́льки
-ur: کِتْنا
-vi: mấy; bao nhiêu
-yue: 幾多 /几多
 
 word: kel-lok
 class: adv
@@ -4562,6 +5526,53 @@ ur: جِیبھ; زَبان; زُبان; لِسان
 vi: lưỡi
 yue: 舌頭 /舌头; 舌; 脷
 
+word: lito
+class: noun
+infl: glosa (lito); cmn (石頭/石头/shítou); tl (bato)
+sense: substance
+ar: حَجَر
+bg: ка́мък
+bn: পাথর
+ca: pedra; roca
+cmn: 石; 石頭 /石头
+cs: kámen
+da: sten
+de: Stein
+el: λίθος
+en: stone
+eo: ŝtono
+es: piedra; roca
+fa: سنگ; برد
+fi: kivi
+fr: pierre; roche
+globasa: petra
+glosa: lito; petro; -li
+hi: पत्थर; शिला; रोड़ा; हजर; संग; शिल; सिल
+hu: kő
+ia: petra
+id: batu
+io: petro
+it: pietra; roccia
+ja: 石
+ko: 돌
+lidepla: ston
+ms: batu
+nl: steen
+pl: kamień
+pt: pedra; rocha
+ro: piatră
+ru: ка́мень
+sv: sten
+sw: jiwe
+ta: கல்
+te: రాయి
+th: หิน; ศิลา
+tl: bato
+tr: taş
+uk: ка́мінь
+ur: پتھر; شلا
+vi: đá
+
 word: lok
 class: noun
 infl: lidepla (-lok); en (location); globasa (loka); glosa (loka, -lo); tl (pook); tr (lokasyon)
@@ -5699,6 +6710,54 @@ ur: نام; اِسْم
 vi: tên
 yue: 名; 名字; 名稱 /名称
 
+word: namba
+class: noun
+infl: en (number); lidepla (namba); sw (nambari, namba); fr (nombre); glosa (numera)
+sense: quantity | abstract entity used to describe quantity | mathematics: number | grammar: state of being singular, dual or plural
+am: ቁጥር
+ar: عَدَد
+bg: коли́чество; число́; число
+bn: সংখ্যা; বচন
+ca: nombre
+cmn: 多少; 數碼 /数码; 數 /数; 數目 /数目; 數字 /数字
+cs: množství; číslo
+da: tal
+de: Anzahl; Zahl; Numerus
+el: αριθμός; ποσότητα; πλήθος
+en: number (quantity, amount, mathematical or grammatical concept)
+eo: nombro
+es: número; cantidad; serie; guarismo
+fa: تِعْداد; شُمَارَه; رَقَم; عَدَد; شُمارِه; نُمْرِه
+fi: lukumäärä; määrä; luku
+fr: nombre
+globasa: numer
+glosa: numera; aritme; cifra
+hi: संख्या; अंक
+hu: szám; létszám
+ia: numero
+id: angka; bilangan
+io: nombro
+it: numero; quantità
+ja: 数; 数字
+ko: 숫자; 수량; 수
+lidepla: namba
+ms: nombor; angka; bilangan
+nl: aantal; hoeveelheid; getal
+pl: liczba; ilość
+pt: quantidade; número
+ro: cantitate; număr
+ru: число́; коли́чество
+sv: antal; numerär; tal; heltal; numerus
+sw: idadi; hesabu; nambari; namba
+ta: எண்
+te: మొత్తము; సంఖ్య; ఒంటరి; ఒకటిగా
+th: จำนวน; เลข
+tl: bilang; kailanan
+tr: sayı; rakam; adet
+uk: число́; кі́лькість
+ur: تِعْداد; عَدَد; تَعْداد
+vi: số
+
 word: nasa
 class: noun
 infl: globasa (nasa); glosa (nasa); bn (নাক/nak); de (Nase); en (nose); es (napia, napias, naso); hi (नाक/nāk, नासिका/nāsikā); ja (鼻/hana); lidepla (nos); ru (нос/nos); th (นัตถุ์/nát, นาสิก/naa-sìk); tpi (nus)
@@ -5800,56 +6859,56 @@ ur: آن٘کھ; نَین; عَین; چَشْم
 vi: mắt
 yue: 眼; 眼睛
 
-word: no
-class: particle
-infl: es (no); globasa (no); bn (না/na); en (not); fa (نه/na); fr (ne); glosa (ne); hi (न/na); ru (не/ne)
-sense: negates meaning of another word | used to show disagreement or negation
-am: አይደለም
-ar: لَا; مَا; لَم; لَن; لَيْسَ
-arz: لَأ; لَا
-bg: не
-bn: না; জি না; জ্বী না
-ca: no; no ... pas
-cmn: 不; 沒 /没; 沒有 /没有; 別 /别; 無 /无; 未; 非; 否
-cs: ne-; ne
-da: ikke; ej; nej
-de: nicht; nein
-el: δε; δεν; μη; μην; όχι
-en: not; no (answer or exclamation)
-eo: ne
-es: no
-fa: نه
-fi: ei
-fr: ne ... pas; pas; ne; non
-globasa: no
-glosa: ne
-ha: ba
-hi: नहीं; न; मत; जी नहीं
-hu: nem
-ia: non; no
-id: tidak; tak
-io: ne; no
-it: non; no
-ja: ...ではない; ...ない; -ません; いいえ; いえ; ううん; 違う; いや
-ko: 안; ...아니다; 아니요; 아뇨; 아니
-lidepla: bu
-ms: tidak; bukan; endah (Sarawak); tak
-nl: niet; nee; neen
-pl: nie
-pt: não
-ro: nu
-ru: не; нет
-sv: inte; ej; icke; nej
-sw: hapana; sivyo
-ta: இல்லை; அல்ல
-te: కాదు; లేదు
-th: ไม่; ไม่ใช่; ไฮ้; เปล่า
-tl: hindi
-tr: değil; -ma; -me; yok; hayır
-uk: не; ні
-ur: نہیں; نہ; مت; جی نہیں; نے; لا; نا
-vi: không; chẳng; chả
-yue: 不; 唔
+word: nini
+class: noun
+infl: globasa (nini); de (Kind); es (niño, niña); ko (어린이/eorini)
+sense: son or daughter; someone's child | a minor
+am: ልጅ; ብላቴና
+ar: وَلَد; اِبْن; اِبْنَة; طِفْل; طِفْلَة
+bg: дете́; че́до; ро́жба
+bn: বাচ্চা; শিশু; ওলদ
+ca: nen; nena; fill; filla; xiquet; xiqueta
+cmn: 小孩; 小孩子; 孩子; 小孩兒 /小孩儿; 孺子
+cs: dítě
+da: barn; børn
+de: Kind
+el: παιδί; τέκνο; ανήλικος
+en: child
+eo: infano; infanino; virinfano
+es: hijo; hija; niño; niña; ñaño; escuintle
+fa: بَچِّه; بَچِه; کودَک; فَرزَنْد; کُر
+fi: lapsi; tytär; tyttö; poika; ipana; natiainen; vaahtosammutin; penikka; penska; napero; kersa; piltti; taapero; junnu; toukka; kakru; pirpana; tenava; vekara; alaikäinen
+fr: enfant
+globasa: nini
+glosa: infanti; paedi; pueri; tekno
+ha: ya’ya
+hi: बच्चा; बेटा; बेटी; शिशु; लड़का; लड़की; छोरा; छोरी; बच्ची; बालक; बालिका; कन्या
+hu: gyerek; gyermek; kölyök
+ia: filia; infante
+id: anak; kanak
+io: infanto; infantulo; infantino; puero; puerulo; puerino; filio; filiulo; filiino
+it: bambino; bambina; figlio; figlia
+ja: 子供; 子; 未成年
+ko: 어린이; 아이; 애
+ms: budak; anak
+nl: kind
+pcm: pikin
+pl: dziecko
+pt: filho; filha; criança; menino; menina; miúdo
+ro: fiu; fiică; copil; copilă
+ru: ребёнок; дитя́
+sv: barn
+sw: mtoto; mwana
+ta: குழந்தை; மக
+te: పాప
+th: ลูก; เด็ก; ศิศุ
+tl: anak; bata
+tpi: pikinini
+tr: çocuk; evlat
+uk: дити́на; дитя́; дитя́тко
+ur: بَچَّہ; بیٹا; بیٹی
+vi: đứa bé; đứa trẻ; con
+yue: 仔女; 細路 /细路; 細蚊仔 /细蚊仔; 細路哥 /细路哥; 細路仔 /细路仔
 
 word: nocha
 class: noun
@@ -6039,6 +7098,48 @@ uk: наш
 ur: ہمارا
 vi: của chúng tôi
 yue: 我哋嘅
+
+word: numer
+class: noun
+infl: globasa (numer); lidepla (numer); bn (নম্বর/nombor); de (Nummer); es (número); fa (شُمَارَه/šumāra); fr (numéro); glosa (numera); hi (नंबर/nambar); ms (nombor); ru (но́мер/nómer)
+sense: used to show the rank of something in a list or sequence
+ar: رَقْم
+bg: но́мер
+bn: নম্বর
+ca: número
+cmn: 號碼 /号码; 號 /号
+cs: číslo
+de: Nummer
+el: αριθμός; νούμερο
+en: number (position in sequence or identifier, e.g. of a house or phone)
+eo: numero
+es: número
+fa: شُمَارَه; شُمارِه; نُمْرِه
+fi: numero
+fr: numéro
+globasa: numer
+glosa: numera
+hi: नंबर
+hu: -odik; -adik; -edik; -ödik; -os; -as; -es; -ös; sorszám; jelzés; számjelzés
+io: numero
+it: numero
+ja: 番
+ko: 번호; 번
+lidepla: numer
+ms: nombor
+nl: nummer
+pl: numer
+pt: número
+ro: număr
+ru: но́мер
+sv: nummer
+sw: nambari
+te: శ్రేణి
+tr: sayı
+uk: но́мер
+ur: نَمْبَر
+vi: số
+yue: 號碼 /号码; 號 /号
 
 word: nyan
 class: noun
@@ -6506,6 +7607,55 @@ ur: تِتْلی
 vi: bươm bướm; bướm
 yue: 蝴蝶
 
+word: pingo
+class: noun
+infl: globasa (pingo); cmn (蘋果/苹果/píngguǒ); yue (蘋果/苹果/ping⁴ gwo²)
+sense: fruit of Malus domestica
+am: ፖም
+ar: تُفَّاحَة; تُفَّاح
+bg: я́бълка
+bn: আপেল; সেব
+ca: poma
+cmn: 蘋果 /苹果
+cs: jablko
+da: æble
+de: Apfel
+el: μήλο; μᾶλον
+en: apple
+eo: pomo
+es: manzana; poma
+fa: سیب
+fi: omena
+fr: pomme
+globasa: pingo
+glosa: pomi; malu
+hi: सेब; सेव; सेउ
+hu: alma
+ia: pomo
+id: apel
+io: pomo
+it: mela; pomo
+ja: 林檎; 苹果
+ko: 사과
+lidepla: yabla
+ms: epal; tufah; apel
+nl: appel
+pl: jabłko
+pt: maçã
+ro: măr
+ru: я́блоко
+sv: äpple
+sw: tofaa
+ta: ஆப்பழம்; குமளி; ஆப்பிள்
+te: కాయ; ఆపిల్
+th: แอปเปิล
+tl: mansanas
+tr: elma; tüffah
+uk: я́блуко
+ur: سیب
+vi: táo tây; bôm; táo; bom
+yue: 蘋果 /苹果
+
 word: plis
 class: intj
 infl: en (please); lidepla (plis); bn (প্লিজ/plij)
@@ -6959,6 +8109,55 @@ uk: жо́втий
 ur: پِیلا; زَرْد; اَصْفَر
 vi: vàng; màu vàng
 yue: 黃 /黄
+
+word: sai
+class: adj
+infl: th (ซ้าย/sáai); vi (trái)
+sense: west side of the body when one is facing north
+am: ግራ
+ar: يَسَار; شِمَال
+bg: ляв
+bn: বাঁ
+ca: esquerre
+cmn: 左
+cs: levý; levá; levé
+da: venstre
+de: link
+el: αριστερός
+en: left (not right)
+eo: maldekstra; liva
+es: izquierda
+fa: چپ
+fi: vasen
+fr: gauche
+globasa: suo
+glosa: laevo; sinistro
+hi: बायाँ; बाएँ
+hu: bal
+ia: sinistre; leve
+id: kiri
+io: sinistra
+it: sinistro
+ja: 左
+ko: 왼; 왼쪽
+lidepla: lefte
+ms: kiri
+nl: links; linker
+pl: lewy
+pt: esquerdo
+ro: stâng
+ru: ле́вый
+sv: vänster
+sw: kushoto
+ta: இடது
+te: ఎడమ
+th: ซ้าย
+tl: kaliwa
+tr: sol
+uk: лі́вий
+ur: بایاں
+vi: trái
+yue: 左
 
 word: sali
 class: noun
@@ -7724,6 +8923,56 @@ tr: basit; sade
 uk: про́стий; ле́гкий
 ur: آسان
 vi: giản dị; mộc mạc; đơn giản; giản đơn
+
+word: sodar
+class: noun
+infl: globasa (sodar); fr (sœur); hi (सहोदर/sahodar); id (saudara, saudari); ja (兄弟/kyōdai); te (సోదరుడు/sōdaruḍu, సోదరి/sōdari)
+sense: person who shares same parents | male sibling | woman or girl having the same parents
+am: ወንድም; እህት; እኅት
+ar: شَقِيق; شَقِيقَة; أَخ; أُخْت
+bg: брат; сестра́
+bn: সহোদর; ভাই; ভ্রাতা; বেরাদর; বোন; আপা; বুবু
+ca: germà; germana
+cmn: 兄弟姐妹; 兄弟; 姐妹; 同胞; 哥哥; 弟弟; 姐姐; 妹妹; 嬃 /媭; 姊妹
+cs: sourozenec; bratr; brat; sestra
+da: bror; søster; søskende; broder
+de: Geschwisterchen; Geschwisterkind; Bruder; Schwester; Geschwister
+el: αδέλφι; αδελφός; αδερφός; αδελφή; αδερφή
+en: sibling; brother; sister
+eo: gefrato; gefratoj; frato; fratino
+es: hermano; hermana
+fa: همنیا; همشیره; بَرَادَر; لَالَا; اَخ; بَرادَر; داداش; خوَاهَر; خْوَاهَر; هَمْشِیرَه; اُخْت; خواهَر; هَمْشیرِه
+fi: sisarus; veli; sisko; sisar
+fr: frère et sœur; adelphe; fratrie; frères et sœurs; frœur; frère; sœur
+globasa: sodar
+glosa: sibi
+ha: ɗanuwa; ya
+hi: सहोदर; भाई; भ्राता; दादा; भाऊ; वीर; बंधु; भैया; भ्रातृ; बहन; बहिन
+hu: testvér; fivér; fiútestvér; bátya; öcs; nővér; húg
+ia: fratre; soror
+id: kakak; adik; saudara; kakak laki-laki; abang; adik laki-laki; saudari; kakak perempuan; adik perempuan
+io: frato; fratulo; fratino
+it: fratello; sorella; parente; congiunto; consanguineo; germano
+ja: 兄弟; 兄弟姉妹, 同胞, 同胞; 兄; お兄さん; 兄ちゃん; 弟; 姉妹; 姉; お姉さん; 妹
+ko: 형제; 형제자매; 형; 형님; 오빠; 남동생; 동생; 아우; 오라버님; 자매; 누나; 언니; 여동생; 녀동생; 누이
+lidepla: brata; sista
+ms: abang; kakak; adik; adik lelaki; adik perempuan
+nl: brus; sibling; broer; broeder; zus; zuster
+pl: rodzeństwo; brat; siostra
+pt: irmão; irmã
+ro: frate; soră; surori
+ru: брат; сестра́
+sv: syskon; bror; broder; syster
+sw: ndugu; kaka; dada; umbu
+ta: சகோதரன்; அண்ணன்; தம்பி; அக்கா; தங்கை; சகோதரி
+te: తోబుట్టువు; అన్న; తమ్ముడు; సోదరుడు; సోదరి; అక్క; అక్కయ్య; చెల్లి; చెల్లెలు
+th: พี่; น้อง; พี่น้อง; พี่ชาย; น้องชาย; ภราดร; ภราดา; พี่สาว; น้องสาว
+tl: kapatid; kaka; kapatid na lalaki; kuya; diko; sangko; kapatid na babae; ate; nene; ditse; sanse; sitse
+tr: kardeş; erkek kardeş; birader; ağabey; abla; kız kardeş; bacı
+uk: суро́дженець; родже́нство; брат; сестра́
+ur: سہودر; بھائی; بْھراتا; بَہَن; بَہِن; اُخْت
+vi: anh chị em; anh or anh trai; em trai; em; anh em; chị or chị gái; em gái
+yue: 哥哥; 弟弟; 兄弟; 大佬; 細佬 /细佬; 阿哥; 姐姐; 家姐; 妹妹; 姊妹
 
 word: soho
 class: pron
@@ -8640,6 +9889,58 @@ ur: ریل گاڑی; گاڑی; قِطار; ریل; ٹرین
 vi: xe lửa; tàu hỏa; tàu lửa; hỏa xa
 yue: 火車 /火车; 列車 /列车
 
+word: tri
+class: num
+infl: en (three); glosa (tri); hi (त्रि/tri); lidepla (tri); ru (три/tri); de (drei); es (tres); fr (trois); ja (スリー/surī); ko (쓰리/sseuri); pcm (tre)
+sense: cardinal number 3
+am: ሦስት; ሶስት
+ar: ثَلَاثَة; ثَلَاث
+bg: три
+bn: তিন
+ca: tres
+cmn: 三
+cs: tři; troje
+da: tre
+de: drei
+el: τρία; γ΄
+en: three
+eo: tri
+es: tres
+fa: سِه; ۳
+fi: kolme
+fr: trois
+globasa: tiga
+glosa: tri
+ha: ukù
+hi: तीन; त्रि
+hu: három
+ia: tres
+id: tiga
+io: tri
+it: tre
+ja: 三; 三つ; スリー
+ko: 셋; 세; 석; 삼; 쓰리
+lidepla: tri
+ms: tiga; telu; tri
+nl: drie
+pcm: tre
+pl: trzy; troje; trójka
+pt: três
+ro: trei
+ru: три; тро́е; тро́йка
+sv: tre
+sw: tatu
+ta: மூன்று
+te: మూడు
+th: สาม
+tl: tatlo
+tpi: tripela
+tr: üç
+uk: три; тро́є; трі́йко colloquial; трі́єчко colloquial diminutive; трі́йка
+ur: تِین; ۳
+vi: ba
+yue: 三
+
 word: tu
 class: pron
 infl: es (tú, te, ti); fa (تُو/tū, تو/to); fr (tu); glosa (tu); hi (तू/tū, तुम/tum, तुइ/tui, तुझ/tujh); bn (তুই/tui, তুমি/tumi); ru (ты/ty); th (เธอ/təə)
@@ -9094,6 +10395,56 @@ th: จะ
 tr: (Use the aorist past tense)
 vi: sẽ
 yue: 會
+
+word: wulfa
+class: noun
+infl: lidepla (wulfa); de (Wolf); en (wolf)
+sense: animal
+am: ተኩላ
+ar: ذِئْب
+bg: вълк
+bn: নেকড়ে
+ca: llop
+cmn: 狼
+cs: vlk
+da: ulv
+de: Wolf; Meister Graubein
+el: λύκος
+en: wolf
+eo: lupo
+es: lobo
+fa: گُرْگ
+fi: susi; hukka; susihukka
+fr: loup
+globasa: haul
+glosa: Lupus
+hi: भेड़िया; वृक
+hu: farkas
+ia: lupo
+id: serigala
+io: volfo
+it: lupo
+ja: 狼; オオカミ; ウルフ
+ko: 늑대; 이리
+lidepla: wulfa
+ms: serigala; zib
+nl: wolf
+pl: wilk; basior; wadera
+pt: lobo
+ro: lup
+ru: волк; волчи́ца
+sv: varg; ulv
+sw: mbwa mwitu
+ta: ஓநாய்
+te: తోడేలు
+th: หมาป่า; สุนัขป่า
+tl: lobo
+tpi: weldok
+tr: kurt; börü
+uk: вовк; вовчи́ця; вовчи́ха
+ur: بھیڑِیا; گُرْگ
+vi: sói; chó sói
+yue: 狼
 
 word: ya
 class: particle

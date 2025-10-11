@@ -7,7 +7,6 @@ and,e
 you (singular),tu
 be; am; are; is (copula),sen
 -s; -es (plural marker),ma
-not; no (answer or exclamation),no
 he; she; him; her,ta
 speak; say,pala
 we; us,nu
@@ -186,7 +185,6 @@ reason; cause,kaus-ka
 where (in questions),kel-lok
 when (in questions),kel-tem
 quantity; amount,kwanti
-how much,kel-kwanti
 whose (in questions),kel-su
 to; at,ko
 about; concerning; regarding; of,om
@@ -206,3 +204,33 @@ shadow; shade,saye
 one; you (generic pronoun: an unspecified person or people in general),on
 think; thought; ponder,fikir
 train (series of connected vehicles),tren
+"number (quantity, amount, mathematical or grammatical concept)",namba
+how many; how much,kam
+"number (position in sequence or identifier, e.g. of a house or phone)",numer
+not; no (answer or exclamation),bu
+three,tri
+four,char
+wolf,wulfa
+cow; bull; head of cattle,bovi
+cow (female),gin-bovi
+bull (male cattle),an-bovi
+fox,foksa
+apple,pingo
+child,nini
+son; daughter; offspring; child,bete
+son,an-bete
+daughter,gin-bete
+stone,lito
+elephant,elefan
+flower,flura
+sibling; brother; sister,sodar
+brother,an-sodar
+sister,gin-sodar
+dictionary,kamus
+hot,garme
+tea,chai
+left (not right),sai
+gray; grey,gri
+who; whom; which; that (general relative clause marker),da
+whose (in relative clauses),da-su; da ... su
+where (in relative clauses),in da

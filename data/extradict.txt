@@ -195,6 +195,10 @@ sense: domestic species
 en: cat [kæt]
 ja: 猫 [neko]; 家猫 [ieneko]
 
+sense: instrument to measure or keep track of time
+en: clock [klɒk]
+ha: àgōgo
+
 sense: particular set of the visible spectrum
 en: color [ˈkʌləɹ]
 vi: màu; sắc
@@ -439,6 +443,14 @@ fr: ceux-là; celles-là
 sense: to look at for a period of time
 en: watch [ˈwɒt͡ʃ]
 es: mirar; guachar; aguaitar
+
+class: adv
+sense: at which, on which, during which
+tags: add
+de: als; wenn
+en: when
+hi: जब [jab]
+id:  ketika
 
 sense: introducing indirect questions
 en: whether [ˈwɛðə(ɹ)]
