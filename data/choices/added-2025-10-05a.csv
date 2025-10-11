@@ -1,0 +1,25 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+three,cardinal number 3,,tiga,tri,tri
+four,the cardinal number 4,Syllables:1,care,"tetra, tet, qatro, tesara ",char
+five,cardinal number,,lima,"penta, pen",pet
+wolf,animal,,haul,Lupus,wulfa
+"cow, bull, head of cattle",any domestic bovine regardless of sex or age | cow::female domesticated ox or other bovine | uncastrated adult male bovine | – ,Skip:vaka (not the most typical Glosa word for this concept),mumu,"bovi, vaka",gova
+cow (female),female domesticated ox or other bovine,Compound:gin-bovi,femmumu,"fe-bovi, fe-bu","gin-gova, govina"
+bull (male cattle),uncastrated adult male bovine,Compound:an-bovi,manmumu,"an-bovi, bu, taurus ","man-gova, govo"
+fox,Vulpes,,rubahe,"Vulpes, alopecia ",foxa
+apple,fruit of Malus domestica,Skip:pomi (the related Spanish and Vietnamese words are not the most typical ones),pingo,"pomi, malu",yabla
+child,son or daughter; someone's child | a minor,,nini,"infanti, paedi, pueri, tekno",
+"son, daughter, offspring, child","a male person in relation to his parents | female offspring | singular offspring (male, female or sex unspecified) | –",Skip:kinda (the related Hausa word is only very loosely related and only used for sons),bete,fili,kinda
+son,a male person in relation to his parents,Compound:an-bete,manbete,an-fili,son
+daughter,female offspring,Compound:gin-bete,fembete,fe-fili,docha
+stone,substance,,petra,"lito, petro, -li",ston
+elephant,mammal,,elefan,elefa,elefanta
+flower,reproductive structure in angiosperms,,flura,flori,flor
+"sibling, brother, sister",person who shares same parents | male sibling | woman or girl having the same parents,Skip:brata (male only),sodar,sibi,"brata, sista"
+brother,male sibling,Compound:an-sodar,mansodar,"an-sibi, fratri, adelfo",brata
+sister,woman or girl having the same parents,Compound:gin-sodar,femsodar,"fe-sibi, sorori, adelfa",sista
+dictionary,publication that explains the meanings of an ordered list of words,Syllables:3,menalari (mena+lari),"verba-bibli, verba-lista, lexiko, diktionaria",lexikon
+hot,having a high temperature,,"termoday (termo+day), termopul (termo+pul), daytermopul (day+termo+pul)","termo, kalori, kalido, toridi","garma-ney, garme"
+tea,drink made from leaves of tea plant | dried leaves of tea plant,,cay,tea,chay
+left (not right),west side of the body when one is facing north,"Choose:sai (best total score and related to the top candidate vi:chai, which would be chosen if it didn't already have another meaning)",suo,"laevo, sinistro",lefte
+"gray, grey","of a color somewhere between white and black, as the ash of an ember | –",,hwese,"polio, cinera, gri, kanesce",grey
