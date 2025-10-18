@@ -400,6 +400,12 @@ class Candidate():
                 word = word[:-1] + 's'
                 self.penalty += 1
 
+            # In Hindi/Urdu, /v/ and /w/ are largely allophones, hence we change 'v' between an
+            # initial consonant and a vowel to 'w' to avoid an unnecessary filler vowel
+            if self.lang in ('hi', 'ur'):
+                word = re.sub(rf'^([{INITIAL_NON_SEMIVOWELS}])v([{INTERNAL_VOWELS}])', r'\1w\2',
+                              word)
+
             # Insert filler vowels between illegal pairs and triples of consonants
             word = word.replace('rld', 'rəld')
             word = ILLEGAL_SKPT_TRIPLE_RE.sub(r'\1ə\2', word)
