@@ -207,6 +207,10 @@ sense: perform, execute
 en: do [duː]
 es: hacer
 
+sense: portal of entry into a building, room or vehicle
+en: door [do(ː)ɹ]
+ru: дверь [dverʹ]
+
 sense: consume alcoholic beverages
 en: drink [dɹɪŋk]
 vi: uống rượu; uống say
@@ -275,6 +279,10 @@ tl: ako; ko
 sense: chemical element Fe
 en: iron [ˈaɪ(ə)ɹn]
 ru: желе́зо [želézo]
+
+sense: area of land completely surrounded by water
+en: island [ˈaɪlənd]
+es: isla
 
 sense: object
 cmn: 這 /这 [zhè]; 那 [nà]; 它 [tā]; 之 [zhī]
