@@ -2978,7 +2978,7 @@ yue: 草
 word: gri
 class: adj
 infl: fr (gris); glosa (gri); tr (gri); de (grau); en (gray); es (gris); lidepla (grey); ru (се́рый/séryj)
-sense: of a color somewhere between white and black, as the ash of an ember | –
+sense: of a color somewhere between white and black, like cinders | –
 ar: رَمَادِيّ; أَشْيَب; أَشْهَب; رَصَاصِيّ
 bg: сив
 bn: ধূসর
@@ -4244,7 +4244,7 @@ yue: 乜嘢; 咩; 乜
 
 word: kel-kaus
 class: adv
-sense: for what reason | why
+sense: (interrogative) for what reason | why
 am: ለምን
 ar: لِمَاذَا; لِمَ
 arz: ليه
@@ -7374,7 +7374,7 @@ vi: về; liên quan đến; về việc
 word: on
 class: pron
 infl: fr (on); en (one); lidepla (oni)
-sense: indefinite personal pronoun; any person, people in general | one
+sense: indefinite personal pronoun; any person, people in general | indefinite personal pronoun: an unspecified individual or group of individuals
 ar: اَلْمَرْء; مَن
 ca: un; hom; es; tu; una
 cmn: 人人; 自己
@@ -8927,7 +8927,7 @@ vi: giản dị; mộc mạc; đơn giản; giản đơn
 word: sodar
 class: noun
 infl: globasa (sodar); fr (sœur); hi (सहोदर/sahodar); id (saudara, saudari); ja (兄弟/kyōdai); te (సోదరుడు/sōdaruḍu, సోదరి/sōdari)
-sense: person who shares same parents | male sibling | woman or girl having the same parents
+sense: person who shares same parents — see also brother, sister | male sibling | woman or girl having the same parents
 am: ወንድም; እህት; እኅት
 ar: شَقِيق; شَقِيقَة; أَخ; أُخْت
 bg: брат; сестра́

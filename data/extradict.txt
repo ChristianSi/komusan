@@ -8,6 +8,27 @@ fr: -age
 it: -aggio
 pt: -agem; -ágio
 
+class: suffix
+sense: past participle
+tags: add
+am: -ä; -ät; -am
+bn: -ā; -e; -o
+de: ge-; -t; -en
+en: -ed  [d]
+es: -ado; -ada; -ido; -ida
+fr: -é; -i; -u
+hi: -ā; -ī; -e
+id: di-
+ja: -ta; -reru; -rareru
+ko: -eun; -n; -in; -doen
+ru: -n; -t
+ta: -tta; -ndha
+te: -ina
+tl: na-; -in; -an; ma-
+tr: -miş; -dık; -n
+vi: được
+yue: 咗 [zo2]; 俾 [bei2]
+
 sense: past tense
 en: -ed [d]
 sw: -li-
@@ -254,7 +275,7 @@ sense: pleasant; enjoyable
 de: gut; angenehm
 en: good [ɡʊd]
 
-sense: of a color somewhere between white and black, as the ash of an ember
+sense: of a color somewhere between white and black, like cinders
 en: gray [ɡɹeɪ]
 vi: xám; màu xám; hoa râm
 
@@ -374,7 +395,7 @@ sense: dark image projected onto a surface
 bn: ছায়া [chaẏa]
 en: shadow [ˈʃædəʊ]
 
-sense: person who shares same parents
+sense: person who shares same parents — see also brother, sister
 en: sibling [ˈsɪb.lɪŋ]
 fr: frère et sœur; adelphe; fratrie; frères et sœurs; frœur
 ja: 兄弟 [kyōdai]; 兄弟姉妹 [kyōdai shimai], 同胞 [dōhō], 同胞 [harakara]
@@ -464,7 +485,7 @@ sense: introducing indirect questions
 en: whether [ˈwɛðə(ɹ)]
 fr: si; si oui ou non
 
-sense: for what reason
+sense: (interrogative) for what reason
 en: why [waɪ]
 
 class: verb
@@ -525,7 +546,7 @@ th: ไหม [mǎi]
 ur: کیا‎ [kyā]
 vi: không; phải không; hả; hử; à
 
-sense: one
+sense: indefinite personal pronoun: an unspecified individual or group of individuals
 en: you [ju]
 ta: ஒருவர் [oruvar]
 
