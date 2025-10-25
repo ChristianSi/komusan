@@ -37,13 +37,12 @@ Requires Python 3.7+ and the editdistance library.
 """
 # pylint: disable=too-many-lines
 
-from __future__ import annotations
 import argparse
 from collections import defaultdict
 import csv
 from enum import Enum
 from datetime import datetime
-from functools import lru_cache
+from functools import lru_cache, total_ordering
 import glob
 from itertools import cycle
 from operator import itemgetter
@@ -84,8 +83,19 @@ TARGET_ENTRY_COUNT = 1000
 # pure adverbs are rare and may well be short)
 CONTENT_CLASSES = frozenset('adj name noun verb'.split())
 
+
 # Enum for grouping all words into three kinds
-Kind = Enum('Kind', 'NOUN ADJ VERB')  # pylint: disable=invalid-name
+@total_ordering
+class Kind(Enum):
+    NOUN = 1
+    ADJ = 2
+    VERB = 3
+
+    def __lt__(self, other):
+        if self.__class__ is other.__class__:
+            return self.value < other.value
+        return NotImplemented
+
 
 KIND_DESC = {
     Kind.NOUN: 'a noun',
