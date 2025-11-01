@@ -10,7 +10,7 @@ be; am; are; is (copula),sen
 he; she; him; her,ta
 speak; say,pala
 we; us,nu
-of; -'s (genitive marker),de
+of; -'s (genitive proposition),de
 thing; object,kosa
 "-age; -ware; -work (thing made from, possessing the quality of, or associated with)",-ka
 young,yuve
@@ -21,7 +21,7 @@ will (future tense),ve
 want; desire,yau
 they; them,li
 can; be able to,pote
-in,in
+"in; at; on (a place, time, language etc.)",in
 know,jan
 whether; yes-no (question marker); if,ku
 common,komun
@@ -233,4 +233,8 @@ left (not right),sai
 gray; grey,gri
 who; whom; which; that (general relative clause marker),da
 whose (in relative clauses),da-su; da ... su
-where (in relative clauses),in da
+where; when (in relative clauses),in da
+when; as (conjunction),tem ke
+by (creator or doer),bai
+with; by; by means of,yon
+one (placeholder for noun),wan

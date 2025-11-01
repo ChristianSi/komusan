@@ -450,6 +450,46 @@ ur: والِد; باپ
 vi: cha; ba; bố; tía; thầy; cậu; bọ
 yue: 父親 /父亲; 老竇 /老窦; 老豆
 
+word: bai
+class: prep
+infl: en (by); lidepla (bay); vi (bởi)
+sense: indicates creator of a work | indicates the agent of a passive verb
+ar: بِوَاسِطَّة; لِـ; مِن قِبَل
+bg: от
+ca: per
+cmn: 被; 由; 讓 /让; 給 /给; 叫
+cs: od
+da: af
+de: von; durch
+en: by (creator or doer)
+eo: de; far
+es: por; hecho por; ante; frente a; por parte de
+fi: (genitive of the name of author)
+fr: de; par
+globasa: fal
+glosa: ex
+hi: ...से
+hu: -tól; -től; által
+ia: a; ab
+id: oleh
+io: da
+it: da; di
+ja: 作…; …作; …に; …により; …によって
+ko: ...의; …에; ...로; ...로써; ...로서; ...에 의해
+lidepla: bay
+ms: oleh
+nl: door; vanwege
+pl: przez
+pt: por; de
+ro: de; de către
+sv: av
+sw: na
+th: โดย
+tl: ni; ng; nina
+tr: tarafindan; tarafından; tamanından
+ur: ...سے
+vi: của; bởi
+
 word: ban
 class: det
 infl: globasa (ban); ar (بَعْضٌ/baʕḍun, بَعْض/baʕḍ); sw (baadhi); th (บาง/baang); tr (bazı)
@@ -1620,7 +1660,7 @@ cs: z; ze; -ův; -in
 da: af
 de: von; -s; des; der
 el: του; της; των
-en: of; -'s (genitive marker)
+en: of; -'s (genitive proposition)
 eo: de
 es: de
 fa: (ezafe (اضافه (ezâfe)) is used)
@@ -3269,53 +3309,56 @@ yue: 去
 word: in
 class: prep
 infl: de (in); en (in); globasa (in); glosa (in); lidepla (in); es (en); fr (en); ha (cikin); ko (...에 둘러싸인/...e dulleossain)
-sense: contained by | surrounded by
-ar: فِي
-bg: в
+sense: contained by (in) | surrounded by (in) | into, towards (in) | indicating language, script, or tone (in) | during a period of time (in) | in or very near a particular place (at) | indicating time (at) | into, towards (in) | indicating language, script, or tone (in) | during a period of time (in) | in or very near a particular place (at) | indicating time (at) | at the date of (on) (in; at; on (a place, time, language etc.))
+ar: فِي; عِنْد; عِنْدَ
+bg: в; при; до; на; у; във; през
 bn: ভিতর
-ca: en; dins; dintre
-cmn: 在; ...里; 于……中
-cs: v; ve
-da: i
-de: in
-el: σε; εντός
-en: in
-eo: en
-es: en; dentro de; adentro de
-fa: در; اندر; تو; درون
-fi: -ssa; -ssä
-fr: dans; en
-globasa: in
-glosa: in
+ca: en; dins; dintre; a; cap a; per; durant
+cmn: 在; ...里; 于……中; 用
+cs: v; ve; do; u; při; dne
+da: i; på; med
+de: in; auf; unter; im; während; an; bei; zu; um
+el: σε; εντός; ενώ; στον; στη; στο; στους; στις; στα; articles
+en: in; at; on (a place, time, language etc.)
+eo: en; dum; ĉe; je
+es: en; dentro de; adentro de; a; hacia; para
+fa: در; اندر; تو; درون; اندرون
+fi: -ssa; -ssä; -an; -än; -ksi; -lla; -llä; luona; tykönä; -lta; -ltä; -na
+fr: dans; en; à
+globasa: in; fe
+glosa: in; ad; tem; to; topo
 ha: cikin; a; a ciki
-hi: अन्दर; ... में; भीतर; अंदर
-hu: -ban; -ben
+hi: अन्दर; ... में; भीतर; अंदर; में; पर; से
+hu: -ban; -ben; -ba; -be; -ul; -ül; -val; -vel; alatt; -n; -on; -en; -nál; -kor
+ia: a; in
 id: di dalam
-io: en
-it: in; dentro
-ja: ...に; ...で; ...の中で
-ko: ...의 안에; ...에 둘러싸인
+io: en; ye
+it: in; dentro; a
+ja: ...に; ...で; ...の中で; ... に; …に
+ko: ...의 안에; ...에 둘러싸인; 안으로; ...로; ...에; ...에서
 lidepla: in
-ms: di dalam; di
-nl: in
-pl: w; we
-pt: em
-ro: în
-ru: в
-sv: i
-ta: உள்ளே; மத்தியில்
-te: లో
-th: ใน
+ms: di dalam; di; ke dalam; pada; dekat
+nl: in; tijdens; op; bij; om
+pl: w; we; do; po; u; przy; o
+pt: em; por; a; na; no
+ro: în; la; pe; de
+ru: в; по-; на; у; во́зле; -го
+sv: i; in; in i; på; under; vid
+sw: karibu na
+ta: உள்ளே; மத்தியில்; -இல்; -கு
+te: లో; వద్ద
+th: ใน; ที่
 tl: sa
 tpi: long
-tr: içinde; -de; -da; -ta; -te
-uk: в; у; во; ув; вві; уві; ві
+tr: içinde; -de; -da; -ta; -te; -a; -e; iken; sırasında; -kan; -ken
+uk: в; у; во; ув; вві; уві; ві; при; біля́; о
 ur: اندر; ... میں; بھیتر
-vi: trong; ở; tại
+vi: trong; ở; tại; bằng; ở tại; lúc; vào
+yue: 喺; 在
 
 word: in da
 class: adv
-sense: at or in which place | at or in what place
+sense: at or in which place (where) | at or in what place (where) | at which, on which, during which (when (in relative clauses))
 am: የት
 ar: حَيْث; أَيْنَ
 arz: فين
@@ -3325,24 +3368,25 @@ ca: on
 cmn: 哪裡 /哪里; 哪兒 /哪儿; 那裡 /那里; 那兒 /那儿
 cs: kde; odkud
 da: hvor
-de: wo; woher
+de: wo; woher; als; wenn
 el: όπου
-en: where (in relative clauses)
+en: where; when (in relative clauses)
 eo: kie
 es: donde; dónde
 fa: کُجَا; کُجا
 fi: jossa; missä; siellä missä
 fr: où; d'où
-globasa: denloka; in da
-glosa: topo; to
-hi: कहाँ; किधर
+globasa: denloka; in da; denwatu; fe da
+glosa: topo; to; kron
+hi: कहाँ; किधर; जब
 hu: ahol; hol; merre
 ia: ubi
-id: mana; di mana; ke mana
+id: mana; di mana; ke mana; ketika
 io: ube
 it: dove
 ja: どこ; そこ
 ko: 어디
+lidepla: wen
 ms: mana; di mana; ke mana
 nl: waar; waarvan; waarvandaan
 pl: gdzie; skąd
@@ -9511,6 +9555,49 @@ ur: وَقْت; سَمَے; کال
 vi: thời gian
 yue: 時間 /时间; 時光 /时光; 時候 /时候; 時刻 /时刻
 
+word: tem ke
+class: conj
+sense: at what time; at which time (when) | during the time that (when) | as soon as, at the time that (when) | at the same instant that (as)
+ar: مَتَى; عِنْدَمَا; لَمَّا; حِينَ; إِذ
+bg: кога́то
+bn: যখন; যখনই; যেই
+ca: quan
+cmn: 什麼時候 /什么时候; 幾時 /几时; 何時 /何时; ...的時候 /...的时候; 當 /当
+cs: kdy; když; až; jak
+da: hvornår; når; da; idet
+de: wenn; als; sobald
+el: πότε; όταν; αφού; όπως
+en: when; as (conjunction)
+eo: kiam; dum
+es: cuando; al; en que
+fa: وقتی; وقتی که; زمانی که; در زمان; به هنگام; هنگامی که; چون
+fi: jolloin; kun
+fr: quand; lorsque; dès que; au moment où
+globasa: durki (dur+ki); denwatu hu
+glosa: kron; tem
+hi: जब; कब; यदा
+hu: amint; ahogy
+ia: quando
+id: ketika; saat
+it: quando
+ja: 何時; いつ; ...の時; ...のとき; ...した時; ...したとき; ...と
+ko: 언제
+lidepla: al; wen
+ms: masa; semasa
+nl: wanneer; als; zodra; toen
+pl: kiedy; gdy; jak
+pt: quando; assim que
+ro: când; pe când; în timp ce
+ru: когда́; в то вре́мя как; как то́лько
+sv: när; då
+ta: பொழுது; அப்பொழுது; உடனே
+th: เมื่อ; ขณะที่; ครั้น; พอ
+tl: kapag; pagka-
+uk: коли́; як ті́льки
+ur: جب
+vi: khi nào; khi; lúc nào; bao giờ
+yue: 幾時 /几时; (…)嘅時候 /(…)嘅时候
+
 word: to
 class: det
 infl: lidepla (to); ru (тот/tot, та/ta, то/to, те/te); tr (o)
@@ -10364,6 +10451,29 @@ uk: ваш
 ur: آپ کا
 vi: (của các bạn (replace bạn with the appropriate word or kinship term: ông, bà, anh, cô, chị, mày, em))
 
+word: wan
+class: pron
+infl: en (one); lidepla (wan); ms (yang)
+sense: impersonal pronoun; one thing or person
+ca: un
+cmn: 的
+en: one (placeholder for noun)
+eo: oni
+es: uno; una; se
+fa: ـه
+fr: un; une; l'un; l'une
+glosa: pe; ra
+hi: वो; ये
+it: quello; quella
+ja: の
+lidepla: wan
+ms: yang
+pl: ktoś
+pt: (not translated)
+ru: (not translated)
+sw: moja
+vi: cái
+
 word: wu
 class: particle
 infl: en (would); lidepla (wud); yue (會/wui5)
@@ -10595,6 +10705,49 @@ uk: учо́ра; вчо́ра
 ur: کَل; دِیروز; کل
 vi: hôm qua
 yue: 尋日 /寻日; 琴日; 昨天; 昨日
+
+word: yon
+class: prep
+infl: globasa (yon); cmn (用/yòng, 由…/yóu); es (con)
+sense: by means of | indicates a means | by using
+ar: بِـ; بِوَاسِطَة
+arz: باستخدام
+bg: с
+bn: করে; দিয়ে; নিয়ে
+ca: amb; mitjançant; per; per mitjà de; a força de
+cmn: 用; 用…; 由…; 以; 依靠; 藉著 /借著; 借着
+cs: s; se; pomocí; prostřednictvím
+da: med; ved; ved at
+de: mit; mittels; durch; indem; mittelst; vermittels
+el: με; διά; από
+en: with; by; by means of
+eo: per; pere de
+es: con; por; por medio de
+fi: -lla; avulla
+fr: avec; à l'aide de; au moyen de; par; en
+globasa: yon
+glosa: per
+hi: से
+hu: -val; -vel; által; útján; révén; segítségével
+id: dengan; menggunakan; kena
+io: per
+it: con; per mezzo di; mediante; tramite; per opera di; a cura di
+ja: …で; …を使って; …を用いて; …により; …によって; で
+ko: ...로써; ...로; -로; -으로
+lidepla: bay
+ms: dengan
+nl: met; door; op; per; aan de hand van; door middel van
+pl: za pomocą +; przy pomocy; za pomocą; przy użyciu; za pośrednictwem
+pt: com; por; a; por meio de
+ro: cu
+ru: при по́мощи; посре́дством
+sv: med; medelst; genom att; genom
+te: తో; గుండా
+th: โดย; ด้วย
+tr: vasıtasıyla; aracılığıyla
+uk: за допомогою; за допомо́гою; за посере́дництвом
+vi: bằng; bằng cách; theo cách
+yue: 用
 
 word: yu-
 class: prefix
