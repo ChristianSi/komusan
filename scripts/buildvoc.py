@@ -1732,6 +1732,7 @@ class VocBuilder:
             LOG.append_all_messages(SELECTION_LOG)
 
     def prepare_add_as_meaning(self, entry: LineDict, merge_with: str,
+                               merge_rationale: str | None = None,
                                premerge: bool = False) -> tuple[LineDict, str]:
         """Prepare to add this entry to the meaning of another word which already exists.
 
@@ -1741,8 +1742,8 @@ class VocBuilder:
         Returns a two-tuple:
 
         1. The resulting combined entry
-        2. The rationale for merging, read from the -amr argument or else the results of the
-           polysemy check
+        2. The rationale for merging, read from the 'merge_rationale' parameter,
+           the -amr CLI argument or else (if neither is set) the results of the polysemy check
         """
         existing_entry = None
         other_entries = []
@@ -1764,7 +1765,9 @@ class VocBuilder:
         word_langs = self.langcode_sets.get(merge_with, set())
         shared_lang_count = len(entry_langs.intersection(word_langs))
         percentage = len(langset) / shared_lang_count * 100.0
-        if self.args.amr:
+        if merge_rationale:
+            rationale = 'rationale: ' + merge_rationale
+        elif self.args.amr:
             rationale = 'rationale: ' + self.args.amr
         else:
             rationale = (f'because {len(langset)} of {shared_lang_count} languages '
@@ -2036,8 +2039,8 @@ class VocBuilder:
         elif constraints and constraints.merge_with:
             # Merging this meaning with an existing word, following a recommendation by the
             # polysemy check
-            combined_entry, rationale = self.prepare_add_as_meaning(entry, constraints.merge_with,
-                                                                    constraints.premerge)
+            combined_entry, rationale = self.prepare_add_as_meaning(
+                entry, constraints.merge_with, constraints.merge_rationale, constraints.premerge)
             merge_type = 'Premerging' if constraints.premerge else 'Merging'
 
             if self.args.commit:

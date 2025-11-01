@@ -617,6 +617,7 @@ class Constraints:
         self.chosen_rationale = None
         self.target_class = None
         self.merge_with = None
+        self.merge_rationale = None
         self.premerge = False
 
         constraints = util.split_on_semicolons(constraint_str)
@@ -684,17 +685,17 @@ class Constraints:
                 continue
 
             # Merge this concept with an existing Komusan word, e.g. "Merge:ku".
-            # A rationale may be given in parenthesis, but is (for now) ignored.
+            # A rationale may be given in parenthesis.
             value = constraint.removeprefix('Merge:').strip()
             if value != constraint:
-                self.merge_with = util.split_text_and_explanation(value)[0]
+                self.merge_with, self.merge_rationale = util.split_text_and_explanation(value)
                 continue
 
             # Premerge: like Merge, but put the new translations before instead of after the
-            # existing ones. A rationale may be given in parenthesis, but is (for now) ignored.
+            # existing ones. A rationale may be given in parenthesis.
             value = constraint.removeprefix('Premerge:').strip()
             if value != constraint:
-                self.merge_with = util.split_text_and_explanation(value)[0]
+                self.merge_with, self.merge_rationale = util.split_text_and_explanation(value)
                 self.premerge = True
                 continue
 
