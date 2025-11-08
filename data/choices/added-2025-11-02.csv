@@ -1,0 +1,17 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+five,cardinal number,Syllables:1,lima,"penta, pen",pet
+six,cardinal number,Syllables:1; Skip:sit (too similar to the word for 7 in some languages),sisa,"sixa, six, hexa",sit
+seven,cardinal number 7,Syllables:1; Skip:sem (too close to 'ses'),sabe,"seti, hepta, hebdoma",sem
+eight,cardinal number 8,,oco,"okto, ok",ot
+nine,cardinal number,,nue,nona,nin
+ten,the cardinal number occurring after 9 and before 11,,des,deka,shi
+sand,finely ground rock,"Add:Sat (very similar to the Globasa candidate that would otherwise be selected, but without the final -u which is not present in the related candidates and not needed in our phonology)",xatu,"arena, psama, sili, tino",ramla
+snow,"partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer","Add:talji (very similar to the Globasa candidate that would otherwise be selected, but skips the -u- that isn't there in 2 of the 3 related candidates)",taluji,"nivi, kiono",snega
+sky,"atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen",,asman,"ciela, urani",skay
+island,area of land completely surrounded by water,,isula,"nesia, insula",isla
+"clock, watch, timepiece",instrument to measure or keep track of time | portable or wearable timepiece | –,,satumeter (satu+meter),"horo-me, horo, horologi",kloka
+door,"portal of entry into a building, room or vehicle",,dwer,"janu, porta",dwar
+"far, distant, remote",remote in space | far off | at a distance,,teli,"tele, dista",dale
+there,in or at that place,Compound:to-lok (as in Globasa),denloka (den+loka),la,dar
+bad,"unfavorable; negative | evil, wicked | not appropriate, of manners etc. | not suitable or fitting ",,bur,"kako, mali, dis","bade, dus-ney, dus-"
+deaf,unable to hear,Skip:gluhe (not ideal since there’s just one related candidate and the Russian word is pronounced with /x/ rather than /h/),orenenabil,"non-audi, surdi",gluhe
