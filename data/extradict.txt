@@ -481,6 +481,10 @@ sense: to look at for a period of time
 en: watch [ˈwɒt͡ʃ]
 es: mirar; guachar; aguaitar
 
+sense: of an object: covered with or impregnated with liquid
+en: wet [wɛt]
+ko: 젖은 [jeojeun]; 젖다 [jeotda]
+
 class: adv
 sense: at which, on which, during which
 tags: add

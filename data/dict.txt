@@ -399,6 +399,56 @@ tr: kemer; yay; kavis; eğri
 uk: а́рка; дуга́
 vi: vòm; vòng cung
 
+word: asman
+class: noun
+infl: fa (آسْمان/âsmân, آسِمان/âsemân); globasa (asman); hi (आसमान/āsmān)
+sense: atmosphere above a given point, especially as visible from the surface of the Earth as the place where the sun, moon, stars, and clouds are seen
+am: ሰማይ
+ar: سَمَاء
+bg: небе́
+bn: আকাশ
+ca: cel
+cmn: 天; 天空
+cs: nebe; obloha
+da: himmel
+de: Himmel
+el: ουρανός
+en: sky
+eo: ĉielo
+es: firmamento; cielo
+fa: آسْمان; آسِمان; سِپِهْر; جُو
+fi: taivas
+fr: ciel
+globasa: asman
+glosa: ciela; urani
+ha: samà
+hi: आकाश; अम्बर; गगन; नभ; आभ; आसमान; व्योम
+hu: ég; égbolt
+ia: celo
+id: langit
+io: cielo
+it: cielo
+ja: 空; 大空; 天空; 天
+ko: 하늘
+lidepla: skay
+ms: langit
+nl: hemel; lucht
+pl: niebo; firmament
+pt: céu
+ro: cer; чер
+ru: не́бо
+sv: himmel; sky
+sw: mbingu; anga
+ta: ஆகாயம்
+te: ఆకాశము; గగనము
+th: ฟ้า; ท้องฟ้า
+tl: kalangitan; langit
+tr: gökyüzü; gök
+uk: не́бо
+ur: آسْمان; آکاش; گَگَن; اَمْبَر
+vi: trời
+yue: 天
+
 word: baba
 class: noun
 infl: ar (أَب/ʔab, بَابَا/bābā); bn (আব্বা/abba, বাবা/baba); cmn (爸爸/bàba); fa (بابا/bâbâ); ha (ùbā, bā̀ba); sw (baba); tr (baba); hi (बाप/bāp); id (bapa); ru (ба́тька/bátʹka); vi (ba)
@@ -449,6 +499,55 @@ uk: ба́тько; оте́ць
 ur: والِد; باپ
 vi: cha; ba; bố; tía; thầy; cậu; bọ
 yue: 父親 /父亲; 老竇 /老窦; 老豆
+
+word: bade
+class: adj
+infl: en (bad); fa (بد/bad); lidepla (bade); de (böse)
+sense: unfavorable; negative | evil, wicked | not appropriate, of manners etc. | not suitable or fitting
+am: ጥፉ; መጥፎ
+ar: سَيِّئ; شَرِير
+bg: лош; зъл; неподходящ
+bn: খারাপ
+ca: dolent; inapropiat; inadequat
+cmn: 壞 /坏; 不好; 邪惡 /邪恶; 不恰當 /不恰当; 不合適 /不合适
+cs: špatný; zlý; podlý; vadný
+da: dårlig; skod; ond; slet; slem
+de: schlecht; schlimm; übel; böse
+el: κακός; άσχημος
+en: bad
+eo: malbona
+es: malo; inapropiado
+fa: بد; ناشایست; ناجور; نادرخور
+fi: huono; paha; kelvoton; kielteinen; ilkeä; huonotapainen; sopimaton
+fr: mauvais; méchant
+globasa: bur
+glosa: kako; mali; dis
+hi: बुरा; ख़राब
+hu: rossz
+ia: mal
+id: buruk; jelek; jahat
+io: mala
+it: cattivo; malvagio; sbagliato
+ja: 悪い
+ko: 나쁘다; 나쁜
+lidepla: bade; dus-ney; dus-
+ms: buruk; jahat
+nl: slecht; kwaad; ongepast; ongemanierd; verkeerd
+pl: zły; kiepski
+pt: ruim; mau; malvado; feio; errado
+ro: rău
+ru: плохо́й; скве́рный; нехоро́ший; злой; по́длый; дурно́й; неподходя́щий
+sv: dålig; illa; ond; olämplig; opassande; ful
+ta: மோசம்; மோசமான; கெட்ட; தீய
+te: చెడ్డ; క్రూరమైన; తగని; పొసగని; నచ్చని
+th: แย่; เลว; ชั่ว; ร้าย
+tl: mali; masama; bastos
+tpi: nogut
+tr: kötü; yaman; fena
+uk: пога́ний; ке́пський; злий
+ur: برا
+vi: xấu; dở
+yue: 壞 /坏
 
 word: bai
 class: prep
@@ -1745,6 +1844,57 @@ ur: دان٘ت; دَنْدان
 vi: răng
 yue: 牙
 
+word: des
+class: num
+infl: globasa (des); es (diez); glosa (deka); hi (दस/das); ru (де́сять/désjatʹ, де́сятеро/désjatero)
+sense: the cardinal number occurring after 9 and before 11
+am: ዐሥር
+ar: عَشَرَة
+bg: де́сет
+bn: দশ
+ca: deu
+cmn: 十
+cs: deset
+da: ti
+de: zehn
+el: δέκα; ι΄
+en: ten
+eo: dek
+es: diez
+fa: ده
+fi: kymmenen
+fr: dix
+globasa: des
+glosa: deka
+ha: gōmà
+hi: दस; दश; दह
+hu: tíz
+ia: dece
+id: sepuluh
+io: dek
+it: dieci
+ja: 十; テン
+ko: 열; 십; 텐
+lidepla: shi
+ms: sepuluh; satu puluh; ekadasa
+nl: tien
+pl: dziesięć; dziesięcioro
+pt: dez
+ro: zece
+ru: де́сять; де́сятеро
+sv: tio
+sw: kumi
+ta: பத்து
+te: పది
+th: สิบ
+tl: sampu
+tpi: tenpela
+tr: on
+uk: де́сять; де́сятеро
+ur: دس
+vi: mười; chục
+yue: 十
+
 word: din
 class: noun
 infl: bn (দিন/din, দিনের বেলা/diner bela); globasa (din); hi (दिन/din); es (día); glosa (di); ru (день/denʹ)
@@ -1795,6 +1945,55 @@ uk: день; до́ба
 ur: دِن; روز; یَوم
 vi: ngày; hôm; bữa; ban ngày
 yue: 日; 白天; 日頭 /日头
+
+word: dista
+class: adj
+infl: glosa (dista); de (distanziert); en (distant); es (distante); fr (distant)
+sense: remote in space | far off | at a distance
+am: ሩቅ
+ar: بَعِيد
+arz: بعيد; بعيدة; بعاد
+bg: дале́чен; далечен; отдалечен
+bn: দুরে; দূর
+ca: llunyà; distant; remot
+cmn: 遠的 /远的; 遠離的 /远离的; 更遠的 /更远的; 遠 /远; 遙遠 /遥远
+cs: daleký; vzdálený
+da: langt borte; fjern
+de: fern; weit entfernt; weit weg; abgelegen; abstehend; distanziert; entfernt; fernbetrieb
+el: μακριά; μακρινός
+en: far; distant; remote
+eo: fora; distanca
+es: lejano; ulterior; postrero; postrer; postrimero; postremero; lueñe; distante; a distancia; huraño; remoto; que hila largo
+fa: دور; دوردست
+fi: kaukainen; kaukana oleva; etäinen; syrjäinen; etä-; kauko-
+fr: lointain; éloigné; reculé; distant; loin
+globasa: teli
+glosa: tele; dista
+hi: दूर
+hu: messze; messzi; távoli
+id: jauh; jarak jauh; remote
+io: distanta; fora
+it: lontano; distante; remoto
+ja: 遠い; 遥かな; 遠隔な; 辺鄙な
+ko: 먼; 멀다; 원격; 외딴
+lidepla: dale
+ms: jauh
+nl: ver; in de verte; verafgelegen; verwijderd; afgelegen; van op afstand; veraf
+pl: daleki; odległy; zdalny
+pt: longe; distante; remoto; longínquo
+ro: departe; îndepărtat; distant; depărtat
+ru: далёкий; да́льний; отдалённый; удалённый
+sv: fjärran; långt bort; avlägsen; fjärr-
+sw: mbali
+ta: தூரமான
+te: దూరము
+th: ไกล
+tl: malayo
+tr: uzak; ırak; ırak (obsolescing); uzaktan kontrol
+uk: дале́кий
+ur: دور
+vi: xa; xa xôi
+yue: 遠 /远
 
 word: dom
 class: noun
@@ -1972,6 +2171,56 @@ uk: два; дві; дво́є; дві́йка
 ur: دو; ۲
 vi: hai
 yue: 二; 兩 /两
+
+word: dwer
+class: noun
+infl: globasa (dwer); am (በር/bär); bn (দ্বার/dar, দুয়ার/duẏar); cmn (門兒/门儿/ménr); en (door); es (puerta); fa (دَر/dar); hi (द्वार/dvār, दर/dar); lidepla (dwar); ru (дверь/dverʹ)
+sense: portal of entry into a building, room or vehicle
+am: በር
+ar: أَبْوَاب; بَاب
+bg: врата́
+bn: দরজা; ফটক; দ্বার; দুয়ার; দরওয়াজা
+ca: porta
+cmn: 門 /门; 門兒 /门儿; 戶 /户
+cs: dveře
+da: dør
+de: Tür; Türen; Türe
+el: πόρτα
+en: door
+eo: pordo
+es: puerta; postigo
+fa: دَرْوازَه; دَر; باب
+fi: ovi
+fr: porte; portière
+globasa: dwer
+glosa: janu; porta
+ha: ƙyaure; ƙofa
+hi: किवाड़; दरवाज़ा; द्वार; दरवाजा; दर; प्रवेश
+hu: ajtó; kapu; bejárat; ajtónyílás
+ia: porta
+id: pintu
+io: pordo
+it: porta; portiera; sportello; uscio
+ja: 戸; 扉; 戸口; ドア
+ko: 문
+lidepla: dwar
+ms: pintu
+nl: deur; portier
+pl: drzwi
+pt: porta
+ro: ușă; uși
+ru: дверь
+sv: dörr; port
+sw: mlango
+ta: கதவு
+te: తలుపు; ద్వారము
+th: ประตู
+tl: pinto; pintuan
+tr: kapı
+uk: две́рі
+ur: دَرْوازَہ; دَر; دوار
+vi: cửa
+yue: 門 /门; 戶 /户
 
 word: e
 class: conj
@@ -3452,6 +3701,57 @@ ur: پِینا
 vi: uống; uống rượu; uống say
 yue: 飲 /饮; 呷
 
+word: isla
+class: noun
+infl: es (isla); lidepla (isla); en (island); fr (île); globasa (isula); glosa (insula); sw (kisiwa)
+sense: area of land completely surrounded by water
+am: ደሴት
+ar: جَزِيرَة
+bg: о́стров
+bn: দ্বীপ; জিঞ্জিরা
+ca: illa
+cmn: 島 /岛; 島嶼 /岛屿; 海島 /海岛
+cs: ostrov
+da: ø; holm; skær
+de: Insel
+el: νήσος; νησί
+en: island
+eo: insulo
+es: isla
+fa: جَزِیرَه; جَزیرِه; گَنْگ
+fi: saari
+fr: île; ile
+globasa: isula
+glosa: nesia; insula
+ha: tsibiri
+hi: द्वीप; टापू; जज़ीरा; उपद्वीप
+hu: sziget
+ia: insula
+id: pulau; nusa
+io: insulo
+it: isola
+ja: 島
+ko: 섬; 도
+lidepla: isla
+ms: pulau; nusa
+nl: eiland
+pl: wyspa
+pt: ilha
+ro: insulă
+ru: о́стров
+sv: ö
+sw: kisiwa
+ta: தீவு
+te: దీవి; ద్వీపము
+th: เกาะ
+tl: pulo
+tpi: ailan
+tr: ada; aral; cezire
+uk: о́стрів
+ur: ٹاپُو; جَزِیرَہ
+vi: đảo
+yue: 島 /岛; 島嶼 /岛屿; 海島 /海岛
+
 word: it
 class: pron
 infl: en (it); lidepla (it); ko (이것/igeot); ms (ia)
@@ -3922,6 +4222,50 @@ uk: голова́
 ur: سِر; سَر
 vi: đầu
 yue: 頭 /头
+
+word: kar
+class: adj
+infl: fa (کر/kar); hi (बहरा/bahrā); tr (sağır)
+sense: unable to hear
+ar: أَصَمّ; أَطْرَش
+arz: أصم; أطرش
+bg: глух
+ca: sord
+cmn: 聾 /聋; 耳聾 /耳聋
+cs: hluchý
+da: døv
+de: taub; gehörlos
+el: κωφός; κουφός
+en: deaf
+eo: surda
+es: sordo
+fa: کر; ناشنوا
+fi: kuuro; kuulovammainen
+fr: sourd
+globasa: orenenabil
+glosa: non-audi; surdi
+hi: बहरा
+hu: süket; (PC) siket
+id: tuli; tuna rungu
+it: sordo
+ja: 耳の聞こえない; 耳が不自由
+ko: 귀먹다
+lidepla: gluhe
+ms: pekak; tuli; congek; tunakerna
+nl: doof; dove
+pl: głuchy
+pt: surdo; mouco
+ro: surd
+ru: глухо́й
+sv: döv
+te: చెవిటి
+th: หูหนวก
+tl: bingi
+tr: sağır
+uk: глухи́й
+ur: بہرا
+vi: điếc
+yue: 耳聾 /耳聋; 聾 /聋
 
 word: kaus
 class: prep
@@ -4639,6 +4983,57 @@ uk: кни́жка; кни́га
 ur: کِتاب; پُسْتَک; بُک
 vi: sách; sổ; sách giáo khoa
 yue: 書 /书
+
+word: kloka
+class: noun
+infl: lidepla (kloka); en (clock); tpi (kilok, klok)
+sense: instrument to measure or keep track of time | portable or wearable timepiece | –
+am: የግድግዳ ሰዓት; ሰአት
+ar: سَاعَة
+bg: часо́вник
+bn: ঘড়ি; হাতঘড়ি
+ca: rellotge
+cmn: 鐘 /钟; 時鐘 /时钟; 鐘錶 /钟表; 手錶 /手表
+cs: hodiny; hodinky
+da: ur; armbåndsur
+de: Uhr; Armbanduhr
+el: ρολόι
+en: clock; watch; timepiece
+eo: horloĝo; brakhorloĝo; poŝhorloĝo
+es: reloj; muñequera; extensible
+fa: سَاعَت; ساعَت
+fi: kello; rannekello; taskukello
+fr: horloge; montre
+globasa: satumeter (satu+meter)
+glosa: horo-me; horo; horologi
+ha: àgōgo
+hi: घड़ी; वॉच
+hu: óra
+ia: horologio
+id: jam; lonceng; jam tangan
+io: horlojo; horlojeto
+it: orologio; cipolla; orologio da tasca
+ja: 時計; 腕時計; 懐中時計; ウオッチ
+ko: 시계; 워치
+lidepla: kloka
+ms: jam; jam tangan
+nl: klok; horloge
+pl: zegar; zegarek
+pt: relógio; relógio de pulso; relógio de bolso (pocketwatch)
+ro: ceas
+ru: часы́; нару́чные часы́
+sv: klocka; ur
+sw: saa
+ta: கடிகாரம்; கடிகை; கைக்கடிகாரம்
+te: గడియారం; చేతి గడియారం
+th: นาฬิกา; โมง; นาฬิกาข้อมือ; นาฬิกาพก
+tl: orasan; relo; taknaan; relos
+tpi: kilok; klok
+tr: saat; kol saatı
+uk: годи́нник; нару́чний годи́нник
+ur: گَھڑی; واچ
+vi: đồng hồ
+yue: 鐘 /钟; 時鐘 /时钟; 鐘錶 /钟表; 手錶 /手表
 
 word: ko
 class: prep
@@ -6903,6 +7298,57 @@ ur: آن٘کھ; نَین; عَین; چَشْم
 vi: mắt
 yue: 眼; 眼睛
 
+word: nin
+class: num
+infl: lidepla (nin); de (neun); en (nine); glosa (nona); ja (ナイン/nain); ko (나인/nain); vi (chín)
+sense: cardinal number
+am: ዘጠኝ
+ar: تِسْعَة
+bg: де́вет
+bn: নয়
+ca: nou
+cmn: 九
+cs: devět
+da: ni
+de: neun
+el: εννέα; θ΄
+en: nine
+eo: naŭ
+es: nueve
+fa: نُه
+fi: yhdeksän
+fr: neuf
+globasa: nue
+glosa: nona
+ha: tar̃à
+hi: नौ
+hu: kilenc
+ia: nove
+id: sembilan
+io: non
+it: nove
+ja: 九; 九つ; ナイン
+ko: 아홉; 구; 나인
+lidepla: nin
+ms: sembilan; selapan; nawa
+nl: negen
+pl: dziewięć; dziewięcioro
+pt: nove
+ro: nouă
+ru: де́вять; де́вятеро
+sv: nio
+sw: tisa
+ta: ஒன்பது
+te: తొనిమిది; తొమ్మిది
+th: เก้า
+tl: siyam
+tpi: nainpela
+tr: dokuz
+uk: де́в'ять; де́в'ятеро
+ur: نو
+vi: chín
+yue: 九
+
 word: nini
 class: noun
 infl: globasa (nini); de (Kind); es (niño, niña); ko (어린이/eorini)
@@ -7552,6 +7998,57 @@ ur: چِڑْیا; پَنْچھی; پَکْشی; پَرِنْدَہ; پَکھیر
 vi: chim
 yue: 雀仔; 雀; 鳥 /鸟
 
+word: ot
+class: num
+infl: lidepla (ot); bn (আট/aṭ); en (eight); glosa (okto); hi (आठ/āṭh)
+sense: cardinal number 8
+am: ስምንት
+ar: ثَمَانِيَة
+bg: о́сем
+bn: আট
+ca: vuit; huit
+cmn: 八
+cs: osm
+da: otte
+de: acht
+el: οκτώ; η΄
+en: eight
+eo: ok
+es: ocho
+fa: هشت
+fi: kahdeksan
+fr: huit
+globasa: oco
+glosa: okto; ok
+ha: takwàs
+hi: आठ; अष्ट; अठ
+hu: nyolc
+ia: octo
+id: delapan
+io: ok
+it: otto
+ja: 八; 八つ
+ko: 여덟; 팔
+lidepla: ot
+ms: lapan; delapan; selapan; asta
+nl: acht
+pl: osiem; ośmioro
+pt: oito
+ro: opt
+ru: во́семь; во́сьмеро
+sv: åtta
+sw: nane
+ta: எட்டு
+te: ఎనిమిది
+th: แปด
+tl: walo
+tpi: etpela
+tr: sekiz
+uk: ві́сім; во́сьмеро
+ur: آٹھ
+vi: tám
+yue: 八
+
 word: pala
 class: verb
 infl: globasa (pala); ar (قَالَ/qāla); es (hablar); fr (parler); ko (말하다/malhada)
@@ -7650,6 +8147,58 @@ uk: мете́лик
 ur: تِتْلی
 vi: bươm bướm; bướm
 yue: 蝴蝶
+
+word: pet
+class: num
+infl: lidepla (pet); glosa (penta, pen); ru (пять/pjatʹ)
+sense: cardinal number
+am: አምስት
+ar: خَمْسَة
+bg: пет
+bn: পাঁচ
+ca: cinc
+cmn: 五
+cs: pět; patery
+da: fem
+de: fünf
+el: πέντε; ε΄
+en: five
+eo: kvin
+es: cinco
+fa: پنج
+fi: viisi
+fr: cinq
+globasa: lima
+glosa: penta; pen
+ha: biyar
+hi: पाँच; पंच; पंज; पंजा
+hu: öt
+ia: cinque
+id: lima
+io: kin
+it: cinque
+ja: 五; 五つ; ファイブ
+ko: 다섯; 오
+lidepla: pet
+ms: lima; panca
+nl: vijf
+pcm: fáív
+pl: pięć; pięcioro
+pt: cinco
+ro: cinci
+ru: пять; пя́теро
+sv: fem
+sw: tano
+ta: ஐந்து
+te: ఐదు
+th: ห้า
+tl: lima
+tpi: faipela; faivpela
+tr: beş
+uk: п'ять
+ur: پانچ
+vi: năm
+yue: 五
 
 word: pingo
 class: noun
@@ -8304,6 +8853,58 @@ ur: سان٘پ; مار
 vi: rắn
 yue: 蛇
 
+word: sat
+class: num
+infl: hi (सात/sāt); yue (七/cat¹); am (ሰባት/säbat); ar (سَبْعَة/sabʕa); bn (সাত/śat); fr (sept); globasa (sabe); glosa (seti); sw (saba)
+sense: cardinal number 7
+am: ሰባት
+ar: سَبْعَة; ٧)
+arz: سبعة
+bg: се́дем
+bn: সাত
+ca: set
+cmn: 七
+cs: sedm
+da: syv
+de: sieben
+el: επτά; ζ΄
+en: seven
+eo: sep
+es: siete
+fa: هَفت
+fi: seitsemän
+fr: sept
+globasa: sabe
+glosa: seti; hepta; hebdoma
+ha: bakwài
+hi: सात; सत; सप्त
+hu: hét
+ia: septe
+id: tujuh
+io: sep
+it: sette
+ja: 七; 七つ
+ko: 일곱; 칠; 세븐
+lidepla: sem
+ms: tujuh
+nl: zeven
+pl: siedem; siedmioro
+pt: sete
+ro: șapte
+ru: семь; се́меро
+sv: sju
+sw: saba
+ta: ஏழு
+te: ఏడు
+th: เจ็ด
+tl: pito
+tpi: sevenpela
+tr: yedi
+uk: сім; се́меро
+ur: سات
+vi: bảy
+yue: 七
+
 word: saye
 class: noun
 infl: fa (سَایَه/sāya, سایِه/sâye); globasa (saye); hi (छाया/chāyā, साया/sāyā)
@@ -8825,6 +9426,104 @@ uk: бу́ти; знахо́дитися
 ur: ہونا
 vi: ở; có
 
+word: ses
+class: num
+infl: es (seis); de (sechs); globasa (sisa); tl (seis)
+sense: cardinal number
+am: ስድስት
+ar: سِتَّة
+bg: шест
+bn: ছয়
+ca: sis
+cmn: 六
+cs: šest; šestery
+da: seks
+de: sechs
+el: έξι; ϛ΄; στ΄
+en: six
+eo: ses
+es: seis
+fa: شِش
+fi: kuusi
+fr: six
+globasa: sisa
+glosa: sixa; six; hexa
+ha: shidà
+hi: छह; छः
+hu: hat
+ia: sex
+id: enam
+io: sis
+it: sei
+ja: 六; 六つ; ６; シックス
+ko: 여섯; 육; 륙; 식스
+lidepla: sit
+ms: enam; nam
+nl: zes
+pl: sześć; sześcioro
+pt: seis; meia
+ro: șase
+ru: шесть; ше́стеро
+sv: sex
+sw: sita
+ta: ஆறு
+te: ఆరు
+th: หก
+tl: anim; seis
+tpi: sikispela
+tr: altı
+uk: шість; ше́стеро
+ur: چھہ
+vi: sáu
+yue: 六
+
+word: shat
+class: noun
+infl: cmn (沙/shā); globasa (xatu); vi (cát)
+sense: finely ground rock
+am: አሸዋ
+ar: رَمْل
+arz: رمل; رَمِل
+bg: пя́сък
+bn: বালু
+ca: sorra; arena
+cmn: 沙; 沙子
+cs: písek
+da: sand
+de: Sand
+el: άμμος
+en: sand
+eo: sablo
+es: arena
+fi: hiekka
+fr: sable
+globasa: xatu
+glosa: arena; psama; sili; tino
+hi: रेत; बालू
+hu: homok
+id: pasir
+it: sabbia; rena
+ja: 砂
+ko: 모래
+lidepla: ramla
+ms: pasir; ramal
+nl: zand; zavel
+pl: piasek
+pt: areia
+ro: nisip; arină
+ru: песо́к
+sv: sand
+sw: mchanga
+ta: மணல்
+te: ఇసుక
+th: ทราย
+tl: buhangin
+tr: kum
+uk: пісо́к
+ur: ریت
+vi: cát
+yue: 沙; 沙子
+
 word: si
 class: conj
 infl: es (si); fr (si); glosa (si); lidepla (si); tr (-se, -sa); yue (要是/jiu³ si⁶)
@@ -9263,7 +9962,7 @@ yue: 黑; 黑色
 word: swina
 class: noun
 infl: lidepla (swina); globasa (swini); ru (свинья́/svinʹjá)
-sense: mammal of genus Sus | animal of the family Suidae | –
+sense: mammal of family Suidae | animal of the family Suidae | –
 am: አሳማ
 ar: خِنْزِير; حَلُوف
 arz: خنزير
@@ -9453,6 +10152,57 @@ tr: onun
 uk: його́; свій; її́
 ur: اس کا; ان کا
 vi: của anh ấy; của nó; của hắn
+
+word: talji
+class: noun
+infl: ar (ثَلْج/ṯalj); globasa (taluji); id (salju); sw (theluji)
+sense: partly frozen, crystalline state of water that falls from the atmosphere as precipitation in flakes; falling of such flakes; accumulation of them as a white layer
+am: የበረዶ ብናኝ
+ar: ثَلْج
+bg: сняг
+bn: বরফ
+ca: neu
+cmn: 雪
+cs: sníh
+da: sne
+de: Schnee
+el: χιόνι
+en: snow
+eo: neĝo
+es: nieve
+fa: بَرْف
+fi: lumi
+fr: neige
+globasa: taluji
+glosa: nivi; kiono
+ha: ƙànƙar̃ā
+hi: बर्फ़; हिमपात
+hu: hó
+ia: nive
+id: salju
+io: nivo
+it: neve
+ja: 雪
+ko: 눈
+lidepla: snega
+ms: salji
+nl: sneeuw
+pl: śnieg
+pt: neve
+ro: zăpadă; nea; omăt
+ru: снег
+sv: snö
+sw: theluji
+ta: பனி
+te: మంచు; హిమము
+th: หิมะ
+tl: niyebe
+tpi: sno
+tr: kar; pük
+uk: сніг
+ur: بَرْف
+vi: tuyết
+yue: 雪
 
 word: tami
 class: adj
@@ -9752,6 +10502,54 @@ fr: ceux-là; celles-là
 globasa: denete; denoto
 glosa: plu-la
 lidepla: to
+
+word: to-lok
+class: adv
+sense: in or at that place
+ar: هُنَاكَ; هُنَالِكَ; هُنَا
+arz: هناك
+bg: там
+bn: ওখানে; সেখানে
+ca: allà; allí
+cmn: 那裡 /那里; 那兒 /那儿
+cs: tam
+da: der
+de: dort; da
+el: εκεί
+en: there
+eo: tie
+es: ahí; allí; allá; acullá (further than "allá")
+fa: آنجا
+fi: tuolla; tuossa; siellä; siinä
+fr: là; là-bas; y
+globasa: denloka (den+loka)
+glosa: la
+hi: वहाँ
+hu: ott
+ia: illac; ibi; la
+id: situ; sana
+io: ibe
+it: lì; là; ivi
+ja: そこ; あそこ
+ko: 거기에; 거기
+lidepla: dar
+ms: di sana; di situ
+nl: daar; ginder; ginds
+pl: tam
+pt: aí; ali; lá
+ro: acolo; colo
+ru: там
+sv: där
+sw: humo
+ta: அங்கு
+te: అక్కడ
+th: ที่นั่น; ตรงนั้น; นั้น
+tl: diyan; doon
+tr: şurada; ora; orada
+uk: там
+ur: وہاں; ادھر
+vi: đằng kia; đó
+yue: 嗰度
 
 word: to-ta
 class: pron
