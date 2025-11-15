@@ -127,8 +127,8 @@ PUNCTUATION_RE = re.compile(r'[-,.…;:!?"/()]+')
 # Replacements needed to convert the internal form used for candidate word to the external form
 # used in the dictionary.
 EXPORT_REPL = {
-    'sh': "s-h",  # Insert hyphen to prevent misreading
-    'C': "ch",
+    'sh': 's-h',  # Insert hyphen to prevent misreading
+    'C': 'ch',
     'Ng': 'ng',
     'Nk': 'nk',
     'N': 'ng',
