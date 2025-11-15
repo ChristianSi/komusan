@@ -212,6 +212,10 @@ id: saudara; kakak laki-laki; abang; adik laki-laki
 tl: kapatid na lalaki; kuya; diko; sangko
 yue: 哥哥 [go1-4 go1]; 弟弟 [dai6-4 dai6-2]; 兄弟 [hing¹ dai⁶]; 大佬 [daai⁶ lou²]; 細佬 /细佬 [sai³ lou²]; 阿哥 [aa³ go¹]
 
+sense: soft foodstuff made from milk
+en: butter [ˈbʌ.tɚ]
+hi: घी [ghī]; मक्खन [makkhan]; नवनी [navnī]; नवनीत [navnīt]; नोनी [nonī]; मस्का [maskā]; मसका [maskā]
+
 sense: domestic species
 en: cat [kæt]
 ja: 猫 [neko]; 家猫 [ieneko]
@@ -254,6 +258,11 @@ sense: mammal
 de: Elefant
 en: elephant [ˈɛlɪfənt]
 fr: éléphant; éléphante
+
+class: det
+sense: possessive form of everybody
+tags: add
+en: everybody's
 
 sense: directed at, intended to belong to
 en: for [fɔː(ɹ)]
@@ -370,6 +379,14 @@ sense: impersonal pronoun; one thing or person
 en: one [wʌn]
 vi: cái
 
+sense: dispute or heated argument
+en: quarrel [ˈkwɒɹ(ə)l]
+es: brega; discusión; pelea; pelotera; rencilla; riña
+
+sense: to argue strongly, contend, squabble
+en: quarrel [ˈkwɒɹ(ə)l]
+es: reñir; disputar
+
 sense: ask questions of
 en: question [ˈkwɛs.tʃən]
 es: preguntar; interrogar
@@ -424,6 +441,10 @@ sense: to communicate with one's voice using words
 en: speak [spiːk]
 es: hablar
 
+sense: sucrose from sugar cane or sugar beet used to sweeten food and drink
+en: sugar [ˈʃʊɡɚ]
+es: azúcar
+
 sense: having a pleasant taste
 en: sweet
 ha: mai dàɗi
@@ -470,6 +491,10 @@ id: gigi
 sense: large woody plant
 ar: شَجَر [šajar]; شَجَرَة [šajara]
 en: tree [tɹiː]
+
+sense: journey
+bn: যাত্রা [jatra]
+en: trip [tɹɪp]
 
 class: pron
 sense: pronoun plural of that
