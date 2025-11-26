@@ -1,0 +1,18 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+gold,element Au,,dahabu,"kriso, aureo",golda
+hundred,cardinal number 100,Syllables:1,cen,hekto,sto
+"thank, thanks, thank you",to express appreciation or gratitude toward (someone or something) | expression of gratitude | thanks::used to express appreciation or gratitude | an expression of gratitude,,xukra,"gratia, eukaristi","danki, danke, shukran, arigatoo"
+eat,"to ingest — see also consume, ingest",Syllables:2; Skip:vora (none of the related words are the typical words in their languages); Skip:kain (not ideal since in Tagalog it has two syllables rather than a diphthong); Skip:tan (not the most typical Thai word),yam,"vora, edo, fago, manduka, mangia, vesko",chi
+sugar,sucrose from sugar cane or sugar beet used to sweeten food and drink,,sukeri,"sukro-ma, treo",sukra
+goat,animal,,bozi,kapri,bakra
+neck,part of body connecting the head and the trunk,Skip:kola (keep for the tree and drink),gardan,"kola, cervika, trakelo",galsa
+butter,soft foodstuff made from milk,"Choose:buta (very similar to the top auxlang candidate ‘buter’, but with many more related candidates and a much better similarity score)",buter,butiri,nayu
+friend,person whose company one enjoys,,doste,ami,amiga
+bread,baked dough made from cereals,,roti,"pani, arto",pan
+hair (a single one),pigmented filament of keratin on the skin of humans and other mammals,,"tofamon (tofa+mon), tofa, belo","kapila, triko","harinka (har-inka), har"
+hair (collectively),mass of such filaments on the human head | mass of such filaments growing from the skin of humans and animals,Compound:ma belo (we model this as plural),,,
+eyelash,hair growing on the edge of an eyelid,"Compound:nen-belo (as in Indonesian, Thai, and Esperanto)",pelakebelo (pelake+belo),cilia,silya
+dark,having an absolute or relative lack of light,Syllables:2,luminkal (lumin+kal),"skoto, no-foto, melano, obskuri, gnofo, tenebri",tume
+warm,having a temperature slightly higher than usual,Merge:garme,termopul (termo+pul),"kalido, termo, meso termo",warme
+"ill, sick, illness, sickness, disease","in poor health, suffering from a disease | – | an instance of a disease or poor health | the quality or state of being sick or diseased; illness; disease or malady | an abnormal condition of the body causing discomfort or dysfunction",Syllables:2,bimar,"pato, malada","morba-ney, morbe"
+wet,of an object: covered with or impregnated with liquid,,gile,"higro, imbu, uvido",mokre
