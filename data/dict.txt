@@ -52,6 +52,31 @@ lidepla: -ika; -ka
 pt: -agem; -ágio
 ru: -ник; -ица; и́ца; -ка
 
+word: -ne
+class: suffix
+infl: ko (-n); lidepla (-ney); ru (-n); tr (-n); am (-ä); fr (-é); hi (-e); tl (na-)
+sense: passive participle
+am: -ä; -ät
+bn: -ā
+de: ge-; -t; -en
+en: -ed (passive participle)
+es: -ado; -ada; -ido; -ida
+fr: -é; -i; -u
+globasa: -do
+glosa: ge-
+hi: -ā; -ī; -e
+id: di-
+ja: -ta; -reru; -rareru
+ko: -eun; -n; -in; -doen
+lidepla: -ney
+ru: -n; -t
+ta: -tta; -nta
+te: -ina
+tl: na-; -in; -an; ma-
+tr: -miş; -dık; -n
+vi: được
+yue: 咗; 俾
+
 word: -su
 class: suffix
 infl: globasa (-su); en (-s)
@@ -65,6 +90,47 @@ lidepla: -ney
 th: ของ
 vi: của
 yue: 嘅
+
+word: -yen
+class: suffix
+infl: globasa (-yen); tr (-yan, -en, -yen); cmn (...员/-yuán); lidepla (-jen)
+sense: (used to form agent nouns) person or thing that does... | person whose occupation is...
+ar: مُـ
+arz: مِـ
+ca: -dor; -dora; -triu; -er; -era
+cmn: ...者; ...家; ...员; ...工; ...手; ...师; ...的
+cs: -ič; -ač; -itel; -átor; -ec; -ař; -ář; -íř; -ník; -ista; -ák; -ik; -log; -graf; -ér; -er; -or
+da: -er
+de: -er
+el: -άς; -ού
+en: -er (someone who does something, whether currently, frequently, or professionally)
+eo: -isto
+es: -dor; -dora; -ero; -era; -ista
+fa: ـکننده; ـگر; ـکار
+fi: -ja; -ri; -in; -uri; -ari
+fr: -eur; -euse
+globasa: -yen
+glosa: -pe
+hu: -ó; -ő; -us; -ász; -ész; -s; -os; -as; -es; -ös; -lógus
+ia: -ero; -era; -ario; -aria; -ista
+id: peng-; pem-; pe
+io: -er; -ist
+it: -ore; -tore; -ista
+ja: ...者; ...家; ...手
+lidepla: -jen
+ms: peng-; pem-
+nl: -er
+pl: -arz; -arka; -acz; -aczka; -ca; -czyni; -nik; -niczka; -ciel; -cielka
+pt: -dor; -eiro
+ro: -tor; -toare
+ru: -тель; -ник; -о́вщик; -щик; -щи́к; -чик; -ик; -и́к; -ец; -а́тор; -а́ч; -ер
+sv: -re; -are; -ist; -spelare
+sw: m-
+ta: -இ; -ஆளர்; -ஆளன்; -ஆளி; -காரர்; -காரன்; -காரி; -அர்; -அன்; -அள்
+th: นัก...; ผู้...; คน...; ช่าง...
+tl: taga-
+tr: -cı; -çı; -cu; -çu; -ci; -çi; -cü; -çü; -an; -yan; -en; -yen
+uk: -тель; -ник; -щик; -чик; -їк; -ік; -ець; -а́тор; -а́ч; -ер; -ар
 
 word: -yum
 class: suffix
@@ -923,6 +989,43 @@ ur: لیکِن; اَگَرْچِہ; مَگَر
 vi: nhưng; nhưng mà; mà; dưng cơ; dưng cơ mà
 yue: 但係 /但系; 不過 /不过; 而
 
+word: bau
+class: verb
+infl: cmn (包/bāo); vi (bao); id (balut)
+sense: to enclose completely in fabric, paper, etc
+ar: لَفَّ; غَلَّفَ
+bg: увивам
+ca: embolicar
+cmn: 包裝 /包装; 包; 密封
+da: pakke ind
+de: wickeln; einwickeln; einpacken; hüllen; umhüllen
+el: τυλίγω
+en: wrap
+eo: envolvi
+es: envolver; fajar
+fa: بستهبندی کردن; پیچیدن
+fi: kääriä
+fr: envelopper; emballer
+globasa: lifafa
+glosa: involve
+hi: लपेटना
+hu: becsomagol
+id: bungkus; balut
+it: avvolgere; avviluppare; incartare; impacchettare
+ja: 包む; 包装する
+ko: 싸다
+lidepla: kuti
+ms: balut
+nl: inpakken; omhullen
+pl: zawijać; zawinąć
+pt: embalar; empacotar; embrulhar
+ro: înfășura; împacheta
+ru: завора́чивать; заверну́ть; обора́чивать; оберну́ть
+sv: slå in; paketera; emballera; linda in; klä in
+th: ห่อ
+uk: завертат́и; заверну́ти; обгорта́ти; обгорну́ти
+vi: gói; bao
+
 word: baum
 class: noun
 infl: de (Baum); lidepla (baum)
@@ -975,6 +1078,44 @@ ur: پیڑ; دَرَخْت
 vi: cây
 yue: 樹 /树; 樹木 /树木
 
+word: belo
+class: noun
+infl: globasa (belo); es (pelo, cabello); hi (बाल/bāl); id (bulu)
+sense: pigmented filament of keratin on the skin of humans and other mammals
+ar: شَعْرَة
+bg: ко́съм
+ca: pèl
+cmn: 毛; 頭髮 /头发
+cs: vlas; chlup
+da: hår
+de: Haar
+el: τρίχα
+en: hair (a single one)
+eo: haro
+es: pelo; cabello
+fi: hius; karva; jouhi
+fr: poil
+globasa: tofamon (tofa+mon); tofa; belo
+glosa: kapila; triko
+hi: बाल; केश
+hu: hajszál; szőrszál
+id: bulu
+it: pelo
+ja: 毛
+ko: 털; 머리
+lidepla: harinka (har-inka); har
+ms: bulu
+nl: haar
+pl: włos
+pt: pelo
+ro: fir de păr
+ru: во́лос; волоси́нка; волоси́на
+sv: hårstrå
+sw: nywele
+ta: முடி
+tpi: gras
+uk: волоси́на; во́лос
+
 word: bete
 class: noun
 infl: globasa (bete); bn (বেটা/beṭa); hi (बेटा/beṭā, बेटी/beṭī)
@@ -1025,6 +1166,57 @@ uk: син; дочка́; до́нька; наща́док; пото́мок
 ur: بیٹا; پِسَر; بیٹی; پُتْری; کُڑی; دُخْتَر
 vi: con trai; con gái
 yue: 仔; 囝仔; 女
+
+word: bimar
+class: adj
+infl: bn (বিমার/bimar); fa (بیمار/bimâr); globasa (bimar); hi (बीमार/bīmār, बीमारी/bīmārī)
+sense: in poor health, suffering from a disease | – | an instance of a disease or poor health | the quality or state of being sick or diseased; illness; disease or malady | an abnormal condition of the body causing discomfort or dysfunction
+am: ሕሙም; በሽታ
+ar: مَرِيض; مَرَض; دَاء; سُقْم
+arz: عيان
+bg: бо́лен; бо́лест; заболя́ване; болест
+bn: অসুস্থ; রোগ; অসুস্থতা; ব্যাধি; অসুখ; বিমার
+ca: malalt; malaltia
+cmn: 病; 疾病; 病症; 患病期間 /患病期间; 病情; 病疾; 症
+cs: nemocný; nemoc; choroba
+da: syg; sygdom
+de: krank; Krankheit; Infektionskrankheit
+el: άρρωστος; αρρώστια; ασθένεια; νόσος; πάθηση
+en: ill; sick; illness; sickness; disease
+eo: malsana; afekcio; malsano
+es: enfermo; mareado; enfermedad; dolencia
+fa: بیمار; مریض
+fi: sairas; sairaus; tauti
+fr: malade; maladie; mal
+globasa: bimar
+glosa: pato; malada
+hi: बीमार; रोगी; रोग; बीमारी; अस्वस्थता; मरज़; व्याधि
+hu: beteg; betegség; megbetegedés; kór
+ia: malade
+id: sakit; penyakit
+io: malada; maladeso; morbo
+it: malato; malattia; malanno; disturbo; morbo
+ja: 病気; 疾病; 病
+ko: 병들다; 앓다; 질병; 병
+lidepla: morba-ney; morbe
+ms: sakit; gering; penyakit
+nl: ziek; zieke; ziekte; aandoening
+pl: chory; choroba
+pt: doente; doença; enfermidade; maladia
+ro: bolnav; abătut; boală; maladie
+ru: больно́й; боле́знь; хворь; неду́г; заболева́ние; не́мочь; нездоро́вье; недомога́ние
+sv: sjuk; sjukdom
+sw: -gonjwa; ugonjwa; maradhi
+ta: நோய்; ரோகம்; வியாதி
+te: వ్యాధి; రోగము; జబ్బు
+th: ป่วย; ไม่สบาย; โรค; โรคา; โรคภัย; พยาธิ
+tl: may sakit; sakit; balatian
+tpi: sik; disis
+tr: hasta; sayrı; hastalık; maraz; sayrılık
+uk: хво́рий; хворо́ба; захво́рювання; неду́га; нездоро́в'я; не́міч; не́мощі
+ur: بیمار; مریض; علیل; بِیماری; مَرَض; روگ
+vi: bệnh; ốm; sự đau yếu; sự ốm; căn bệnh
+yue: 病; 疾病
 
 word: bine
 class: noun
@@ -1469,6 +1661,57 @@ ur: نہیں; نہ; مت; جی نہیں; نے; لا; نا
 vi: không; chẳng; chả
 yue: 不; 唔
 
+word: buta
+class: noun
+infl: de (Butter); en (butter); globasa (buter); glosa (butiri); ja (バター/batā); ko (버터/beoteo); tpi (bata)
+sense: soft foodstuff made from milk
+am: ቅቤ
+ar: زُبْدَة
+bg: масло́; ма́сло
+bn: মাখন
+ca: mantega
+cmn: 黃油 /黄油; 牛油; 白脫 /白脱
+cs: máslo
+da: smør
+de: Butter
+el: βούτυρο
+en: butter
+eo: butero
+es: mantequilla
+fa: مَسْکَه; کَرِه
+fi: voi
+fr: beurre
+globasa: buter
+glosa: butiri
+ha: man shanu
+hi: घी; मक्खन; नवनी; नवनीत; नोनी; मस्का; मसका
+hu: vaj
+ia: butyro
+id: mentega
+io: butro
+it: burro
+ja: バター; 牛酪; 乳酪
+ko: 버터; 빠다
+lidepla: nayu
+ms: mentega
+nl: boter
+pl: masło
+pt: manteiga
+ro: unt
+ru: ма́сло; сли́вочное ма́сло
+sv: smör
+sw: siagi
+ta: வெண்ணெய்; இழுது; விழுது
+te: వెన్న
+th: เนย
+tl: mantekilya
+tpi: bata
+tr: tereyağı
+uk: ма́сло
+ur: گھی; مَکَّھن; نَونی; نُونی; نَوَنِیت
+vi: bơ
+yue: 牛油
+
 word: chai
 class: noun
 infl: globasa (cay); hi (चाय/cāy, चायपत्ती/cāypattī); lidepla (chay); ru (чай/čaj); sw (chai); tr (çay); am (ሻይ/šay); ar (شَاي/šāy); bn (চা/ca); cmn (茶/chá, 茶葉/茶叶/cháyè); ha (shayi); ja (茶/cha, 茶葉/chaba); ko (차/cha); th (ชา/chaa); vi (trà)
@@ -1569,6 +1812,57 @@ uk: чоти́ри; че́тверо
 ur: چار; چَہار; ۴
 vi: bốn
 yue: 四
+
+word: chen
+class: num
+infl: globasa (cen); es (cien); fr (cent)
+sense: cardinal number 100
+am: መቶ
+ar: مائة; مِئَة; ١٠٠
+bg: сто
+bn: শত; একশ
+ca: cent
+cmn: 百
+cs: sto
+da: hundred; hundrede
+de: hundert; einhundert; Hundert
+el: εκατό; εκατόν
+en: hundred
+eo: cent
+es: cien; ciento
+fa: صَد
+fi: sata
+fr: cent
+globasa: cen
+glosa: hekto
+ha: ɗari
+hi: सौ; १००; सैकड़ा
+hu: száz
+ia: cento
+id: seratus; ratus
+io: cent
+it: cento
+ja: 百
+ko: 백
+lidepla: sto
+ms: ratus
+nl: honderd
+pl: sto
+pt: cem; cento
+ro: sută
+ru: сто; со́тня
+sv: hundra
+sw: mia
+ta: நூறு
+te: వంద; నూరు
+th: หนึ่งร้อย; ร้อย
+tl: daan
+tpi: handet
+tr: yüz
+uk: сто
+ur: سو
+vi: một trăm; trăm
+yue: 百
 
 word: da
 class: pron
@@ -1744,6 +2038,57 @@ uk: кров
 ur: خُون; لَہُو; رَکْت; دَم
 vi: máu
 yue: 血
+
+word: danke
+class: verb
+infl: de (danken, sich bedanken, Dank, danke schön, danke sehr); lidepla (danke); cmn (道謝/道谢/dàoxiè); en (thank, thanks); ja (サンキュー/sankyū); sw (asante)
+sense: to express appreciation or gratitude toward (someone or something) | expression of gratitude (thanks) | used to express appreciation or gratitude (thanks) | an expression of gratitude (thank you)
+am: አመሰግናለሁ; ኣመሰገናልሎ
+ar: شَكَرَ; شُكْرًا
+arz: شكرا; مرسي
+bg: благодаря́; призна́телност; благода́рност; мерси́
+bn: ধন্যবাদ; শুকরিয়া; জাজাকাল্লাহু খাইরান
+ca: agrair; mercè; mercès; gràcies; merci; moltes gràcies
+cmn: 道謝 /道谢; 感謝 /感谢; 謝 /谢; 謝謝 /谢谢; 多謝 /多谢; 感謝您 /感谢您; 感谢您
+cs: děkovat; poděkovat; díky; děkuji; děkuji vám; děkuji ti
+da: takke; tak
+de: danken; sich bedanken; Dank; Danksagung; danke; habe vielen Dank; haben Sie vielen Dank; ich danke schön; ich danke sehr; ich sage Dank; danke schön; danke sehr; vielen Dank
+el: ευχαριστώ; ευγνωμονώ; να ’σαι καλά; φχαριστώ
+en: thank; thanks; thank you
+eo: danki; danko; dankon; mi dankas
+es: agradecer; gracias; muchas gracias
+fa: ممنون; سپاس; مرسی; تشکر; مَمْنونَم; مُتِشَکِرَم; مِرْسی; تَشَکُّر; سِپاسْگُزارَم; سِپاس
+fi: kiittää; kiitos; kiitokset; kiitti
+fr: remercier; remerciements; merci; je vous remercie; merci bien
+globasa: xukra
+glosa: gratia; eukaristi
+ha: na gode
+hi: धन्यवाद देना; शुक्रिया करना; शुक्र करना; धन्यवाद; शुक्रिया; थैंक्स; थैंक्यू
+hu: köszön; köszönetet mond; megköszön; köszönet; köszönöm; köszi; köszönjük
+id: terima kasih; makasih
+io: danko; me dankas
+it: ringraziare; grazie
+ja: 感謝する; 謝辞; ありがとう; どうも; ありがとうございます; どうもありがとう; サンキュー; 大きに
+ko: 감사하다; 고마워; 고맙다; 고마워요; 고맙습니다; 감사합니다
+lidepla: danki; danke; shukran; arigatoo
+ms: bersyukur kepada; berterima kasih kepada; terima kasih; kamsia; menjunjung kasih
+nl: danken; bedankt; dank je; dank u; thanks; merci
+pl: dziękować; podziękować; podzięka; podziękowanie; dziękuję; dzięki
+pt: agradecer; agradecimentos; obrigado; obrigada; valeu
+ro: a mulțumi; mulțumiri; mulțumesc; mersi
+ru: благодари́ть; поблагодари́ть; благода́рность; спаси́бо; благодарю́
+sv: tacka; tack; tackar; tack så mycket
+sw: -shukuru; asante; nashukuru; shukrani
+ta: நன்றி
+te: ధన్యవాదాలు
+th: ขอบคุณ; ขอบใจ; ขอบพระคุณ
+tl: salamat; pagsasalamat
+tpi: tenkyu
+tr: teşekkür etmek; sağ ol; teşekkürler; teşekkür ederim; sağ olun; mersi
+uk: дя́кувати; подя́кувати; подя́ка; дя́кую; спаси́бі; дя́куємо
+ur: شُکْرِیَہ کَرْنا; شُکْرِیَہ; نَوَازِش; مِہَرْبانی; دھنیہ واد; جَزاک اَللٰہ; دَھنْیَہ واد; جَزاک اَللٰہ خَیر; نَوازِش; مِہْرْبانی
+vi: cám ơn; biết ơn; cảm ơn
+yue: 多謝 /多谢; 唔該 /唔该
 
 word: de
 class: prep
@@ -1946,6 +2291,50 @@ ur: دِن; روز; یَوم
 vi: ngày; hôm; bữa; ban ngày
 yue: 日; 白天; 日頭 /日头
 
+word: disputi
+class: verb
+infl: lidepla (disputi); de (Diskussion, Disput); en (dispute); es (disputar, discutir, disputación); fr (se disputer, dispute); glosa (disputa); ru (ди́спут/dísput)
+sense: to argue strongly, contend, squabble (quarrel) | dispute or heated argument (quarrel) | to have an argument, a quarrel (argue) | verbal dispute; a quarrel (argument) | (countable) angry or heated dispute (altercation) | argument, failure to agree (dispute)
+ar: تَشَاجَرَ; نَزَاع; شِجَار; جِدَال; مُجَادَلَة; هَوْشَة; نِزَاع; خِلَاف
+bg: ка́рам се; кавга́; караница; спо́ря; спор; диску́сия; поле́мика
+bn: তর্ক; বাহাস; বিবাদ
+ca: barallar-se; discutir; baralla; disputa; altercació; altercat
+cmn: 拌嘴; 吵架; 論爭 /论争; 爭論 /争论; 爭吵 /争吵; 爭議 /争议; 爭端 /争端; 糾紛 /纠纷
+cs: hádat se; hádka; spor; svár; váda
+da: skændes; skænderi; argumentation; diskussion
+de: sich streiten; streiten; sich zanken; Streit; Diskussion; Streitgespräch; Auseinandersetzung; heftige Auseinandersetzung; Disput; Kontroverse
+el: καβγαδίζω; λογομαχώ; μαλώνω; τσακώνομαι; καβγάς; λογομαχία; τσακωμός; διαπληκτισμός; διένεξη; έριδα; διαμάχη
+en: quarrel; argue; argument; altercation; dispute
+eo: disputo; kverelo
+es: reñir; disputar; brega; discusión; pelea; pelotera; rencilla; riña; discutir; altercar; porfiar; bronca; altercado; altercación; argüende; trabacuenta; sampablera; alteración; disputa; disensión; rifirrafe; contencioso; disputación
+fa: ستیزیدن; غوغا; دعوا; دعوا کردن; مشاجره
+fi: kiistellä; kinata; riidellä; kiista; kiistely; kina; riita; sanasota; väittely; väitellä; kinastelu; jupakka; sanaharkka; tappelu
+fr: se quereller; se disputer; querelle; dispute; altercation; empoignade; litige
+globasa: xijere
+glosa: disputa; alterka; jurga; litiga; argu
+hi: झगड़ना; झगड़ा; बिबाद; बहस; चपक़ुलश; रार; विवाद; असहमति
+hu: veszekedik; veszekszik; perpatvar; veszekedés; vita; vitázik; vitatkozik; nézeteltérés; szóváltás
+it: bisticciare; discutere; litigare; battibecco; bisticcio; diatriba; discussione; disputa; diverbio; lite; litigio; scaramuccia; altercazione; alterco; battibuglio; bisticciamento; bega
+ja: 言い争う; 口論する; 口喧嘩する; 言い争い; 口論; 口喧嘩; 議論する; 論争; 議論
+ko: 싸우다; 다투다; 말다툼하다; 싸움; 다툼; 말다툼; 논쟁; 론쟁; 말싸움; 말씨름; 입씨름; 의논
+lidepla: kwereli; kwerela; disputi; disputa
+ms: bergaduh; pergaduhan
+nl: bekvechten; redetwisten; ruzieën; ruziemaken; twisten; dispuut; (ge)ruzie; onenigheid; twist; ruzie; betoog; schermutseling; woordenwisseling
+pl: awantura; kłótnia; spięcie; spór; sprzeczka; swar; utarczka; zwada; sprzeczać się; posprzeczać się; batalia; alterkacja
+pt: querelar; discutir; querela; discussão; brigar; altercação; briga; disputa; argumento; polêmica
+ro: a se certa; interveni într-o ceartă; ceartă; pleda; certa; a aduce argumente; dispută; contraargumentare; altercație
+ru: ссо́риться; спо́рить; руга́ться; брани́ться; препира́ться; ссо́ра; спор; перебра́нка; ди́спут; препира́тельство; разбо́рка; поле́мика
+sv: krångla; dispyt; gräl; gräla; argumentation; diskussion; ordväxling
+ta: கலகம்
+te: వాగ్వాదము; కజ్జా; వివాదం
+th: ทะเลาะ; พิพาท; การทะเลาะ
+tl: mag-away; makipag-away; away; basag-ulo
+tr: kavga; kavga etmek; tartışmak; münakaşa; tartışma; savunma
+uk: сва́ритися; сва́рка; супере́чка; спір; перепа́лка; ди́спут; супере́ка; поле́міка
+ur: جھگڑا کرنا; جھگڑا; بباد; چَپْقُلَش; رار
+vi: cãi cọ; cãi vã; cãi; tranh luận
+yue: 詏 /𬣦; 嗌交; 嘈交; 拗; 拗撬; 丫撬
+
 word: dista
 class: adj
 infl: glosa (dista); de (distanziert); en (distant); es (distante); fr (distant)
@@ -2046,6 +2435,57 @@ uk: ха́та; дім; буди́нок
 ur: گَھر; مَکان
 vi: nhà; nhà ở
 yue: 屋
+
+word: doste
+class: noun
+infl: fa (دوسْت/dōst); globasa (doste); hi (दोस्त/dost); tr (dost); bn (দোস্ত/dōsto); te (దోస్తు/dōstu)
+sense: person whose company one enjoys
+am: ጓደኛ; ወዳጅ
+ar: صَدِيق; صَدِيقَة; صَاحِب; صَاحِبَة; رَفِيق; رَفِيقَة
+bg: прия́тел; прия́телка
+bn: বন্ধু; বান্ধবী; দোস্ত
+ca: amic; amiga
+cmn: 朋友; 友人; 友
+cs: přítel; kamarád; přítelkyně; kamarádka
+da: ven; veninde; kammerat; kammeratinde
+de: Freund; Kumpel; Kamerad; Freundin; Kameradin
+el: φίλος; φίλη
+en: friend
+eo: amiko; amikiĉo; amikino
+es: amigo; amiga; amistad
+fa: دوسْت; رَفِیق; یَار; رَفیق; یار
+fi: ystävä; kaveri; ystävätär; ystäväinen
+fr: ami; copain; amie f copine
+globasa: doste
+glosa: ami
+ha: aboki; ƙawa
+hi: दोस्त; मित्र; साथी; सखा; यार; मीत; सहेली; सखी
+hu: barát; pajtás; haver; cimbora
+ia: amico
+id: teman; sahabat; kawan; sobat; rekan
+io: amiko; amikulo; amikino
+it: amico; amica
+ja: 友達; 友人
+ko: 친구; 동무; 벗
+lidepla: amiga
+ms: kawan; handai; rakan; taulan; sahabat; member; teman
+nl: vriend; vriendje; vriendin; vriendinnetje; maatje
+pl: przyjaciel; przyjaciółka; druh
+pt: amigo; amiga
+ro: amic; amică; prieten; prietenă
+ru: друг; подру́га; прия́тель; прия́тельница; това́рищ
+sv: kamrat; vän; väninna
+sw: rafiki
+ta: நண்பன்; நண்பி; தோழன்; தோழி
+te: స్నేహితుడు; మిత్రుడు; స్నేహితురాలు; మిత్రురాలు; దోస్తు
+th: เพื่อน; สหาย; มิตร; เกลอ
+tl: kaibigan
+tpi: pren
+tr: arkadaş; dost; ahbap
+uk: друг; при́ятель; подру́га; по́друга; при́ятелька
+ur: دوسْت; مِتَّر; یار; رَفِیق; مِیت; حَبِیب
+vi: người bạn; bạn
+yue: 朋友; 友人
 
 word: du
 class: particle
@@ -2826,6 +3266,51 @@ ur: سے
 vi: từ
 yue: 從 /从; 自; 由
 
+word: forti
+class: adj
+infl: glosa (forti); am (ፈርጠም/färṭäm); es (fuerte); fr (fort); lidepla (forte)
+sense: capable of producing great physical force | having a high concentration of an essential or active ingredient
+am: ፈርጠም
+ar: قَوِيّ; حَادّ; ثَقِيْل
+bg: си́лен; силен
+bn: শক্তিশালী
+ca: fort
+cmn: 強 /强
+cs: silný
+da: stærk
+de: stark; kräftig
+el: δυνατός; ισχυρός
+en: strong
+eo: forta
+es: fuerte
+fa: قوی; زورمند
+fi: vahva; voimakas; väkevä
+fr: fort
+globasa: bala
+glosa: forti; fo; steno
+hi: बलवान; ताक़तवर; शक्तिशाली
+hu: erős
+id: kuat
+it: forte; aitante
+ja: 強い
+ko: 강하다; 세다; 짙다
+lidepla: forte
+ms: kuat
+nl: sterk; krachtig; geconcentreerd
+pl: silny; krzepki; mocny
+pt: forte
+ro: puternic
+ru: си́льный; мо́щный; кре́пкий; сильноде́йствующий
+sv: kraftfull; stark
+sw: imara
+te: బలమైన; గాఢమైన
+th: แข็งแรง
+tl: malakas
+tr: güçlü; kuvvetli; gür; sert
+uk: си́льний; мі́цний
+ur: بلوان; طاقتور
+vi: mạnh
+
 word: ga
 class: prep
 infl: ja (が/ga); ko (-가/ga)
@@ -2835,6 +3320,54 @@ hi: ने
 ja: が
 ko: -이; -가
 lidepla: da
+
+word: galsa
+class: noun
+infl: lidepla (galsa); bn (গলা/gola); de (Hals); fa (گَرْدَن/gardan); globasa (gardan); hi (गर्दन/gardan, गला/galā)
+sense: part of body connecting the head and the trunk
+am: አንገት
+ar: رَقَبَة; عُنُق
+bg: ши́я; врат
+bn: গলা; গর্দান
+ca: coll
+cmn: 頸 /颈; 頸項 /颈项; 脖子
+cs: krk; šíje
+da: hals
+de: Hals; Nacken; Genick
+el: λαιμός
+en: neck
+eo: kolo
+es: cuello; pescuezo
+fa: گَرْدَن; گَری
+fi: kaula
+fr: cou; nuque
+globasa: gardan
+glosa: kola; cervika; trakelo
+ha: wuya
+hi: गर्दन; कंठ; ग्रीवा; गला
+hu: nyak
+id: leher
+it: collo
+ja: 首
+ko: 목
+lidepla: galsa
+ms: leher
+nl: hals; nek
+pl: szyja; kark
+pt: pescoço
+ro: gât
+ru: ше́я
+sv: hals
+sw: shingo
+ta: கழுத்து
+te: మెడ
+th: คอ; ลำคอ
+tl: leeg
+tr: boyun
+uk: ши́я
+ur: گَرْدَن; کَنْٹھ
+vi: cổ
+yue: 頸 /颈
 
 word: ganzo
 class: noun
@@ -2890,48 +3423,98 @@ yue: 肝
 word: garme
 class: adj
 infl: hi (गरम/garam, गर्म/garm); lidepla (garme)
-sense: having a high temperature
-ar: حَارّ; سَاخِن
-bg: горе́щ
+sense: having a high temperature | having a temperature slightly higher than usual
+ar: حَارّ; سَاخِن; دَافِئ; دَفِيء
+bg: горе́щ; то́пъл
 bn: গরম
-ca: calent
-cmn: 熱 /热; 燙 /烫
-cs: horký
-da: hed; varm
-de: heiß
+ca: calent; càlid
+cmn: 熱 /热; 燙 /烫; 暖和; 溫暖 /温暖
+cs: horký; teplý
+da: hed; varm; lun
+de: heiß; warm
 el: ζεστός; θερμός
-en: hot
+en: hot; warm
 eo: varma; varmega
-es: caliente; muy caliente
-fa: داغ
-fi: kuuma
-fr: chaud; très chaud
+es: caliente; muy caliente; cálido; caluroso
+fa: داغ; گَرْم
+fi: kuuma; lämmin; lämpöinen
+fr: chaud; très chaud; chaude
 globasa: termoday (termo+day); termopul (termo+pul); daytermopul (day+termo+pul)
-glosa: termo; kalori; kalido; toridi
+glosa: termo; kalori; kalido; toridi; meso termo
 hi: गरम; गर्म; उष्ण; तपित
 hu: meleg
-ia: (multo) calide
-id: panas
+ia: (multo) calide; calide; calorose
+id: panas; hangat
 io: varmega
 it: caldo; molto caldo; bollente
-ja: 熱い
-ko: 뜨겁다
-lidepla: garma-ney; garme
-ms: panas
+ja: 熱い; 暖かい; 温かい; ホカホカ
+ko: 뜨겁다; 따뜻하다
+lidepla: garma-ney; garme; warme
+ms: panas; hangat; suam
 nl: heet; warm
-pl: gorący
-pt: (muito) quente
-ro: cald; fierbinte
-ru: горя́чий
+pl: gorący; ciepły
+pt: (muito) quente; morno; quente
+ro: cald; fierbinte; caldă
+ru: горя́чий; тёплый
 sv: het; varm
-te: వేడైన
-th: ร้อน
+ta: இதமாக; இதமான
+te: వేడైన; వెచ్చని
+th: ร้อน; อุ่น
 tl: mainit; nakapapaso
-tr: sıcak
-uk: гаря́чий
+tr: sıcak; ılık
+uk: гаря́чий; те́плий
 ur: گَرْم
-vi: nóng
-yue: 熱 /热
+vi: nóng; ấm
+yue: 熱 /热; 暖
+
+word: gile
+class: adj
+infl: globasa (gile); hi (गीला/gīlā)
+sense: of an object: covered with or impregnated with liquid
+ar: مَبْلُول; مُبْتَلّ; مُبَلَّل
+arz: مبلول
+bg: мо́кър; вла́жен
+bn: ভিজা
+ca: moll; mullat; xop
+cmn: 濕 /溼 /湿
+cs: mokrý; vlhký
+da: våd
+de: nass; feucht
+el: υγρός
+en: wet
+eo: malseka
+es: mojado
+fa: خیس
+fi: märkä
+fr: mouillé
+globasa: gile
+glosa: higro; imbu; uvido
+hi: गीला
+hu: nedves
+ia: humide
+id: basah
+io: humida
+it: bagnato; impregnato
+ja: 湿っぽい
+ko: 젖은; 젖다
+lidepla: mokre
+ms: basah
+nl: nat; vochtig
+pl: mokry; wilgotny
+pt: molhado
+ro: ud; umed
+ru: мо́крый
+sv: våt; blöt
+sw: kimaji
+ta: ஈரமான
+te: తడి
+th: เปียก; ฉ่ำ; ชุ่มชื้น
+tl: basa
+tr: ıslak; nemli
+uk: мо́крий; воло́гий
+ur: گیلا
+vi: ướt
+yue: 濕 /溼 /湿
 
 word: gin-
 class: prefix
@@ -3212,6 +3795,57 @@ uk: жі́нка
 ur: عَورَت; خاتُون; زَنانی; زَن; مَہِیلا; ناری; سُتْری
 vi: phụ nữ; đàn bà
 yue: 女人; 女性
+
+word: golda
+class: symbol
+infl: lidepla (golda); de (Gold); en (gold); tpi (gol)
+sense: element Au
+am: ወርቅ
+ar: ذَهَب; إِبْرِيز
+bg: зла́то
+bn: সোনা; জর
+ca: or
+cmn: 金; 金子; 黃金 /黄金
+cs: zlato
+da: guld
+de: Gold
+el: χρυσός; χρυσάφι; μάλαμα
+en: gold
+eo: oro
+es: oro
+fa: طلا; زر
+fi: kulta
+fr: or
+globasa: dahabu
+glosa: kriso; aureo
+ha: zinari; zinariya; gwal
+hi: सोना; स्वर्ण; कंचन; कनक; हेम; भृंगार; ज़र; जर; हिरण्य
+hu: arany
+ia: auro
+id: mas; emas; kencana
+io: oro
+it: oro
+ja: 金; 黄金
+ko: 금; 황금
+lidepla: golda
+ms: emas; kencana; aurum
+nl: goud
+pl: złoto
+pt: ouro; oiro
+ro: aur
+ru: зо́лото; а́урум
+sv: guld
+sw: dhahabu
+ta: தங்கம்; பொன்; கூழ்; கூழை; உரை
+te: బంగారము; కనకం; స్వర్ణం; పొన్ను; పొం
+th: ทองคำ; ทอง
+tl: ginto; panika; panambo (20 karats)
+tpi: gol
+tr: altın
+uk: зо́лото; а́урум; а́врум; зла́то
+ur: سونا; زر
+vi: vàng
+yue: 金; 金子; 黃金 /黄金
 
 word: gras
 class: noun
@@ -4222,6 +4856,56 @@ uk: голова́
 ur: سِر; سَر
 vi: đầu
 yue: 頭 /头
+
+word: kapri
+class: noun
+infl: glosa (kapri); es (cabra); hi (बकरी/bakrī); id (kambing); tl (kambing)
+sense: animal
+am: ፍየል
+ar: مَاعِز; عَنْزَة
+bg: коза́; козе́л
+bn: ছাগল; বকরা
+ca: cabra
+cmn: 羊; 山羊
+cs: koza; kozel
+da: ged
+de: Ziege; Geiß; Bock
+el: κατσίκα; γίδα; γίδι
+en: goat
+eo: kapro
+es: cabra; chivo
+fa: بُز
+fi: vuohi
+fr: chèvre; bouc; bique
+globasa: bozi
+glosa: kapri
+ha: bunsuru
+hi: बकरी; बकरा
+hu: kecske; bak; kecskebak
+ia: capra
+id: kambing
+io: kapro
+it: capra
+ja: ヤギ; 山羊
+ko: 염소; 산양
+lidepla: bakra
+ms: kambing
+nl: geit; bok
+pl: koza; kozioł
+pt: bode; cabra
+ro: capră; țap
+ru: коза́; козёл
+sv: get
+sw: mbuzi
+ta: வெள்ளாடு; ஆடு
+te: మేక
+th: แพะ
+tl: kambing
+tr: keçi
+uk: коза́; козе́л; цап
+ur: بَکْری; بُز; بَکْرا
+vi: dê; con dê
+yue: 山羊
 
 word: kar
 class: adj
@@ -5459,6 +6143,57 @@ uk: чи
 ur: کیا‎
 vi: có ... không; không; phải không; hả; hử; à
 
+word: kula
+class: verb
+infl: sw (kula); am (በላ/bäla); hi (खाना/khānā); ru (ку́шать/kúšatʹ, поку́шать/pokúšatʹ, ску́шать/skúšatʹ); tl (kumain)
+sense: to ingest — see also consume, ingest
+am: መብላት; በላ
+ar: أَكَلَ imperfective: يَأْكُلُ
+bg: ям; хра́ня се
+bn: খাওয়া
+ca: menjar
+cmn: 吃; 食; 餔 /𫗦
+cs: jíst; sníst
+da: spise; æde
+de: essen; fressen
+el: τρώω; τρώγω
+en: eat
+eo: manĝi
+es: comer; morfar; manducar; yantar; papear; gandir; manyar
+fa: خْوَارْدَن; خورْدَن
+fi: syödä
+fr: manger
+globasa: yam
+glosa: vora; edo; fago; manduka; mangia; vesko
+ha: ci
+hi: खाना; लेना
+hu: eszik
+id: makan
+io: manjar
+it: mangiare
+ja: 食べる; 食事する; 召し上がる; 頂く
+ko: 먹다; 드시다; 잡수시다; 섭취하다
+lidepla: chi
+ms: makan; santap
+nl: eten; vreten; consumeren
+pcm: chop; chọp
+pl: jeść; zjeść; żreć; szamać
+pt: comer
+ro: mânca
+ru: есть; пое́сть; съесть; ку́шать; поку́шать; ску́шать; пита́ться; жрать; пожра́ть; сожра́ть; употребить
+sv: äta
+sw: kula
+ta: சாப்பிடு; உண்; தின்
+te: తిను; భుజించు
+th: กิน; รับประทาน; ทาน; ฉัน; เสวย; บริโภค
+tl: kain; kumain; kainin
+tpi: kai
+tr: yemek
+uk: ї́сти; пої́сти; з'ї́сти
+ur: کھانا
+vi: ăn; ăn cơm; xơi
+yue: 食; 吃
+
 word: kumi
 class: noun
 infl: globasa (kumi); ja (蜘蛛/kumo); ko (거미/geomi)
@@ -6251,6 +6986,52 @@ tl: mga
 tr: -ler; -lar
 vi: những; các; mấy
 
+word: ma belo
+class: noun
+sense: mass of such filaments on the human head | mass of such filaments growing from the skin of humans and animals
+am: ፀጉር
+ar: شَعْر; شَعْرَة
+bg: коса́
+bn: চুল; পশম
+ca: cabell; pèl
+cmn: 頭髮 /头发; 毛髮 /毛发
+cs: vlasy; vlas; srst; ochlupení
+da: hår
+de: Haar; Haare
+el: μαλλί; μαλλιά; τρίχες
+en: hair (collectively)
+eo: haro; hararo
+es: cabello; pelo
+fa: مو; مُو; گیس
+fi: hiukset; tukka; karvoitus; karva; karvat
+fr: cheveu; cheveux; chevelure; poils
+hi: बाल; केश; जटा; वाल; केस; चूल; लोम
+hu: haj; szőr
+ia: capillo; pilo
+id: rambut; bulu
+io: haro; hararo; pilo
+it: capello; capelli; peli
+ja: 髪の毛; 髪; 頭髪; 毛
+ko: 머리칼; 머리카락; 머리; 머리털
+ms: rambut; bulu
+nl: haar
+pl: włosy; włos
+pt: cabelo; pelo; cabeleira
+ro: păr; păr (de pe corp); blană (zool.)
+ru: во́лосы; во́лос; волоси́нка
+sv: hår
+sw: unywele; nywele
+ta: முடி
+te: వెంట్రుకలు; జుట్టు; రోమాలు
+th: ผม; ขน
+tl: buhok
+tpi: gras bilong het; gras
+tr: saç; kıl; tüy
+uk: воло́сся; во́лос; во́лоси
+ur: بال; کیش
+vi: tóc; lông
+yue: 頭髮 /头发
+
 word: mahi
 class: noun
 infl: fa (مَاهِی/māhī); globasa (mahi); hi (मछली/machlī, माही/māhī, मच्छी/macchī); bn (মাছ/mach); sw (samaki)
@@ -6352,6 +7133,38 @@ uk: чолові́к; мужчи́на
 ur: آدْمی; مَرْد; پُرُش
 vi: đàn ông
 yue: 男人
+
+word: manto
+class: noun
+infl: es (manto); fr (manteau); ja (マント/manto, マントル/mantoru); ru (ма́нтия/mántija, манто́/mantó); de (Mantel); en (mantle); globasa (mantol); glosa (mantela); ko (망토/mangto); lidepla (mantela)
+sense: cape | clothing like an open robe or cloak
+ar: مِعْطَف فَضْفَاض
+bg: плащ; наметало; аба́; ма́нтия
+ca: capa; mantell
+cmn: 斗篷
+cs: plášť
+de: Umhang; Pelerine; Mantel
+el: κάπα; μανδύας
+en: cloak; mantle
+eo: mantelo
+es: capa; manto
+fa: قبا; یلمه; فرچی; بالاپوش
+fi: viitta; mantia
+fr: pelisse; pèlerine; manteau
+globasa: kapa; mantol
+glosa: toga; palia; klamido; mantela; palio
+hi: चोग़ा
+hu: köpeny; köpönyeg
+it: tabarro; mantello
+ja: マント; クローク; マントル
+ko: 망토
+lidepla: mantela
+nl: mantel; cape
+pl: peleryna
+pt: capa; manto
+ro: mantie; manta
+ru: плащ; ма́нтия; манто́
+sv: slängkappa; mantel
 
 word: manya
 class: adv
@@ -7298,6 +8111,56 @@ ur: آن٘کھ; نَین; عَین; چَشْم
 vi: mắt
 yue: 眼; 眼睛
 
+word: nen-belo
+class: noun
+sense: hair growing on the edge of an eyelid
+am: ሽፋሽፍት
+ar: رِمْش; هُدْب
+arz: رمش
+bg: ми́гла; ресни́ца
+bn: রশ্মি; ভুরু; অক্ষিলোম; অক্ষিপক্ষ্ম; চোখের পাপড়ি
+ca: pestanya
+cmn: 睫毛; 眼睫毛
+cs: řasa; oční řasa
+da: øjenvippe
+de: Wimper; Augenwimper
+el: βλεφαρίδα; ματοτσίνορο; ματόκλαδο
+en: eyelash
+eo: okulharo
+es: pestaña
+fa: مژه; مجگ
+fi: silmäripsi; ripsi
+fr: cil
+globasa: pelakebelo (pelake+belo)
+glosa: cilia
+ha: gashin ido
+hi: पपनी; पलक
+hu: szempilla; pilla
+ia: cilio
+id: bulu mata
+io: cilio
+it: ciglio
+ja: まつげ; 睫毛
+ko: 속눈썹
+lidepla: silya
+ms: bulu mata; idap
+nl: wimper; ooghaar
+pl: rzęsa
+pt: cílio; pestana
+ro: geană
+ru: ресни́ца
+sv: ögonfrans
+sw: kope; ukope
+ta: கண் இமை
+te: పక్ష్మ; పక్ష్మము; అక్షిపక్ష్మము
+th: ขนตา
+tl: pilik; pilikmata
+tr: kirpik
+uk: ві́я
+ur: پپنی; پلک
+vi: lông mi; mi
+yue: 睫毛; 眼睫毛; 眼挹毛
+
 word: nin
 class: num
 infl: lidepla (nin); de (neun); en (nine); glosa (nona); ja (ナイン/nain); ko (나인/nain); vi (chín)
@@ -7448,6 +8311,55 @@ uk: ніч
 ur: رات; شَب
 vi: đêm; tối; ban đêm; khuya
 yue: 夜晚
+
+word: norda
+class: noun
+infl: lidepla (norda); de (Norden, nördlich); en (north); es (norte); fr (nord); glosa (nord); ru (норд/nord)
+sense: compass point | of or pertaining to the north
+am: ሰሜን
+ar: شَمَال
+bg: се́вер; северен
+bn: উত্তর
+ca: nord; septentrió
+cmn: 北; 北方
+cs: sever
+da: nord; nordlig
+de: Norden; nördlich
+el: βορράς; βόρειος
+en: north
+eo: nordo; norda
+es: norte; septentrión; norteño
+fa: شُمَال; شُمال; شمالی
+fi: pohjoinen; pohjois-
+fr: nord; septentrion
+globasa: utara; utarali (utara+li)
+glosa: nord; boreo
+hi: उत्तर; शुमाल; ऊतर
+hu: észak; északi
+ia: nord
+id: utara
+io: nordo; norda
+it: nord; settentrione; mezzanotte
+ja: 北; 北方; ノース
+ko: 북; 북쪽; 북방
+lidepla: norda; norda-ney; norde
+ms: utara; syamali
+nl: noorden; noordelijk
+pl: północ; północny
+pt: norte; setentrião; do norte; nortenho; nortista; setentrional
+ro: nord
+ru: се́вер; норд; се́верный
+sv: nord; norr
+sw: kaskazi; hanali
+ta: வடக்கு
+te: ఉత్తరము; ఉత్తరం
+th: ทิศเหนือ; เหนือ
+tl: hilaga
+tr: kuzey
+uk: пі́вніч; півні́чний
+ur: شُمال; شِمال; اُتَّر
+vi: phía bắc; hướng bắc; bắc
+yue: 北; 北方
 
 word: nove
 class: adj
@@ -7682,6 +8594,56 @@ ur: سال; برس
 vi: năm
 yue: 年
 
+word: o
+class: conj
+infl: en (or); es (o); lidepla (o); tl (o); fr (ou); globasa (or); pcm (or)
+sense: conjunction
+am: ወይስ
+ar: أَو; أَم; إِمَّا
+bg: и́ли; или́
+bn: বা; অথবা; কিংবা
+ca: o; o bé
+cmn: 或; 或者; 還是 /还是; 或是
+cs: nebo
+da: eller
+de: oder
+el: ή; είτε
+en: or
+eo: aŭ
+es: o; u
+fa: یَا; یا
+fi: tai; vai; eli
+fr: ou
+globasa: or
+glosa: alo
+hi: या; क; व; अथवा
+hu: vagy
+ia: o
+id: atau
+io: od; o
+it: o; od; oppure
+ja: または; 又は; あるいは; か; それとも
+ko: 또는; 혹은; 아니면; -거나; -이나; -나
+lidepla: o; oda
+ms: atau
+nl: of
+pcm: or
+pl: albo (xor-type); lub (or-type); czy; bądź; tudzież
+pt: ou
+ro: ori; sau
+ru: и́ли; ли́бо; чи
+sv: eller
+sw: au; ama
+ta: அல்லது
+te: లేదా; గాని
+th: หรือ
+tl: o
+tr: veya; ya da
+uk: чи; або́
+ur: یا
+vi: hay; hay là; hoặc
+yue: 定係 /定系; 抑或; 或者
+
 word: oke
 class: adj
 infl: en (OK); es (okey, okay); globasa (okey); hi (ओके/oke); ja (オーケー/ōkē, OK); ms (okey); ru (оке́й/okéj, ок/ok); tl (okey); tr (okey); ar (أُوكَي/ʔokay); cmn (OK); de (Okay, OK); fr (OK); ko (오케이/okei); th (โอเค/oo-kee)
@@ -7814,6 +8776,145 @@ uk: усе́; все
 ur: سب کچھ; سب; ہر چیز
 vi: mọi vật; mọi thứ nào; tất cả
 yue: 凡事; 一切; 萬事 /万事; 乜嘢都
+
+word: ol-lok
+class: adv
+sense: at all places
+ar: فِي كُلِّ مَكَانٍ
+bg: навсякъде
+bn: সব জায়গা
+ca: a tot arreu; pertot
+cmn: 到處 /到处
+cs: všude
+da: overalt
+de: überall
+el: παντού
+en: everywhere
+eo: ĉie
+es: todos lados; todo lugar; por todas partes; dondequiera; por doquiera; por doquier; ubicuo; omnipresente
+fa: همهجا; هرجا
+fi: kaikkialla; kaikkialle; kaikkialta
+fr: partout; à tous les coins de rue
+globasa: moyloka (moy+loka)
+glosa: panto-lo
+hi: हर जगह
+hu: mindenütt; mindenhol
+ia: ubique
+id: di mana-mana
+io: omnaloke
+it: ovunque; dappertutto
+ja: どこでも
+ko: 어디에나
+lidepla: kadalok (kada+lok)
+ms: mana-mana
+nl: overal
+pl: wszędzie
+pt: em toda parte; por todo lado
+ru: везде́; всю́ду; повсю́ду
+sv: överallt
+sw: kila mahali
+tr: her yer; her yerde
+uk: усю́ди; всю́ди; повсю́ди; скрізь
+ur: ہَرْجا; ہَر جَگَہ
+yue: 度度
+
+word: ol-su
+class: det
+sense: – | possessive form of everybody
+en: everyone's; everybody's
+globasa: moysu (moy+su)
+
+word: ol-ta
+class: pron
+sense: every person | all people
+ar: الْجَمِيع; كُلّ شَخْص; اَلْجَمِيع
+bg: вси́чки; все́ки
+bn: সবাই
+ca: tothom; cada u; cadascú
+cmn: 大家; 人人
+cs: všichni; každý
+da: alle
+de: alle; jedermann; jeder
+el: κάθε ένας; όλοι; άπαντες; οι πάντες
+en: everyone; everybody
+eo: ĉiu; ĉiuj
+es: todos; todo el mundo; todo quisqui
+fa: هر کس; همه
+fi: jokainen; kaikki
+fr: chacun; tout le monde; tous
+globasa: moyte (moy+te)
+glosa: panto-pe
+hi: सब लोग; सब
+hu: mindenki; mind
+ia: totos; tote le mundo; omnes
+io: omnu; omni
+it: ciascuno; tutti
+ja: 皆さん; みんな; だれも
+ko: 모두; 누구나; 여러분; 다들; 각자
+lidepla: kadawan (kada+wan); oli
+nl: iedereen; elkeen; allen; allemaal; iegelijk
+pl: każdy; wszyscy; wszelaki
+pt: todos; todo mundo; toda a gente; todas
+ro: oricine; toți; fiecare; fiecine; toată lumea; toți oamenii
+ru: все; ка́ждый; вся́кий
+sv: alla; allihop; allesammans; allihopa
+ta: எல்லோரும்; அனைவரும்
+te: అందరూ
+th: ทุกคน; ทุกท่าน
+tr: herkes
+uk: усі́; всі́; ко́жний; вся́кий; всі
+ur: سب لوگ; سب
+vi: mọi người
+yue: 大家; 人人
+
+word: ol-tem
+class: adv
+sense: at all times | always
+am: ሁልጊዜ
+ar: دَائِمًا; أَبَدًا; دَوْمًا; دَوْمًا مَا; ديما
+arz: دايمًا; تملّي; على طول
+bg: ви́наги; вся́кога
+bn: হামেশা; সর্বদা
+ca: sempre
+cmn: 總是 /总是
+cs: vždy
+da: altid; immer; idelig
+de: immer; stets; ständig; ewig
+el: πάντα; πάντοτε
+en: always; ever
+eo: ĉiam
+es: siempre; jamás (desus.)
+fa: همیشه
+fi: aina; alati; ikuisesti; iäti
+fr: toujours
+globasa: moywatu (moy+watu)
+glosa: panto-tem; panto-kron; semper
+hi: हमेशा; सदा; नित्य
+hu: mindig; folyton
+ia: semper
+id: selalu
+io: sempre; omnatempe
+it: sempre
+ja: いつも; ずっと
+ko: 항상; 늘; 언제나; 이제까지
+lidepla: sempre
+ms: sentiasa; selalu; sepanjang masa; setiap masa; semedang; nalar; selulus; berkelaluan
+nl: altijd; immer; altoos; steeds; ooit
+pl: zawsze
+pt: sempre
+ro: totdeauna; mereu; întotdeauna
+ru: всегда́; ве́чно
+sv: alltid
+sw: sikuzote
+ta: எப்பொழுதும்
+te: ఎల్లప్పుడు
+th: ตลอด
+tl: lagi
+tr: her zaman; daima; hep; ebediyen
+uk: за́вжди; завжди́; за́всіди; за́вше; повсякча́с
+ur: ہمیشہ; سدا; نتیہ
+vi: luôn luôn; luôn; mãi mãi; bao giờ
+yue: 成日
 
 word: om
 class: prep
@@ -8096,6 +9197,56 @@ uk: говори́ти; сказа́ти; розмовля́ти; каза́ти
 ur: بولْنا; کَہْنا
 vi: nói
 yue: 講 /讲
+
+word: pan
+class: noun
+infl: es (pan); ja (パン/pan); lidepla (pan); bn (পাঁউরুটি/pãuruṭi); fa (نَان/nān); fr (pain); glosa (pani); ko (빵/ppang)
+sense: baked dough made from cereals
+am: ዳቦ
+ar: خُبْز
+bg: хляб
+bn: রুটি; পাঁউরুটি; লোফ
+ca: pa
+cmn: 麵包 /面包
+cs: chléb; chleba
+da: brød
+de: Brot
+el: ψωμί; άρτος
+en: bread
+eo: pano
+es: pan
+fa: نَان; نان
+fi: leipä
+fr: pain
+globasa: roti
+glosa: pani; arto
+ha: gùr̃āsā̀
+hi: रोटी; ब्रेड
+hu: kenyér
+ia: pan
+id: roti
+io: pano
+it: pane
+ja: パン
+ko: 빵
+lidepla: pan
+ms: roti
+nl: brood
+pl: chleb
+pt: pão
+ro: pâine; pâne
+ru: хлеб
+sv: bröd
+sw: mkate
+ta: ரொட்டி
+te: బ్రెడ్; బ్రెడ్డు; రొట్టె
+th: ขนมปัง; ปัง
+tl: tinapay
+tr: ekmek; banak
+uk: хліб
+ur: روٹی; نان
+vi: bánh mì; bánh mỳ; bánh tây
+yue: 麵包 /面包; 包
 
 word: parpar
 class: noun
@@ -8462,6 +9613,138 @@ ur: بعد میں; پھر
 vi: sau này; sau đó; về sau; rồi; xong rồi; rồi đến; rồi tới; sau
 yue: 然後 /然后; 然之後 /然之后; 之後 /之后
 
+word: poli
+class: det
+infl: glosa (poli); fa (خیلی/xeyli); ja (多い/ōi); ta (பல/pala)
+sense: an indefinite large number of | a large amount of
+am: ብዙ
+ar: كَثِير
+arz: كتير
+bg: мно́го; доста; бая
+bn: অনেক; বহু
+ca: molts; moltes; molt
+cmn: 多; 很多; 好多; 許多 /许多
+cs: mnoho
+da: mange; mangen; meget
+de: viele; viel
+el: πολλοί
+en: many; much
+eo: multaj; multa
+es: muchos; muchas; mucho
+fa: زیاد; چندین; بسیار; خیلی
+fi: moni; monta; see also Thesaurus:runsaasti; paljon
+fr: beaucoup de; de nombreux; plusieurs; beaucoup
+globasa: multi
+glosa: multi; poli; miria; sikno
+hi: बहुत; बहु; अधिक; ज़्यादा
+hu: sok
+ia: multe
+id: banyak
+io: multa
+it: molti; un gran numero di; molto
+ja: 多くの; 多い; 沢山
+ko: 많은; 많이
+lidepla: mucho
+ms: banyak; ramai
+nl: veel; vele; menig
+pl: wiele; dużo
+pt: muitos; muitas; muito; um monte de
+ro: mulți; multe; mult
+ru: мно́го; мно́гие; мно́гий; нема́ло
+sv: många; mycket; mycken
+sw: -ingi
+ta: நிறைய; பல
+te: చాలా
+th: ขนัด; มาก; เยอะ; รุ่ม; หลาย
+tl: marami
+tr: çok; pek çok; birçok; fazla
+uk: бага́то; чима́ло
+ur: بہت; زیادہ
+vi: nhiều; lắm
+yue: 好多
+
+word: poli-ge
+class: adv
+sense: very much | to a great extent
+ar: كَثِيرًا
+arz: قوي
+bg: много; доста; бая
+ca: molt
+cmn: 許多 /许多; 多
+cs: velmi mnoho; moc; mnohem
+da: meget
+de: viel
+el: πολύ
+en: a lot; much
+eo: multe
+es: mucho; a jierro; una pechá
+fa: زیاد; خیلی زیاد
+fi: paljon; hyvin paljon
+fr: beaucoup
+globasa: multi
+glosa: mega
+hi: बहुत सारा
+hu: nagyon; sokkal; jóval; sokkalta
+it: molto
+ja: 沢山の; 多い
+ko: 많은
+lidepla: mucho
+nl: veel
+pl: mnóstwo; wiele; dużo; bardzo
+pt: um monte; muito; muita
+ro: mult
+ru: мно́го; о́чень; намно́го; гора́здо
+sv: mycket; en hel del
+sw: mengi
+th: มาก
+tr: çok; bir sürü; bir ton
+uk: бага́то; набага́то
+vi: nhiều; lắm
+
+word: poli-it
+class: pron
+sense: – | an indefinite large number of people or things | many things
+am: ብዙ
+ar: كَثِير; متعدد
+bg: много
+bn: অনেক
+ca: molt
+cs: hodně; mnoho
+da: mange
+de: vieles
+en: many things; many; a lot
+eo: multaj; multa; multe da
+es: muchos; mucho; asaz; bastante
+fi: monet; paljon
+fr: beaucoup; un grand nombre
+hu: sok; sok minden
+it: molti
+nl: velen; veel
+pt: bastante; muito
+ro: mult
+ru: мно́гие; мно́гое
+sw: wengi
+uk: бага́то
+
+word: poli-ta
+class: pron
+sense: – | an indefinite large number of people or things
+am: ብዙ
+ar: كَثِير; متعدد
+bg: много
+bn: অনেক
+da: mange
+en: many people; many
+eo: multaj
+es: muchos
+fi: monet
+fr: beaucoup; un grand nombre
+hu: sok
+it: molti
+nl: velen; veel
+ru: мно́гие; мно́гое
+sw: wengi
+
 word: pote
 class: verb
 infl: glosa (pote); es (poder); vi (có thể)
@@ -8508,6 +9791,82 @@ uk: могти́; змогти́; вмі́ти; умі́ти; зумі́ти
 ur: سکنا
 vi: có thể; được; nổi
 yue: 識得 /识得
+
+word: pyu
+class: adv, suffix
+infl: lidepla (pyu); fr (plus)
+sense: word to form a comparative (more) | comparative of much (more) | used to form the comparative of adjectives (-er)
+ar: أَكْثَر
+bg: повече
+ca: més
+cmn: 更; 更多; 更加
+cs: víc; více; -ejší; -ější; -čí; -ší
+da: mere
+de: mehr; -er
+el: πιο; περισσότερο; -τερος
+en: more; -er (modifies adjectives or adverbs)
+eo: pli
+es: más
+fa: -تر; بیشتر; ـتر
+fi: -mpi; enemmän
+fr: plus; davantage de
+globasa: max
+glosa: ma; malo
+hi: अधिक; और; ज्यादा
+hu: -abb; -ebb; -obb; -bb; jobban
+ia: plus
+io: plu; plu multe
+it: più
+ja: もっと; よりたくさん; よりおおく; もう; より
+ko: 더
+lidepla: pyu
+nl: meer; -er
+pl: bardziej; więcej
+pt: mais
+ro: mai
+ru: бо́лее; бо́льше; ещё
+sv: mer; mera; -are
+th: อีก; -กว่า
+tl: mas
+tr: daha; daha fazla
+uk: більш; бі́льше; ще
+ur: زیادہ; اور
+vi: hơn; ... hơn
+
+word: pyu de
+class: det
+sense: comparative of many | comparative of much
+ar: أَكْثَر
+arz: اكتر
+bg: по́вече; още; повече
+ca: més
+cmn: 更多
+cs: víc; více
+da: mere; flere
+de: mehr
+el: περισσότερος; κι άλλος
+en: more (modifies nouns)
+eo: pli da; pli multaj; pli multe da
+es: más
+fa: بیشتر
+fi: enemmän; useampi
+fr: plus; mieux (Saint-Étienne)
+hi: अधिकतर
+hu: több; még
+ia: plus
+io: plu multa
+it: più
+ja: ...よりたくさん; ...より多く; もっと多く
+ms: lebih
+nl: meer
+pl: więcej
+pt: mais
+ro: mai mult; mai
+ru: бо́льше; ещё
+sv: fler; flera; mer
+uk: бі́льше; ще
+vi: nhiều hơn
+yue: 多啲; 再多啲
 
 word: real
 class: adj
@@ -9859,6 +11218,57 @@ ur: پانی; آب; جل
 vi: nước
 yue: 水
 
+word: sukra
+class: noun
+infl: lidepla (sukra); am (ሱካር/sukar); ar (سُكَّر/sukkar); de (Zucker); es (azúcar); fr (sucre); globasa (sukeri); glosa (sukro-ma); ha (sukari); sw (sukari); te (చెక్కర/cekkara, చక్కెర/cakkera); tl (asukal); tpi (suga)
+sense: sucrose from sugar cane or sugar beet used to sweeten food and drink
+am: ሱካር
+ar: سُكَّر
+arz: سكر
+bg: за́хар
+bn: চিনি; শর্করা
+ca: sucre
+cmn: 糖
+cs: cukr
+da: sukker
+de: Zucker
+el: ζάχαρη
+en: sugar
+eo: sukero
+es: azúcar
+fi: sokeri
+fr: sucre
+globasa: sukeri
+glosa: sukro-ma; treo
+ha: sukari
+hi: चीनी; शर्करा; शक्कर; मिसरी
+hu: cukor
+ia: sucro
+id: gula; sakar
+io: sukro
+it: zucchero
+ja: 砂糖
+ko: 설탕; 사탕
+lidepla: sukra
+ms: gula; sakar
+nl: suiker
+pl: cukier
+pt: açúcar
+ro: zahăr
+ru: са́хар
+sv: socker
+sw: sukari
+ta: சக்கரை
+te: చెక్కర; పంచదార; చక్కెర; శర్కర; చీనీ
+th: น้ำตาล
+tl: asukal
+tpi: suga
+tr: şeker
+uk: цу́кор
+ur: چِینی; شَکَّر; مِصْری
+vi: đường; chất đường
+yue: 糖
+
 word: swal
 class: verb
 infl: globasa (swal); ar (سَأَلَ/saʔala, سُؤَال/suʔāl); fa (سُؤَال/su'āl, سُؤال/so'âl); hi (सवाल/savāl); id (soal); sw (swali)
@@ -10559,6 +11969,48 @@ globasa: dente
 glosa: u-la
 lidepla: to
 
+word: to-tem
+class: adv
+sense: at that time | in that case
+ar: آنَذَاكَ; حِينَئِذٍ; إِذًا; إِذَنْ
+bg: тога́ва; тогава
+bn: তখন
+ca: llavors
+cmn: 當時 /当时; 那時 /那时; 那麼 /那么; 便; 就
+cs: tehdy; pak; potom
+de: dann; damals; so
+el: τότε
+en: then (at that time, in that case)
+eo: tiam
+es: entonces; en aquel entonces; en ese entonces; en aquese entonces; en eso; en aqueso
+fa: پس
+fi: silloin; niin
+fr: alors; à cette époque-là; auquel cas
+globasa: denwatu (den+watu)
+glosa: u-la kron; u-la-tem; tum
+hi: तब; तो
+hu: akkor
+id: saat itu
+io: lore
+it: allora
+ja: その時; その時点; そのとき; だから
+ko: 그때; 그 때; 그러면
+lidepla: dan-ney
+ms: pada masa yang sama; oleh sebab yang demikian
+nl: toen; dan
+pl: wówczas; wtedy; to
+pt: então; naquele tempo; naquela época; nesse caso
+ro: atunci
+ru: тогда́; то; в тако́м слу́чае
+sv: då; alltså; i så fall
+te: అప్పుడు
+th: ตอนนั้น
+tpi: orait
+tr: bir zamanlar; o zaman; eskiden; o hâlde; öyleyse
+uk: тоді́; то; у тако́му ра́зі
+ur: تب; تو
+vi: khi ấy; khi đó; lúc đó; lúc ấy; hồi đó; thì; thế thì; vậy thì
+
 word: ton
 class: prep
 infl: globasa (ton); cmn (同/tóng); es (con); glosa (kon); ja (...と/to); te (తో/tō, తోని/tōni)
@@ -10919,6 +12371,139 @@ uk: твій; ваш
 ur: تیرا; تمہارا; آپ کا
 vi: (của bạn (replace bạn with the appropriate word or kinship term: ông, bà, anh, cô, chị, mày, em))
 
+word: tume
+class: adj
+infl: lidepla (tume); fa (تیره/tire)
+sense: having an absolute or relative lack of light
+ar: مُظْلِم; دَاكِن
+bg: тъ́мен
+bn: আঁধার; অন্ধকার
+ca: fosc; obscur
+cmn: 黑暗; 黲 /黪
+cs: tmavý; temný
+da: mørk
+de: dunkel; finster
+el: σκοτεινός
+en: dark
+eo: malluma; malhela
+es: oscuro
+fa: تاریک; تار; تیره
+fi: pimeä
+fr: obscur; sombre
+globasa: luminkal (lumin+kal)
+glosa: skoto; no-foto; melano; obskuri; gnofo; tenebri
+hi: अंधेरा
+hu: sötét
+ia: obscur
+id: gelap
+io: tenebroza; obskura
+it: buio; oscuro; fosco; tetro
+ja: 暗い
+ko: 어둡다
+lidepla: tume
+ms: gelap; kelam
+nl: donker; duister
+pl: ciemny
+pt: escuro
+ro: murg; închis; întunecat
+ru: тёмный
+sv: mörk
+ta: இருள்
+te: చీకటి; గాఢాంధకారము
+th: มืด
+tl: madilim
+tr: karanlık
+uk: те́мний
+ur: اندھیرا
+vi: tối
+yue: 黑; 黑暗
+
+word: turi
+class: verb
+infl: globasa (turi); de (Tour); en (trip); fr (tour); ja (旅/tabi, ツアー/tsuā); ru (турне́/turnɛ́)
+sense: be on a journey (travel) | act of traveling (travel) | to travel, to make a trip or voyage (journey) | trip, a voyage (journey) | journey (trip) | long journey; especially by ship (voyage)
+ar: سَافَرَ; سَارَ; مُسَافِرَة; رِحْلَة; سَفَر; سَيَاحَة; مُسَافَرَة; جَوْلَة
+arz: سافر; رحلة; سفرية
+bg: пъту́вам; пътеше́ствам; пъту́ване; пътеше́ствие; пътувам; екскурзия
+bn: যাত্রা; ভ্রমণ
+ca: viatjar; viatge
+cmn: 旅行; 旅遊 /旅游; 旅游; 旅途; 旅程; 海程; 航海
+cs: cestovat; jezdit; cestování; cesta; výlet; plavba
+da: rejse
+de: reisen; Reise; Reisen; verreisen; Tour; Fahrt; Anreise; Ausflug
+el: ταξιδεύω; ταξίδι
+en: travel; journey; trip; voyage
+eo: vojaĝi; veturi; vojaĝado; vojaĝo
+es: viajar; recorrer; viaje; jornada; trayecto; singladura; asengladura; recorrido; travesía
+fa: سفر کردن; مسافرت کردن; سفر; سیاحت
+fi: matkustaa; matkata; matkailu; matkustelu; kulkea; matka; reissu; retki
+fr: voyager; voyage; balade; tour
+globasa: turi
+glosa: viagia; itinera; iti
+hi: यात्रा करना; यात्रा; सफ़र; सैर
+hu: utazik; út; utazás; beutazik; bejár; kirándulás; tengeri utazás; hajóút
+ia: viagiar; viage
+id: perjalanan
+io: voyajo; exkurso
+it: viaggiare; viaggio; itinerario; avventura; gita
+ja: 旅行する; 旅行; 旅する; 旅; ツアー; 航海
+ko: 여행(旅行)하다; 여행; 려행; 여정; 항해
+lidepla: safari
+ms: melancong; perjalanan
+nl: reizen; reis; trekken; op trektocht gaan; rondtrekken; rondreizen; trip; trektocht; tocht
+pl: podróżować; jeździć; podróż; wyjazd; wypad; wycieczka; rejs
+pt: viajar; viagem; jornada; percurso
+ro: călători; voiaj; călătorie; excursie
+ru: путеше́ствовать; е́здить; путеше́ствие; пое́здка; турне́; воя́ж; пла́вание; рейс
+sv: resa; färdas; färd; tripp; tur
+sw: safiri; safari
+te: ప్రయాణము; యాత్ర; పర్యటన; ప్రయాణించు
+th: เดินทาง; ท่องเที่ยว; การเดินทาง; เที่ยว
+tr: yolculuk etmek; yolculuk yapmak; seyahat etmek; seyahat yapmak; yolculuk; seyahat; gezi; gezmek
+uk: подорожува́ти; мандрува́ти; ї́здити; по́дорож; пої́здка; подорожувати
+ur: سفر; سَفَر; سِیاحَت; سیاحت
+vi: du lịch; sự du lịch; sự lữ hành; cuộc hành trình; chuyến
+yue: 去旅行
+
+word: turi-yen
+class: noun
+sense: one who travels | –
+ar: مُسَافِر; مُسَافِرَة; سَائِح; سَيَّاح
+bg: пътеше́ственик; пътеше́ственица; пътеше́ственичка; пъ́тник; пъ́тница; пъ́тничка
+bn: মুসাফির; রাহী
+ca: viatger; viatgera
+cmn: 旅遊者 /旅游者; 游客; 旅行家; 旅行者
+cs: cestovatel; cestovatelka
+da: rejsende
+de: Reisender; Reisende
+el: ταξιδιώτης; ταξιδιώτρια; ταξιδιώτισσα
+en: traveller; traveler
+eo: vojaĝanto
+es: viajero; viajera; navegante
+fi: matkustaja; matkailija; matkalainen; matkaaja
+fr: voyageur; voyageuse
+hi: गामी; मुसाफ़िर; यात्री
+hu: utazó
+it: viaggiatore; viaggiatrice; viandante; girovago
+ja: 旅人; 旅行者
+ko: 여행자; 려행자; 여인; 려인
+ms: perantau
+nl: reiziger; reizigster
+pl: podróżnik; podróżniczka
+pt: viajante
+ro: călător; călătoare; voiajor; drumeț; drumeață
+ru: путеше́ственник; путеше́ственница; пу́тник; пу́тница
+sv: resenär; upptäcksresande; resande
+sw: msafiri; wasafiri
+te: ప్రయాణికుడు
+th: นักเดินทาง; ผู้เดินทาง
+tl: manlalakbay
+tr: yolcu; gezgin; seyyah
+uk: мандрі́вник; мандрі́вниця; подоро́жник; подоро́жниця
+ur: مُسافِر; یاتْری; سَیَّاح
+vi: người đi du lịch
+yue: 旅遊者 /旅游者; 游客; 旅行家; 旅行者
+
 word: u
 class: det
 infl: am (-u); glosa (u); es (un); fr (un)
@@ -11159,6 +12744,54 @@ tr: -ecek; -acak
 uk: special endings
 vi: sẽ
 yue: 會 /会
+
+word: veni
+class: verb
+infl: fr (venir); glosa (veni); es (venir); vi (đến)
+sense: to move nearer
+ar: جَاءَ; أَتَى
+bg: и́двам; до́йда
+bn: আসা
+ca: venir
+cmn: 來 /来
+cs: přicházet; přijít; přijíždět; přijet
+da: komme
+de: kommen
+el: έρχομαι
+en: come
+eo: veni
+es: venir
+fa: آمدن
+fi: tulla
+fr: venir
+globasa: ata
+glosa: veni
+ha: zo
+hi: आना
+hu: jön
+ia: venir
+id: datang; mendatangi; mendatang; mendatangkan
+io: venar
+it: venire
+ja: 来る; いらっしゃる; おいでになる; 参る
+ko: 오다
+lidepla: lai
+ms: datang; mari
+nl: komen
+pl: przychodzić; przyjść; przyjeżdżać; przyjechać
+pt: vir
+ro: veni
+ru: приходи́ть; прийти́; приезжа́ть; прие́хать
+sv: komma
+sw: kuja
+ta: வா
+th: มา
+tl: pumunta; magpunta
+tr: gelmek
+uk: прихо́дити; прийти́; приїжджа́ти; приї́хати; приїзди́ти
+ur: آنا
+vi: lại; đến
+yue: 嚟
 
 word: vi
 class: pron

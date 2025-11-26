@@ -11,8 +11,8 @@ pt: -agem; -ágio
 class: suffix
 sense: passive participle
 tags: add
-am: -ä; -ät; -am
-bn: -ā; -e; -o
+am: -ä; -ät
+bn: -ā
 de: ge-; -t; -en
 en: -ed [d]
 es: -ado; -ada; -ido; -ida
@@ -205,6 +205,10 @@ sense: blue-coloured — see also dark blue, light blue
 en: blue [bluː]
 es: azul; celeste
 vi: xanh; xanh lam; màu xanh nước biển
+
+sense: baked dough made from cereals
+en: bread [bɹɛd]
+hi: रोटी [roṭī]; ब्रेड [breḍ]
 
 sense: male sibling
 en: brother [ˈbɹʌðɚ]
