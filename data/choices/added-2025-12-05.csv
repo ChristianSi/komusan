@@ -1,0 +1,4 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+"a, an, the (singular noun phrase marker)",– | indefinite article | article,"Set class:det; Add:nu (we model this as ‘un’ reversed, inspired by Glosa’s ‘u, un’, but with the same CV form used before all words for simplicity and better reading flow)",–,"u, un (before vowels and h)",ge
+"we, us","generic we (the speaker and at least one other person, regardless of whether it's the person being addressed) | objective case of ""we""",Syllables:1,imi,na,nu
+our,belonging to us,Compound:nas-su,,,

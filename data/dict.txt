@@ -8010,6 +8010,97 @@ uk: число́; кі́лькість
 ur: تِعْداد; عَدَد; تَعْداد
 vi: số
 
+word: nas
+class: pron
+infl: ru (нас/nas); ar (نَحْنُ/naḥnu, ـنَا/-nā); en (us); es (nos); fr (nous); glosa (na)
+sense: generic we (the speaker and at least one other person, regardless of whether it's the person being addressed) | objective case of "we"
+am: እኛ
+ar: نَحْنُ; ـنَا; إِيَّانَا
+arz: ـنا
+bg: ни́е
+bn: আমরা; আমাদের
+ca: nosaltres; nos; ens
+cmn: 我們 /我们
+cs: my; nás; nám
+da: vi
+de: wir; uns
+el: εμείς; μας
+en: we; us
+eo: ni; nin
+es: nosotros; nosotras; nos
+fa: مَا; ما
+fi: me; meidät; meitä
+fr: nous; on; à nous
+globasa: imi
+glosa: na
+ha: múu; mún; múkà; bàmù...bá; záamù; mâa; múkàn; mù; múnàa; múkè; báamàa
+hi: हम
+hu: mi; -ünk; minket; bennünket
+ia: nos
+id: kita
+io: ni
+it: noi; noialtri; a noi; ci
+ja: 私達; 我ら; 我々; 僕ら; うち; 僕達; 私ども
+ko: 우리; 저희
+lidepla: nu
+ms: kami; kita
+nl: wij; we; ons
+pl: my; nas; nam; nami
+pt: nós; a gente; nos
+ro: noi; ne; nouă; (pe) noi
+ru: мы; нас; нам; на́ми
+sv: vi; oss
+sw: sisi
+te: మమ్మల్ని
+th: เรา
+tr: biz
+uk: ми; нас; нам
+ur: ہَم
+yue: 我哋
+
+word: nas-su
+class: det
+sense: belonging to us
+ar: ـنَا
+arz: ـنا
+bg: наш
+bn: আমাদের
+ca: nostre
+cmn: 我們的 /我们的
+cs: náš
+da: vor
+de: unser
+el: μας
+en: our
+eo: nia
+es: nuestro; nuestra; nuestros; nuestras
+fa: ما
+fi: meidän ...mme; -mme; meidän
+fr: notre; nos
+hi: हमारा
+hu: -nk; -unk; -ünk
+ia: nostre
+io: nia
+it: nostro; nostra; nostri; nostre
+ja: 私たちの; 我らの; 我々の
+ko: 우리의
+nl: ons; onze
+pl: nasz
+pt: nosso
+ro: nostru
+ru: наш
+sv: vår
+sw: -etu
+ta: நம்; எங்கள்
+te: మా; మన
+th: ของเรา
+tl: atin; amin
+tr: bizim
+uk: наш
+ur: ہمارا
+vi: của chúng tôi
+yue: 我哋嘅
+
 word: nasa
 class: noun
 infl: globasa (nasa); glosa (nasa); bn (নাক/nak); de (Nase); en (nose); es (napia, napias, naso); hi (नाक/nāk, नासिका/nāsikā); ja (鼻/hana); lidepla (nos); ru (нос/nos); th (นัตถุ์/nát, นาสิก/naa-sìk); tpi (nus)
@@ -8412,94 +8503,53 @@ vi: mới
 yue: 新
 
 word: nu
-class: pron
-infl: fr (nous, à nous); lidepla (nu); ar (نَحْنُ/naḥnu, ـنَا/-nā); glosa (na)
-sense: generic we (the speaker and at least one other person, regardless of whether it's the person being addressed) | objective case of "we"
-am: እኛ
-ar: نَحْنُ; ـنَا; إِيَّانَا
-arz: ـنا
-bg: ни́е
-bn: আমরা; আমাদের
-ca: nosaltres; nos; ens
-cmn: 我們 /我们
-cs: my; nás; nám
-da: vi
-de: wir; uns
-el: εμείς; μας
-en: we; us
-eo: ni; nin
-es: nosotros; nosotras; nos
-fa: مَا; ما
-fi: me; meidät; meitä
-fr: nous; on; à nous
-globasa: imi
-glosa: na
-ha: múu; mún; múkà; bàmù...bá; záamù; mâa; múkàn; mù; múnàa; múkè; báamàa
-hi: हम
-hu: mi; -ünk; minket; bennünket
-ia: nos
-id: kita
-io: ni
-it: noi; noialtri; a noi; ci
-ja: 私達; 我ら; 我々; 僕ら; うち; 僕達; 私ども
-ko: 우리; 저희
-lidepla: nu
-ms: kami; kita
-nl: wij; we; ons
-pl: my; nas; nam; nami
-pt: nós; a gente; nos
-ro: noi; ne; nouă; (pe) noi
-ru: мы; нас; нам; на́ми
-sv: vi; oss
-sw: sisi
-te: మమ్మల్ని
-th: เรา
-tr: biz
-uk: ми; нас; нам
-ur: ہَم
-yue: 我哋
-
-word: nu-su
 class: det
-sense: belonging to us
-ar: ـنَا
-arz: ـنا
-bg: наш
-bn: আমাদের
-ca: nostre
-cmn: 我們的 /我们的
-cs: náš
-da: vor
-de: unser
-el: μας
-en: our
-eo: nia
-es: nuestro; nuestra; nuestros; nuestras
-fa: ما
-fi: meidän ...mme; -mme; meidän
-fr: notre; nos
-hi: हमारा
-hu: -nk; -unk; -ünk
-ia: nostre
-io: nia
-it: nostro; nostra; nostri; nostre
-ja: 私たちの; 我らの; 我々の
-ko: 우리의
-nl: ons; onze
-pl: nasz
-pt: nosso
-ro: nostru
-ru: наш
-sv: vår
-sw: -etu
-te: మా; మన
-th: ของเรา
-tl: atin; amin
-tr: bizim
-uk: наш
-ur: ہمارا
-vi: của chúng tôi
-yue: 我哋嘅
+infl: am (-u); glosa (u); ta (ஒன்று/oṉṟu); th (หนึ่ง/nʉ̀ng)
+sense: – | indefinite article | article
+am: -u; -w (masculine); -wa; -itwa; -ätwa (feminine)
+ar: الـ
+arz: الـ
+bg: (not used in Bulgarian)
+bn: -রা; -এরা; -গুলা; -গুলো; -টা; -টি
+ca: un; una; el; la; l' els m pl les; es; sa; ets; sos; ses
+cmn: (not used in Mandarin)
+cs: (not used in Czech)
+da: en; et
+de: ein; eine; der; die; das
+el: ένας; μια; ο
+en: a; an; the (singular noun phrase marker)
+eo: la
+es: un; una; el; la; los; las; lo
+fa: یک; ـی; -ی; یک -ی; را for definite direct object
+fi: se
+fr: un; une; le; la; les; l'
+glosa: u; un (before vowels and h)
+hi: एक
+hu: egy; a; az
+ia: un; le
+id: sebuah; seorang; si; sang; itu; al; -nya
+io: la; le
+it: un; uno; una; un'; il; lo; la; l'; i; gli; le
+ja: その; 正に; 正しく
+ko: (not used in Korean)
+lidepla: ge
+ms: sang; -nya; itu; ini; si
+nl: een; de; het
+pl: (not used in Polish)
+pt: um; uma; o; a; os; as
+ro: un; o; -ul; -a; cel; cea
+ru: (not used in Russian)
+sv: en; ett; den; -en
+sw: ya
+ta: ஒரு; ஒன்று
+te: ఒక
+th: หนึ่ง
+tl: isang; ang
+tpi: wanpela; dispela
+tr: bir; bi'; bi
+uk: (not used in Ukrainian)
+ur: (not used in Urdu)
+vi: (not used in Vietnamese)
 
 word: numer
 class: noun
@@ -12503,55 +12553,6 @@ uk: мандрі́вник; мандрі́вниця; подоро́жник; п
 ur: مُسافِر; یاتْری; سَیَّاح
 vi: người đi du lịch
 yue: 旅遊者 /旅游者; 游客; 旅行家; 旅行者
-
-word: u
-class: det
-infl: am (-u); glosa (u); es (un); fr (un)
-sense: – | indefinite article | article
-am: -u; -w (masculine); -wa; -itwa; -ätwa (feminine)
-ar: الـ
-arz: الـ
-bg: ((attached suffixes are used, -ът, -та, -то, etc.))
-bn: -রা; -এরা; -গুলা; -গুলো; -টা; -টি
-ca: un; una; el; la f els m pl les; es; sa; ets; sos; ses
-cmn: (not used in Mandarin)
-cs: (not used in Czech)
-da: en; et
-de: ein; eine; der; die; das
-el: ένας; μια; ο
-en: a; an; the (singular noun phrase marker)
-eo: la
-es: un; una; el; la; los; las; lo
-fa: یک; ـی; -ی; یک -ی; را for definite direct object
-fi: se
-fr: un; une; le; la; les; l’
-glosa: u; un (before vowels and h)
-hi: एक
-hu: egy; a; az
-ia: un; le
-id: sebuah; seorang; si; sang; itu; al; -nya
-io: la; le
-it: un; uno; una; un'; il; lo; la; i; gli; le
-ja: その; 正に; 正しく
-ko: (not used in Korean)
-lidepla: ge
-ms: sang; -nya; itu; ini; si
-nl: een; de; het
-pl: (not used in Polish)
-pt: um; uma; o; a; os; as
-ro: un; o; -ul; -a; cel; cea
-ru: (not used in Russian)
-sv: en; ett; den; -en
-sw: ya
-ta: ஒரு; ஒன்று
-te: ఒక
-th: หนึ่ง; เดอะ
-tl: isang; ang
-tpi: wanpela; dispela
-tr: bir; bi'; bi
-uk: (not used in Ukrainian)
-ur: (not used in Urdu)
-vi: (not used in Vietnamese)
 
 word: uma
 class: noun
