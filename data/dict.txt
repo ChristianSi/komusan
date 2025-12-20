@@ -3321,6 +3321,86 @@ ja: が
 ko: -이; -가
 lidepla: da
 
+word: gai
+class: verb
+infl: cmn (應該/应该/yīnggāi, 該/该/gāi); lidepla (gai); globasa (ingay); vi (phải)
+sense: expressing obligation | indicating duty or obligation
+ar: يَنْبَغِي أَنْ; مِنْ اَلْمَفْرُوض أَنْ; مِنْ اَلْمُفْتَرَض أَنْ
+bn: কথা
+ca: deure; haver de; tenir de
+cmn: 應該 /应该; 應當 /应当; 該 /该
+cs: měl by
+da: skulle; burde
+de: sollen; sollte; müsste
+el: θα έπρεπε; όφειλε
+en: should; ought (recommendation or moral expectation)
+eo: devi
+es: Conditional form of deber; tener que; haber de; deber
+fa: باید
+fi: pitäisi; pitää; tulla; kuulua
+fr: Conditional form of devoir; devoir
+globasa: ingay
+glosa: debi
+hi: चाहिए
+hu: -j; kell
+it: dovere
+ja: ...べきである
+ko: 해야 한다
+lidepla: gai; treba
+ms: patut
+nl: moeten; zou moeten; behoren
+pl: powinien; powinna; powinno
+pt: dever
+ro: ar trebui
+ru: до́лжен; обя́зан; сле́дует
+sv: skola; borde
+th: ควร
+tr: -meli; -malı
+uk: повинен; ва́рто; пови́нен; зобов'я́заний; му́сить
+ur: چاہئے; چاہیے; چاہئیں; چاہیئں; چاہیئے; چاہئیے
+vi: nên; cần; phải
+yue: 應該 /应该
+
+word: gai-ge
+class: adv
+sense: in all likelihood | – | expressing likelihood
+ar: مِن اَلْمُحْتَمَل; رُبَّمَا
+bg: вероя́тно
+bn: উচিত; কথা
+ca: probablement
+cmn: 大概; 或許 /或许
+cs: pravděpodobně; asi; spíš; spíše
+da: sandsynligvis; skulle
+de: wahrscheinlich; glaublich; dürfen
+el: πιθανώς; μάλλον
+en: probably; likely; should
+eo: verŝajne; kredeble
+es: probablemente; seguro; sin duda; seguramente; deber
+fi: todennäköisesti; luultavasti; pitäisi
+fr: probablement; sans doute; sûrement
+globasa: dayible (day+ible)
+glosa: posi; probabili
+hu: valószínűleg; bizonyára; alighanem; feltehetőleg
+ia: probabilemente
+id: mungkin; kemungkinan
+io: probable
+it: probabilmente; dovere
+ja: 多分; 十中八九; 恐らく
+ko: 아마
+lidepla: shayad; probablem
+ms: barangkali
+nl: waarschijnlijk
+pl: prawdopodobnie; przypuszczalnie; chyba; powinno
+pt: provavelmente; dever
+ro: probabil; ar trebui
+ru: вероя́тно; наве́рно; должно́ быть; бу́дет
+sv: nog; sannolikt; troligen; antagligen; förmodligen; troligtvis; böra; torde
+th: ท่าจะ
+tl: baká
+tr: muhtemelen; her halde; büyük ihtimalle
+uk: пе́вно; імові́рно; ймові́рно; повинно; слід
+vi: có lẽ; có thể
+
 word: galsa
 class: noun
 infl: lidepla (galsa); bn (গলা/gola); de (Hals); fa (گَرْدَن/gardan); globasa (gardan); hi (गर्दन/gardan, गला/galā)
@@ -7764,6 +7844,97 @@ ur: چیونٹی
 vi: kiến
 yue: 螞蟻 /蚂蚁; 蟻 /蚁
 
+word: mus
+class: verb
+infl: lidepla (mus); de (müssen); en (must); globasa (musi); tpi (mas)
+sense: be required to | obligation
+ar: وَجَبَ; يَتَحَتَّم; يَلْزَم; لَا بُدَّ; لَازِم; يَضْطَر
+arz: لازم; يضطر
+bg: тря́бва; трябва да
+ca: deure; haver de
+cmn: 應該 /应该; 必須 /必须; 要; 不得不; 非……不可
+cs: muset; mít
+da: skulle
+de: müssen; haben (zu tun)
+el: πρέπει
+en: must; have to (necessity or requirement)
+eo: devi
+es: deber; tener que; haber que; haber de
+fa: باید
+fi: täytyä; olla pakko; pitää
+fr: devoir; falloir; avoir à
+globasa: musi
+glosa: nece
+hi: चाहिए; पड़ना; होगा
+hu: kell; muszáj; kénytelen
+ia: deber
+id: harus
+io: mustar
+it: dovere
+ja: ...なきゃ; ...なくちゃ; ...ないと駄目だ
+ko: -어야 하다; -어야 되다; 해야 하다
+lidepla: mus; treba
+ms: mesti
+nl: moeten
+pl: musieć; mieć
+pt: dever; ter que; haver de
+ro: trebui
+ru: до́лжен; должна́; должно́; должны́
+sv: måste; vara tvungen
+sw: lazima
+ta: வேண்டும்
+th: ต้อง; จำเป็น; จำเป็นต้อง
+tl: dapat; kailangan
+tpi: mas
+tr: -meli; -malı; lazım olmak; gerek olmak
+uk: му́сити; пови́нний; пови́нен; мати; повинен
+ur: چاہئے; پڑنا; ہو گا
+vi: phải
+
+word: mus-ge
+class: adv
+sense: without doubt, surely | without question and beyond doubt | certainly, undoubtedly | without doubt | said about something that is very likely, probable, or certain to be true
+ar: بِالتَّأْكِيد; بِدُون شَكّ; بِدُون نِقَاش; لَابُدَّ
+arz: أكيد
+bg: безспо́рно; несъмне́но; си́гурно; със сигурност; несъмнено
+ca: certament; sens dubte; sense cap mena de dubte; definitivament; segurament; indubtablement; deure
+cmn: 當然 /当然; 一定; 肯定; 定然; 毫無疑問 /毫无疑问
+cs: určitě; nepochybně; jistě; samozřejmě; rozhodně
+de: sicherlich; zweifellos; gewiss; freilich; definitiv; bestimmt; sicher
+el: βεβαίως; σίγουρα; ασφαλώς; αδιαμφισβήτητα
+en: certainly; definitely; surely; undoubtedly; must
+eo: certe; sendube; nepre; evidente
+es: ciertamente; sin duda; a todas luces; definitivamente; indudablemente; seguramente; deber de; seguro que; fijo que; de seguro; haber de
+fa: بطور محرز; حتماً; باید
+fi: todellakin; varmasti; epäilemättä; ehdottomasti; vakavasti; täytyä
+fr: certainement; sûrement; sans nul doute; sans aucun doute; décidément; sans conteste; assurément; devoir
+globasa: yakin
+glosa: certa; sura; nemertes
+hi: अवश्य; निस्संदेह
+hu: mindenképpen; feltétlenül; kétségkívül; kétségtelenül; tényleg; biztosan; okvetlenül; bizonyosan; minden bizonnyal; biztos; bizonyára; alighanem
+ia: certo
+io: certe; nedubiteble
+it: certamente; senza dubbio; non ci piove; indubbiamente; sicuramente; dovere
+ja: 確かに; 必ず; 絶対に; 確実に; きっと; てっきり; 疑いもなく
+ko: 확실히; 명확히; 반드시; -겠-; -을 것이다
+lidepla: sertem; zaruu
+ms: pasti
+nl: beslist; voorzeker; zeker; waarlijk; zeker weten; zonder twijfel; vast; ongetwijfeld
+pl: z pewnością; pewnie; na pewno; zdecydowanie; niewątpliwie
+pt: certamente; sem dúvida; definitivamente; seguramente; indubitavelmente; dever
+ro: bineînțeles; desigur
+ru: коне́чно; несомне́нно; непреме́нно; безусло́вно; наверняка́; бесспо́рно; определённо; должно́ быть; наве́рное
+sv: säkerligen; utan tvekan; definitivt; säkert; minsann; otvivelaktligen; tvivelsutan
+sw: maalum
+ta: வேண்டும்
+te: తప్పక
+tl: tiyak; sigurado; piho
+tr: kesinlikle
+uk: авже́ж; безсумні́вно; неодмі́нно; звича́йно; безумо́вно; напе́вно; зві́сно
+ur: اوشیے
+vi: chắc chắn
+yue: 實 /实
+
 word: na
 class: particle
 infl: sw (-na-)
@@ -9798,49 +9969,96 @@ sw: wengi
 word: pote
 class: verb
 infl: glosa (pote); es (poder); vi (có thể)
-sense: to be able to; to know how to | have ability to
+sense: to be able to; to know how to (can) | have ability to (be able to) | may (be able to) | may | have permission to (can; may (ability or permission))
 am: መቻል
-ar: قَدَرَ; اِسْتَطَاعَ; أَمْكَنَ
+ar: قَدَرَ; اِسْتَطَاعَ; أَمْكَنَ; مُمْكِن
 arz: قدر
-bg: мо́га; уме́я
+bg: мо́га; уме́я; мога; имам възможност
 ca: poder; poguer
-cmn: 會 /会; 能; 能夠 /能够
-cs: moci; umět
-da: kunne
-de: können; vermögen; in der Lage sein
-el: μπορώ; δύναμαι
-en: can; be able to
-eo: povi
+cmn: 會 /会; 能; 能夠 /能够; 可以
+cs: moci; umět; smět
+da: kunne; måtte; må
+de: können; vermögen; in der Lage sein; dürfen
+el: μπορώ; δύναμαι; επιτρέπεται
+en: can; be able to; may (ability or permission)
+eo: povi; rajti
 es: poder; saber; ser capaz de
-fa: توانستن; قادر بودن
+fa: توانستن; قادر بودن; امکان داشتن
 fi: osata; voida; pystyä; kyetä; saada
 fr: pouvoir; savoir; être capable de
-globasa: abil
+globasa: abil; harizin (har+izin)
 glosa: pote
 hi: सकना; समर्थ होना
-hu: tud; képes
+hu: tud; képes; -hat; -het; szabad
 ia: poter
-id: boleh; bisa
+id: boleh; bisa; dapat
 io: povar
 it: potere; sapere
-ja: できる; -れる; 出来る
-ko: ...을/ᄅ 수 있다; ...할 수 있다
-lidepla: mog
+ja: できる; -れる; 出来る; してもいい
+ko: ...을/ᄅ 수 있다; ...할 수 있다; 할 수 있다
+lidepla: mog; darfi
 ms: boleh; dapat (Sarawak); bisa
-nl: kunnen; vermogen; in staat zijn te
+nl: kunnen; vermogen; in staat zijn te; mogen
 pl: móc; umieć; potrafić; być w stanie
 pt: conseguir; saber; poder
 ro: putea
-ru: мочь; смочь; уме́ть; быть в состоя́нии; суме́ть
-sv: kunna
+ru: мочь; смочь; уме́ть; быть в состоя́нии; суме́ть; мо́жно
+sv: kunna; få; kan
 sw: kuweza
 ta: செய்யக்கூடிய
 th: ได้; ย่อม; สามารถ; เป็น
+tl: maaari; puwede
 tr: -ebilmek; -abilmek
 uk: могти́; змогти́; вмі́ти; умі́ти; зумі́ти
 ur: سکنا
-vi: có thể; được; nổi
-yue: 識得 /识得
+vi: có thể; được; nổi; có lẽ; được phép
+yue: 識得 /识得; 可以
+
+word: pote-ge
+class: adv
+sense: indicating a lack of certainty | indicating a lack of certainty | – | possibly, but not certainly | indicator of conditional or possible actions
+ar: رُبَّمَا; مِن اَلْمُمْكِن; لَعَلَّ
+arz: يمكن
+bg: мо́же би
+ca: potser; tal vegada; possiblement
+cmn: 也許 /也许; 或許 /或许; 或是; 可能
+cs: asi; možná; snad
+da: måske
+de: vielleicht; möglicherweise; womöglich; wohl; können; mögen; könnte; könnten
+el: ίσως; μάλλον; ενδεχομένως; μήπως
+en: maybe; perhaps; possibly; may; might
+eo: eble
+es: quizá; quizás; tal vez; acaso; capaz; de pronto; igual; talvez; de repente; puede que; poder ser
+fa: شاید; شایَد
+fi: ehkä; jospa; mahdollisesti; kenties; voida; saattaa; taitaa
+fr: peut-être; peut-être que; il se peut que; possiblement; se pouvoir
+globasa: ible
+glosa: posi
+ha: yiwu; iya
+hi: शायद; कदाचित्
+hu: talán; lehet; lehetséges; előfordulhat; esetleg
+ia: forsan
+id: barangkali; mungkin; mungkin saja; bisa jadi; bisa saja
+io: forsan
+it: forse; magari; chissà; potere
+ja: 多分; 若しや; …かもしれない; …でしょう; 恐らく; もしかして; ひょっとして; かも知れない
+ko: 아마; 아마도; 어쩌면
+lidepla: mogbi; avos; shayad
+ms: mungkin; barangkali; boleh jadi
+nl: misschien; wellicht; mogelijk; mogelijkerwijs; zou kunnen
+pl: może; być może; bodaj; móc; możliwe, że; można by
+pt: talvez; porventura; quiçá; se calhar; quem sabe; possivelmente; poder
+ro: poate; posibil; se poate; putea
+ru: мо́жет быть; возмо́жно; наве́рное; то́ ли
+sv: kanske; möjligen; måhända; kanhända; kan; må; skulle kunna
+sw: huenda; pingine
+th: คงจะ; บางที; อาจจะ; ไม่แน่; อาจ
+tl: baka; maaari; puwede
+tr: olabilir; belki
+uk: ма́буть; мо́же бу́ти; можли́во; пе́вно
+ur: شاید; غالباً
+vi: có lẽ; có thể
+yue: 或者; 有可能; 可能
 
 word: pyu
 class: adv, suffix

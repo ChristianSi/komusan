@@ -297,6 +297,10 @@ en: have [hæv]
 ar: مَلَكَ [malaka]; اِمْتَلَكَ [imtalaka]; تَمَلَّكَ [tamallaka]; عِنْدَ [ʕinda]
 tr: sahip olmak
 
+sense: obligation
+de: müssen; haben (zu tun)
+en: have to [ˈhæf.tə]
+
 sense: an organ
 en: heart [hɑɹt]
 es: corazón
@@ -423,6 +427,10 @@ en: shade [ʃeɪd]
 sense: dark image projected onto a surface
 bn: ছায়া [chaẏa]
 en: shadow [ˈʃædəʊ]
+
+sense: expressing obligation
+en: should [ʃʊd]
+tr: -meli; -malı
 
 sense: person who shares same parents — see also brother, sister
 en: sibling [ˈsɪb.lɪŋ]
