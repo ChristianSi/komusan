@@ -322,7 +322,7 @@ sense: area of land completely surrounded by water
 en: island [ˈaɪlənd]
 es: isla
 
-sense: object
+sense: object — see also that
 cmn: 這 /这 [zhè]; 那 [nà]; 它 [tā]; 之 [zhī]
 en: it [ɪt]
 
@@ -351,7 +351,7 @@ sense: to try to see
 en: look [lʊk]
 es: mirar; ojear
 
-sense: the opening of a creature through which food is ingested
+sense: the opening of a creature through which food is ingested — see also lip, face
 de: Mund
 en: mouth [maʊθ]
 
