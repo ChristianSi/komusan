@@ -468,9 +468,11 @@ class VocBuilder:
                         orig_subsense = subsense
                         subsense, engl = util.split_text_and_explanation(subsense)  # type: ignore
                         if engl is None:
-                            LOG.warn(f'Problem splitting merged entry: sense "{orig_subsense}" '
-                                     "doesn't give the intended word in parentheses, and the "
-                                     'numbers of senses and of English words differ')
+                            word = entry.get('word', '')
+                            LOG.warn(f'Problem splitting merged entry "{word}": sense '
+                                     f'"{orig_subsense}" doesn\'t give the intended word in '
+                                     'parentheses, and the numbers of senses and of English '
+                                     'words differ')
                     else:
                         engl = engl_word if engl_word else engl_list[idx]
                     if subsense is not None:
