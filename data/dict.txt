@@ -658,37 +658,38 @@ vi: của; bởi
 word: ban
 class: det
 infl: globasa (ban); ar (بَعْضٌ/baʕḍun, بَعْض/baʕḍ); sw (baadhi); th (บาง/baang); tr (bazı)
-sense: a certain number | certain proportion of | unspecified quantity or number of | indefinite quantity or number | certain, unspecified or unknown
-ar: بَعْضٌ; بَعْض
-arz: بعض
-bg: няколко; ня́какъв; ня́кой
+sense: a certain number (some) | certain proportion of (some) | unspecified quantity or number of (some) | indefinite quantity or number (some) | certain, unspecified or unknown (some) | at least one (kind) (any)
+ar: بَعْضٌ; بَعْض; أَيّ
+arz: بعض; أي
+bg: няколко; ня́какъв; ня́кой; някакъ́в; ни́какъв; какъ́в да е; какъ́вто и да е; вся́какъв; ма́лко
 bn: একটু
 ca: qualque; qualcun; qualcuna; qualcuns; qualcunes; algun; alguna; alguns; algunes; qualques; tot de
-cmn: 有的; 一些; 幾個 /几个
+cmn: 有的; 一些; 幾個 /几个; 任意; 任何
 cs: nějaký; několik; trochu; některý
 da: nogle; somme; en; et; en vis; et vist
-de: einige; manche; welche; ein paar; irgendein
-el: μερικοί; μερικές; μερικά; λίγο; κάποιος
-en: some
-eo: iu; iuj; ia
+de: einige; manche; welche; ein paar; irgendein; irgendwelche; kein; überhaupt kein
+el: μερικοί; μερικές; μερικά; λίγο; κάποιος; καθένας; όποιος
+en: some; any
+eo: iu; iuj; ia; iom da
 es: alguno; algunos; algunas; unos; unas
-fi: jotkut; muutamat; eräät; osa; jokunen; jotkin; vähän; joitakin; muutamia; eräs; joku; jokin
+fi: jotkut; muutamat; eräät; osa; jokunen; jotkin; vähän; joitakin; muutamia; eräs; joku; jokin; yhtään; jotakin; mitään
 fr: quelque; quelques; certains; certain; des; du; de la; quelconque
 globasa: ban
 glosa: uno
-hi: कुछ; थोड़ा; कोई
+hi: कुछ; थोड़ा; कोई; कोई भी
 hu: egyesek; némelyek; néhányan; egyes; néhány; némely; némelyik; bizonyos; pár; egypár; egynéhány; valahány; valamilyen; valamiféle; valami; egy bizonyos
-ia: alcun; qualque
+ia: alcun; qualque; ulle
 id: beberapa
-it: alcuno
+io: irga; ula
+it: alcuno; qualche
 ja: いくつか; ある; 〜か; いくらか
 ko: 어떤; 몇
 lidepla: kelke; koy
-nl: enigen; sommigen; enkele; enkelen; enige; sommige; wat (countable/uncountable); wat
-pl: niektórzy; niektóre; kilka; trochę; jakiś
-pt: algum; alguns; um
+nl: enigen; sommigen; enkele; enkelen; enige; sommige; wat (countable/uncountable); wat; enig
+pl: niektórzy; niektóre; kilka; trochę; jakiś; żaden
+pt: algum; alguns; um; nenhum
 ro: niște; nişte
-ru: не́который; не́сколько; немно́го; како́й-то; како́й-нибудь; не́кий
+ru: не́который; не́сколько; немно́го; како́й-то; како́й-нибудь; не́кий; никако́й
 sv: vissa; somliga; en del; några; lite; någon; något
 sw: baadhi ya; baadhi
 ta: சில; சிலர்; கொஞ்சம்
@@ -700,6 +701,34 @@ uk: де́який; кі́лька; тро́хи; яки́йсь; котри́й
 ur: کچھ; کوئی
 vi: vài; một vài; một số; mấy; một ít; nào đó; gì đó
 yue: 有啲; 一啲
+
+word: ban-ge
+class: adv
+sense: in one way or another; in some way not yet known or designated | –
+bg: някакси
+cmn: 不知何故
+cs: nějak
+de: irgendwie
+el: κάπως
+en: somehow; in some way
+eo: iel
+es: de algún modo; de alguna manera; de alguna forma
+fi: jotenkin; jotenkuten; jollakin tavalla
+fr: d'une façon ou d'une autre
+hu: valahogy; valahogyan
+it: in qualche modo
+ja: なぜか; 何とか; なぜなのか
+ko: 왠지; 어쩌다
+nl: op een of andere manier; eenderhoe; hoe dan ook
+pl: jakoś
+pt: de alguma forma; de alguma maneira; de algum jeito; por algum meio
+ro: cumva
+ru: ка́к-то; ка́к-нибу́дь; почему́-то; отчего́-то
+sv: på något sätt; på ett eller annat sätt
+te: ఎలాగోలా; ఏదోరకంగా
+tl: kahit na papaano; kahit papaano
+tr: bir şekilde
+uk: я́кось; як-не́будь
 
 word: ban-it
 class: pron
@@ -745,6 +774,138 @@ uk: щось; де́що; що-не́будь; чого́-не́будь
 ur: کچھ
 vi: cái gì; gì; một cái gì đó
 yue: 啲嘢; 某啲嘢
+
+word: ban-lok
+class: adv
+sense: in some place | to some place
+ar: مَكَان مَا
+bg: ня́къде; не́йде; наня́къде
+bn: কোথাও
+cmn: 某處 /某处
+cs: někde; někam
+da: nogensteds; nogetsteds
+de: irgendwo; irgendwohin
+el: κάπου
+en: somewhere
+eo: ie; ien
+es: en alguna parte; en algún lugar; en algún sitio; a alguna parte
+fa: یه جایی
+fi: jossakin; jossain; johonkin; jonnekin
+fr: quelque part
+hi: कहीं
+hu: valahol; valahová
+it: da qualche parte; in qualche luogo; in qualche parte
+ja: どこかに; どこかで; どこかへ
+ko: 어딘가에
+nl: ergens; ergens heen
+pl: gdzieś; dokądś
+pt: em algum lugar; algures; a algum lugar
+ro: undeva
+ru: где́-то; где́-нибудь; куда́-то; куда́-нибудь
+sv: någonstans
+te: ఎక్కడో; ఎక్కడికో
+tr: bir yerde
+uk: десь; де-не́будь; куди́сь
+vi: đâu đó
+
+word: ban-su
+class: pron
+sense: possessive case of ''someone'' | belonging to somebody (possessive form of ''somebody'') | –
+bg: не́чий
+cmn: 某人的
+cs: něčí; čísi
+de: jemandes
+en: someone's; somebody's; of something
+eo: ies
+es: de alguien
+fi: jonkun
+fr: de quelqu'un; à quelqu'un
+hu: valaki(nek a/az) …-a/-e/-ja/-je; valakié
+ja: 誰かの
+ko: 누군가의
+nl: iemands
+pl: czyjś
+ro: cuiva
+ru: че́й-то
+sv: någons
+tr: birinin
+uk: чийсь
+
+word: ban-ta
+class: pron
+sense: some person | some unspecified person
+ar: أَحَد
+bg: някой
+bn: কেউ একটা
+ca: algú; qualcú
+cmn: 有人; 某人; 誰 /谁
+cs: někdo
+da: nogen; en eller anden
+de: jemand; einer
+el: κάποιος
+en: someone; somebody
+eo: iu
+es: alguien; alguno
+fa: کسی; یکی
+fi: joku
+fr: quelqu'un
+hi: कोई
+hu: valaki
+ia: alicuno; alcuno
+id: seseorang
+io: ulu
+it: qualcuno
+ja: 誰か; 或る人
+ko: 누군가; 어떤 사람
+ms: seseorang
+nl: iemand
+pl: ktoś
+pt: alguém
+ro: cineva
+ru: кто́-то; кто-нибу́дь; не́кто; кто́-либо; кое-кто́; кто-ли́бо
+sv: någon
+te: ఎవరో
+th: บางคน
+tr: biri; kimse
+uk: хтось; хто-не́будь; де́хто
+ur: کوئی
+vi: ai đó
+yue: 有人
+
+word: ban-tem
+class: adv
+sense: at an indefinite but stated time in the past or future | sometime; at some time in the future | – | at unspecified time in the future
+ar: يَوْمًا مَا; مَرَّةً; يَوْمًا
+bg: ня́кога; някой ден
+bn: একদিন
+ca: un dia
+cmn: 日後 /日后; 某時 /某时; 下次; 有一天; 某一天; 一天
+cs: někdy
+da: en dag
+de: irgendwann; eines Tages
+el: κάποτε; κάποια μέρα
+en: sometime; someday; some day; one day
+eo: iam
+es: al rato; algún día; en algún momento
+fi: joskus; johonkin aikaan; jonakin päivänä; jonain päivänä
+fr: un jour ou l’autre; un jour
+hi: एक दिन
+hu: valamikor; egy napon; egy szép napon; egyszer majd; majd valamikor
+it: un giorno o l'altro
+ja: いつか
+ko: 언젠가
+nl: ooit; op een dag; eens
+pl: kiedyś; któregoś dnia; pewnego dnia
+pt: algum dia; um dia
+ro: cândva; într-o zi
+ru: когда́-то; когда́-нибудь; когда́-нибу́дь; одна́жды
+sv: någon gång; en vacker dag
+ta: ஒரு நால்
+te: ఎప్పుడో
+tl: balang-araw
+tr: bir gün
+uk: коли́сь; коли́-небудь; коли́-не́будь
+yue: 有日
 
 word: bardi
 class: adj

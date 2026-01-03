@@ -16280,3 +16280,162 @@ Raw PS range: 83..223.
 Choosing compound "pote-ge".
 
 Choices committed on 2025-12-16 18:38:11.
+
+
+Processing entries in auxfile table-words.csv.
+Constraints: merge with: ban.
+Raw PS range: 26..86.
+[1]* en:eni (T:1.000 – C:1.000×S:1.000, 1 related natlang candidate, related candidates in 1 language: cmn:jenyi)
+[2]* de:kain (T:1.000 – C:1.000×S:1.000, 1 related natlang candidate, related candidates in 1 language: ar:ai)
+[3]  ar:ai (T:0.800 – C:0.800×S:1.000, 1 related natlang candidate, related candidates in 1 language: de:kain)
+[4]  cmn:jenyi (T:0.720 – C:0.800×S:0.900, 1 related natlang candidate, related candidates in 1 language: en:eni)
+[5]* hi:koi (T:1.000 – C:1.000×S:1.000, no related candidates)
+[6]  ko:oton (T:0.933 – C:1.000×S:0.933, no related candidates)
+[7]  es:alguno (T:0.800 – C:1.000×S:0.800, no related candidates)
+[8]  hi:koi bi (T:0.783 – C:1.000×S:0.783, no related candidates)
+[9]  ru:nikakoi (T:0.767 – C:1.000×S:0.767, no related candidates)
+[10]  cmn:jenhe (T:0.667 – C:0.800×S:0.833, no related candidates)
+[11]  de:irgendain (T:0.567 – C:1.000×S:0.567, no related candidates)
+[12]  ru:kakoi nibude (T:0.267 – C:0.800×S:0.333, no related candidates)
+[13]  de:irgendevelhe (T:0.160 – C:0.800×S:0.200, no related candidates)
+[14]  de:uberaupte kain (T:0.000 – C:0.800×S:0.000, no related candidates)
+Merging with "ban" as requested because 6 of 11 languages (54.5%) use the same word for both concepts.
+
+Constraints: model as compound: ban-ta.
+Raw PS range: 81..159.
+[1]  fa:kasi (T:0.949 – C:1.000×S:0.949, 1 related natlang candidate, related candidates in 1 language: hi:koi)
+[2]  hi:koi (T:0.936 – C:1.000×S:0.936, 1 related natlang candidate, related candidates in 1 language: fa:kasi)
+[3]* fa:yeki (T:1.000 – C:1.000×S:1.000, no related candidates)
+[4]  de:aina (T:0.987 – C:1.000×S:0.987, no related candidates)
+[5]  vi:ai do (T:0.974 – C:1.000×S:0.974, no related candidates)
+[6]  ru:nekto (T:0.962 – C:1.000×S:0.962, no related candidates)
+[7]  ja:dareka (T:0.910 – C:1.000×S:0.910, no related candidates)
+[8]  te:evaro (T:0.897 – C:1.000×S:0.897, no related candidates)
+[9]  tr:biri (T:0.885 – C:1.000×S:0.885, no related candidates)
+[10]  fr:kelkun (T:0.872 – C:1.000×S:0.872, no related candidates)
+[11]  tr:kimse (T:0.872 – C:1.000×S:0.872, no related candidates)
+[12]  es:algyen (T:0.859 – C:1.000×S:0.859, no related candidates)
+[13]  en:samwan (T:0.859 – C:1.000×S:0.859, no related candidates)
+[14]  es:alguno (T:0.833 – C:1.000×S:0.833, no related candidates)
+[15]  th:bang kon (T:0.808 – C:1.000×S:0.808, no related candidates)
+[16]  yue:yau yan (T:0.769 – C:1.000×S:0.769, no related candidates)
+[17]  en:sambodi (T:0.756 – C:1.000×S:0.756, no related candidates)
+[18]  cmn:she (T:0.718 – C:0.800×S:0.897, no related candidates)
+[19]  bn:keu ekta (T:0.628 – C:1.000×S:0.628, no related candidates)
+[20]  ko:nugunga (T:0.590 – C:1.000×S:0.590, no related candidates)
+[21]  de:yemande (T:0.585 – C:0.800×S:0.731, no related candidates)
+[22]  ja:aru hito (T:0.564 – C:1.000×S:0.564, no related candidates)
+[23]  ru:ekto to (T:0.544 – C:0.800×S:0.679, no related candidates)
+[24]  id:seseorang (T:0.538 – C:1.000×S:0.538, no related candidates)
+[SKIPPED (too distorted)]  cmn:yojen (T:0.538 – C:0.600×S:0.897, no related candidates)
+[SKIPPED (too distorted)]  ar:ahade (T:0.523 – C:0.600×S:0.872, no related candidates)
+[SKIPPED (too distorted)]  cmn:mojen (T:0.523 – C:0.600×S:0.872, no related candidates)
+[25]  ru:koye ekto (T:0.379 – C:0.800×S:0.474, no related candidates)
+[26]  ru:ekto libo (T:0.287 – C:0.800×S:0.359, no related candidates)
+[27]  ko:oton saram (T:0.141 – C:1.000×S:0.141, no related candidates)
+[SKIPPED (too distorted)]  ru:ekto nibude (T:0.000 – C:0.600×S:0.000, no related candidates)
+Choosing compound "ban-ta".
+
+Constraints: model as compound: ban-lok.
+Raw PS range: 86..174.
+[1]* te:ekado (T:1.000 – C:1.000×S:1.000, no related candidates)
+[2]  vi:dau do (T:0.989 – C:1.000×S:0.989, no related candidates)
+[3]  te:ekadiko (T:0.943 – C:1.000×S:0.943, no related candidates)
+[4]  hi:kahin (T:0.943 – C:1.000×S:0.943, no related candidates)
+[5]  bn:kothao (T:0.932 – C:1.000×S:0.932, no related candidates)
+[6]  ru:kuda to (T:0.920 – C:1.000×S:0.920, no related candidates)
+[7]  en:samwer (T:0.864 – C:1.000×S:0.864, no related candidates)
+[8]  ar:makan ma (T:0.818 – C:1.000×S:0.818, no related candidates)
+[9]  fa:ye jayi (T:0.818 – C:1.000×S:0.818, no related candidates)
+[10]  ja:dokoka e (T:0.807 – C:1.000×S:0.807, no related candidates)
+[11]  ko:odingae (T:0.795 – C:1.000×S:0.795, no related candidates)
+[12]  ja:dokoka de (T:0.784 – C:1.000×S:0.784, no related candidates)
+[13]  fr:kelke par (T:0.727 – C:1.000×S:0.727, no related candidates)
+[14]  ja:dokoka ni (T:0.716 – C:1.000×S:0.716, no related candidates)
+[15]  ru:egde to (T:0.682 – C:0.800×S:0.852, no related candidates)
+[16]  cmn:mochu (T:0.664 – C:0.800×S:0.830, no related candidates)
+[17]  tr:bir yerde (T:0.659 – C:1.000×S:0.659, no related candidates)
+[18]  de:irgendevo (T:0.527 – C:0.800×S:0.659, no related candidates)
+[19]  ru:kuda nibude (T:0.391 – C:0.800×S:0.489, no related candidates)
+[SKIPPED (too distorted)]  ru:egde nibude (T:0.252 – C:0.600×S:0.420, no related candidates)
+[20]  de:irgendevohin (T:0.227 – C:0.800×S:0.284, no related candidates)
+[21]  es:a alguna parte (T:0.148 – C:1.000×S:0.148, no related candidates)
+[22]  es:en algun sityo (T:0.091 – C:1.000×S:0.091, no related candidates)
+[23]  es:en algun lugar (T:0.068 – C:1.000×S:0.068, no related candidates)
+[24]  es:en alguna parte (T:0.000 – C:1.000×S:0.000, no related candidates)
+Choosing compound "ban-lok".
+
+Constraints: model as compound: ban-tem.
+Raw PS range: 87..195.
+[1]* hi:ek din (T:1.000 – C:1.000×S:1.000, 1 related natlang candidate, related candidates in 1 language: bn:ekodin, bn:ekdin)
+[2]  ar:yauman (T:0.991 – C:1.000×S:0.991, 1 related natlang candidate, related candidates in 1 language: yue:yau yat)
+[3]  bn:ekdin (T:0.981 – C:1.000×S:0.981, 1 related natlang candidate, related candidates in 1 language: hi:ek din)
+[4]  yue:yau yat (T:0.972 – C:1.000×S:0.972, 1 related natlang candidate, related candidates in 1 language: ar:yauman)
+[5]  bn:ekodin (T:0.963 – C:1.000×S:0.963, 1 related natlang candidate, related candidates in 1 language: hi:ek din)
+[6]  ja:ituka (T:0.972 – C:1.000×S:0.972, no related candidates)
+[7]  es:al rato (T:0.963 – C:1.000×S:0.963, no related candidates)
+[8]  ar:maratan (T:0.954 – C:1.000×S:0.954, no related candidates)
+[9]  te:epudo (T:0.944 – C:1.000×S:0.944, no related candidates)
+[10]  ta:oru nal (T:0.935 – C:1.000×S:0.935, no related candidates)
+[11]  cmn:yi tyen (T:0.935 – C:1.000×S:0.935, no related candidates)
+[12]  fr:un jur (T:0.926 – C:1.000×S:0.926, no related candidates)
+[13]  tr:bir gun (T:0.917 – C:1.000×S:0.917, no related candidates)
+[14]  ko:onjenga (T:0.861 – C:1.000×S:0.861, no related candidates)
+[15]  en:samtaim (T:0.861 – C:1.000×S:0.861, no related candidates)
+[16]  ru:kogda to (T:0.824 – C:1.000×S:0.824, no related candidates)
+[17]  es:algun dia (T:0.806 – C:1.000×S:0.806, no related candidates)
+[18]  ar:yauman ma (T:0.750 – C:1.000×S:0.750, no related candidates)
+[19]  cmn:shyatsi (T:0.719 – C:0.800×S:0.898, no related candidates)
+[20]  cmn:moshi (T:0.711 – C:0.800×S:0.889, no related candidates)
+[21]  cmn:yoyityen (T:0.644 – C:0.800×S:0.806, no related candidates)
+[22]  tl:balang arau (T:0.639 – C:1.000×S:0.639, no related candidates)
+[23]  ru:odnajedi (T:0.630 – C:0.800×S:0.787, no related candidates)
+[24]  de:aines tages (T:0.565 – C:1.000×S:0.565, no related candidates)
+[SKIPPED (too distorted)]  cmn:jiho (T:0.539 – C:0.600×S:0.898, no related candidates)
+[25]  cmn:mo yi tyen (T:0.533 – C:0.800×S:0.667, no related candidates)
+[26]  cmn:yo yi tyen (T:0.533 – C:0.800×S:0.667, no related candidates)
+[27]  de:irgendevan (T:0.526 – C:0.800×S:0.657, no related candidates)
+[28]  ru:kogda nibude (T:0.333 – C:0.800×S:0.417, no related candidates)
+[29]  fr:un jur u lotre (T:0.074 – C:0.800×S:0.093, no related candidates)
+[30]  es:en algun momento (T:0.000 – C:1.000×S:0.000, no related candidates)
+Choosing compound "ban-tem".
+
+Constraints: model as compound: ban-ge.
+Raw PS range: 86..185.
+[1]* ja:nantoka (T:1.000 – C:1.000×S:1.000, no related candidates)
+[2]  ru:kak to (T:0.990 – C:1.000×S:0.990, no related candidates)
+[3]  ja:nazeka (T:0.990 – C:1.000×S:0.990, no related candidates)
+[4]  te:elagola (T:0.960 – C:1.000×S:0.960, no related candidates)
+[5]  ko:ojoda (T:0.960 – C:1.000×S:0.960, no related candidates)
+[6]  en:samhau (T:0.939 – C:1.000×S:0.939, no related candidates)
+[7]  ko:wenji (T:0.929 – C:1.000×S:0.929, no related candidates)
+[8]  ja:nazenanoka (T:0.889 – C:1.000×S:0.889, no related candidates)
+[9]  ru:otchevo to (T:0.869 – C:1.000×S:0.869, no related candidates)
+[10]  ru:pochemu to (T:0.859 – C:1.000×S:0.859, no related candidates)
+[11]  cmn:buji hegu (T:0.848 – C:1.000×S:0.848, no related candidates)
+[12]  te:edorakanga (T:0.808 – C:1.000×S:0.808, no related candidates)
+[13]  tr:bir shekilde (T:0.778 – C:1.000×S:0.778, no related candidates)
+[14]  es:de algun modo (T:0.727 – C:1.000×S:0.727, no related candidates)
+[15]  de:irgendevi (T:0.695 – C:0.800×S:0.869, no related candidates)
+[16]  ru:kak nibude (T:0.679 – C:0.800×S:0.848, no related candidates)
+[17]  tl:kahit papaano (T:0.677 – C:1.000×S:0.677, no related candidates)
+[18]  es:de alguna forma (T:0.586 – C:1.000×S:0.586, no related candidates)
+[19]  es:de alguna manera (T:0.515 – C:1.000×S:0.515, no related candidates)
+[20]  tl:kahit na papaano (T:0.444 – C:1.000×S:0.444, no related candidates)
+[21]  fr:dune fason u dune otre (T:0.000 – C:0.800×S:0.000, no related candidates)
+Choosing compound "ban-ge".
+
+Constraints: model as compound: ban-su.
+Raw PS range: 49..62.
+[1]* de:yemandes (T:1.000 – C:1.000×S:1.000, no related candidates)
+[2]  es:de algyen (T:0.846 – C:1.000×S:0.846, no related candidates)
+[3]  tr:birinin (T:0.769 – C:1.000×S:0.769, no related candidates)
+[4]  fr:a kelkun (T:0.692 – C:1.000×S:0.692, no related candidates)
+[5]  ru:che to (T:0.677 – C:0.800×S:0.846, no related candidates)
+[6]  fr:de kelkun (T:0.615 – C:1.000×S:0.615, no related candidates)
+[SKIPPED (too distorted)]  cmn:mojen de (T:0.508 – C:0.600×S:0.846, no related candidates)
+[7]  en:samwanze (T:0.431 – C:0.800×S:0.538, no related candidates)
+[8]  ko:nugungawi (T:0.000 – C:1.000×S:0.000, no related candidates)
+Choosing compound "ban-su".
+
+Choices committed on 2025-12-28 18:35:53.

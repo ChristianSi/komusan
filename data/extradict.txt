@@ -232,6 +232,10 @@ sense: particular set of the visible spectrum
 en: color [ˈkʌləɹ]
 vi: màu; sắc
 
+sense: cessation of life
+vi: cái chết; tử vong
+en: death [dɛθ]
+
 sense: perform, execute
 en: do [duː]
 es: hacer
@@ -448,6 +452,10 @@ fr: petit; minuscule; vieille; conseil; couilles
 en: small [smɔːl]
 ja: 小さい [chiisai]; 狭い [semai]
 yue: 小 [siu2]; 細 /细 [sai³]
+
+sense: some unspecified person
+ar: أَحَد [ʔaḥad]
+en: somebody [ˈsʌmbˌɒdi]
 
 sense: to communicate with one's voice using words
 en: speak [spiːk]
