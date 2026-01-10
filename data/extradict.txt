@@ -272,6 +272,10 @@ sense: possessive form of everybody
 tags: add
 en: everybody's
 
+sense: part of human body
+am: እግር [ʾəgər]
+en: foot [fʊt]
+
 sense: directed at, intended to belong to
 en: for [fɔː(ɹ)]
 ko: 를 위해서 [-reul wihaeseo]; 을 위해서 [-eul wihaeseo]
