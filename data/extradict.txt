@@ -154,6 +154,10 @@ hi: ने [ne]
 ja: が [ga]
 ko: -이 [i]; -가 [ga]
 
+sense: having life
+en: alive [əˈlaɪv]
+hi: जीवित [jīvit]; सजीव [sajīv]; ज़िंदा [zindā]; जीवंत [jīvant]
+
 sense: used to connect two similar words, phrases, et cetera
 en: and [ænd]
 es: y; e
@@ -233,8 +237,13 @@ en: color [ˈkʌləɹ]
 vi: màu; sắc
 
 sense: cessation of life
-vi: cái chết; tử vong
 en: death [dɛθ]
+hi: मृत्यु [mŕtyu]; मरण [maraṇ]; मौत [maut]; मर्ग [marg]; विनाश [vināś]; मुर्दन [murdan]; अंत [ant]; इंतक़ाल [intqāl]; कदन [kadan]; देहांत [dehānt]; विदा [vidā]; कूच [kūc]
+vi: cái chết; tử vong
+
+sense: personification of death
+en: death [dɛθ]
+hi: मृत्यु [mŕtyu]; यम [yam]; काल [kāl]
 
 sense: perform, execute
 en: do [duː]
@@ -342,9 +351,17 @@ sense: a male of a royal family who is the supreme ruler of his nation
 en: king [kɪŋ]
 hi: राजा [rājā]
 
+sense: joint in the middle of the leg and area around it
+en: knee [niː]
+fa: زانو [zānū]
+
 sense: body of water
 en: lake [leɪk]
 ta: ஏரி [ēri]
+
+sense: the state of being alive
+en: life [laɪf]
+hi: ज़िंदगी [zindagī]; जीवन [jīvan]; हयात [hayāt]; प्राण [prāṇ]; जीना [jīnā]; लाइफ [lāiph]; लाइफ़ [lāif]; जीव [jīv]; जीवित [jīvit]; जान [jān]; उमर [umar]
 
 sense: place
 en: location [ləʊˈkeɪʃən]
