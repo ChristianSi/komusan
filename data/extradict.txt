@@ -281,6 +281,10 @@ sense: possessive form of everybody
 tags: add
 en: everybody's
 
+sense: bottom of anything
+en: foot [fʊt]
+fa: بُنْیاد [bonyâd]; پایِه [pâye]
+
 sense: part of human body
 am: እግር [ʾəgər]
 en: foot [fʊt]
@@ -571,6 +575,10 @@ sense: indicating future action
 ar: سَوْفَ [sawfa]; سَـ [sa-]
 en: will [wɪl]
 tr: -ecek; -acak
+
+sense: having a large physical extent from side to side
+ar: عَرِيض [ʕarīḍ]; وسيع [wasīʕ]
+en: wide [waɪd]
 
 sense: movement of air
 en: wind [wɪnd]

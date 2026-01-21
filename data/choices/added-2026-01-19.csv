@@ -1,0 +1,20 @@
+English,Sense,Constraints,Globasa,Glosa,Lidepla
+forest,dense collection of trees,Skip:foresta (not the most typical Glosa word for this concept),drevogeo (drevo+geo),"silva, foresta",shulin
+"die, death",to stop living | cessation of life | death::personification of death,Skip:morta (Lidepla also has the -i form which we prefer for a verbal root),"morcu (mor+cu), morya (mor+ya)","morta, lose bio, mori, tanasi, nekro, obit","morti, morta"
+knee,joint in the middle of the leg and area around it,,janu,"genu, poda-genu, poda-gono",genu
+"life, alive, live, living",the state of being alive | having life | having life | having life,Skip:jivi (Lidepla also has the -a form which we prefer for a noun root),"jiwa, jiwane (jiwa+ne), jiwapul (jiwa+pul)","bio, vita, zoe, vive, vivi","jiva, jiva-ney, jivi"
+"meat, flesh",animal flesh used as food | meat::type of meat | meat::any sort of flesh | body tissue | flesh::animal tissue as food,,maso,"karni, sarko","masu, flesh"
+tiger,The mammal Panthera tigris,,babur,tigri,tigra
+chicken,bird,,kuku,galina,kok
+hammer,tool,,cakix,"malea, tipido",hamra
+"finger, toe, digit",(anatomy) extremity of the hand | each of the five digits on the end of the foot | finger or toe,,"xuji, dari","digi, daktili",finga
+finger (of the hand),(anatomy) extremity of the hand,Compound:hanta-dari (same as the corresponding word for toes),"xuji, dari","digi, daktili",finga
+foot,part of human body | part of animal’s body | bottom of anything ,,peda,pedi,peda
+toe,each of the five digits on the end of the foot,"Compound:peda-dari (as in Glosa, Lidepla, Indonesian, and other languages)",dari,pedi-digi,pedafinga (peda+finga)
+mirror,smooth reflecting surface,,ayna,"spekula, katoptro",mira
+sheep,animal,,meme,"amnio, Ovis",yan
+honey,sweet substance produced by bees,,asalu,meli,madu
+"high, tall",elevated; tall | of a person | tall::of a building,Skip:gao (the converted spelling of the Lidepla candidate better fits the original phonology),gao,"alti, hipso, celsi",gao
+"wide, broad",having a large physical extent from side to side | –,Skip:pana (not ideal since -a is preferred for nouns rather than adjectives and since there is only one related natlang candidate that doesn't even have this ending),pahna,"lati, plati, euri",chaure
+dirty,covered with or containing dirt,Skip:kotor (the Lidepla candidate – next one – is half a syllable shorter and from a more widely spoken language),kotor,"no-puri, borbora, iloto, sordi, sqalidi",gande
+give,transfer the possession of something to someone else,Skip:dona (the Globasa candidate – next one – ends in the preferred verbal ending -e and is related to non-Indo-European languages),gibe,dona,dai
