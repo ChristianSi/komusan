@@ -5703,7 +5703,7 @@ hu: azért; ezért; emiatt; következésképpen; tehát; ennélfogva
 it: quindi; dunque; perciò; pertanto
 ja: それ故に; 故に; ですから; 従って
 ko: 따라서; 그래서; 그러므로
-lidepla: therefore
+lidepla: also
 ms: jadi; kerana itu; oleh sebab itu; justeru itu
 nl: daarom; daarvoor; bijgevolg; daardoor; waardoor; derhalve; dus
 pl: więc; zatem; dlatego; przeto; tak że; toteż; skutkiem tego; w związku z tym
