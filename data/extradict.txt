@@ -516,6 +516,11 @@ am: -u; -w (masculine); -wa; -itwa; -ätwa (feminine)
 bn: -রা [-ra]; -এরা [-era]; -গুলা [-gula]; -গুলো [-gulō]; -টা [-ṭa]; -টি [-ṭi]
 en: the [ˈðiː]
 
+sense: the + comparative, the + comparative
+ar: كُلَّمَا كَانَ... كَانَ [kullamā kāna ... kāna]
+en: the [ðə]
+ms: semakin ... semakin; lagi ... lagi
+
 class: pron
 sense: this person
 tags: add
