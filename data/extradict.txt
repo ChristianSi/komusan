@@ -416,6 +416,10 @@ sense: impersonal pronoun; one thing or person
 en: one [wʌn]
 vi: cái
 
+sense: not the one previously referred to
+en: other [ˈʌðɚ]
+hi: अन्य [anya]; दूसरा [dūsrā]; दूजा [dūjā]
+
 sense: dispute or heated argument
 en: quarrel [ˈkwɒɹ(ə)l]
 es: brega; discusión; pelea; pelotera; rencilla; riña
@@ -518,8 +522,16 @@ en: the [ˈðiː]
 
 sense: the + comparative, the + comparative
 ar: كُلَّمَا كَانَ... كَانَ [kullamā kāna ... kāna]
+cmn: 越 [yuè]; 越……越…… [yuè...yuè...]; 愈……愈…… [yù...yù...]
+de: je ... desto; je ... umso
 en: the [ðə]
+fr: (comp., comp.)
+ja: -reba ... hodo
 ms: semakin ... semakin; lagi ... lagi
+ru: чем ... тем [čem ... tem]
+th: ยิ่ง ... ยิ่ง [yîng ... yîng]; ยิ่ง ... ก็ [yîng ... gɔ̂]
+tr: ne kadar ... o kadar
+vi: càng ... càng
 
 class: pron
 sense: this person
