@@ -608,7 +608,8 @@ class VocBuilder:
                         and not original.endswith('ès')):
                     word = word[:-2]
                 elif len(word) > 1 and word[-1] in 'bdegpstxz' and not (
-                        re.search('(ng|[ps]t|^.ix|^-.)$', word) or original.endswith('é')):
+                        re.search('(ng|[ps]t|^.ix|^-.)$', word) or original.endswith('é')
+                        or original.lower() == 'que'):
                     word = word[:-1]
 
         elif conv_dict_name == 'ha':
