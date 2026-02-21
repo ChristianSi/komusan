@@ -1,3 +1,42 @@
+word: -fa
+class: suffix
+infl: yue (-化/faa³); ar (فَعَّلَ/faʕʕala); en (-ify); fr (faire); glosa (face)
+sense: suffix used to form verbs (-ize) | forms verbs meaning "to make" (-ify) | to cause to do (make) | to force to do (make) | to cause to be (make)
+ar: فَعَّلَ; جَعَلَ
+bg: -изи́рам; -ифицирам
+ca: -itzar; -ificar; fer
+cmn: -化; 使; 使得
+cs: -izovat; -ifikovat; -fikovat; přimět; donutit; přinutit; činit
+da: -ere; -isere; -ificere; -ficere; få til; gøre
+de: -ieren; -isieren; -fizieren; -ifizieren; lassen; bringen; zwingen; machen
+el: -ποιώ; -ίζω
+en: -ize; -ify; make (cause or force to do or be)
+eo: -igi; igi
+es: -izar; -ificar; hacer; obligar
+fi: -oida; -öidä; -isoida; -ntaa; -ntää; -staa; -stää; -ifioida; -fioida; saada; pakottaa; teettää; tehdä
+fr: -iser; -ifier; faire; rendre
+globasa: -gi; sengi (sen+gi)
+glosa: face
+hi: विवश करना; कारण
+hu: -izál; -ifikál; -ikál; -ít; -sít; -esít; -osít; -ösít; -asít; -at; -et; -tat; -tet; elér; késztet; rávesz; tesz
+ia: -isar; -ificar; -ficar
+io: -izar; -ifar; -ifikar
+it: -izzare; -ificare; -ficare; fare; rendere
+ja: 引き起こす; させる; やらせる; 強制する; 原因になる; する
+ko: 화(化)하다; 일으키다; 시키다
+lidepla: mah-; -isi
+nl: -iseren; -ifiseren; doen; ertoe brengen; maken
+pl: -izować; -yzować; -fikować; sprawiać; zmuszać; zmusić; czynić
+pt: -izar; -ificar; fazer; deixar
+ro: -iza; -иза; -ifica
+ru: -изова́ть; -изи́ровать; -ифици́ровать; заставля́ть; заста́вить; принужда́ть; прину́дить
+sv: -era; -isera; -ifiera; -fiera; -ificera; -ficera; göra
+th: ทำให้เป็น
+tr: -ize; -le; -la; -laştırmak; -leştirmek
+uk: -ізува́ти; -ифікува́ти
+vi: ... hoá
+yue: -化
+
 word: -ge
 class: suffix
 infl: ko (-게/-ge); ru (-е/-e); te (-గా/-gā)
@@ -1771,6 +1810,49 @@ ur: گای; گو; گَئُو; بَقَر; سانڈ; بیل
 vi: bò; bò cái; bò đực
 yue: 牛; 母牛; 牛乸
 
+word: brili
+class: verb
+infl: lidepla (brili); es (brillar); fr (briller); globasa (brila); glosa (brila); ko (비치다/bichida)
+sense: to emit light (shine) | to reflect light (shine) | to emit heat and light without a flame (glow)
+ar: لَمَعَ; وَمَضَ; أَشَعَّ
+bg: блестя; светя́; сия́я; блестя́; грея; светя
+ca: brillar; lluir
+cmn: 發亮 /发亮; 照; 發光 /发光; 輝 /辉
+cs: svítit; třpytit se; blýskat se
+da: skinne; lyse; stråle; glimte; gløde
+de: leuchten; scheinen; glänzen; glühen
+el: λάμπω; ακτινοβολώ
+en: shine; glow
+eo: brili; lumi; ardi
+es: brillar; lucir; fulgir; fulgurar; iluminar; arder; resplandecer; estar al rojo vivo
+fa: درخشیدن
+fi: loistaa; paistaa; hohtaa; helottaa; kiiltää; hehkua
+fr: briller; luire
+globasa: brila
+glosa: lampa; lumi; radia; brila; resplende; stilbo; kandi
+hi: चमकना; जगमगाना; झिलमिलाना; प्रकाशित करना
+hu: ragyog; fénylik; izzik
+ia: brillar
+io: lumar
+it: brillare; splendere; lucere; risplendere
+ja: 輝く; 光る
+ko: 비추다; 비치다; 빛나다; 반짝이다
+lidepla: lumi; brili; glan; glansa
+ms: sinar
+nl: schijnen; stralen; glanzen; blinken
+pl: świecić; błyszczeć; błyszczeć się; lśnić; jarzyć się; żarzyć się
+pt: brilhar; luzir; resplandecer; cintilar
+ro: străluci; luci; lumina
+ru: свети́ть; сия́ть; свети́ться; блесте́ть; рдеть; пыла́ть
+sv: lysa; skina; stråla; blänka; glänsa; reflektera; glöda
+ta: மின்னு; ஒளிர்
+te: ప్రకాశించు; మెరియు
+th: ส่อง; ฉาย
+tr: parlamak; yansıtmak
+uk: світи́ти; сяя́ти; блища́ти; ся́яти; світи́тися
+ur: چمکنا; جگمگانا; جهلملانا
+vi: toả sáng; chiếu sáng; soi sáng
+
 word: bu
 class: adv
 infl: cmn (不/bù, 無/无/wú); lidepla (bu); ha (ba)
@@ -2503,6 +2585,44 @@ ur: دِن; روز; یَوم
 vi: ngày; hôm; bữa; ban ngày
 yue: 日; 白天; 日頭 /日头
 
+word: dis-
+class: prefix
+infl: en (dis-); es (des-, dis-); id (dis-); ru (дис-/dis-); fr (dés-); lidepla (des-)
+sense: reversal, undoing or removing | reversal or removal | reversal or cancellation
+bg: де-
+ca: de-; des-
+cmn: 去-
+cs: de-
+da: af-; de-
+de: ent-; de-
+el: απο-
+en: de-; dis-; un- (reversal or undoing of an action)
+eo: mal-
+es: de-; des-; dis-
+fa: وا
+fi: de-
+fr: dé-; dés-
+globasa: pos-
+glosa: no-; non-
+hu: de-; el-; le-; ki-
+id: de-; dis-
+io: des-
+it: dis-; de-; s-
+ja: 非-; 脱-; 逆-
+ko: 비; 탈
+lidepla: de-; des-
+ms: nyah-; de-
+nl: ver-; ont-; de-
+pl: de-; dez-; roz-; od-
+pt: de-; dis-; des-
+ro: de-; des-; dez-
+ru: де-; без(ъ)-; бес(ъ)-; не-; дис-
+sv: av-; de-
+tl: hi-; de-
+tr: de-
+uk: де-
+vi: phi
+
 word: disputi
 class: verb
 infl: lidepla (disputi); de (Diskussion, Disput); en (dispute); es (disputar, discutir, disputación); fr (se disputer, dispute); glosa (disputa); ru (ди́спут/dísput)
@@ -2647,6 +2767,52 @@ uk: ха́та; дім; буди́нок
 ur: گَھر; مَکان
 vi: nhà; nhà ở
 yue: 屋
+
+word: dongwi
+class: verb
+infl: globasa (dongwi); ko (동의(同意)하다/dong'uihada, 동의/dong'ui); cmn (同意/tóngyì); ja (同意/dōi); vi (đồng ý)
+sense: to be in harmony about an opinion; be in unison or concord; be united (agree) | to yield assent, to accede (agree) | to express willingness (consent) | understanding to follow a course of conduct (agreement) | state whereby several parties share a view (agreement) | voluntary agreement (consent)
+ar: وَافَقَ; رَضِيَ; اِتِّفَاق; تَوَافُق; تَفَاهُم; إِقْرَار; رِضًا
+bg: съответствам; хармонирам; съглася́вам се; съгласявам се; съгласен съм; съглася́ се; съгла́сен съм; съгла́сие; съглаше́ние; разреше́ние
+bn: ঐকমত্য; মতৈক্য; ঐক্য; ইজাব
+ca: acordar; consentir; acord; pacte; consentiment
+cmn: 同意; 承諾 /承诺; 協議 /协议; 答應 /答应; 協定 /协定; 一致; 贊同 /赞同
+cs: shodovat se; souhlasit; domluva; souhlas; soulad
+da: være enig; acceptere; samtykke; aftale; enighed; overensstemmelse
+de: zustimmen; einverstanden sein; akzeptieren; annehmen; einwilligen; Vereinbarung; Zustimmung; Einigkeit; Einvernehmen; Übereinstimmung; Einverständnis; Abkommen; Konsens
+el: συμφωνώ; συγκατατίθεμαι; συναινώ; συμφωνία; συναίνεση
+en: agree; consent; agreement
+eo: akordi; jesi; samopinii; konsenti; interkonsento; samopinio; konsento
+es: estar de acuerdo; concordar; estar acorde; estar concorde; consentir; condescender; acuerdo; convenio; tratado; pacto; concordato; concordata; venencia; consentimiento; venia; anuencia
+fa: موافق بودن; رضایت
+fi: olla yhtä mieltä; olla yksimielisiä; myötäillä; hyväksyä; suostua; myöntyä; sopimus; yksimielisyys; suostumus
+fr: être d'accord; consentir; approuver; agréer; accord; entente; pacte; consentement; approbation; agrément
+globasa: dongwi; samaijen (sama+ijen); sohovada (soho+vada); tonkarar (ton+karar)
+glosa: akorda; konsenti
+hi: सहमति; इक़रार; समझौता; अनुबंध
+hu: egyetért; beleegyezik; hozzájárul; hozzájárulását adja; jóváhagy; megegyezés; egyezmény; egyetértés; beleegyezés; hozzájárulás
+ia: concordar; consentir; consentimento
+id: menyetujui; setuju; rela; persetujuan
+it: essere d'accordo; concordare; consentire; consenso; accordo; convenzione; patto
+ja: 同意する; 同じる; 一致する; 賛成する; 承諾する; 合意; 一致; 納得; 賛成; 協定; 承諾; 同意
+ko: 동의(同意)하다; 동의하다; 약속하다; 승낙하다; 협정; 합의; 동의; 승낙
+lidepla: konsenti; konsenta
+ms: setuju; bersetuju; menyetujui; persetujuan
+nl: overeenkomen; afspreken; instemmen; overeenstemmen; toestemmen; rijmen; het eens zijn met; afspraak; overeenkomst; goedkeuring; overeenstemming; toestemming; instemming
+pl: zgadzać się; zgodzić się; uzgadniać; uzgodnić; przyzwalać; przyzwolić; umowa; zgoda; porozumienie; pozwolenie
+pt: concordar; estar de acordo; aceitar; consentir; aprovar; deixar; consenso; acordo; pacto; consentimento
+ro: fi de acord; cădea de acord; consimți; acord; consens; înțelegere; consimțământ
+ru: соглаша́ться; согласи́ться; приходи́ть к согла́сию; достига́ть соглаше́ния; разреша́ть; разреши́ть; уступи́ть; согла́сие; догово́р; до́говор; соглаше́ние; договорённость; разреше́ние; дозволе́ние
+sv: hålla med; vara överens om; vara överens; samtycka; ge sitt samtycke; avtal; överenskommelse; samtycke; enighet; överensstämmelse
+sw: mkataba; maagano
+ta: ஒத்துக்கொள்; சம்மதம்
+th: ตกลง; กติกา
+tl: sumangayon; usapan
+tpi: agrimen
+tr: katılmak; kabul etmek; onaylamak; gönül; rıza; uzlaşma; onay
+uk: пого́джуватися; пого́дитися; зго́джуватися; зго́дитися; уго́да; до́говір; домо́вленість; зго́да
+vi: đồng ý; hiệp định; sự đồng ý
+yue: 同意
 
 word: doste
 class: noun
@@ -3289,6 +3455,48 @@ ur: سوچْنا; وِچار; فِکْر; اَنْدیشَہ
 vi: nghĩ; suy nghĩ; tư duy
 yue: 諗 /谂
 
+word: fla
+class: verb
+infl: glosa (fla); tr (üflemek)
+sense: to produce an air current
+ar: نَفَخَ
+bg: ду́хам; ве́я
+ca: bufar
+cmn: 吹; 颳 /刮
+cs: vát; vanout; foukat
+da: blæse; puste
+de: blasen; pusten; wehen
+el: φυσώ
+en: blow
+eo: blovi
+es: soplar; bufar
+fa: وزیدن
+fi: puhaltaa
+fr: souffler
+globasa: exhawa (ex+hawa)
+glosa: fla; tima
+hu: fúj
+ia: sufflar
+id: tiup
+io: suflar
+it: soffiare
+ja: 吹く
+ko: 불다
+lidepla: fengi; fuki
+ms: tiup; hembus
+nl: blazen; waaien
+pl: dmuchać; dąć; wiać
+pt: soprar; assoprar; bufar
+ro: sufla
+ru: дуть; ду́нуть; поду́ть; ве́ять; пове́ять; сморка́ться; сморкну́ться pf blow the nose
+sv: blåsa
+sw: -puliza
+th: พัด
+tl: hihip; hihipan
+tr: üflemek; esmek
+uk: ду́ти; ві́яти; дму́хати
+vi: thổi; phù; phù phù
+
 word: flura
 class: noun
 infl: globasa (flura); en (flower); es (flor); fr (fleur); glosa (flori); ha (fure); lidepla (flor)
@@ -3477,6 +3685,52 @@ uk: від; з
 ur: سے
 vi: từ
 yue: 從 /从; 自; 由
+
+word: fori
+class: adv
+infl: globasa (fori); de (sofort); fa (فوراً/fowran); hi (फ़ौरन/fauran)
+sense: in an immediate manner | at once | very soon | immediately
+ar: فَوْرًا; حَالًا; مُبَاشَرَةً; حَالاً
+arz: حَالًا; على طول; قوام; مُبَاشَرَةً; تـَوّاً َ
+bg: веднага; незабавно; непосредствено; отведнъж
+ca: immediatament; instantàniament; en el moment; tot d'una
+cmn: 馬上 /马上; 立刻; 即刻; 立即; 直接
+cs: ihned; hned; okamžitě; rovnou
+da: øjeblikkeligt; med det samme; nu; med det vuns; straks; på en gang
+de: sofort; alsbald; unverzüglich; auf der Stelle; umgehend; unmittelbar
+el: αμέσως; τάκα-τάκα
+en: immediately; instantly; right away; at once
+eo: tuj; senprokraste
+es: inmediatamente; de inmediato; ya; sin demora; enseguida; acto seguido; altiro; al instante; al tiro; instantáneamente; ahora mismo; a seguido; de seguido; a seguida; de seguida; en seguida; agora mismo; seguidamente; ipso facto; al toque; de bote y voleo
+fa: فوراً; بلافاصله
+fi: heti; välittömästi; oikopäätä; oitis; saman tien; viipymättä; hetimmiten; pikimmiten
+fr: immédiatement; tout de suite; aussitôt; instantanément; sur le champ; séance tenante; aussi sec
+globasa: fori
+glosa: imedia
+ha: nan take
+hi: तत्काल; तुरंत; फ़ौरन; हाथों हाथ
+hu: azonnal; rögtön; nyomban; azon nyomban; máris; tüstént; egyszeriben; menten; mindjárt
+ia: immediatemente; jam
+id: seketika
+io: quik
+it: immediatamente; subito; su due piedi; al più presto
+ja: 直ぐに; 直ちに; 直接に; すぐ; すぐに
+ko: 즉시; 곧
+lidepla: tuy
+ms: serta-merta
+nl: meteen; direct; onmiddellijk; dadelijk; ineens
+pl: zaraz; natychmiast; doraźnie; natychmiastowo; bezpośrednio; niezwłocznie; bezzwłocznie; w tym momencie; od razu; momentalnie; błyskawicznie
+pt: imediatamente; instantaneamente; na hora; direto; de imediato
+ro: imediat; fără întârziere; numaidecât; de îndată; îndată; instant; neîntârziat; direct
+ru: неме́дленно; то́тчас; то́тчас же; сию́ мину́ту; сра́зу; сейча́с; сейча́с же; ту́т же
+sv: ögonblickligen; på direkten; omedelbart; genast; omgående; ögonaböj; nu; med detsamma; på en gång; med en gång; direkt
+sw: mara moja; mara
+te: తక్షణము
+th: ทันที; ทันทีทันใด; ทันใด
+tr: anında; derhal; hemen; tezden; derhâl; derhal (derhâl); çabucak
+uk: за́раз; нега́йно; миттє́во; відра́зу
+ur: فوراً
+vi: ngay; ngay lập tức; ngay tức khắc; lập tức; ngay tức thì; tức thì
 
 word: forti
 class: adj
@@ -6178,6 +6432,52 @@ ur: کب
 vi: khi nào; bao giờ
 yue: 幾時 /几时; 何時 /何时
 
+word: kem
+class: prep
+infl: lidepla (kem); es (que); fr (que); globasa (kom); ru (чем/čem)
+sense: Introduces a comparison
+ar: مِن
+arz: من
+bg: от
+bn: চেয়ে
+ca: que
+cmn: 比
+cs: než
+da: end
+de: als
+el: από
+en: than
+eo: ol
+es: que
+fa: از
+fi: kuin
+fr: que
+globasa: kom
+glosa: de
+hi: की अपेक्षा; ... से
+hu: mint; -nál; -nél
+id: daripada
+io: kam
+it: di; che
+ja: ...より
+ko: ...보다
+lidepla: kem
+ms: daripada
+nl: dan
+pl: niż; aniżeli
+pt: que; do que
+ro: ca; decât
+ru: чем; не́жели
+sv: än
+sw: kuliko
+te: కంటె
+th: กว่า
+tl: kaysa; sa; kumpara
+tr: göre; -den; -dan
+uk: ніж; за; від; як
+ur: ... سے
+vi: hơn
+
 word: ki-
 class: prefix
 infl: lidepla (-ki); de (-i); en (-y); ja (子/ko-); ru (-ка/-ka, -ко/-ko)
@@ -6553,7 +6853,7 @@ yue: 彩虹; 天虹
 word: kom
 class: prep
 infl: fr (comme); globasa (kom); lidepla (kom); es (como); glosa (homo); sw (kama)
-sense: similar to | such as
+sense: similar to (like) | such as (like) | Introducing a basis of comparison (as (basis of comparison in equality comparisons))
 ar: مِثْل; كَـ
 arz: زي
 bg: като́
@@ -6562,34 +6862,36 @@ ca: com
 cmn: 象; 相像的; 如; 猶如 /犹如; 好似
 cs: jako; jak
 da: som; lig
-de: wie; nach
-el: ως; σαν; όπως
-en: like (in comparisons)
+de: wie; nach; so ... wie
+el: ως; σαν; όπως; όσο
+en: like (in comparisons); as (basis of comparison in equality comparisons)
 eo: kiel; kvazaŭ
-es: como
+es: como; cual
 fa: مثل; مانند
 fi: kuten; kuin
-fr: comme
+fr: comme; que
 globasa: kom
-glosa: homo
+glosa: homo; de
 hi: ... की तरह; ... तरह; के जैसा
 hu: mint
-io: quale
-it: come; quale
-ja: ...のように; ...よう
+ia: como; quanto
+id: sebagai; seperti
+io: quale; kom
+it: come; quale; quanto
+ja: ...のように; ...よう; と同じくらい; くらい; ほど
 ko: 처럼; 같이; ...처럼
 lidepla: kom
 ms: seperti; bagai; macam; bak
-nl: zoals; als; lijkend op; gelijk
+nl: zoals; als; lijkend op; gelijk; as
 pl: jak
-pt: como; que nem; tipo
-ro: ca
+pt: como; que nem; tipo; quanto
+ro: ca; ca și
 ru: как
 sv: som; lik
 sw: kama
 te: లాంటి
 th: เหมือน; อย่าง; เช่น
-tr: gibi
+tr: gibi; kadar
 uk: як
 ur: ... کی طرح; ... طرح
 vi: như
@@ -6636,6 +6938,81 @@ tl: pambalana; balana
 tr: ortak
 uk: зага́льний; зви́чний; звича́йний
 vi: chung; thường; thông thường
+
+word: konfesi
+class: verb
+infl: glosa (konfesi); lidepla (konfesi, konfesa); en (confess, confession); es (confesar, confesión); fr (confesser, confession)
+sense: to admit to the truth (confess) | to concede as true (admit) | open admittance (confession) | disclosure of one's sins to a priest (confession)
+ar: اِعْتَرَفَ; أَقَرَّ; أَعْتَرَفَ; إِقْرَار; اِعْتِرَاف
+arz: قر
+bg: признавам; признава́м; призна́ние; и́зповед
+ca: confessar; admetre; reconèixer; confessió
+cmn: 承認 /承认; 懺悔 /忏悔; 供認 /供认; 招認 /招认; 坦白; 招供; 自白; 自供; 交代
+cs: přiznat; přiznat se; doznat se; připustit; přiznávat; vyznání; přiznání; zpověď
+da: bekende; tilstå; indrømme; tilståelse; skrifte
+de: gestehen; bekennen; verraten; zugeben; eingestehen; Bekenntnis; Eingeständnis; Geständnis; Beichte
+el: εξομολογώ; ομολογώ; παραδέχομαι; εξομολόγηση
+en: confess; admit; confession
+eo: allasi; konfesi; agnoski; konfeso
+es: confesar; admitir; reconocer; confesión
+fa: خستو شدن
+fi: tunnustaa; myöntää; tunnustus; synnintunnustus; rippi
+fr: avouer; confesser; admettre; reconnaître; confession
+globasa: etiraf
+glosa: konfesi
+hi: स्वीकृति; मानना; इक़रार; संस्वीकृति; स्वीकारोक्ति; इक़बाल; एतिराफ़; पाप-स्वीकरण; इकरार
+hu: bevall; kivall; megvall; vall; beismer; elismer; vallomás; gyónás
+id: pengakuan
+io: konfesiono
+it: confessare; ammettere; riconoscere; confessione
+ja: 認める; 自白する; 告白する; 告解する; 承認する; 白状; 自白; 告白; 自供; 懺悔; 告解
+ko: 승인하다; 인정하다; 고백; 자백; 참회; 고해
+lidepla: konfesi; konfesa
+ms: pengakuan; pengakuan dosa
+nl: bekennen; toegeven; bekentenis; biecht
+pl: przyznawać się; przyznać się; przyznawać; przyznać; wyznanie; przyznanie się; spowiedź; zwierzenie; wyspowiadanie się
+pt: confessar; admitir; reconhecer; aceitar; confissão
+ro: mărturisi; spovedi; recunoaște; admite; confesiune; mărturisire; recunoaștere; spovedire
+ru: созна́ться; призна́ться; пока́яться; призна́ть; допуска́ть; допусти́ть; признава́ть; призна́ние; и́споведь
+sv: erkänna; tillstå; medge; bekräfta; bekänna; bekännelse; erkännande; medgivande; bikt
+ta: ஒத்துக்கொள்
+th: สารภาพ; การสารภาพ
+tl: amin (aminin); kumpisal (magkumpisal); mangumpisal; pagtatapat; kumpisal
+tr: itiraf etmek; itiraf; ikrar; tevbe; günah çıkarma
+uk: припуска́ти; припусти́ти; визнава́ти; ви́знати; признава́ти; призна́ти; визна́ння; визнаття́; призна́ння; спо́відь
+ur: اِقْرار; اِعْتِراف
+vi: thú nhận; thừa nhận; xưng tội
+
+word: konside
+class: verb
+infl: en (consider); es (considerar); fr (considérer); glosa (konsidera)
+sense: assign some quality to | to hold in belief or estimation | to consider, look upon in a given way
+ar: عَدَّ; حَكَم
+bg: считам за; смятам; разглеждам
+ca: considerar
+cmn: 認為 /认为
+de: halten; erachten; betrachten
+el: θεωρώ
+en: consider; deem; regard (as)
+es: considerar; concluir; estimar; identificar
+fa: پنداشتن; خیال کردن; فرض کردن
+fi: pitää; mieltää; kokea; uskoa; päätellä; pitää jonakin
+fr: considérer; estimer; croire; regarder
+globasa: ganci; kolyo
+glosa: konsidera; kura puta de
+hu: tart; gondol; ítél
+ia: considerar
+id: menganggap
+it: considerare; valutare; credere; riguardare
+ja: 見なす
+ko: 으로; 생각하다
+lidepla: kaulu; pondi; opini
+nl: beschouwen; vinden
+pl: uważać; uznawać; uznać
+pt: considerar; ter (por/como); estimar
+ru: рассма́тривать; счита́ть; полага́ть; ду́мать
+sv: betrakta; se; döma; anser
+th: ถือ; ถือว่า
 
 word: kordia
 class: noun
@@ -7019,6 +7396,53 @@ tr: miktar
 uk: кі́лькість; су́ма; число
 ur: مقدار
 vi: lượng; số lượng
+
+word: kwiti
+class: verb
+infl: lidepla (kwiti); en (quit); ta (கைவிடு/kaiviṭu)
+sense: stop, quit, desist (give up) | abandon (give up) | to give up, stop doing something (quit) | to give up control of, surrender (abandon)
+am: ተወ
+ar: تَخَلَّى عَن; تَوَقَّفَ; حَبَسَ; اِنْصَرَفَ; يَنْصَرِفُ
+arz: يسلم; يستسلم; يتخلى عن
+bg: преставам; изоставям; спирам
+bn: ছেড়ে দেওয়া; ক্ষান্তি দেওয়া
+ca: deixar; aturar; abandonar
+cmn: 停止; 放棄 /放弃
+cs: přestat; skončit; vzdávat se; vzdát se
+da: overgive; afslutte; opgive
+de: aufgeben; aufhören; sein lassen; verlassen
+el: εγκαταλείπω; παρατώ
+en: give up; quit; abandon
+eo: cedi; ĉesi; rezigni; forlasi
+es: desistir; ciar; abandonar; dejar (de); parar; rendirse; abandonarse; darse por vencido; renunciar; suspender
+fa: دست کشیدن; رها کردن
+fi: lopettaa; luopua; hylätä; lakata; luovuttaa; antautua
+fr: abandonner; arrêter
+globasa: teslimu; esto; estocu (esto+cu)
+glosa: sto; abandona; ki ab
+hi: छोड़ देना; त्यागना; छोड़ना
+hu: felad; abbahagy; átenged
+ia: abandonar
+id: berhenti; mengabaikan
+io: abandonar
+it: rinunciare; desistere; rassegnarsi; darla su; abbandonare; smettere
+ja: 諦める; やめる; 止める; 放棄する; 断念する; 手放す
+ko: 포기하다; 그만두다; 단념(斷念)하다; 염단(念斷)하다; 절념(絶念)하다; 체관(諦觀)하다
+lidepla: kwiti
+nl: ophouden met; stoppen met; opgeven; prijsgeven
+pl: zrezygnować; zaprzestać; porzucić; porzucać
+pt: desistir; largar; abandonar; parar; largar mão
+ro: se da bătut; renunța; lăsa; abandona; părăsi
+ru: броса́ть; бро́сить pf the habit; прекраща́ть; прекрати́ть; бро́сить; оставля́ть; оста́вить; отка́зываться; покида́ть
+sv: ge upp; överge; sluta; sluta upp; upphöra; höra upp; avstå från; frångå
+ta: கைவிடு
+te: వదలిపెట్టు; వదులుకొను
+th: เลิก; วางมือ; ละ; ทิ้ง; ละทิ้ง
+tpi: lusim
+tr: bırakmak
+uk: кида́ти; припиня́ти; залиша́ти; залиши́ти; зали́шити; полиша́ти; полиши́ти; поли́шити; покида́ти; поки́нути
+vi: bỏ cuộc; bỏ; từ bỏ
+yue: 放棄 /放弃
 
 word: lak
 class: noun
@@ -9334,6 +9758,40 @@ ur: بَچَّہ; بیٹا; بیٹی
 vi: đứa bé; đứa trẻ; con
 yue: 仔女; 細路 /细路; 細蚊仔 /细蚊仔; 細路哥 /细路哥; 細路仔 /细路仔
 
+word: no-
+class: prefix
+infl: es (no); glosa (no-); lidepla (no-); bn (অ-/o-); en (non-); fr (non-); ru (не-/ne-)
+sense: violative of; contrary to (un-) | not (non-) | reversal of meaning (in-) | – (im-) | – (il-) | – (ir-) | – (ir-)
+bg: не-
+bn: অ-
+ca: in-; no-
+cmn: 不; 無 /无; 非
+cs: ne-; mimo-
+da: u-
+de: un-; nicht-
+el: αντι-; μη; α-; αν-
+en: un-; non-; in-; im-; il-; ir- (negation or opposite)
+eo: mal-; ne-
+es: in-; no; des-
+fi: epä-; ei-
+fr: anti-; in-; non-
+globasa: nen-
+glosa: no-; non-
+hi: अ-; अन-
+id: in-
+io: ne-
+it: in-
+ja: 不-; 反-; 無-; 非; 不; 無
+ko: 불-; 반-; 불; 비; 무
+lidepla: no-
+nl: on-; niet-
+pl: nie-
+pt: in-; anti-; não-
+ru: не-; не
+sv: o-; anti-; icke-; in-
+tr: olmayan
+uk: не-
+
 word: nocha
 class: noun
 infl: lidepla (nocha); es (noche); globasa (noce); hi (निशा/niśā); ru (ночь/nočʹ)
@@ -10180,6 +10638,53 @@ ur: آٹھ
 vi: tám
 yue: 八
 
+word: otre
+class: adj
+infl: fr (autre); lidepla (otre); en (other); es (otro, otra); te (వేరే/vērē)
+sense: not the one previously referred to (other) | not the one referred to (other) | not the same; different (another)
+ar: آخَر; أُخْرَى
+arz: تاني
+bg: друг; разли́чен
+bn: অন্যান্য
+ca: altre; un altre; una altra
+cmn: 別的 /别的; 其他的; 其他; 別 /别; 另一
+cs: druhý; jiný; ostatní
+da: andre; en anden
+de: andere; sonstig; ein anderer; anderer; anders
+el: άλλος
+en: other; another
+eo: alia; alio; malsama
+es: otro; otra
+fa: دیگر
+fi: toinen; muu
+fr: autre; un autre
+globasa: alo
+glosa: hetero; altero
+hi: अन्य; दूसरा; दूजा
+hu: másik; más
+ia: altere
+id: lain
+io: altra
+it: altro; un altro; un'altra
+ja: 他の; 別の
+ko: 다른
+lidepla: otre
+nl: ander; andere; anderen; een andere
+pl: inny
+pt: outro
+ro: alt; altul; alta
+ru: друго́й; ино́й; разли́чный
+sv: annan; en annan
+sw: ingine; -ingine
+ta: வேறு
+te: వేరే
+th: อื่น; อื่น ๆ; ต่าง
+tr: diğer; başka; öbür; farklı
+uk: і́нший; інши́й; відмі́нний від
+ur: دوسرا; دیگر
+vi: khác
+yue: 其他; 第二; 第; 第啲
+
 word: pala
 class: verb
 infl: globasa (pala); ar (قَالَ/qāla); es (hablar); fr (parler); ko (말하다/malhada)
@@ -10277,6 +10782,43 @@ uk: хліб
 ur: روٹی; نان
 vi: bánh mì; bánh mỳ; bánh tây
 yue: 麵包 /面包; 包
+
+word: pap
+class: verb
+infl: th (พับ/páp); vi (gấp)
+sense: bend (thin material) over
+ar: طَوَى
+bg: сгъвам; сгъна pf прегъвам; прегъна
+ca: doblegar; plegar
+cmn: 摺 /折; 折疊 /折叠
+cs: přeložit
+de: falten; falzen
+el: διπλώνω; πτύσσω
+en: fold
+eo: faldi
+es: plegar; doblar; redoblegar; plisar; gandujar; engandujar
+fi: taittaa
+fr: plier
+globasa: perfleksi (per+fleksi)
+glosa: plika
+hi: परत
+hu: hajt; összehajt
+io: faldar
+it: piegare
+ja: 折る; 畳む
+ko: 개다; 접다
+lidepla: pligi; pliga
+nl: vouwen
+pl: składać; złożyć
+pt: dobrar
+ro: îndoi; plia
+ru: перегиба́ть; перегну́ть; скла́дывать; сложи́ть
+sv: vika
+te: మడచు; మడతపెట్టు
+th: พับ
+tr: katlamak
+vi: gấp; gập
+yue: 摺 /折
 
 word: parpar
 class: noun
@@ -10867,6 +11409,54 @@ it: molti
 nl: velen; veel
 ru: мно́гие; мно́гое
 sw: wengi
+
+word: pon
+class: verb
+infl: lidepla (pon); es (poner); fr (poser); ta (போடு/pōṭu)
+sense: to place something somewhere | to put in a specific location | to put something down | to place something down in a position of rest
+ar: وَضَعَ; حَطَّ; وَضَع
+arz: حط
+bg: сла́гам; сло́жа; слагам; поставям
+bn: রাখা
+ca: posar; ficar; metre; col·locar; ajeure
+cmn: 放; 置; 放置
+cs: dát; umístit; položit; uložit; klást; pokládat
+da: sætte; stille; lægge; placere; anbringe
+de: setzen; stellen; legen; tun; platzieren; einordnen; aufstellen
+el: βάζω; θέτω
+en: put; place; set; lay
+eo: meti; kuŝigi
+es: poner; colocar; situar; sestar; emplazar; dejar; acostar
+fa: نهادن; گذاشتن
+fi: panna; laittaa; asettaa; sijoittaa; pistää; laskea
+fr: placer; mettre; poser; coucher
+globasa: plasi
+glosa: loka; moti; positi
+hi: रखना
+hu: tesz; rak; helyez; tenni; helyezni; állít; támaszt; fektet
+ia: poner
+id: taruh; letak; menempatkan; rebah
+it: mettere; porre; collocare; posare; posizionare; piazzare; deporre; riporre
+ja: 置く; 据える; 配置する; 入れる; 付ける; 収める; 定める; 割り当てる; 産む
+ko: 두다; 놓다; 누이다; 눕히다
+lidepla: pon; plasi; stavi
+ms: letak
+nl: zetten; plaatsen; leggen; doen; stellen; neerzetten; neerleggen
+pl: kłaść; stawiać; postawić; umieścić; położyć
+pt: pôr; colocar; botar; deitar
+ro: pune; așeza; culca
+ru: класть; положи́ть; ста́вить; поста́вить; помеща́ть; помести́ть; укла́дывать; уложи́ть
+sv: sätta; ställa; lägga; he; placera
+sw: kuweka
+ta: வை; போடு; இடு
+te: నిర్ణీత ప్రదేశంలో ఉంచు
+th: วาง
+tl: ilagay; maglagay; lagyan
+tpi: putim
+tr: koymak; yatırmak
+uk: кла́сти; покла́сти; ста́вити; поста́вити; розмі́щувати; розмісти́ти; ложи́ти
+ur: رَکْھنا
+vi: để; đặt
 
 word: pote
 class: verb
@@ -11615,43 +12205,48 @@ yue: 今日; 今天
 
 word: se-ge
 class: adv
-sense: in the same aformentioned manner | in this way or manner | – | –
-ar: هَكَذَا; كَذَا
-arz: كذا; هكدا; هيك
+sense: in the same aformentioned manner (so) | in this way or manner (thus) | – (like this) | – (in this way) | to a particular extent (so) | to such an extent or degree (as)
+ar: هَكَذَا; كَذَا; كَـ; مِثْل
+arz: كذا; هكدا; هيك; زي
+bg: така́
 bn: এভাবে
-ca: així
-cmn: 這樣 /这样; 这样; 如此
-cs: tak; takto
-da: sådan; dermed; dennelunde
-de: so
-el: έτσι
-en: so; thus; like this; in this way
-eo: tiel
-es: así; de esta manera; por lo tanto; ansí; ansina; asín
-fa: ایدون
-fi: niin; siten; täten; näin
-fr: ainsi; comme ça
-globasa: daydenmo; hinmo
-glosa: so
-hi: ऐसा; यथा
-hu: úgy; így; ily módon; ekképp; ekképpen
+ca: així; tan; tan ... com
+cmn: 這樣 /这样; 这样; 如此; 這麼 /这么; 这么; 那麼 /那么; 那么
+cs: tak; takto; takhle
+da: sådan; dermed; dennelunde; så; lige så
+de: so; so ... wie
+el: έτσι; τόσο; τόσο ... όσο
+en: so; thus; like this; in this way; as (to such an extent or degree)
+eo: tiel; tiom
+es: así; de esta manera; por lo tanto; ansí; ansina; asín; tan; tan ... como; cuan
+fa: ایدون; به
+fi: niin; siten; täten; näin; yhtä
+fr: ainsi; comme ça; aussi
+globasa: daydenmo; hinmo; denmo (den+mo)
+glosa: so; iso
+hi: ऐसा; यथा; इतना
+hu: úgy; így; ily módon; ekképp; ekképpen; olyan; annyira; ilyen; ennyire
+ia: tanto
 io: tante
-it: così
-ja: このように; この様に; こう; こうして
-ko: 그렇게; 이와 같이; 이처럼
-lidepla: tak
-nl: zo; zodanig; alzo; aldus; waardoor
-pl: tak
-pt: assim; dessa forma; desse jeito
-ro: așa; așa cum; în acest fel; astfel
-ru: так; таки́м о́бразом
-sv: så; såhär; sålunda; på detta vis
+it: così; tanto
+ja: このように; この様に; こう; こうして; そう; こんなに; それほど; のほどに; のほど
+ko: 그렇게; 이와 같이; 이처럼; 만큼
+lidepla: tak; tanto
+ms: se-
+nl: zo; zodanig; alzo; aldus; waardoor; zo ... als
+pl: tak; aż; jak
+pt: assim; dessa forma; desse jeito; tão; tanto
+ro: așa; așa cum; în acest fel; astfel; atât; la fel de
+ru: так; таки́м о́бразом; как; насто́лько; столь
+sv: så; såhär; sålunda; på detta vis; lika ... som
 ta: அவ்வாறு; இவ்வாறு
-th: เพื่อให้
+th: เพื่อให้; มาก
 tpi: olsem
-tr: böyle; şöyle; öyle; böylece
-uk: так; таки́м чи́ном
-yue: 噉樣 /噉样; 噉样
+tr: böyle; şöyle; öyle; böylece; kadar
+uk: так; таки́м чи́ном; як; насті́льки
+ur: اتنا
+vi: vậy; như vậy
+yue: 噉樣 /噉样; 噉样; 咁
 
 word: se-it
 class: pron
@@ -12490,6 +13085,52 @@ ur: چِینی; شَکَّر; مِصْری
 vi: đường; chất đường
 yue: 糖
 
+word: sukses
+class: verb
+infl: globasa (sukses); lidepla (sukses, suksesi, fai sukses); en (success); fr (succès); id (kesuksesan); tr (sükse)
+sense: To obtain the object desired; to accomplish what is attempted or intended; to have a prosperous issue or termination; to be successful | achievement of one's aim or goal
+ar: نَجَحَ; نَجَاح
+arz: نجح
+bg: успявам; успе́х
+bn: কামিয়াবি; সফলতা; সাফল্য
+ca: reeixir; succés; èxit
+cmn: 成功
+cs: uspět; úspěch; zdar
+da: succes
+de: erfolgreich sein; Erfolg haben; gelingen; geraten; Erfolg
+el: επιτυγχάνω; καταφέρνω; κατορθώνω; επιτυχία
+en: succeed; success
+eo: sukcesi; sukceso
+es: conseguir; tener éxito; ganar; lograr; triunfar; atinar; arrasar; vencer; anotarse un poroto; éxito; acierto
+fi: menestyä; onnistua; menestys; onnistuminen
+fr: réussir; avoir du succès; succès
+globasa: sukses
+glosa: sucede
+hi: सफलता; कामयाबी; साफल्य
+hu: sikerül; eredmény; kimenetel; siker
+ia: successo
+id: keberhasilan; kesuksesan
+it: riuscire; successo
+ja: 成功する; 成功
+ko: 성공하다; 성공
+lidepla: sukses; suksesi; fai sukses
+nl: succes; welgang; goed gevolg
+pl: dać radę; poradzić sobie; udać się (komu? czemu?); powodzenie; sukces
+pt: ter/obter sucesso/êxito; conseguir; sucesso; êxito
+ro: reuși; succes
+ru: преуспе́ть; достига́ть це́ли; дости́чь це́ли; успе́х; уда́ча
+sv: lyckas; framgång; succé
+sw: fanikiwa; mafanikio
+ta: வெற்றி
+te: లక్ష్యాన్ని చేరుట
+th: ประสบความสำเร็จ; ได้ดี; ความสำเร็จ; ผลสำเร็จ
+tl: tagumpay
+tr: başarı; sükse
+uk: у́спіх
+ur: کامْیابی; سَپَھلْتا
+vi: thành công; sự thành công
+yue: 成功
+
 word: swal
 class: verb
 infl: globasa (swal); ar (سَأَلَ/saʔala, سُؤَال/suʔāl); fa (سُؤَال/su'āl, سُؤال/so'âl); hi (सवाल/savāl); id (soal); sw (swali)
@@ -12884,6 +13525,50 @@ uk: соло́дкий
 ur: میٹھا
 vi: ngọt
 yue: 甜
+
+word: tang
+class: adj
+infl: fa (تنگ/tang); hi (तंग/taṅg); de (eng); en (tight); globasa (tange); lidepla (tange)
+sense: having small width | pushed/pulled together
+ar: ضَيِّق
+arz: ضيق
+bg: те́сен
+ca: estret; estreta; angost
+cmn: 窄; 緊 /紧
+cs: úzký; těsný
+da: snæver; tæt; smal
+de: eng; begrenzt; schmal; dicht
+el: στενός; σφιχτός
+en: narrow; tight
+eo: streta; mallarĝa; malvasta; strikta
+es: estrecho; angosto; apretado; ajustado
+fa: تنگ
+fi: kapea; ahdas; tiukka; kireä; timmi
+fr: étroit; serré; tendu
+globasa: sempay; tange
+glosa: steno; angusti
+hi: तंग
+hu: szűk; keskeny; szoros
+id: sempit
+it: stretto; angusto; aderente; teso
+ja: 狭い; きつい
+ko: 좁은; 좁다
+lidepla: tange
+ms: sempit
+nl: nauw; smal; dicht
+pl: wąski; cienki; ciasny
+pt: estreito; estreita; apertado; justo
+ro: strâmt; îngust
+ru: у́зкий; те́сный
+sv: trång; smal; långsmal
+ta: குறுகிய
+te: ఇరుకైన; సన్నని
+th: แคบ; คับ; แน่น
+tr: dar
+uk: ву́зький; вузьки́й; тісни́й
+ur: تنگ
+vi: hẹp; chật hẹp; eo hẹp; chật
+yue: 窄; 緊 /紧
 
 word: tem
 class: noun
@@ -13446,6 +14131,53 @@ th: ผ่าน
 tr: boyunca
 uk: че́рез; крізь
 vi: qua; xuyên qua
+
+word: trai
+class: verb
+infl: en (try); lidepla (trai); hi (प्रयास/prayās)
+sense: to attempt (try) | to make an experiment (try) | to taste, sample, etc (try) | an attempt (try) | to try (attempt) | the action of trying at something (attempt)
+ar: حَاوَلَ; سَعَى; طَلَب; مُحَاوَلَة
+arz: حَاوِل
+bg: постаравам се; пробвам; опитвам; експериментирам; опит; о́пит; про́ба
+bn: চেষ্টা করা; কোশেশ
+ca: intentar; tractar de; provar; tastar; prova; temptar (de); assajar (de); provar (de); temptativa; assaig mintent; provatura
+cmn: 嘗試 /尝试; 企圖 /企图; 試 /试; 試驗 /试验; 嘗 /尝; 嘗味 /尝味; 試圖 /试图
+cs: zkoušet; zkusit; pokoušet se; pokusit se; pokus
+da: forsøge; prøve; forsøg
+de: versuchen; probieren; experimentieren; testen; kosten; verkosten; Versuch; Anlauf; Test; Probe; Bestreben; Bestrebung
+el: δοκιμάζω; προσπαθώ; πειραματίζομαι; απόπειρα; αποπειρώμαι; επιχειρώ; προσπάθεια
+en: try; attempt
+eo: provi; testi; gustumi; provo
+es: intentar; tratar de; ver de; probar; intento; acometer; tentativa; ensayo
+fa: کوشیدن; آزمودن; پژوهیدن; چشیدن; کوشش; کوشش کردن
+fi: yrittää; koettaa; kokeilla; kokeilu; yritys
+fr: essayer; tâcher; tenter; goûter; tentative; essai
+globasa: xidu
+glosa: tenta; peira
+hi: कोशिश करना; कोशिश; प्रयास
+hu: próbál; megpróbál; próbálkozik; megpróbálkozik; megkísérel; megkóstol; felpróbál; kipróbál; próba; próbálkozás; kísérlet
+id: mencoba; mencicipi; berupaya; berusaha; coba; berniat; upaya; usaha; percobaan
+io: esforcar
+it: cercare; tentare; provare; assaggiare; tentativo; prova; attentare; sforzo
+ja: 挑戦する; 努める; 試す; やってみる; みる; 試みる; 試み; 試し
+ko: 시도하다; 시험하다; 노력하다; 보다; 시도
+lidepla: trai; traisa (trai+sa)
+ms: cuba; cubaan; percubaan
+nl: proberen; trachten; pogen; uitproberen; proeven; poging; probeersel
+pl: próbować; starać się; próba; spróbować; podejście
+pt: tentar; experimentar; provar; tentativa; intentar; intento
+ro: încerca; proba; gusta; încercare; tentativă; probă
+ru: пыта́ться; попыта́ться; про́бовать; попро́бовать; стара́ться; постараться; попы́тка; постара́ться; про́ба; о́пыт
+sv: försöka; pröva; prova; testa; försök
+sw: kujaribu
+ta: முயல்
+te: ప్రయత్నించు; ప్రయత్నం
+th: พยายาม; ลอง; ทดลอง; ชิม; ความพยายาม
+tr: denemek; teşebbüs etmek; çalışmak; girişim; girişmek; deneme; teşebbüs
+uk: про́бувати; стара́тися; намага́тися; спро́ба
+ur: کوشش کرنا; کوشِش
+vi: cố gắng; gắng; thử nghiệm; thử; sự thử; lần thử
+yue: 嘗試 /尝试
 
 word: tren
 class: noun
@@ -14173,6 +14905,69 @@ ru: (not translated)
 sw: moja
 vi: cái
 
+word: wek
+class: adv
+infl: lidepla (wek); de (weg); fr (loin)
+sense: from a place; hence | in a direction away from the speaker or object
+ar: بَعِيدًا
+arz: بعيد
+bg: дале́ч
+ca: fora
+cs: pryč
+da: væk
+de: fort; weg; davon
+el: μακριά
+en: away; off
+es: fuera
+fi: pois; poispäin; alas; ylös; ulos
+fr: loin
+globasa: aw-; of
+glosa: ab; apo
+hu: el-
+it: via
+ja: 遠くに; 遠方に
+lidepla: wek
+nl: weg
+pl: stąd; precz; od-
+pt: embora
+ro: de aici
+ru: прочь; вон; доло́й; от-; у-
+sv: bort; iväg; ifrån; från
+uk: геть; пріч
+
+word: wek-pon
+class: verb
+sense: to remove | –
+ar: خَلَعَ
+ca: treure
+cmn: 脫 /脱
+cs: svléci; sundat
+da: fjerne; aftage
+de: ausziehen; loslösen; abziehen; ablegen; abnehmen
+el: βγάζω
+en: take off; remove (e.g. clothes)
+es: quitarse
+fi: ottaa pois
+fr: enlever; ôter
+globasa: ofgi (of+gi); ofplasi (of+plasi)
+hi: उतारना
+hu: levesz; levet
+it: togliere
+ja: 脱ぐ
+ko: 벗다
+lidepla: depon (de+pon)
+nl: uittrekken; afzetten
+pl: zdejmować; zdjąć; ściągać; ściągnąć
+pt: tirar
+ro: da jos
+ru: снима́ть; снять; убира́ть; убра́ть
+sv: ta av
+ta: கழற்று
+th: ถอด
+uk: зніма́ти; зня́ти
+ur: اتارنا
+vi: bỏ
+
 word: wu
 class: particle
 infl: en (would); lidepla (wud); yue (會/wui5)
@@ -14405,6 +15200,37 @@ uk: хоті́ти; бажа́ти
 ur: چاہنا
 vi: muốn; cần
 yue: 要; 想; 想要; 愛 /爱
+
+word: ye; ye ... ye
+class: adv
+infl: cmn (越/yuè); de (je ... desto, je ... umso)
+sense: the + comparative, the + comparative | – | –
+ar: كُلَّمَا كَانَ... كَانَ
+ca: (com + comp., comp.)
+cmn: 越; 越……越……; 愈……愈……
+cs: (čím + comp., tím + comp.)
+de: je ... desto; je ... umso
+en: the; the ... the ...; the more ... the more ... (correlative comparatives)
+eo: (ju + comp., des + comp.)
+es: (cuanto + comp., comp.)
+fa: (هرچه (harče) + comp.)
+fi: (mitä + comp., sitä + comp.)
+fr: (comp., comp.)
+globasa: folki (fol+ki)
+glosa: qanto ma ... ma; tem ... gradu
+hu: (minél + comp., annál + comp.)
+ja: -reba ... hodo
+ko: -을수록
+lidepla: kem ... tem
+ms: semakin ... semakin; lagi ... lagi
+nl: (hoe + comp., hoe + comp.)
+pl: (im + comp., tym + comp.)
+pt: (quanto + comp. , comp. (ex: quanto mais quente, melhor "the hotter the better"))
+ru: чем ... тем
+sv: (ju + comp., desto + comp.)
+th: ยิ่ง ... ยิ่ง; ยิ่ง ... ก็
+tr: ne kadar ... o kadar
+vi: càng ... càng
 
 word: yeri
 class: adv

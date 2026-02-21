@@ -175,6 +175,24 @@ en: be [biː]
 es: ser; existir
 
 class: particle
+sense: passive voice
+tags: add
+cmn: 被 [bèi]
+de: werden (+ past participle); sein (+ past participle)
+en: be ...-ed [biː]
+eo: esti (+ passive participle (-ata, -ita, -ota)); -iĝi
+es: ser (+ past participle)
+fr: être (+ past participle)
+hi: जाना [jā] (+ past participle)
+ja: れる [-reru]; られる [-rareru]
+ko: -기다 [gida]; –당하다 [danghada]; -되다 [doeda]; -리다 [rida]; -받다 [batda]; -이다 [ida]; -지다 [jida]; -히다 [hida]
+ru: быть [bytʹ] (+ past participle); -ся [-sja]
+sw: -wa
+ta: படு [paṭu]; பெறு [peṟu]
+th: ถูก [tùuk]; โดน [doon]
+vi: được; bị
+
+class: particle
 sense: progressive aspect
 tags: add
 cmn: 在 [zài]; 正在 [zhèngzài]
