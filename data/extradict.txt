@@ -650,6 +650,7 @@ sense: time it takes for the Earth to complete one revolution around the Sun
 en: year [jɪɹ]
 hi: साल [sāl]; वर्ष [varṣ]; संवत्सर [samvatsar]
 
+class: particle
 sense: particle used to form yes-no questions
 tags: add
 ar: هَل‎ [hal]; أَ‎ [ʾa]
