@@ -2,7 +2,7 @@
 """Do a phonology study of the consonants occurring at the end of words in our source languages.
 
 Note that this study only works with an early version of buildvoc.py where postprocessing and
-validation are are disabled or minimized. Results with later versions will be misleading!
+validation are disabled or minimized. Results with later versions will be misleading!
 """
 
 import argparse
