@@ -4686,7 +4686,7 @@ yue: 綠色嘅 /绿色嘅
 word: habe
 class: verb
 infl: de (haben); glosa (habe); ar (حَازَ/ḥāza); cmn (具备/jùbèi); en (have); globasa (hare)
-sense: to possess | to have (something) as, or as if as, an owner
+sense: 1. to possess | to have (something) as, or as if as, an owner
 ar: مَلَكَ; اِمْتَلَكَ; تَمَلَّكَ; عِنْدَ; حَازَ
 bg: и́мам; владе́я; притежа́вам
 ca: tenir; posseir
@@ -13573,7 +13573,7 @@ yue: 窄; 緊 /紧
 word: tem
 class: noun
 infl: fr (temps); glosa (tem); en (time); es (tiempo); fa (تایْم/tâym); ko (때/ttae); lidepla (taim); tpi (taim)
-sense: inevitable passing of events | quantity of availability in time | measurement of a quantity of time | time of day, as indicated by a clock, etc | division of the day: particular moment or hour | extended period of time, defined or undefined: age, era, etc.
+sense: inevitable passing of events | quantity of availability in time | measurement of a quantity of time | time of day, as indicated by a clock, etc | division of the day: particular moment or hour | extended period of time, defined or undefined: age, era, etc. — see also era, epoch
 am: ጊዜ; ዘመን
 ar: زَمَان; زَمَن; وَقْت; دَهْر; حِين; أَوَان; عَصْر; إِبَّان
 bg: вре́ме; час

@@ -331,7 +331,7 @@ sense: of a color somewhere between white and black, like cinders
 en: gray [ɡɹeɪ]
 vi: xám; màu xám; hoa râm
 
-sense: to possess
+sense: 1. to possess
 en: have [hæv]
 ar: مَلَكَ [malaka]; اِمْتَلَكَ [imtalaka]; تَمَلَّكَ [tamallaka]; عِنْدَ [ʕinda]
 tr: sahip olmak
@@ -556,7 +556,7 @@ sense: this person
 tags: add
 en: this [ðɪs]
 
-sense: extended period of time, defined or undefined: age, era, etc.
+sense: extended period of time, defined or undefined: age, era, etc. — see also era, epoch
 bn: জমানা [jomana]; কাল [kal]; বেলা [bela]; সময় [śomoẏ]
 en: time [taɪm]
 
