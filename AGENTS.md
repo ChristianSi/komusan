@@ -30,15 +30,13 @@ output – ignore them unless the task needs them.
   entries).
 - `sourcelangs.csv` – the source languages used for word building and the
   polycheck.
-- `target_wordlist.txt` – words (from the Simple English Wikipedia list) that
-  Komusan should have words for. Lines may contain variants ("big, large") and
-  comments in parentheses ("May (month)").
-- `target_wordlist.csv` – maps each target word to the Wiktionary concepts it
-  should cover. Columns: `Word` (as in the .txt), `Concepts`
-  (`en_word::sense`, several joined by ` | `), `Transcount` (the highest of
-  the listed concepts). A word can have several rows if it has several
-  important meanings that shouldn't be merged (e.g. "fine": good vs. penalty).
-  Complete for the whole word list; edit it directly.
+- `target_wordlist.csv` – maps each target word to the Wiktionary concepts
+  it should cover. Columns: `Word` (the raw target word, possibly with
+  variants and comments), `Concepts` (`en_word::sense`, several joined by
+  ` | `), `Transcount` (the highest of the listed concepts). A word can have
+  several rows if it has several important meanings that shouldn't be merged
+  (e.g. "fine": good vs. penalty). Complete for the whole word list; edit it
+  directly.
 
 ## Scripts
 
@@ -48,9 +46,8 @@ output – ignore them unless the task needs them.
   share of languages that translate two concepts the same way.
 - `findconcepts.py` – lists a word's termdict concepts sorted by transcount,
   with polycheck-style similarity hints and "act/result of" nouns for verbs.
-  Supports `--range FIRST LAST` (lines of target_wordlist.txt) and `--sim
-  WORD::SENSE WORD::SENSE...`. Caches the parsed termdict in the temp dir, so
-  it's fast after the first run.
+  Supports `--sim WORD::SENSE WORD::SENSE...`. Caches the parsed termdict in
+  the temp dir, so it's fast after the first run.
 - `util.py` – shared helpers and file-name constants; reuse them in new
   scripts.
 
@@ -64,9 +61,9 @@ output – ignore them unless the task needs them.
   fits the word particularly well and is important anyway.
 - For verbs, also add the "act or result of" noun(s) (agree → agreement,
   decide → decision); these don't need the polycheck.
-- Target words are raw words, not concepts: merge list entries where
-  reasonable ("appear, seem"), or split one entry into rows when its meanings
-  are distinct.
+- Target words are raw words, not concepts: merge concepts into one row
+  where reasonable ("appear, seem"), or split one word into several rows when
+  its meanings are distinct.
 
 ## Code conventions
 

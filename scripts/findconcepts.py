@@ -21,13 +21,10 @@ trying common derivational suffixes ("agreement", "decision").
 Usage:
 
     findconcepts.py [--min N] [--max N] WORD...   # look up words
-    findconcepts.py [--min N] [--max N] --range FIRST LAST
-                                                  # look up lines of target_wordlist.txt
     findconcepts.py --sim WORD::SENSE WORD::SENSE...
                                                   # compare 1st concept with each other one
 
-Target words may contain variants ("big, large") and comments in parentheses ("May (month)"),
-just as in target_wordlist.txt.
+Target words may contain variants ("big, large") and comments in parentheses ("May (month)").
 
 The parsed termdict is cached in a pickle file in the system's temporary directory, so only
 the first invocation (and the first one after termdict.txt has changed) is slow.
@@ -51,7 +48,6 @@ import util
 Entry = dict[str, str]
 Index = dict[str, list[int]]
 
-TARGET_WORDLIST = 'target_wordlist.txt'
 CACHE_FILE = os.path.join(tempfile.gettempdir(), 'komusan-termdict.pkl')
 
 # Fields of termdict entries that look like language codes but aren't
@@ -283,8 +279,6 @@ def main() -> None:
     parser.add_argument('--max', type=int, default=DEFAULT_MAX_CANDIDATES,
                         help='maximum number of candidates to show per word '
                         '(default: %(default)s)')
-    parser.add_argument('--range', type=int, nargs=2, metavar=('FIRST', 'LAST'),
-                        help=f'also look up these lines (1-based) of {TARGET_WORDLIST}')
     parser.add_argument('--sim', action='store_true',
                         help='compare the first WORD::SENSE concept with each of the others')
     parser.add_argument('words', nargs='*', metavar='WORD',
@@ -300,13 +294,7 @@ def main() -> None:
         compare_concepts(entries, index, args.words, source_langs)
         return
 
-    targets = list(args.words)
-    if args.range:
-        first, last = args.range
-        with open(TARGET_WORDLIST, encoding='utf-8') as f:
-            lines = [line.strip() for line in f]
-        targets.extend(line for line in lines[first - 1:last] if line)
-    for target in targets:
+    for target in args.words:
         show_candidates(entries, index, target, source_langs, args.min, args.max)
 
 
