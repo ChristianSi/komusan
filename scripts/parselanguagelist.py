@@ -7,7 +7,8 @@ Up to two languages per language branch (subfamily) are added to the file "sourc
 any further languages from the same branch are added to the file "morelangs.csv" instead. For
 language families not already represented among the top-10 languages, only two languages from the
 whole family (instead of individual branches) are considered, with the rest added to "morelangs.csv"
-instead.
+instead. At most MAX_SOURCELANGS languages are added to "sourcelangs.csv"; any further ones (the
+ones with the fewest speakers) go into "morelangs.csv" as well.
 
 Languages that are closely related (such as Hindi and Urdu or the various variants of Arabic) are
 written in a single line (slash-separated) and their speaker counts added together.
@@ -36,6 +37,10 @@ import urllib.parse
 import requests
 
 import util
+
+
+# Maximum number of languages written to "sourcelangs.csv"
+MAX_SOURCELANGS = 24
 
 
 ##### Dataclass #####
@@ -170,7 +175,10 @@ def dl_wikipedia_page(title: str) -> str:
                                     'rvprop': 'content',
                                     'format': 'json',
                                     'titles': title,
-                                    'rvslots': 'main'})
+                                    'rvslots': 'main'},
+                            # Wikimedia rejects requests without a descriptive User-Agent
+                            headers={'User-Agent': 'Komusan-parselanguagelist/1.0 '
+                                     '(https://github.com/ChristianSi/komusan)'})
     response.raise_for_status()
     data = response.json()
 
@@ -230,6 +238,8 @@ class LangListParser:
     def _normalize_to_millions(raw_num: str) -> float:
         """Normalize a number in millions or billions to just the raw count in millions.
 
+        A bare number (possibly with thousands separators) is taken to be in millions already.
+
         If the number doesn't correspond to the expected format, a warning is logged and 0 is
         returned.
 
@@ -238,7 +248,11 @@ class LangListParser:
             1456
             >>> self._normalize_to_millions('310 million')
             310
+            >>> self._normalize_to_millions('1,493')
+            1493
         """
+        if re.fullmatch(r'\d{1,3}(,\d{3})*(\.\d+)?', raw_num):
+            return float(raw_num.replace(',', ''))
         parts = raw_num.rsplit(' ', 1)
         if len(parts) == 2:
             if parts[1] == 'billion':
@@ -366,6 +380,12 @@ class LangListParser:
                     # Combine entries
                     punjabi = dataclasses.replace(punjabi,
                                                   speakers=punjabi.speakers + langinfo.speakers)
+            elif langinfo.iso_code == 'id':
+                # Malay is closely related to Indonesian, but not listed since Ethnologue
+                # considers it a macrolanguage, hence we add it manually
+                langinfo = dataclasses.replace(langinfo, name=f'{langinfo.name}/Malay',
+                                               iso_code=f'{langinfo.iso_code}/ms', related=None)
+                results.add(langinfo)
             else:
                 if langinfo.related:
                     if langinfo.related in langdict:
@@ -379,15 +399,6 @@ class LangListParser:
                             name=f'{langinfo.name}/{related_lang.name}',
                             iso_code=f'{langinfo.iso_code}/{related_iso_code}',
                             speakers=langinfo.speakers + related_lang.speakers,
-                            related=None
-                        )
-                    elif langinfo.related == 'Malay':
-                        # Malay is not sufficiently widespread to be listed, hence we add it
-                        # manually
-                        langinfo = dataclasses.replace(
-                            langinfo,
-                            name=f'{langinfo.name}/{langinfo.related}',
-                            iso_code=f'{langinfo.iso_code}/ms',
                             related=None
                         )
                     elif not (langinfo.related.islower()            # type: ignore
@@ -441,16 +452,17 @@ class LangListParser:
         langdict = self._parse_wikipedia_list()
         combined_lang_set = self._combine_related(langdict)
         combined_lang_set = {self._postprocess_lang(langinfo) for langinfo in combined_lang_set}
-        mainlist = []
+        mainlist: List[LanguageInfo] = []
         rest = []
         subfamily_counter: Counter[Tuple[str, Optional[str]]] = Counter()
 
         # Sort by speaker count (descending) and as fallback alphabetically
         for langinfo in sorted(combined_lang_set,
                                key=lambda langinfo: (-langinfo.speakers, langinfo.name)):
-            # Split into main list (2 languages per (sub)family) and the rest
+            # Split into main list (2 languages per (sub)family, up to MAX_SOURCELANGS in total)
+            # and the rest
             subfamily = (langinfo.family, langinfo.branch)
-            if subfamily_counter[subfamily] < 2:
+            if subfamily_counter[subfamily] < 2 and len(mainlist) < MAX_SOURCELANGS:
                 mainlist.append(langinfo)
                 subfamily_counter[subfamily] += 1
             else:
