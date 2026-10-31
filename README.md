@@ -12,6 +12,26 @@ language (auxlangs): [Globasa](https://www.globasa.net/eng),
 [Glosa](https://en.wikipedia.org/wiki/Glosa), aiming to combine the best of
 their traits and elements without needlessly reinventing the wheel.
 
+## Source languages
+
+Komusan's words are built from 24 source languages, listed in
+[data/sourcelangs.csv](data/sourcelangs.csv). They are the most widely
+spoken languages according to the total speaker counts (first plus second
+language speakers) from *Ethnologue*, as given in Wikipedia's [List of
+languages by total number of
+speakers](https://en.wikipedia.org/wiki/List_of_languages_by_total_number_of_speakers).
+To keep the selection balanced, at most two languages from the same language
+branch (or family) are included. The selection is made by the script
+`scripts/parselanguagelist.py`.
+
+The list was first determined in September 2024, based on the *Ethnologue*
+2024 data. In October 2026, it was rechecked against the *Ethnologue* 2026
+data; for this, a hard limit of 24 languages was added to keep the original
+number. The recheck confirmed the original set of languages – only their
+speaker counts and order changed – which suggests that it's a fairly stable
+choice. Without the limit, Yoruba would have been added as the 25th
+language.
+
 ## License
 
 The software in this repository is licensed under the [ISC
